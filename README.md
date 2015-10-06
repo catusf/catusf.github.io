@@ -10,12 +10,14 @@ Cho phép tra các dạng khác nhau của từ như số nhiều, các thời c
 
 Hãy so sánh hai hình dưới đây.
 
+<img src="images/before.png" alt="Before applying my hack" style="width: 600px;"/>
 
-![Before applying my hack](images/before.png)
 Before applying my hack
 
-![After applying my hack](images/after.png)
-After applying my hack
+
+<img src="images/after.png" alt="After applying my hack" style="width: 600px;"/>
+
+After applying my hack"
 
 
 [Download](dict/TudienAnhVietBeta.mobi)
