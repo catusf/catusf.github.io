@@ -17,7 +17,7 @@ Before applying my hack
 
 <img src="images/after.png" alt="After applying my hack" style="width: 600px;"/>
 
-After applying my hack"
+After applying my hack
 
 
 [Download](dict/TudienAnhVietBeta.mobi)
