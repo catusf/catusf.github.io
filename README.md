@@ -34,3 +34,7 @@ Bây giờ
 [Download Từ điển Anh - Việt](https://github.com/catusf/catusf.github.io/blob/master/dict/TudienAnhVietBeta.mobi?raw=true)
 
 Để sử dụng chỉ cần copy vào thư mục `documents` trên Kindle. 
+
+## Đóng góp
+
+Nếu bạn muốn sửa lỗi hay tự sửa đổi nội dung của từ điển, hãy truy cập vào [github.com/catusf/tudien](https://github.com/catusf/tudien).
