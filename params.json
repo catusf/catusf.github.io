@@ -1,7 +1,0 @@
-{
-  "name": "Từ điển cho máy đọc sách Kindle",
-  "tagline": "Coding as a hobby",
-  "body": "# catusf.github.io\r\n\r\n## Từ điển Hán - Việt [Thiền Chửu](https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_Ch%E1%BB%ADu) cho Kindle\r\n\r\nCho phép tra từ theo âm Hán-Việt hoặc chữ Hán.\r\n\r\n<img src=\"images/thienchuu-amhanviet.png\" alt=\"Tra theo âm Hán-Việt\" style=\"width: 600px;\"/>\r\n\r\nTra theo âm Hán-Việt\r\n\r\n\r\n<img src=\"images/thienchuu-amhan.png\" alt=\"Tra theo chữ Hán\" style=\"width: 600px;\"/>\r\n\r\nTra theo chữ Hán\r\n\r\n[Download Từ điển Hán - Việt Thiền Chửu](https://github.com/catusf/catusf.github.io/blob/master/dict/TudienThienChuu.mobi?raw=true)\r\n\r\n## Từ điển Anh - Việt cho Kindle\r\n\r\nCho phép tra các dạng khác nhau của từ như số nhiều, các thời của động từ, v.v.\r\n\r\nHãy so sánh hai hình dưới đây.\r\n\r\n<img src=\"images/before.png\" alt=\"Trước đây\" style=\"width: 600px;\"/>\r\n\r\nTrước đây\r\n\r\n\r\n<img src=\"images/after.png\" alt=\"Bây giờ\" style=\"width: 600px;\"/>\r\n\r\nBây giờ\r\n\r\n\r\n[Download Từ điển Anh - Việt](https://github.com/catusf/catusf.github.io/blob/master/dict/TudienAnhVietBeta.mobi?raw=true)\r\n\r\nĐể sử dụng chỉ cần copy vào thư mục `documents` trên Kindle. \r\n\r\n## Đóng góp\r\n\r\nNếu bạn muốn sửa lỗi hay tự sửa đổi nội dung của từ điển, hãy truy cập vào [github.com/catusf/tudien](https://github.com/catusf/tudien).\r\n",
-  "google": "UA-26594420-2",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
