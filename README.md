@@ -13,7 +13,7 @@ Tra theo âm Hán-Việt
 
 Tra theo chữ Hán
 
-[Download Từ điển Hán - Việt Thiền Chửu](https://github.com/catusf/catusf.github.io/blob/master/dict/TudienThienChuu.mobi?raw=true)
+[Download Từ điển Hán - Việt Thiền Chửu v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienThienChuu.mobi)
 
 ## Từ điển Anh - Việt cho Kindle
 
@@ -31,7 +31,7 @@ Trước đây
 Bây giờ
 
 
-[Download Từ điển Anh - Việt](https://github.com/catusf/catusf.github.io/blob/master/dict/TudienAnhVietBeta.mobi?raw=true)
+[Download Từ điển Anh - Việt v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienAnhVietBeta.mobi)
 
 Để sử dụng chỉ cần copy vào thư mục `documents` trên Kindle. 
 
