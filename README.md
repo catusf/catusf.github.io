@@ -17,7 +17,7 @@ Tra theo chữ Hán
 
 ## Từ điển Anh - Việt cho Kindle
 
-Cho phép tra các dạng khác nhau của từ như số nhiều, các thời của động từ, v.v.
+Cho phép tra các dạng khác nhau của từ như số nhiều của danh từ, các thời của động từ, v.v.
 
 Hãy so sánh hai hình dưới đây.
 
