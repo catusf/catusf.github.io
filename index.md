@@ -1,6 +1,4 @@
-# catusf.github.io
-
-## Từ điển Hán - Việt [Thiền Chửu](https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_Ch%E1%BB%ADu) cho Kindle
+# Từ điển Hán - Việt [Thiền Chửu](https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_Ch%E1%BB%ADu) cho Kindle
 
 [Download Từ điển Hán - Việt Thiền Chửu v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienThienChuu.mobi)
 
@@ -16,7 +14,7 @@ Tra theo âm Hán-Việt
 Tra theo chữ Hán
 
 
-## Từ điển Anh - Việt cho Kindle
+# Từ điển Anh - Việt cho Kindle
 
 [Download Từ điển Anh - Việt v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienAnhVietBeta.mobi)
 
