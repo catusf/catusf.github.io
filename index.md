@@ -2,6 +2,8 @@
 
 ## Từ điển Hán - Việt [Thiền Chửu](https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_Ch%E1%BB%ADu) cho Kindle
 
+[Download Từ điển Hán - Việt Thiền Chửu v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienThienChuu.mobi)
+
 Cho phép tra từ theo âm Hán-Việt hoặc chữ Hán.
 
 <img src="images/thienchuu-amhanviet.png" alt="Tra theo âm Hán-Việt" style="width: 600px;"/>
@@ -13,11 +15,12 @@ Tra theo âm Hán-Việt
 
 Tra theo chữ Hán
 
-[Download Từ điển Hán - Việt Thiền Chửu](https://github.com/catusf/catusf.github.io/blob/master/dict/TudienThienChuu.mobi?raw=true)
 
 ## Từ điển Anh - Việt cho Kindle
 
-Cho phép tra các dạng khác nhau của từ như số nhiều, các thời của động từ, v.v.
+[Download Từ điển Anh - Việt v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienAnhVietBeta.mobi)
+
+Cho phép tra các dạng khác nhau của từ như số nhiều của danh từ, các thời của động từ, v.v.
 
 Hãy so sánh hai hình dưới đây.
 
@@ -30,8 +33,6 @@ Trước đây
 
 Bây giờ
 
-
-[Download Từ điển Anh - Việt](https://github.com/catusf/catusf.github.io/blob/master/dict/TudienAnhVietBeta.mobi?raw=true)
 
 Để sử dụng chỉ cần copy vào thư mục `documents` trên Kindle. 
 
