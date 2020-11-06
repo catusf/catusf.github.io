@@ -16,7 +16,7 @@ Hiện nay các trang web hiện nay đã hỗ trợ:
 
 ## Một số hình ảnh
 
-<img src="./images/Screenshot_20201013_225200.png" width="50%">
+<img src="images/Screenshot_20201013_225200.png" alt="Danh sách các chương trình" style="width: 50%;"/>
 
 <br>
 
