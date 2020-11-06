@@ -3,6 +3,10 @@ description: Coding as a hobby
 google_analytics: UA-26594420-2
 show_downloads: false
 theme: jekyll-theme-cayman
+# Google Analytics
+google_analytics: UA—26673325-1
 
 gems:
   - jekyll-mentions
+
+  
