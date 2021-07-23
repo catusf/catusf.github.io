@@ -1,0 +1,131 @@
+;www.catusfelis.xyz.		IN	A
+www.catusfelis.xyz.	10	IN	A	125.235.4.59
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62416
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+; COOKIE: 4c3ad4c13b5e7d3ff804146060fa9950c15e3ad52836370f (good)
+;; QUESTION SECTION:
+;3592.				IN	CNAME
+
+;; Query time: 44 msec
+;; SERVER: 192.168.177.217#53(192.168.177.217)
+;; WHEN: Fri Jul 23 17:26:42 SE Asia Standard Time 2021
+;; MSG SIZE  rcvd: 61
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4958
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+; COOKIE: 4c3ad4c13b5e7d3fb879ecc360fa994c436c4b767536864c (good)
+;; QUESTION SECTION:
+;catusf.github.io.		IN	A
+
+;; ANSWER SECTION:
+catusf.github.io.	3600	IN	A	185.199.111.153
+catusf.github.io.	3600	IN	A	185.199.109.153
+catusf.github.io.	3600	IN	A	185.199.108.153
+catusf.github.io.	3600	IN	A	185.199.110.153
+
+;; Query time: 82 msec
+;; SERVER: 192.168.177.217#53(192.168.177.217)
+;; WHEN: Fri Jul 23 17:26:42 SE Asia Standard Time 2021
+;; MSG SIZE  rcvd: 137
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12581
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+; COOKIE: 4c3ad4c13b5e7d3f42f8079760fa99521af9c0b95c0288b4 (good)
+;; QUESTION SECTION:
+;43192.				IN	CNAME
+
+;; Query time: 79 msec
+;; SERVER: 192.168.177.217#53(192.168.177.217)
+;; WHEN: Fri Jul 23 17:26:42 SE Asia Standard Time 2021
+;; MSG SIZE  rcvd: 62
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17691
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+; COOKIE: 4c3ad4c13b5e7d3fcff52d4160fa995934f36f80be47fc78 (good)
+;; QUESTION SECTION:
+;GITHUB-PAGES-SERVER.		IN	A
+
+;; ANSWER SECTION:
+github-pages-server.	10	IN	A	125.235.4.59
+
+;; Query time: 47 msec
+;; SERVER: 192.168.177.217#53(192.168.177.217)
+;; WHEN: Fri Jul 23 17:26:43 SE Asia Standard Time 2021
+;; MSG SIZE  rcvd: 111
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32802
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+; COOKIE: 4c3ad4c13b5e7d3f80e5d85d60fa99443aff3fd065ce55d1 (good)
+;; QUESTION SECTION:
+;.				IN	A
+
+;; AUTHORITY SECTION:
+.			51	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2021072300 1800 900 604800 86400
+
+;; Query time: 27 msec
+;; SERVER: 192.168.177.217#53(192.168.177.217)
+;; WHEN: Fri Jul 23 17:26:43 SE Asia Standard Time 2021
+;; MSG SIZE  rcvd: 131
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43509
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;.				IN	A
+
+;; Query time: 4 msec
+;; SERVER: 192.168.177.217#53(192.168.177.217)
+;; WHEN: Fri Jul 23 17:26:43 SE Asia Standard Time 2021
+;; MSG SIZE  rcvd: 17
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4919
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;22.				IN	A
+
+;; ANSWER SECTION:
+22.			0	IN	A	0.0.0.22
+
+;; Query time: 3 msec
+;; SERVER: 192.168.177.217#53(192.168.177.217)
+;; WHEN: Fri Jul 23 17:26:43 SE Asia Standard Time 2021
+;; MSG SIZE  rcvd: 36
+
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19208
+;; flags: qr aa rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;192.0.2.1.			IN	A
+
+;; ANSWER SECTION:
+192.0.2.1.		0	IN	A	192.0.2.1
+
+;; Query time: 3 msec
+;; SERVER: 192.168.177.217#53(192.168.177.217)
+;; WHEN: Fri Jul 23 17:26:43 SE Asia Standard Time 2021
+;; MSG SIZE  rcvd: 43
+
