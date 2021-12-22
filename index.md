@@ -6,6 +6,7 @@ Dự án Radio2Podcasts này đọc thông tin từ các trang web có audio và
 Sau khi cài đặt một trong các ứng dụng trên, truy cập vào một trong 2 trang sau:
 - [Các chương trình radio](https://catusf.github.io/radio2podcasts/index.html)
 - [Các cuốn sách nói](https://catusf.github.io/radio2podcasts/index-ppud.html)
+- [Các sách nói trên Archive.org](https://catusf.github.io/radio2podcasts/index-archive.html)
 
 Hiện nay các trang web hiện nay đã hỗ trợ:
 - [VOV1](http://vov1.vn/) Đài tiếng nói Việt Nam
