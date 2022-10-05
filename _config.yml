@@ -1,8 +1,8 @@
 title: Catus Felis là Mèo
 description: Code khi rảnh
-google_analytics: UA-26594420-2
+# google_analytics: UA-26594420-2
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: minima
 # Google Analytics
 show_excerpts: true
 
