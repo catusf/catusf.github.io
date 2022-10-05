@@ -5,7 +5,9 @@ show_downloads: false
 theme: minima
 # Google Analytics
 show_excerpts: true
-
+plugins:
+  - jekyll-feed
+  
 gems:
   - jekyll-mentions
 
