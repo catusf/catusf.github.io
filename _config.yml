@@ -7,8 +7,6 @@ theme: Modernist
 show_excerpts: true
 plugins:
   - jekyll-feed
-  
-gems:
   - jekyll-mentions
 
   
