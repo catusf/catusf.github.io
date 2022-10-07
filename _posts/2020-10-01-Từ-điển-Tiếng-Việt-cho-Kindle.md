@@ -1,25 +1,8 @@
 ---
+title: Từ điển Anh - Việt cho Kindle
 categories: [Từ điển]
-tags: [từ điển,kindle, ebook]
+tags: [từ điển, kindle, ebook]
 ---
-
-# Từ điển Hán - Việt [Thiền Chửu](https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_Ch%E1%BB%ADu) cho Kindle
-
-[Download Từ điển Hán - Việt Thiền Chửu v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienThienChuu.mobi)
-
-Cho phép tra từ theo âm Hán-Việt hoặc chữ Hán.
-
-<img src="/assets/img/thienchuu-amhanviet.png" alt="Tra theo âm Hán-Việt" style="width: 600px;"/>
-
-Tra theo âm Hán-Việt
-
-
-<img src="/assets/img/thienchuu-amhan.png" alt="Tra theo chữ Hán" style="width: 600px;"/>
-
-Tra theo chữ Hán
-
-
-# Từ điển Anh - Việt cho Kindle
 
 [Download Từ điển Anh - Việt v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienAnhVietBeta.mobi)
 
