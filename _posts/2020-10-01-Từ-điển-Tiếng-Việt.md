@@ -4,12 +4,12 @@
 
 Cho phép tra từ theo âm Hán-Việt hoặc chữ Hán.
 
-<img src="images/thienchuu-amhanviet.png" alt="Tra theo âm Hán-Việt" style="width: 600px;"/>
+<img src="/assets/img/thienchuu-amhanviet.png" alt="Tra theo âm Hán-Việt" style="width: 600px;"/>
 
 Tra theo âm Hán-Việt
 
 
-<img src="images/thienchuu-amhan.png" alt="Tra theo chữ Hán" style="width: 600px;"/>
+<img src="/assets/img/thienchuu-amhan.png" alt="Tra theo chữ Hán" style="width: 600px;"/>
 
 Tra theo chữ Hán
 
@@ -22,12 +22,12 @@ Cho phép tra các dạng khác nhau của từ như số nhiều của danh t�
 
 Hãy so sánh hai hình dưới đây.
 
-<img src="images/before.png" alt="Trước đây" style="width: 600px;"/>
+<img src="/assets/img/before.png" alt="Trước đây" style="width: 600px;"/>
 
 Trước đây
 
 
-<img src="images/after.png" alt="Bây giờ" style="width: 600px;"/>
+<img src="/assets/img/after.png" alt="Bây giờ" style="width: 600px;"/>
 
 Bây giờ
 
