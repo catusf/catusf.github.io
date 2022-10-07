@@ -1,13 +1,13 @@
 # TODO
 
-[ ] Fix social media links
+- [ ] Fix social media links
 
-[ ] Fix project list
+- [ ] Fix project list
 
-[ ] Update readme.md
+- [ ] Update readme.md
 
-[ ] Add an image for each post
+- [ ] Add an image for each post
 
-[ ] Post about Strava/Statshunter explorer titles
+- [ ] Post about Strava/Statshunter explorer titles
 
-[ ] Change default branch back to `master`
+- [ ] Change default branch back to `master`
