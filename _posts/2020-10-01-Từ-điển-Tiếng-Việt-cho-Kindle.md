@@ -1,10 +1,13 @@
 ---
 title: Từ điển Anh - Việt cho Kindle
-categories: [Từ điển]
-tags: [từ điển, kindle, ebook]
+categories: [Từ điển, Anh-Việt]
+tags: [từ điển, kindle, ebook, anh việt]
 ---
 
 [Download Từ điển Anh - Việt v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienAnhVietBeta.mobi)
+
+
+## Giới thiệu
 
 Cho phép tra các dạng khác nhau của từ như số nhiều của danh từ, các thời của động từ, v.v.
 

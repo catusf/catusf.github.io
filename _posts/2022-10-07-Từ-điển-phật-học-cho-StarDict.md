@@ -1,13 +1,13 @@
 ---
 title: Từ điển Tiếng Việt và Phật học cho StarDict
 categories: [Từ điển, Phật học]
-tags: [từ điển,ebook,phật học,stardict]
+tags: [từ điển,ebook,phật học,stardict,tiếng việt, hán việt, anh việt]
 ---
 [Download Các từ điển Phật học cho Kindle](https://github.com/catusf/tudien/releases/tag/v2.1)
 
 Từ điển Phật học cho [StarDict](https://en.wikipedia.org/wiki/StarDict) ở đây.
 
-### Danh sách các từ điển và số từ
+## Danh sách các từ điển và số từ
 
 1. Từ điển Hán Việt Thiền Chửu (9'897)
 2. Từ điển Anh Việt Beta (106'059 với 28'400 dạng từ thay thế - inflection)
@@ -23,7 +23,7 @@ Từ điển Phật học cho [StarDict](https://en.wikipedia.org/wiki/StarDict)
 12. Rộng mở tâm hồn (1'347)
 13. Từ điển Phật học Tinh tuyển (2'918)
 
-### Các ứng dụng có thể sử dụng từ điển ở trên
+## Các ứng dụng có thể sử dụng từ điển ở trên
 
 - Ứng dụng cho [Windows](https://stardict.sourceforge.net/) như [GoldenDict](http://goldendict.org/), [Babiloo](http://code.google.com/p/babiloo/)
 
