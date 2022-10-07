@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
 ---
+
+
+Danh sách các dự án của tôi
 
 {% for repo in site.github.public_repositories %}
 
@@ -19,4 +21,3 @@ Last updated: {{ repo.updated_at | date_to_string }}
 {% endif %}
 
 {% endfor %}
-
