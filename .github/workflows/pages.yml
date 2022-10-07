@@ -32,9 +32,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          gem install bundler --user-install &&
-          apt-get install rbenv &&
-          rbenv rehash &&
           bundle
         
       - name: Build with Jekyll
