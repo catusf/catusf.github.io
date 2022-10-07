@@ -1,5 +1,5 @@
 ---
-title: Các -từ điển Tiếng Việt và Phật học cho StarDict
+title: Các từ điển Tiếng Việt và Phật học cho StarDict
 categories: [Từ điển, Phật học]
 tags: [từ điển,ebook,phật học,stardict,tiếng việt, hán việt, anh việt]
 ---
