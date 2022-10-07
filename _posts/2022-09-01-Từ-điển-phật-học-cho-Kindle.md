@@ -1,9 +1,10 @@
 ---
 title: Các từ điển Phật học cho Kindle
 categories: [Từ điển, Phật học]
-tags: [từ điển,kindle,ebook,phật học]
+tags: [từ điển,kindle,ebook,phật học, tiếng việt, hán việt, anh việt]
 ---
 
+[Download Các từ điển Phật học cho Kindle](https://github.com/catusf/tudien/releases/tag/v2.1)
 
 ## Các từ điển Phật học cho Kindle
 
