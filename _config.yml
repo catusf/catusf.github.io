@@ -44,10 +44,10 @@ social:
   email: catus.phan@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://facebook.com/groups/1135632477304207/
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
