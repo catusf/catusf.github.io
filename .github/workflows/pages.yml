@@ -32,7 +32,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          gem install bundler --user-install && bundle
+          gem install bundler --user-install && |
+          rbenv rehash && |
+          bundle
         
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
