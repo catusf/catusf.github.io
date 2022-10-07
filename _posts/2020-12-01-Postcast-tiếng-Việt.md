@@ -1,3 +1,8 @@
+---
+categories: [Podcasts]
+tags: [podcast,sách nói,audiobook]
+---
+
 # Podcast tiếng Việt - Nghe lại các chương trình radio trên điện thoại
 Dự án Radio2Podcasts này đọc thông tin từ các trang web có audio và chuyển thành các podcast để nghe trên lại điện thoại dễ dàng. Để nghe, hãy sử dụng các ứng dụng sau: 
 - Trên iOS: [Apple Podcasts](https://apps.apple.com/us/app/apple-podcasts/id525463029) hay [Pocket Casts](https://apps.apple.com/au/app/pocket-casts/id414834813) 

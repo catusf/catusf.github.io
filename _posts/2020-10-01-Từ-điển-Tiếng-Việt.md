@@ -1,3 +1,8 @@
+---
+categories: [Từ điển]
+tags: [từ điển,kindle, ebook]
+---
+
 # Từ điển Hán - Việt [Thiền Chửu](https://vi.wikipedia.org/wiki/Thi%E1%BB%81u_Ch%E1%BB%ADu) cho Kindle
 
 [Download Từ điển Hán - Việt Thiền Chửu v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienThienChuu.mobi)
