@@ -32,7 +32,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          bundle
+          gem install bundler && bundle
         
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
