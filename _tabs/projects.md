@@ -15,7 +15,7 @@ Danh sách các dự án của tôi
 
 {{ repo.description }}
 
-Topics: {{ repo.topics | array_to_sentence_string }}
+Topics: *{{ repo.topics | array_to_sentence_string }}*
 
 Last updated: {{ repo.updated_at | date_to_string }}
 
