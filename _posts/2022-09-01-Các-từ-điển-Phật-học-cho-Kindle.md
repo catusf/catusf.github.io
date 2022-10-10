@@ -6,9 +6,7 @@ tags: [từ điển,kindle,ebook,phật học, tiếng việt, hán việt, anh 
 
 [Download Các từ điển Phật học cho Kindle](https://github.com/catusf/tudien/releases/tag/v2.1)
 
-## Các từ điển Phật học cho Kindle
-
-### Danh sách các từ điển và số từ
+## Danh sách các từ điển và số từ
 
 1. Từ điển Hán Việt Thiền Chửu (9'897)
 2. Từ điển Anh Việt Beta (106'059 với 28'400 dạng từ thay thế - inflection)
