@@ -1,5 +1,4 @@
 ---
-title: Từ điển Anh - Việt cho Kindle
 categories: [Từ điển, Anh-Việt]
 tags: [từ điển, kindle, ebook, anh việt]
 ---

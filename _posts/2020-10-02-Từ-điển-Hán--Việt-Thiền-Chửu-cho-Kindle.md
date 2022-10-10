@@ -1,5 +1,4 @@
 ---
-title: Từ điển Hán - Việt Thiền Chửu cho Kindle
 categories: [Từ điển, Hán-Việt]
 tags: [từ điển, kindle, ebook, hán-việt]
 ---

@@ -1,5 +1,4 @@
 ---
-title: Các từ điển cho ABBYY Lingvo
 categories: [Từ điển]
 tags: [từ điển,lingvo,ebook,abbyy,tiếng việt, hán việt, anh việt]
 ---
