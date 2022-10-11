@@ -1,5 +1,6 @@
 ---
 categories: [Từ điển, Anh-Việt]
+comments: true
 tags: [từ điển, kindle, ebook, anh việt]
 ---
 
