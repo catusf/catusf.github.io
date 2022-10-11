@@ -1,5 +1,6 @@
 # TODO
 - [ ] Allow comments on posts
+- [ ] Change branch bacj to `master`
 - [ ] Fix social media links
 - [ ] Fix project list
 - [ ] Update readme.md
