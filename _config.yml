@@ -100,9 +100,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: catusf/catusf.github.io            # <gh-username>/<repo>
-    repo_id: "43758809"
+    repo_id: "MDEwOlJlcG9zaXRvcnk0Mzc1ODgwOQ=="
     category: "Announcements"
-    category_id: "38256627"
+    category_id: "DIC_kwDOApu02c4CR7_z"
     mapping:          # optional, default to 'pathname'
     input_position:   # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
