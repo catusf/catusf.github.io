@@ -102,7 +102,7 @@ comments:
     repo: catusf/catusf.github.io            # <gh-username>/<repo>
     repo_id: "43758809"
     category: "Announcements"
-    category_id: "DIC_kwDOHu8xrs4CQfkF"
+    category_id: "38256627"
     mapping:          # optional, default to 'pathname'
     input_position:   # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
