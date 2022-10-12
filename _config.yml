@@ -10,13 +10,13 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: vi
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Ho_Chi_Minh
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -104,7 +104,7 @@ comments:
     category: "Announcements"
     category_id: "DIC_kwDOApu02c4CR7_z"
     mapping:          # optional, default to 'pathname'
-    input_position:   # optional, default to 'bottom'
+    input_position: top  # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
