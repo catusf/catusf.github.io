@@ -47,8 +47,8 @@ social:
     #- https://twitter.com/username      # change to your twitter homepage
     # - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
-    facebook:  https://facebook.com/groups/1135632477304207/
-    # - https://www.linkedin.com/in/username
+    - https://facebook.com/groups/1135632477304207/
+    - https://www.linkedin.com/in/username1
 
 google_site_verification:               # fill in to your verification string
 
