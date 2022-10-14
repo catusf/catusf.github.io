@@ -12,8 +12,8 @@ pin: true
 |--------------------|----------------|-----------|
 | Kindle (.mobi)     |  Amazon Kindle |           |
 | Kobo (.kobo.zip)   |  Kobo          |           |
-| EPUB (.epub)       |  Kobo          | [Book Reader (Android)](https://f-droid.org/en/packages/com.github.axet.bookreader/), [Aldiko (Android, iOS)](https://www.demarque.com/aldiko) |
-| StarDict(.ifo)    | (không có)     | [KOReader (	Android, Amazon Kindle, Kobo eReader, PocketBook, Cervantes)](http://koreader.rocks/), [Golden Dict (Linux, Windows)](http://goldendict.org/), [StarDict (Linux, Windows, Mac)](http://huzheng.org/stardict/), [GoldenDict Mobile Lite (Android)](http://goldendict.mobi/)     |
+| EPUB (.epub)       |  Kobo          | [Book Reader (Android)](https://f-droid.org/en/packages/com.github.axet.bookreader/),<br/> [Aldiko (Android, iOS)](https://www.demarque.com/aldiko) |
+| StarDict(.ifo)    | (không có)     | [KOReader (Android, Amazon Kindle, Kobo eReader, PocketBook, Cervantes)](http://koreader.rocks/),<br/> [Golden Dict (Linux, Windows)](http://goldendict.org/),<br/> [StarDict (Linux, Windows, Mac)](http://huzheng.org/stardict/),<br/> [GoldenDict Mobile Lite (Android)](http://goldendict.mobi/)     |
 | ABBYY Lingvo (.dsl) | (không có)     | [ABBY Lingvo (Windows, Mac, Android, iOS)](https://www.lingvo.ru/)    |
     
 
