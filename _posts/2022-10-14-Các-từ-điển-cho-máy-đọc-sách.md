@@ -13,7 +13,7 @@ pin: true
 - StarDict
 - ABBY Lingvo 
 
-Các từ điển StarDict có thể được sử dụng trên rất nhiều ứng dụng Android/iOS/Windows.
+Các từ điển StarDict và Lingvo có thể được sử dụng trên rất nhiều ứng dụng Android/iOS/Windows.
 
 ## Danh sách các từ điển và số từ
 
