@@ -1,9 +1,19 @@
 ---
-categories: [Từ điển, Phật học]
-tags: [từ điển,kindle,ebook,phật học, tiếng việt, hán việt,anh việt]
+categories: [Từ điển]
+tags: [từ điển,lingvo,ebook,abbyy,kobo,stardict,tiếng việt,hán việt,anh việt]
+pin: true
 ---
 
-[Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.1)
+[Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.2)
+
+## Các loại máy đọc sách/ứng dụng được hỗ trợ
+
+- Amazon Kindle
+- Kobo
+- StarDict
+- ABBY Lingvo 
+
+Các từ điển StarDict có thể được sử dụng trên rất nhiều ứng dụng Android/iOS/Windows.
 
 ## Danh sách các từ điển và số từ
 
@@ -20,3 +30,5 @@ tags: [từ điển,kindle,ebook,phật học, tiếng việt, hán việt,anh v
 11. Phật Quang Đại từ điển (Hán ngữ) (22'900)
 12. Rộng mở tâm hồn (1'347)
 13. Từ điển Phật học Tinh tuyển (2'918)
+
+Mọi góp ý hoặc yêu cầu thêm từ điển, vui lòng bình luận ở dưới đây.

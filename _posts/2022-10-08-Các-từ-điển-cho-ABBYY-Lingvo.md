@@ -3,7 +3,7 @@ categories: [Từ điển]
 tags: [từ điển,lingvo,ebook,abbyy,tiếng việt, hán việt, anh việt]
 ---
 
-[Download Các từ điển Phật học cho Kindle](https://github.com/catusf/tudien/releases/tag/v2.2)
+[Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.2)
 
 ## Danh sách các từ điển và số từ
 
