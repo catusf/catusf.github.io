@@ -1,9 +1,9 @@
 # TODO
-- [ ] Add an image for each post
+- [ ] Allow comments on posts
+- [ ] Change branch bacj to `master`
 - [ ] Fix social media links
-- [ ] Post about Strava/Statshunter explorer titles
+- [ ] Fix project list
 - [ ] Update readme.md
-- [X] Allow comments on posts
-- [X] Change branch bacj to `master`
-- [X] Change default branch back to `master`
-- [X] Fix project list
+- [ ] Add an image for each post
+- [ ] Post about Strava/Statshunter explorer titles
+- [ ] Change default branch back to `master`

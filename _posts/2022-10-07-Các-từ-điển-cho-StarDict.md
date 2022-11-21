@@ -2,7 +2,7 @@
 categories: [Từ điển, Phật học]
 tags: [từ điển,ebook,phật học,stardict,tiếng việt, hán việt,anh việt]
 ---
-[Download Các từ điển Phật học cho Kindle](https://github.com/catusf/tudien/releases/tag/v2.1)
+[Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.1)
 
 Từ điển Phật học cho [StarDict](https://en.wikipedia.org/wiki/StarDict) ở đây.
 
