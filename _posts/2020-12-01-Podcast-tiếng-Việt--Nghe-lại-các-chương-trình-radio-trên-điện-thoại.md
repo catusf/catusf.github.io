@@ -1,6 +1,7 @@
 ---
 categories: [Podcasts]
 tags: [podcast,sách nói,audiobook]
+pin: true
 ---
 
 ## Giới thiệu
