@@ -2,6 +2,7 @@
 categories: [Từ điển]
 tags: [từ điển,lingvo,ebook,abbyy,kobo,stardict,tiếng việt,hán việt,anh việt]
 pin: true
+title: Các từ điển cho máy đọc sách
 ---
 
 [Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.2)

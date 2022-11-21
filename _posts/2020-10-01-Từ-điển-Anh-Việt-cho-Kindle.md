@@ -2,6 +2,8 @@
 categories: [Từ điển, Anh-Việt]
 comments: true
 tags: [từ điển, kindle, ebook, anh việt]
+title: Từ điển Anh Việt cho Kindle
+
 ---
 
 [Download Từ điển Anh - Việt v1.1](https://github.com/catusf/tudien/releases/download/v1.1/TudienAnhVietBeta.mobi)
