@@ -5,7 +5,7 @@ pin: true
 title: Các từ điển cho máy đọc sách
 ---
 
-[Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.2)
+[Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.3)
 
 ## Các loại máy đọc sách/ứng dụng được hỗ trợ
 
