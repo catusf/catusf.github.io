@@ -16,7 +16,6 @@ title: Các từ điển cho máy đọc sách
 | EPUB (.epub)       |  Kobo          | [Book Reader (Android)](https://f-droid.org/en/packages/com.github.axet.bookreader/),<br/> [Aldiko (Android, iOS)](https://www.demarque.com/aldiko) |
 | StarDict(.ifo)    | Onyx Book, Nook     | [KOReader (Android, Amazon Kindle, Kobo eReader, PocketBook, Cervantes)](http://koreader.rocks/),<br/> [Golden Dict (Linux, Windows)](http://goldendict.org/),<br/> [StarDict (Linux, Windows, Mac)](http://huzheng.org/stardict/),<br/> [GoldenDict Mobile Lite (Android)](http://goldendict.mobi/)     |
 | ABBYY Lingvo (.dsl) | (không có)     | [ABBY Lingvo (Windows, Mac, Android, iOS)](https://www.lingvo.ru/)    |
-| dictd (.index) |   (không có)   | [Golden Dict](http://goldendict.org/), [Golden Dict Lite](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free)   |
     
 
 ## Danh sách các từ điển và số từ
