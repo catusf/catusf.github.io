@@ -38,6 +38,7 @@ title: Các từ điển cho máy đọc sách
 | Từ điển Phật học Tinh tuyển            |    2'918 |
 
 ## Các từ điển nâng cao
+
 | Từ điển                                                              | Số từ   | Tên file            |
 |----------------------------------------------------------------------|--------:|---------------------|
 | Bách khoa toàn thư Việt Nam                                          | 41'339  | Bach_khoa_toan_thu  |
