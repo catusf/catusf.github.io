@@ -55,7 +55,7 @@ title: Các từ điển cho máy đọc sách
 | Từ điển Bồ Đào Nha-Việt                                              | 10'453  | star_bdnviet        |
 | Từ điển Đức-Việt                                                     | 43'634  | star_ducviet        |
 | Từ điển Hàn-Việt                                                     | 49'800  | star_hanviet        |
-| Từ điển nauy-Việt                                                    | 17'447  | star_nauyviet       |
+| Từ điển Na Uy-Việt                                                    | 17'447  | star_nauyviet       |
 | Từ điển Nga-Việt                                                     | 38'039  | star_ngaviet        |
 | Từ điển Nhật-Việt                                                    | 172'321 | star_nhatviet       |
 | Từ điển Pháp-Việt                                                    | 47'454  | star_phapviet       |
