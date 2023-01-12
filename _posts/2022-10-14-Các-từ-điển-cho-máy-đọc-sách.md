@@ -60,7 +60,7 @@ Các từ điển ở trang này có thể dùng cho các máy đọc sách ph�
 | Từ điển Bồ Đào Nha-Việt                                              | 10'453  | star_bdnviet        |
 | Từ điển Đức-Việt                                                     | 43'634  | star_ducviet        |
 | Từ điển Hàn-Việt                                                     | 49'800  | star_hanviet        |
-| Từ điển Na Uy-Việt                                                    | 17'447  | star_nauyviet       |
+| Từ điển Na Uy-Việt                                                   | 17'447  | star_nauyviet       |
 | Từ điển Nga-Việt                                                     | 38'039  | star_ngaviet        |
 | Từ điển Nhật-Việt                                                    | 172'321 | star_nhatviet       |
 | Từ điển Pháp-Việt                                                    | 47'454  | star_phapviet       |
@@ -75,6 +75,12 @@ Các từ điển ở trang này có thể dùng cho các máy đọc sách ph�
 | Từ điển Việt-Tây Ban Nha                                             | 21'608  | star_viettbn        |
 | Từ điển Việt-Việt                                                    | 23'804  | star_vietviet       |
 | Từ điển Ý-Việt                                                       | 70'682  | star_yviet          |
+| Từ điển Đức - Việt - Đức                                             | 55'556  | star_ducvietduc     |
+| Từ điển Hàn - Việt - Hàn                                             | 71'947  | star_hanviethan     |
+| Từ điển Nga - Việt - Nga                                             | 73'781  | star_ngavietnga     |
+| Từ điển Nhật - Việt - Nhật                                           | 193'935 | star_nhatvietnhat   |
+| Từ điển Pháp - Việt - Pháp                                           | 85'803  | star_phapvietphap   |
+| Từ điển Tây Ban Nha - Vtệt - Tây Ban Nha                             | 40'712  | star_tbnviettbn     |
 
 
 Mọi góp ý hoặc yêu cầu thêm từ điển, vui lòng bình luận ở dưới đây.
