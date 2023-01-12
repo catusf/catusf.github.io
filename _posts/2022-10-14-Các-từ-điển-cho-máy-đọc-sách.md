@@ -6,7 +6,7 @@ title: Các từ điển cho máy đọc sách
 ---
 
 - [Download Các từ điển Cơ bản](https://github.com/catusf/tudien/releases/tag/v2.3.1)
-- [Download Các từ điển Nâng cao](https://github.com/catusf/tudien/releases/tag/v2.3.1e)
+- [Download Các từ điển Nâng cao](https://github.com/catusf/tudien/releases/tag/v2.3.2e)
 
 
 Đây là trang download từ điển cho người Việt lớn nhất thế giới (43 cuốn x 6 dạng file). Các từ điển này đã được bổ sung các dạng từ khác nhau để dễ dàng tra cứu khi đọc sách. Ví dụ, với các từ điển Anh-Việt ở đây, có thể tra cứu các từ tiếng Anh sau và đều ra kết quả đúng: thinks - thought - thinking - thoughts / love loves - loved - loving. Tính năng này đúng cho các từ điển ngôn ngữ châu Âu (Anh, Pháp, Đức, Na Uy v.v.) và từ điển từ Hán Việt Thiền Chửu (tra cứu bất, phầu, phủ hay phi đều ra 不). 
