@@ -7,9 +7,9 @@ title: Podcast tiếng Việt - Nghe lại các chương trình radio trên đi�
 
 ## Giới thiệu
 
-Dự án Radio2Podcasts này đọc thông tin từ các trang web có audio và chuyển thành các podcast để nghe trên lại điện thoại dễ dàng. Để nghe, hãy sử dụng các ứng dụng sau: 
-- Trên iOS: [Apple Podcasts](https://apps.apple.com/us/app/apple-podcasts/id525463029) hay [Pocket Casts](https://apps.apple.com/au/app/pocket-casts/id414834813) 
-- Trên Android: [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en&gl=US) hay [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
+Dự án Radio2Podcasts này đọc thông tin từ các trang web có audio và chuyển thành các podcast để nghe trên lại điện thoại dễ dàng. Để nghe, có thể sử dụng các ứng dụng miễn phí sau: 
+- Trên iOS: [Google Podcasts](https://podcasts.google.com/), [Apple Podcasts](https://apps.apple.com/us/app/apple-podcasts/id525463029) hay [Pocket Casts](https://apps.apple.com/au/app/pocket-casts/id414834813) 
+- Trên Android: [Google Podcasts](https://podcasts.google.com/), [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en&gl=US) hay [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
 
 Sau khi cài đặt một trong các ứng dụng trên, truy cập vào một trong 2 trang sau:
 - [Các chương trình radio](https://catusf.github.io/radio2podcasts/index.html)
