@@ -6,7 +6,7 @@ title: Từ điển Trung Việt cho Pleco
 
 ---
 
-[Download Từ điển Trung - Việt Pleco v1.0](https://github.com/catusf/tudien/raw/master/dict/ThienChuu%2BTranVanChanh_v1.0.pqb)
+[Download Từ điển Trung - Việt Pleco v1.0](https://github.com/catusf/tudien/releases/download/v2.5/Tu-dien-ThienChuu+TranVanChanh_v1.0.pqb)
 
 
 ## Giới thiệu
