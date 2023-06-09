@@ -26,23 +26,23 @@ Hiện nay các trang web hiện nay đã hỗ trợ:
 
 ## Một số hình ảnh
 
-<img src="/assets/img/Screenshot_20201013_225200.png" alt="Danh sách các chương trình" style="width: 50%;"/>
+<img src="/assets/img/Podcast4.png" alt="Danh sách các chương trình" style="width: 50%;"/>
 
 <br>
 
-<img src="/assets/img/Screenshot_20201013_225232.png" width="50%"/>
+<img src="/assets/img/Podcast5.png" width="50%"/>
 
 #### Giao diện nghe podcast
 
-<img src="/assets/img/Screenshot_20201013_225048.png" width="50%"/>
+<img src="/assets/img/Podcast1.png" width="50%"/>
 
 <br>
 
-<img src="/assets/img/Screenshot_20201013_225100.png" width="50%"/>
+<img src="/assets/img/Podcast2.png" width="50%"/>
 
 <br>
 
-<img src="/assets/img/Screenshot_20201013_225108.png" width="50%"/>
+<img src="/assets/img/Podcast3.png" width="50%"/>
 
 ## Công nghệ
 Ở Việt Nam, không nhiều trang web của các đài phát thanh cung cấp podcast để đọc giả nghe lại các chương trình. Dự án Radio2Podcasts này thực hiện những việc sau:
