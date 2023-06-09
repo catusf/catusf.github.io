@@ -1,7 +1,6 @@
 ---
 categories: [Từ điển]
 tags: [từ điển,lingvo,ebook,abbyy,tiếng việt, hán việt, anh việt]
-title: Các từ điển cho ABBYY Lingvo
 ---
 
 [Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.2)

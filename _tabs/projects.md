@@ -5,7 +5,7 @@ order: 4
 ---
 
 
-## Danh sách các dự án của tôi
+Danh sách các dự án của tôi
 
 {% for repo in site.github.public_repositories %}
 

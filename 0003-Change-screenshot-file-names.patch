@@ -1,0 +1,138 @@
+From e45973e5ae1d0c763f733163e4ab9ed233f7ee09 Mon Sep 17 00:00:00 2001
+From: Catus Phan <catus.phan@gmail.com>
+Date: Sat, 10 Jun 2023 00:27:01 +0800
+Subject: [PATCH 3/3] Change screenshot file names
+
+---
+ ...304\221i\341\273\207n-tho\341\272\241i.md" |  10 ++--
+ ...221i\341\273\207n-tho\341\272\241i.md.bak" |  55 ++++++++++++++++++
+ ...nshot_20201013_225048.png => Podcast1.png} | Bin
+ ...nshot_20201013_225100.png => Podcast2.png} | Bin
+ ...nshot_20201013_225108.png => Podcast3.png} | Bin
+ ...nshot_20201013_225200.png => Podcast4.png} | Bin
+ ...nshot_20201013_225232.png => Podcast5.png} | Bin
+ 7 files changed, 60 insertions(+), 5 deletions(-)
+ create mode 100644 "_posts/2020-12-01-Podcast-ti\341\272\277ng-Vi\341\273\207t--Nghe-l\341\272\241i-c\303\241c-ch\306\260\306\241ng-tr\303\254nh-radio-tr\303\252n-\304\221i\341\273\207n-tho\341\272\241i.md.bak"
+ rename assets/img/{Screenshot_20201013_225048.png => Podcast1.png} (100%)
+ rename assets/img/{Screenshot_20201013_225100.png => Podcast2.png} (100%)
+ rename assets/img/{Screenshot_20201013_225108.png => Podcast3.png} (100%)
+ rename assets/img/{Screenshot_20201013_225200.png => Podcast4.png} (100%)
+ rename assets/img/{Screenshot_20201013_225232.png => Podcast5.png} (100%)
+
+diff --git "a/_posts/2020-12-01-Podcast-ti\341\272\277ng-Vi\341\273\207t--Nghe-l\341\272\241i-c\303\241c-ch\306\260\306\241ng-tr\303\254nh-radio-tr\303\252n-\304\221i\341\273\207n-tho\341\272\241i.md" "b/_posts/2020-12-01-Podcast-ti\341\272\277ng-Vi\341\273\207t--Nghe-l\341\272\241i-c\303\241c-ch\306\260\306\241ng-tr\303\254nh-radio-tr\303\252n-\304\221i\341\273\207n-tho\341\272\241i.md"
+index 0becbc2..6b5d801 100644
+--- "a/_posts/2020-12-01-Podcast-ti\341\272\277ng-Vi\341\273\207t--Nghe-l\341\272\241i-c\303\241c-ch\306\260\306\241ng-tr\303\254nh-radio-tr\303\252n-\304\221i\341\273\207n-tho\341\272\241i.md"
++++ "b/_posts/2020-12-01-Podcast-ti\341\272\277ng-Vi\341\273\207t--Nghe-l\341\272\241i-c\303\241c-ch\306\260\306\241ng-tr\303\254nh-radio-tr\303\252n-\304\221i\341\273\207n-tho\341\272\241i.md"
+@@ -26,23 +26,23 @@ Hiện nay các trang web hiện nay đã hỗ trợ:
+ 
+ ## Một số hình ảnh
+ 
+-<img src="/assets/img/Screenshot_20201013_225200.png" alt="Danh sách các chương trình" style="width: 50%;"/>
++<img src="/assets/img/Podcast4.png" alt="Danh sách các chương trình" style="width: 50%;"/>
+ 
+ <br>
+ 
+-<img src="/assets/img/Screenshot_20201013_225232.png" width="50%"/>
++<img src="/assets/img/Podcast5.png" width="50%"/>
+ 
+ #### Giao diện nghe podcast
+ 
+-<img src="/assets/img/Screenshot_20201013_225048.png" width="50%"/>
++<img src="/assets/img/Podcast1.png" width="50%"/>
+ 
+ <br>
+ 
+-<img src="/assets/img/Screenshot_20201013_225100.png" width="50%"/>
++<img src="/assets/img/Podcast2.png" width="50%"/>
+ 
+ <br>
+ 
+-<img src="/assets/img/Screenshot_20201013_225108.png" width="50%"/>
++<img src="/assets/img/Podcast3.png" width="50%"/>
+ 
+ ## Công nghệ
+ Ở Việt Nam, không nhiều trang web của các đài phát thanh cung cấp podcast để đọc giả nghe lại các chương trình. Dự án Radio2Podcasts này thực hiện những việc sau:
+diff --git "a/_posts/2020-12-01-Podcast-ti\341\272\277ng-Vi\341\273\207t--Nghe-l\341\272\241i-c\303\241c-ch\306\260\306\241ng-tr\303\254nh-radio-tr\303\252n-\304\221i\341\273\207n-tho\341\272\241i.md.bak" "b/_posts/2020-12-01-Podcast-ti\341\272\277ng-Vi\341\273\207t--Nghe-l\341\272\241i-c\303\241c-ch\306\260\306\241ng-tr\303\254nh-radio-tr\303\252n-\304\221i\341\273\207n-tho\341\272\241i.md.bak"
+new file mode 100644
+index 0000000..4d44b59
+--- /dev/null
++++ "b/_posts/2020-12-01-Podcast-ti\341\272\277ng-Vi\341\273\207t--Nghe-l\341\272\241i-c\303\241c-ch\306\260\306\241ng-tr\303\254nh-radio-tr\303\252n-\304\221i\341\273\207n-tho\341\272\241i.md.bak"
+@@ -0,0 +1,55 @@
++---
++categories: [Podcasts]
++tags: [podcast,sách nói,audiobook]
++pin: true
++---
++
++## Giới thiệu
++
++Dự án Radio2Podcasts này đọc thông tin từ các trang web có audio và chuyển thành các podcast để nghe trên lại điện thoại dễ dàng. Để nghe, hãy sử dụng các ứng dụng sau: 
++- Trên iOS: [Apple Podcasts](https://apps.apple.com/us/app/apple-podcasts/id525463029) hay [Pocket Casts](https://apps.apple.com/au/app/pocket-casts/id414834813) 
++- Trên Android: [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en&gl=US) hay [Pocket Casts](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)
++
++Sau khi cài đặt một trong các ứng dụng trên, truy cập vào một trong 2 trang sau:
++- [Các chương trình radio](https://catusf.github.io/radio2podcasts/index.html)
++- [Các cuốn sách nói](https://catusf.github.io/radio2podcasts/index-ppud.html)
++- [Các sách nói trên Archive.org](https://catusf.github.io/radio2podcasts/index-archive.html)
++
++## Các podcasts đã tạo
++
++Hiện nay các trang web hiện nay đã hỗ trợ:
++- [VOV1](http://vov1.vn/) Đài tiếng nói Việt Nam
++- [VOV6](http://vov6.vov.vn/) Đài tiếng nói Việt Nam
++- [VOH](https://radio.voh.com.vn/) Đài tiếng nói Nhân dân TP HCM
++- [DRT](http://www.drt.danang.vn/) Đài phát thanh truyền hình Đà Nẵng
++- [Sách nói trên trang Phật pháp ứng dụng](https://phatphapungdung.com/sach-noi/)
++
++## Một số hình ảnh
++
++<img src="/assets/img/Podcast4.png" alt="Danh sách các chương trình" style="width: 50%;"/>
++
++<br>
++
++<img src="/assets/img/Screenshot_20201013_225232.png" width="50%"/>
++
++#### Giao diện nghe podcast
++
++<img src="/assets/img/Podcast1.png" width="50%"/>
++
++<br>
++
++<img src="/assets/img/Podcast2.png" width="50%"/>
++
++<br>
++
++<img src="/assets/img/Podcast3.png" width="50%"/>
++
++## Công nghệ
++Ở Việt Nam, không nhiều trang web của các đài phát thanh cung cấp podcast để đọc giả nghe lại các chương trình. Dự án Radio2Podcasts này thực hiện những việc sau:
++1. Chạy chương trình Python (triển khai trên Heroku) định kỳ hàng giờ
++2. Tìm ra các audio mới trên các website
++3. Tạo ra file XML có format của podcast
++4. Tạo ra file HTML của tất cả các podcast vừa tạo ra
++5. Lưu các file XML và HTML lên một trang web (hiện dùng trang GitHub Pages các bạn đang xem)
++
++Nếu bạn muốn sửa lỗi hay thay đổi chương trình, hãy truy cập vào [github.com/catusf/radio2podcasts](https://github.com/catusf/radio2podcasts).
+diff --git a/assets/img/Screenshot_20201013_225048.png b/assets/img/Podcast1.png
+similarity index 100%
+rename from assets/img/Screenshot_20201013_225048.png
+rename to assets/img/Podcast1.png
+diff --git a/assets/img/Screenshot_20201013_225100.png b/assets/img/Podcast2.png
+similarity index 100%
+rename from assets/img/Screenshot_20201013_225100.png
+rename to assets/img/Podcast2.png
+diff --git a/assets/img/Screenshot_20201013_225108.png b/assets/img/Podcast3.png
+similarity index 100%
+rename from assets/img/Screenshot_20201013_225108.png
+rename to assets/img/Podcast3.png
+diff --git a/assets/img/Screenshot_20201013_225200.png b/assets/img/Podcast4.png
+similarity index 100%
+rename from assets/img/Screenshot_20201013_225200.png
+rename to assets/img/Podcast4.png
+diff --git a/assets/img/Screenshot_20201013_225232.png b/assets/img/Podcast5.png
+similarity index 100%
+rename from assets/img/Screenshot_20201013_225232.png
+rename to assets/img/Podcast5.png
+-- 
+2.38.1.windows.1
+
