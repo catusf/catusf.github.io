@@ -21,6 +21,16 @@ Từ điển này dựa trên data của 2 từ điển phổ biến là Thiền
 2. Mở ứng dụng Pleco
 3. Chọn thực đơn trên cùng bên trái (3 dấu gạch ngang) > chọn Settings > Manage Dictionaries > Add User (dictionary) > Chọn Existing và chọn file .pqb đã download ở trên.
 
+## Một số hình ảnh
+
+<img src="/assets/img/Pleco1.png" alt="Sử dụng" style="width: 50%;"/>
+
+<br>
+
+<img src="/assets/img/Pleco2.png" alt="Sử dụng" style="width: 50%;"/>
+
+<br>
+
 ## Đóng góp
 
 Nếu bạn muốn sửa lỗi hay tự sửa đổi nội dung của từ điển, hãy truy cập vào [github.com/catusf/tudien](https://github.com/catusf/tudien).
