@@ -8,6 +8,8 @@ title: Pleco Chinese Radical dictionaries
 
 ## Chinese Radical dictionaries
 
+[Downloaded on GitHub](https://github.com/catusf/tudien/releases/tag/V2.6)
+
 I created 3 radical [Pleco](https://www.pleco.com/) dictionaries to help myself study Chinese characters, and now would like to share them with you. I hope you find them useful too. You'll need Pleco [Flashcard add-on](https://iphone.pleco.com/manual/30200/flash.html) to be able to load these dictionaries.
 
 These can be used on any device such as Kindle, Boox, or Kobol and many dictionary app formats. Check the [Downloads] section.
@@ -55,8 +57,5 @@ This one lists all the common radicals you can find and lists useful information
     <img src="https://catusf.github.io/img/RAN-2.jpg" alt="Radical Name Dictionary" style="width: 30%;"/>
 </p>
 
-## Downloads
-
-All of them can be [downloaded here](https://github.com/catusf/tudien/releases/tag/V2.6).
 
 I look forward to your feedback and suggestions for improvements. Thanks
