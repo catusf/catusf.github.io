@@ -18,10 +18,10 @@ Sau khi cài đặt một trong các ứng dụng trên, truy cập vào một t
 ## Các podcasts đã tạo
 
 Hiện nay các trang web hiện nay đã hỗ trợ:
-- [VOV1](http://vov1.vn/) Đài tiếng nói Việt Nam
-- [VOV6](http://vov6.vov.vn/) Đài tiếng nói Việt Nam
+- [VOV1](https://vov1.vn/) Đài tiếng nói Việt Nam
+- [VOV6](https://vov6.vov.vn/) Đài tiếng nói Việt Nam
 - [VOH](https://radio.voh.com.vn/) Đài tiếng nói Nhân dân TP HCM
-- [DRT](http://www.drt.danang.vn/) Đài phát thanh truyền hình Đà Nẵng
+- [DRT](https://www.drt.danang.vn/) Đài phát thanh truyền hình Đà Nẵng
 - [Sách nói trên trang Phật pháp ứng dụng](https://phatphapungdung.com/sach-noi/)
 
 ## Một số hình ảnh
@@ -30,19 +30,19 @@ Hiện nay các trang web hiện nay đã hỗ trợ:
 
 <br>
 
-<img src="/assets/img/Podcast5.png" width="50%"/>
+<img src="/assets/img/Podcast5.png" alt="Danh sách các chương trình" width="50%"/>
 
 #### Giao diện nghe podcast
 
-<img src="/assets/img/Podcast1.png" width="50%"/>
+<img src="/assets/img/Podcast1.png" alt="Giao diện nghe podcast" width="50%"/>
 
 <br>
 
-<img src="/assets/img/Podcast2.png" width="50%"/>
+<img src="/assets/img/Podcast2.png" alt="Giao diện nghe podcast" width="50%"/>
 
 <br>
 
-<img src="/assets/img/Podcast3.png" width="50%"/>
+<img src="/assets/img/Podcast3.png" alt="Giao diện nghe podcast" width="50%"/>
 
 ## Công nghệ
 Ở Việt Nam, không nhiều trang web của các đài phát thanh cung cấp podcast để đọc giả nghe lại các chương trình. Dự án Radio2Podcasts này thực hiện những việc sau:
