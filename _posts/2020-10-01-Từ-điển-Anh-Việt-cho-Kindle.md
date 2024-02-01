@@ -13,12 +13,12 @@ Cho phép tra các dạng khác nhau của từ như số nhiều của danh t�
 
 Hãy so sánh hai hình dưới đây.
 
-<img src="/img/before.png" alt="Trước đây" style="width: 600px;"/>
+<img src="https://catusf.github.io/img/before.png" alt="Trước đây" style="width: 600px;"/>
 
 Trước đây
 
 
-<img src="/img/after.png" alt="Bây giờ" style="width: 600px;"/>
+<img src="https://catusf.github.io/img/after.png" alt="Bây giờ" style="width: 600px;"/>
 
 Bây giờ
 

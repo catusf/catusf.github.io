@@ -9,11 +9,11 @@ tags: [từ điển, kindle, ebook, hán-việt]
 
 Cho phép tra từ theo âm Hán-Việt hoặc chữ Hán.
 
-<img src="/img/thienchuu-amhanviet.png" alt="Tra theo âm Hán-Việt" style="width: 600px;"/>
+<img src="https://catusf.github.io/img/thienchuu-amhanviet.png" alt="Tra theo âm Hán-Việt" style="width: 600px;"/>
 
 Tra theo âm Hán-Việt
 
 
-<img src="/img/thienchuu-amhan.png" alt="Tra theo chữ Hán" style="width: 600px;"/>
+<img src="https://catusf.github.io/img/thienchuu-amhan.png" alt="Tra theo chữ Hán" style="width: 600px;"/>
 
 Tra theo chữ Hán
