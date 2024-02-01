@@ -24,4 +24,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "jekyll" 
 gem "jekyll-commonmark-ghpages"
+gem "jekyll-github-metadata"
 
