@@ -23,11 +23,11 @@ Từ điển này dựa trên data của 2 từ điển phổ biến là Thiền
 
 ## Một số hình ảnh
 
-<img src="/assets/img/Pleco1.jpg" alt="Sử dụng" style="width: 50%;"/>
+<img src="/img/Pleco1.jpg" alt="Sử dụng" style="width: 50%;"/>
 
 <br>
 
-<img src="/assets/img/Pleco2.jpg" alt="Sử dụng" style="width: 50%;"/>
+<img src="/img/Pleco2.jpg" alt="Sử dụng" style="width: 50%;"/>
 
 <br>
 

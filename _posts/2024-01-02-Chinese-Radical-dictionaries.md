@@ -16,11 +16,11 @@ See some images below.
 You see that the `栓` character has 3 radicals `⽊⼈⽟` in it, right? So you can type "mu ren yu" or "ren yu mu" to search for that little one.
 Another way is to go to the "homepage" marked by `偏旁` (piānpáng) headword and start browsing until you find that one character: `⽊` > `⽊⼈` > `⽊⼈⽟` and all characters which contain those three radicals.
 
-<img src="/assets/img/RAL-1.jpg" alt="Radical Lookup Dictionary" style="width: 30%;"/>  <img src="/assets/img/RAL-2.jpg" alt="Radical Lookup Dictionary" style="width: 30%;"/>  <img src="/assets/img/RAL-3.jpg" alt="Radical Lookup Dictionary" style="width: 30%;"/>
+<img src="/img/RAL-1.jpg" alt="Radical Lookup Dictionary" style="width: 30%;"/>  <img src="/img/RAL-2.jpg" alt="Radical Lookup Dictionary" style="width: 30%;"/>  <img src="/img/RAL-3.jpg" alt="Radical Lookup Dictionary" style="width: 30%;"/>
 
 My stats show that, with 5 or fewer radicals, you can reach 95% of all modern Chinese characters (96% for simplified characters). So searching for them using radicals is similar to using Roman alphabets.
 
-<img src="/assets/img/RAL-Stats.png" alt="Radical Appearance Statatistics" style="width: 30%;"/>
+<img src="/img/RAL-Stats.png" alt="Radical Appearance Statatistics" style="width: 30%;"/>
 
 ## 2. Chinese Character Component Dictionary (CHAR)
 
@@ -28,13 +28,13 @@ This one breaks characters down into components for you to see, and maybe help y
 
 This dictionary also includes mnemonics for ~4'000 characters thanks to Reinaert Albrecht wonderful data at [Remembering Chinese characters, hanzi or kanji](https://rtega.be/chmn/).
 
-<img src="/assets/img/CHAR-1.jpg" alt="Chinese Character Component Dictionary" style="width: 30%;"/>  <img src="/assets/img/CHAR-2.jpg" alt="Chinese Character Component Dictionary" style="width: 30%;"/>  <img src="/assets/img/CHAR-3.jpg" alt="Chinese Character Component Dictionary" style="width: 30%;"/>
+<img src="/img/CHAR-1.jpg" alt="Chinese Character Component Dictionary" style="width: 30%;"/>  <img src="/img/CHAR-2.jpg" alt="Chinese Character Component Dictionary" style="width: 30%;"/>  <img src="/img/CHAR-3.jpg" alt="Chinese Character Component Dictionary" style="width: 30%;"/>
 
 ## 3. Radical Name Dictionary (RAN)
 
 This one lists all the common radicals you can find and lists useful information for you.
 
-<img src="/assets/img/RAN-1.jpg" alt="Radical Name Dictionary" style="width: 30%;"/>  <img src="/assets/img/RAN-2.jpg" alt="Radical Name Dictionary" style="width: 30%;"/>
+<img src="/img/RAN-1.jpg" alt="Radical Name Dictionary" style="width: 30%;"/>  <img src="/img/RAN-2.jpg" alt="Radical Name Dictionary" style="width: 30%;"/>
 
 ## Downloads
 
