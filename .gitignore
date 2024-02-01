@@ -20,4 +20,4 @@ package-lock.json
 # Misc
 *.map
 sw.min.js
-assets/js/dist
+#assets/js/dist
