@@ -24,8 +24,8 @@ Từ điển Phật học cho [StarDict](https://en.wikipedia.org/wiki/StarDict)
 
 ## Các ứng dụng có thể sử dụng từ điển ở trên
 
-- Ứng dụng cho [Windows](https://stardict.sourceforge.net/) như [GoldenDict](http://goldendict.org/), [Babiloo](http://code.google.com/p/babiloo/)
+- Ứng dụng cho [Windows](https://stardict.sourceforge.net/) như [GoldenDict](https://goldendict.org/), [Babiloo](http://code.google.com/p/babiloo/)
 
-- Ứng dụng cho [mobile](https://en.wikipedia.org/wiki/StarDict#Supported_platforms) như [GoldenDict](http://goldendict.mobi/), GuruDic, TouchDict, weDict, Dictionary Universal, Alpus 
+- Ứng dụng cho [mobile](https://en.wikipedia.org/wiki/StarDict#Supported_platforms) như [GoldenDict](https://goldendict.mobi/), GuruDic, TouchDict, weDict, Dictionary Universal, Alpus 
 
 
