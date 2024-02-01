@@ -1,10 +1,18 @@
-# # Chinese Radical dictionaries
+---
+categories: [Từ điển, Trung-Việt, Pleco]
+comments: true
+tags: [từ điển, kindle, ebook, trung việt, pleco, radical]
+title: Pleco Chinese Radical dictionaries
+
+---
+
+## Chinese Radical dictionaries
 
 I created 3 radical [Pleco](https://www.pleco.com/) dictionaries to help myself study Chinese characters, and now would like to share them with you. I hope you find them useful too. You'll need Pleco [Flashcard add-on](https://iphone.pleco.com/manual/30200/flash.html) to be able to load these dictionaries.
 
 These can be used on any device such as Kindle, Boox, or Kobol and many dictionary app formats. Check the [Downloads] section.
 
-1. Chinese Radical Lookup (RAL) dictionary which allows you to find the Chinese characters from component radicals if you know their names or shapes. You can search by choosing on screen or by searching the radical names: You can search by browsing graphically or keying in radical names
+1. Chinese Radical Lookup (RAL) dictionary which allows you to find the Chinese characters from component radicals if you know their names or shapes. You can search by choosing on screen or by searching the radical names: You can search by browsing graphically or keying in radical names. This can be pretty fast compared to other existing input methods
 
 2. Chinese Character Component Dictionary (CHAR) allows you to see the components that make up a Chinese character (of about 12,000 characters)
 
