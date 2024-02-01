@@ -14,7 +14,7 @@ I created 3 radical [Pleco](https://www.pleco.com/) dictionaries to help myself 
 
 These can be used on any device such as Kindle, Boox, or Kobol and many dictionary app formats. Check the [Downloads] section.
 
-1. Chinese Radical Lookup (RAL) dictionary which allows you to find the Chinese characters from component radicals if you know their names or shapes. You can search by choosing on screen or by searching the radical names: You can search by browsing graphically or keying in radical names. This can be pretty fast compared to other existing input methods
+1. Chinese Radical Lookup (RAL) dictionary which allows you to find the Chinese characters from component radicals if you know their names or shapes. You can search by choosing on screen or by searching their names. This can be pretty fast compared to other existing input methods
 
 2. Chinese Character Component Dictionary (CHAR) allows you to see the components that make up a Chinese character (of about 12,000 characters)
 
