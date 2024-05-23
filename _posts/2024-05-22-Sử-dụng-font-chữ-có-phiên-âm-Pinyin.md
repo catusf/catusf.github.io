@@ -2,7 +2,6 @@
 categories: [Tiện ích]
 tags: [tiếng Trung]
 ---
-[Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.1)
 
 Bài này giới thiệu một số kỹ thuật dùng font chữ tiếng Trung có kèm phiên âm [Pinyin](https://vi.wikipedia.org/wiki/B%C3%ADnh_%C3%A2m_H%C3%A1n_ng%E1%BB%AF).
 
