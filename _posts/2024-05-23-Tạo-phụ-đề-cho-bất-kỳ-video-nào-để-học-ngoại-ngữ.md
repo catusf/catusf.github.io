@@ -12,7 +12,7 @@ Sử dụng thư viện [Whisper](https://github.com/openai/whisper) của OpenA
 
 2. Copy các file video (tốt nhất là dịnh dạng mp4) cần tạo phụ đề vào thư mục `downloads`
 
-3. Chạy 2 phần mềm `transcribe_2_subtitles.exe` để tạo phụ đề, và `translate_subtitles.exe` để dịch sang tiếng Việt và tiếng Anh
+3. Chạy 2 phần mềm `transcribe_2_subtitles.exe` để tạo phụ đề, và `translate_subtitles.exe` để dịch phụ đề sang tiếng Việt và tiếng Anh
 
 Sau khi phần mềm chạy xong, vào thư mục `downloads/subs` sẽ thấy các file video gốc và các file phụ đề đã được tạo ra. 
 
@@ -22,6 +22,9 @@ Dùng một phần mềm xem video hỗ trợ chọn phụ đề (MX Player hay 
 
 Phụ đề gộp Trung-Việt-Pinyin
 
+## Lưu ý
+
+Thời gian chạy chương trình có thể khá lâu, tùy theo cấu hình máy tính, nên bạn hãy kiên nhẫn :)
 # Tip
 
 Cài thêm font chữ Mengshen ([hướng dẫn ở đây](https://catusf.github.io/posts/S%E1%BB%AD-d%E1%BB%A5ng-font-ch%E1%BB%AF-c%C3%B3-phi%C3%AAn-%C3%A2m-Pinyin/#2-t%E1%BA%A3i-font-v%C3%A0-v%C3%A0-s%E1%BB%AD-d%E1%BB%A5ng-n%C3%B3-%C4%91%E1%BB%8Dc-tr%C3%AAn-app) ) vào máy thì xem phụ để tiếng Trung mà có Pinyin ở trên có thể giúp nhớ cả mặt chữ.
