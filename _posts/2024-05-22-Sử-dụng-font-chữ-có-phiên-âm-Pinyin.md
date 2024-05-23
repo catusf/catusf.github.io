@@ -3,6 +3,8 @@ categories: [Tiện ích]
 tags: [tiếng Trung]
 ---
 
+Download: [Mengshen](https://github.com/catusf/catusf.github.io/blob/main/img/Mengshen-Pinyin.zip)
+
 Bài này giới thiệu một số kỹ thuật dùng font chữ tiếng Trung có kèm phiên âm [Pinyin](https://vi.wikipedia.org/wiki/B%C3%ADnh_%C3%A2m_H%C3%A1n_ng%E1%BB%AF).
 
 ## 1. Trên trình duyệt Chrome/Edge
