@@ -28,10 +28,13 @@ Use a video player that supports subtitle selection (such as MX Player or VLC Me
 Software interface
 <img src="https://catusf.github.io/img/Subtitle-ZH-VI-PY.png" alt="Combined Chinese-Vietnamese-Pinyin subtitles" width="50%"/>
 Combined Chinese-Vietnamese-Pinyin subtitles
-Notes
+
+## Notes
+
 The program running time may be quite long, depending on your computer's configuration, so please be patient :)
 
-Tip
+## Tip
+
 Installing the Mengshen font (guide here) on your computer can help you remember both the characters and the Pinyin when watching Chinese subtitles.
 
 <img src="https://catusf.github.io/img/Subtitle-ZH-with-Pinyin-Font.png" alt="Chinese subtitles with Pinyin font" width="50%"/>
