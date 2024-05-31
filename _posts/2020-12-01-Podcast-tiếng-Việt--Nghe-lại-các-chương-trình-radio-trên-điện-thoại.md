@@ -1,5 +1,6 @@
 ---
 categories: [Podcasts]
+comments: true
 tags: [podcast,sách nói,audiobook]
 pin: true
 ---

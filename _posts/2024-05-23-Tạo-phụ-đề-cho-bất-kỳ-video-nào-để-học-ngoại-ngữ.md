@@ -1,5 +1,6 @@
 ---
 categories: [Tiện ích]
+comments: true
 tags: [tiếng Trung]
 ---
 

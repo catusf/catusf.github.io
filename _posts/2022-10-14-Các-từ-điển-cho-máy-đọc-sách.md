@@ -1,5 +1,6 @@
 ---
 categories: [Từ điển]
+comments: true
 tags: [từ điển,lingvo,ebook,abbyy,kobo,stardict,tiếng việt,hán việt,anh việt]
 pin: true
 ---

@@ -1,5 +1,6 @@
 ---
 categories: [Từ điển, Phật học]
+comments: true
 tags: [từ điển,kindle,ebook,phật học, tiếng việt, hán việt,anh việt]
 ---
 

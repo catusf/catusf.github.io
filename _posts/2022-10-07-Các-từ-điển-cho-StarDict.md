@@ -1,5 +1,6 @@
 ---
 categories: [Từ điển, Phật học]
+comments: true
 tags: [từ điển,ebook,phật học,stardict,tiếng việt, hán việt,anh việt]
 ---
 [Download Các từ điển](https://github.com/catusf/tudien/releases/tag/v2.1)
