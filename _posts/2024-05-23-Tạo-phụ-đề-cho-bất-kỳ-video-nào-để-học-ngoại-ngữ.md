@@ -8,15 +8,17 @@ Bài này giới thiệu công cụ tạo phụ đề cho bất kỳ video bằn
 Sử dụng thư viện [Whisper](https://github.com/openai/whisper) của OpenAI (nổi tiếng với ChatGPT), tool này đọc 1 video bất kỳ và tự ghi ra nội dụng được trao đổi trong video. Tất nhiên là đọc máy thì không thể chính xác 100%, nhưng có thể giúp bạn một phần trong việc học ngoại ngũ.
 
 # Sử dụng
-1. Tải công cụ [create_subtitles](https://github.com/catusf/create_subtitles/releases/tag/v0.9)  
+1. Tải công cụ [transcribe](https://github.com/catusf/create_subtitles/releases/tag/v1.0) 
 
-2. Copy các file video (tốt nhất là dịnh dạng mp4) cần tạo phụ đề vào thư mục `downloads`
+2. Copy các file video (tốt nhất là dịnh dạng mp4) và audio cần tạo phụ đề vào thư mục `downloads`
 
-3. Chạy 2 phần mềm `transcribe_2_subtitles.exe` để tạo phụ đề, và `translate_subtitles.exe` để dịch phụ đề sang tiếng Việt và tiếng Anh
+3. Chạy phần mềm `transcribe.exe` để tạo phụ đề và dịch phụ đề (mặc định là tiếng Việt và tiếng Anh)
 
-Sau khi phần mềm chạy xong, vào thư mục `downloads/subs` sẽ thấy các file video gốc và các file phụ đề đã được tạo ra. 
+4. Sau khi phần mềm chạy xong, vào thư mục `downloads/subs` sẽ thấy các file video gốc và các file phụ đề đã được tạo ra. 
 
 Dùng một phần mềm xem video hỗ trợ chọn phụ đề (MX Player hay VLC Media Player) để xem.
+
+<img src="https://catusf.github.io/img/transcribe_gui.png" alt="Giao diện phần mềm tạo và dịch phụ đề" width="50%"/>
 
 <img src="https://catusf.github.io/img/Subtitle-ZH-VI-PY.png" alt="Phụ đề gộp Trung-Việt-Pinyin" width="50%"/>
 
