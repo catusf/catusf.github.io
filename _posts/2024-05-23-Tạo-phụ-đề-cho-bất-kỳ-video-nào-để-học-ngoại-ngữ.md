@@ -19,6 +19,7 @@ Sử dụng thư viện [Whisper](https://github.com/openai/whisper) của OpenA
 Dùng một phần mềm xem video hỗ trợ chọn phụ đề (MX Player hay VLC Media Player) để xem.
 
 <img src="https://catusf.github.io/img/transcribe_gui.png" alt="Giao diện phần mềm tạo và dịch phụ đề" width="50%"/>
+Giao diện phần mềm
 
 <img src="https://catusf.github.io/img/Subtitle-ZH-VI-PY.png" alt="Phụ đề gộp Trung-Việt-Pinyin" width="50%"/>
 
