@@ -1,10 +1,11 @@
 ---
-categories: [Utilities]
+categories: [Tiện ích], [Utilities]
 comments: true
-tags: [Chinese], [English], [tools], [transcribe]
+tags: [tiếng Trung], [Chinese], [English]
 title: Generate subtitle from media files
-
 ---
+
+
 
 Download: [transcribe](https://github.com/catusf/create_subtitles/releases/tag/v1.0) 
 
