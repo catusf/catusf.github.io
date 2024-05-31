@@ -1,7 +1,7 @@
 ---
 categories: [Từ điển, Trung-Việt, Pleco]
 comments: true
-tags: [từ điển, kindle, ebook, trung việt, pleco, radical]
+tags: [từ điển, kindle, ebook, trung việt, pleco, radical, English]
 title: Pleco Chinese Radical dictionaries
 
 ---
