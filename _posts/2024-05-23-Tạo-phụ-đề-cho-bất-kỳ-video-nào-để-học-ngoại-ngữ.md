@@ -1,7 +1,7 @@
 ---
 categories: [Tiện ích]
 comments: true
-tags: [tiếng Trung]
+tags: [tiếng Trung, Chinese, English]
 ---
 
 Download: [transcribe](https://github.com/catusf/create_subtitles/releases/tag/v1.0) 

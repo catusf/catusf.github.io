@@ -1,7 +1,7 @@
 ---
-categories: [Tiện ích], [Utilities]
+categories: [Tiện ích]
 comments: true
-tags: [tiếng Trung], [Chinese], [English]
+tags: [tiếng Trung, Chinese, English]
 title: Generate subtitle from media files
 ---
 
