@@ -4,14 +4,14 @@ comments: true
 tags: [tiếng Trung, Chinese]
 ---
 
-Download: [transcribe](https://github.com/catusf/create_subtitles/releases/tag/v1.0) 
+Download: [transcribe](https://github.com/catusf/transcribe/releases/download/v1.0/transcribe.zip)
 
 Bài này giới thiệu công cụ tạo phụ đề cho bất kỳ video bằng (gần như) bất kỳ ngôn ngũ nào.
 
 Sử dụng thư viện [Whisper](https://github.com/openai/whisper) của OpenAI (nổi tiếng với ChatGPT), tool này đọc 1 video bất kỳ và tự ghi ra nội dụng được trao đổi trong video. Tất nhiên là đọc máy thì không thể chính xác 100%, nhưng có thể giúp bạn một phần trong việc học ngoại ngũ.
 
 # Sử dụng
-1. Tải công cụ [transcribe](https://github.com/catusf/create_subtitles/releases/tag/v1.0) 
+1. Tải công cụ [transcribe](https://github.com/catusf/transcribe/releases/download/v1.0/transcribe.zip)
 
 2. Copy các file video (tốt nhất là dịnh dạng mp4) và audio cần tạo phụ đề vào thư mục `downloads`
 
