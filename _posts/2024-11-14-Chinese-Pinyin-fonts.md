@@ -1,7 +1,7 @@
 ---
 categories: [Tiện ích]
 comments: true
-tags: [tiếng Trung] [Chinese]
+tags: [tiếng Trung, Chinese]
 ---
 
 # Chinese Ruby Font
