@@ -8,7 +8,13 @@ tags: [tiếng Trung, Chinese]
 
 Chinese Ruby Fonts help students **learn and read foreign languages faster** by appending pronunciation or meaning to each glyph.
 
-Download [PinyinFonts.zip](https://github.com/catusf/ruby-font-creator/releases/download/v1.0/PinyinFonts.zip)
+How to use them? Please read [here](https://catusf.github.io/posts/S%E1%BB%AD-d%E1%BB%A5ng-font-ch%E1%BB%AF-c%C3%B3-phi%C3%AAn-%C3%A2m-Pinyin/)
+
+Cách sử dụng [Sử Dụng Font Chữ Có Phiên Âm Pinyin](https://catusf.github.io/posts/S%E1%BB%AD-d%E1%BB%A5ng-font-ch%E1%BB%AF-c%C3%B3-phi%C3%AAn-%C3%A2m-Pinyin/)
+
+## Download 
+
+[PinyinFonts.zip](https://github.com/catusf/ruby-font-creator/releases/download/v1.0/PinyinFonts.zip)
 
 ## Font Samplers
 
