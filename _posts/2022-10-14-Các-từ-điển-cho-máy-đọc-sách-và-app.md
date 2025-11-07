@@ -7,14 +7,17 @@ pin: true
 
 ## Các loại máy đọc sách/ứng dụng được hỗ trợ
 
-| Dạng file          | Máy đọc sách   |  Ứng dụng |
-|--|--|---|
-| Kindle (.mobi)     |  Amazon Kindle | [Kindle Android/Windows](https://www.amazon.com/b?ie=UTF8&node=16571048011)          |
+| Dạng file          | Máy đọc sách   |  Ứng dụng | Ghi chú |
+|--|--|--|--|
+| Kindle (.mobi)     |  Amazon Kindle | [Kindle Android/Windows](https://www.amazon.com/b?ie=UTF8&node=16571048011)          | Máy đọc sách phổ biến nhất |
 | Kobo (.kobo.zip)   |  Kobo          |           |
-| Yomitan/Yomichan   |  (không có)    | [Yomitan trên trình duyệt Chrome/Firefox/Edge](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn)          |
-| EPUB (.epub)       |  Kobo, Boox    | [Book Reader (Android)](https://f-droid.org/en/packages/com.github.axet.bookreader/),<br/> [Aldiko (Android, iOS)](https://www.demarque.com/aldiko) |
-| StarDict(.ifo)    | Onyx Book, Nook     | [KOReader (Android, Amazon Kindle, Kobo eReader, PocketBook, Cervantes)](https://koreader.rocks/),<br/> [Golden Dict (Linux, Windows)](http://goldendict.org/),<br/> [StarDict (Linux, Windows, Mac)](http://huzheng.org/stardict/),<br/> [GoldenDict Mobile Lite (Android)](http://goldendict.mobi/)     |
-| ABBYY Lingvo (.dsl) | (không có)     | [ABBY Lingvo (Windows, Mac, Android, iOS)](https://www.lingvo.ru/)    |
+| Yomitan/Yomichan   |  (không có)    | [Yomitan trên trình duyệt Chrome/Firefox/Edge](https://chromewebstore.google.com/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn)          | Phần mềm từ điển phổ biến chạy trên trình duyệt |
+| MDict   |  (không có)    | [App](https://www.mdict.cn/wp/?lang=en) trên điện thoại [Android](https://play.google.com/store/apps/details?id=cn.mdict) và [iPhone](https://itunes.apple.com/cn/app/mdict/id389083586?mt=8)         | App điện thoại miễn phí |
+| EPUB (.epub)       |  Kobo, Boox    | [Book Reader (Android)](https://f-droid.org/en/packages/com.github.axet.bookreader/),<br/> [Aldiko (Android, iOS)](https://www.demarque.com/aldiko) |    |
+| StarDict (.ifo)    | Onyx Book, Nook     | [KOReader (Android, Amazon Kindle, Kobo eReader, PocketBook, Cervantes)](https://koreader.rocks/),<br/> [Golden Dict (Linux, Windows)](http://goldendict.org/),<br/> [StarDict (Linux, Windows, Mac)](http://huzheng.org/stardict/),<br/> [GoldenDict Mobile Lite (Android)](http://goldendict.mobi/)     |   |
+| ABBYY Lingvo (.dsl) | (không có)     | [ABBY Lingvo (Windows, Mac, Android, iOS)](https://www.lingvo.ru/)    |   |
+| Pleco   |  (không có)    | [App](https://www.pleco.com/) trên điện thoại [Android](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem)  và [iPhone](https://itunes.apple.com/us/app/pleco-chinese-dictionary/id341922306?mt=8&uo=4&at=11l4Wi)         | App từ điển tiếng Trung tốt nhất  |
+
     
 ## Danh sách từ điển và liên kết download
 
