@@ -3,3 +3,10 @@ layout: tags
 icon: fas fa-tags
 order: 2
 ---
+
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '1436371718036783226', // Từ điển/Dictionaries  github.com/catusf/tudien
+        channel: '1436371719152472177' // #general
+    })
+</script>
