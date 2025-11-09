@@ -5,6 +5,12 @@ tags: [từ điển,lingvo,ebook,abbyy,kobo,stardict,yomichan,yomitan,boox,tiế
 pin: true
 ---
 
+## Cập nhật
+
+- 9/11/2025: Thêm định dạng từ điển cho các ứng dụng [Pleco](https://www.pleco.com/) và [MDdict](https://www.mdict.cn/wp/?lang=en)
+
+- 7/11/2025: Thêm Từ điển Câu chuyện chữ Hán bằng tiếng Việt (#32 trong bảng)
+ 
 ## Các loại máy đọc sách/ứng dụng được hỗ trợ
 
 | Dạng file          | Máy đọc sách   |  Ứng dụng | Ghi chú |
