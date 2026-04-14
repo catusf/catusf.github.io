@@ -28,8 +28,8 @@
 </style>
 </head>
 <body>
-<script src="phan-nav.js" data-active="reverser"></script>
-<script src="phan-shared.js"></script>
+<script src="ged-nav.js" data-active="reverser"></script>
+<script src="ged-shared.js"></script>
 <div class="content"><div class="wrapper" id="mainWrap">
 
   <header>
@@ -72,10 +72,10 @@
 
 <script>
 // ── Init shared action bar ───────────────────
-PhanFile.createActionBar(document.getElementById('dropArea'), {
+GedFile.createActionBar(document.getElementById('dropArea'), {
   onFile: function(text, name) { fileName = name; originalText = text; showChip(name); process(); }
 });
-PhanFile.autoLoadFromParams(function(text, name) { fileName = name; originalText = text; showChip(name); process(); });
+GedFile.autoLoadFromParams(function(text, name) { fileName = name; originalText = text; showChip(name); process(); });
 
 // ── Drag & drop on the dropzone ──────────────
 let originalText='',processedText='',fileName='';

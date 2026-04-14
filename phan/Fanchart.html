@@ -303,8 +303,8 @@ body {
 </style>
 </head>
 <body>
-<script src="phan-nav.js" data-active="fanchart"></script>
-<script src="phan-shared.js"></script>
+<script src="ged-nav.js" data-active="fanchart"></script>
+<script src="ged-shared.js"></script>
 
 <!-- TOOLBAR -->
 <div id="toolbar">
@@ -355,7 +355,7 @@ body {
 </div>
 </div>
 
-<!-- URL MODAL provided by phan-shared.js -->
+<!-- URL MODAL provided by ged-shared.js -->
 
 <!-- CANVAS -->
 <div id="canvas-container">
@@ -415,9 +415,9 @@ body {
       document.getElementById('gen-value').textContent = slider.value;
     };
 
-    // ── URL Loading via shared PhanFile ─────────
+    // ── URL Loading via shared GedFile ─────────
     document.getElementById('url-btn').onclick = () => {
-      PhanFile.showUrlModal(function(text) {
+      GedFile.showUrlModal(function(text) {
         if (typeof initChart === 'function') {
           initChart(text);
           document.getElementById('upload-overlay').classList.add('hidden');
@@ -426,7 +426,7 @@ body {
     };
 
     // ── Auto-load from ?url= parameter ──────────
-    PhanFile.autoLoadFromParams(function(text) {
+    GedFile.autoLoadFromParams(function(text) {
       if (typeof initChart === 'function') {
         initChart(text);
         document.getElementById('upload-overlay').classList.add('hidden');

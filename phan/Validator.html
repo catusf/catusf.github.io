@@ -176,18 +176,14 @@ main{position:relative;z-index:10;max-width:1280px;margin:0 auto;padding:36px 48
 </style>
 </head>
 <body>
-<script src="phan-nav.js" data-active="validator"></script>
-<script src="phan-shared.js"></script>
+<script src="ged-nav.js" data-active="validator"></script>
+<script src="ged-shared.js"></script>
 
 <header class="tool-header">
   <div class="hico">🔍</div>
   <div>
     <h1>GEDCOM Validator</h1>
     <p>Kiểm tra sinh học · thời gian · giới tính · quan hệ · family trùng lặp · family trống</p>
-    <div class="meta">
-      <span class="chip">GEDCOM 5.5 / 5.5.1</span>
-      <span class="chip">UTF-8</span>
-    </div>
   </div>
 </header>
 
@@ -741,48 +737,18 @@ function filt(sid,tid){
   const q=document.getElementById(sid).value.toLowerCase();
   document.querySelectorAll('#'+tid+' tbody tr').forEach(r=>{ r.style.display=r.textContent.toLowerCase().includes(q)?'':'none'; });
 }
-function processFile(file){
-  if(!file) return;
-  document.getElementById('dropzone').style.display='none';
-  document.getElementById('loading').style.display='block';
-  const reader=new FileReader();
-  reader.onload=e=>{
-    const text=e.target.result;
-    setTimeout(()=>{
-      try{
-        document.getElementById('lmsg').textContent='Đang phân tích cấu trúc GEDCOM...';
-        const data=parseGEDCOM(text);
-        document.getElementById('lmsg').textContent='Đang chạy các quy tắc kiểm tra...';
-        setTimeout(()=>{ renderReport(file.name,data,validate(data)); },0);
-      }catch(err){
-        document.getElementById('loading').innerHTML=`<div style="color:var(--red);font-size:14px">❌ Lỗi: ${esc(err.message)}</div>`;
-      }
-    },0);
-  };
-  reader.readAsText(file,'UTF-8');
-}
 function reset(){
   document.getElementById('dropzone').style.display='block';
   document.getElementById('report').style.display='none';
   document.getElementById('loading').style.display='none';
   document.getElementById('finput').value='';
 }
-document.getElementById('finput').addEventListener('change',e=>{ if(e.target.files[0]) processFile(e.target.files[0]); });
-const dz=document.getElementById('dropzone');
-dz.addEventListener('dragover',e=>{ e.preventDefault(); dz.classList.add('over'); });
-dz.addEventListener('dragleave',()=>dz.classList.remove('over'));
-dz.addEventListener('drop',e=>{
-  e.preventDefault(); dz.classList.remove('over');
-  const f=e.dataTransfer.files[0];
-  if(f&&/\.ged$/i.test(f.name)) processFile(f); else alert('Vui lòng chọn file .ged');
-});
 
-
-// ── Standardized action bar ──────────────────
-PhanFile.createActionBar(document.getElementById('fileArea'), {
+// ── Standardized action bar (File + URL buttons) ──
+GedFile.createActionBar(document.getElementById('fileArea'), {
   onFile: function(text, name) { processText(text, name); }
 });
-PhanFile.autoLoadFromParams(function(text, name) { processText(text, name); });
+GedFile.autoLoadFromParams(function(text, name) { processText(text, name); });
 
 function processText(text, filename) {
   document.getElementById('dropzone').style.display = 'none';
@@ -799,7 +765,7 @@ function processText(text, filename) {
   }, 50);
 }
 
-// ── Legacy file input + drag/drop ────────────
+// ── File input + drag/drop on dropzone ────────
 document.getElementById('finput').addEventListener('change', e => {
   if (e.target.files[0]) {
     const f = e.target.files[0];
