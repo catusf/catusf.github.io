@@ -1,0 +1,11304 @@
+0 HEAD
+1 SOUR Family Echo
+2 WWW https://www.familyecho.com/
+1 FILE Họ Phan
+1 DATE 13 APR 2026
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I2@
+2 NAME Catus Phan
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Phan Thị /Thăng/
+2 GIVN Phan Thị
+2 SURN Thăng
+1 SEX F
+1 FAMC @F1@
+2 PEDI birth
+0 @I2@ INDI
+1 NAME Phan Tất /Diễn/
+2 GIVN Phan Tất
+2 SURN Diễn
+1 SEX M
+1 NOTE Bio notes: Tự Huệ Minh; Giỗ 15-8; Mộ tại Đồi Sơn
+1 FAMS @F2@
+0 @I3@ INDI
+1 NAME Phan Tất /Hào/
+2 GIVN Phan Tất
+2 SURN Hào
+1 SEX M
+1 DEAT Y
+1 NOTE Bio notes: Tự Huệ Minh; Mộ tại Bàu Dợi
+1 FAMS @F3@
+1 FAMC @F2@
+2 PEDI birth
+0 @I4@ INDI
+1 NAME Phan Tất /Kính/
+2 GIVN Phan Tất
+2 SURN Kính
+1 SEX M
+1 NOTE Bio notes: Giỗ 15-2; Mộ tại Đồi Sơn
+1 FAMS @F4@
+1 FAMC @F3@
+2 PEDI birth
+0 @I5@ INDI
+1 NAME Phan Tất /Hiền/
+2 GIVN Phan Tất
+2 SURN Hiền
+1 SEX M
+1 NOTE Bio notes: Giỗ 1-8; Mộ tại Đồi Sơn
+1 FAMS @F5@
+1 FAMC @F4@
+2 PEDI birth
+0 @I6@ INDI
+1 NAME Phan Tất /Hành/
+2 GIVN Phan Tất
+2 NICK Tự Doãn Trung
+2 SURN Hành
+1 SEX M
+1 NOTE Bio notes: Giỗ 1-4; Mộ tại Đồi Sơn
+1 FAMS @F7@
+1 FAMC @F5@
+2 PEDI birth
+0 @I7@ INDI
+1 NAME Phan Tất /Lượng/
+2 GIVN Phan Tất
+2 NPFX Tự Đạo Hành
+2 SURN Lượng
+1 SEX M
+1 NOTE Bio notes: Giỗ 24-8; Mộ tại Làng Trung; Bà Hoàng Thị Nghĩa
+1 FAMS @F6@
+1 FAMC @F7@
+2 PEDI birth
+0 @I8@ INDI
+1 NAME Hoàng Thị /Nghĩa/
+2 GIVN Hoàng Thị
+2 SURN Nghĩa
+1 SEX F
+1 FAMS @F6@
+0 @I9@ INDI
+1 NAME Phan Tất /Thông/
+2 GIVN Phan Tất
+2 NICK Tự Đạo Thái
+2 SURN Thông
+1 SEX M
+1 NOTE Bio notes: Giỗ 16-8; Mộ tại Bàu Dợi; Di tích lịch sử - văn hóa cấp Quốc gia QĐ 188-BVH ngày 13-2-1995 ở xã Hoa Thành-Yên Thành-Nghệ An; bia đá Tiến sĩ ở Văn Miếu - Quốc Tử Giám Hà Nội
+1 FAMS @F8@
+1 FAMS @F9@
+1 FAMC @F6@
+2 PEDI birth
+0 @I10@ INDI
+1 NAME Hoàng Thị /Hòa/
+2 GIVN Hoàng Thị
+2 SURN Hòa
+1 SEX F
+1 FAMS @F8@
+0 @I11@ INDI
+1 NAME Hoàng Thị /Nghi/
+2 GIVN Hoàng Thị
+2 SURN Nghi
+1 SEX F
+1 FAMS @F9@
+0 @I12@ INDI
+1 NAME Phan Tất /Văn/
+2 GIVN Phan Tất
+2 SURN Văn
+1 SEX M
+1 FAMS @F10@
+1 FAMC @F8@
+2 PEDI birth
+0 @I13@ INDI
+1 NAME Nguyễn Thị /Điều/
+2 GIVN Nguyễn Thị
+2 SURN Điều
+1 SEX F
+1 FAMS @F10@
+0 @I14@ INDI
+1 NAME Phan Tất /Cẩn/
+2 GIVN Phan Tất
+2 SURN Cẩn
+1 SEX M
+1 FAMS @F11@
+1 FAMC @F8@
+2 PEDI birth
+0 @I15@ INDI
+1 NAME Phan Thị /Xuyên/
+2 GIVN Phan Thị
+2 SURN Xuyên
+1 SEX F
+1 FAMS @F11@
+0 @I16@ INDI
+1 NAME Phan Tất /Đạo/
+2 GIVN Phan Tất
+2 SURN Đạo
+1 SEX M
+1 NOTE Bio notes: Giỗ 1-12
+1 FAMS @F13@
+1 FAMC @F8@
+2 PEDI birth
+0 @I17@ INDI
+1 NAME Phan Tất /Vinh/
+2 GIVN Phan Tất
+2 SURN Vinh
+1 SEX M
+1 NOTE Bio notes: Giỗ 12-1; Thọ 85 tuổi; Lưu lạc ở Quỳnh Lưu
+1 FAMC @F10@
+2 PEDI birth
+0 @I18@ INDI
+1 NAME Phan Tất /Nguyên/
+2 GIVN Phan Tất
+2 SURN Nguyên
+1 SEX M
+1 NOTE Bio notes: Giỗ 20-5
+1 FAMS @F15@
+1 FAMC @F10@
+2 PEDI birth
+0 @I19@ INDI
+1 NAME Phan Tất /Thủ/
+2 GIVN Phan Tất
+2 SURN Thủ
+1 SEX M
+1 NOTE Bio notes: Ô này ở Đức Thanh - Đức Thọ - Hà Tĩnh
+1 FAMC @F11@
+2 PEDI birth
+0 @I20@ INDI
+1 NAME Phan Tất /Tráng/
+2 GIVN Phan Tất
+2 SURN Tráng
+1 SEX M
+1 NOTE Bio notes: Ô này ở Đức Thuận - Đức Thọ - Hà Tĩnh
+1 FAMC @F11@
+2 PEDI birth
+0 @I21@ INDI
+1 NAME Phan Tất /Nghiêm/
+2 GIVN Phan Tất
+2 SURN Nghiêm
+1 SEX M
+1 FAMC @F11@
+2 PEDI birth
+0 @I22@ INDI
+1 NAME Phan Tất /Bài/
+2 GIVN Phan Tất
+2 SURN Bài
+1 SEX M
+1 FAMC @F11@
+2 PEDI birth
+0 @I23@ INDI
+1 NAME Phan Tất /Đắc/
+2 GIVN Phan Tất
+2 SURN Đắc
+1 SEX M
+1 FAMC @F11@
+2 PEDI birth
+0 @I24@ INDI
+1 NAME Phan Tất /Thung/
+2 GIVN Phan Tất
+2 SURN Thung
+1 SEX M
+1 FAMC @F11@
+2 PEDI birth
+0 @I25@ INDI
+1 NAME Phan Tất /Hữu/
+2 GIVN Phan Tất
+2 SURN Hữu
+1 SEX M
+1 NOTE Bio notes: Phải lánh nạn đến xã Ngô Đồng-Nam Sách-Hải Hưng
+1 FAMS @F12@
+1 FAMC @F11@
+2 PEDI birth
+0 @I26@ INDI
+1 NAME Bùi Thị /Chừng/
+2 GIVN Bùi Thị
+2 SURN Chừng
+1 SEX F
+1 FAMS @F12@
+0 @I27@ INDI
+1 NAME Phan Tất /Thanh/
+2 GIVN Phan Tất
+2 SURN Thanh
+1 SEX M
+1 NOTE Bio notes: Giỗ 17-12
+1 FAMC @F13@
+2 PEDI birth
+0 @I28@ INDI
+1 NAME Phan Tất /Thành/
+2 GIVN Phan Tất
+2 SURN Thành
+1 SEX M
+1 FAMC @F13@
+2 PEDI birth
+0 @I29@ INDI
+1 NAME Phan Tất /Hữu/
+2 GIVN Phan Tất
+2 SURN Hữu
+1 SEX M
+1 FAMC @F13@
+2 PEDI birth
+0 @I30@ INDI
+1 NAME Phan Thọ /Sinh/
+2 GIVN Phan Thọ
+2 SURN Sinh
+1 SEX M
+1 NOTE Bio notes: Giỗ 1-12
+1 FAMC @F13@
+2 PEDI birth
+0 @I31@ INDI
+1 NAME Phan Huệ /Yên/
+2 GIVN Phan Huệ
+2 SURN Yên
+1 SEX M
+1 NOTE Bio notes: Giỗ 3-9
+1 FAMC @F13@
+2 PEDI birth
+0 @I32@ INDI
+1 NAME Phan Tất /Cường/
+2 GIVN Phan Tất
+2 SURN Cường
+1 SEX M
+1 NOTE Bio notes: Giỗ 16-11
+1 FAMS @F14@
+1 FAMC @F15@
+2 PEDI birth
+0 @I33@ INDI
+1 NAME Hồ Thị /Quy/
+2 GIVN Hồ Thị
+2 SURN Quy
+1 SEX F
+1 NOTE Bio notes: Giỗ 6-11
+1 FAMS @F14@
+0 @I34@ INDI
+1 NAME Phan Đạo /Quang/
+2 GIVN Phan Đạo
+2 SURN Quang
+1 SEX M
+1 FAMS @F21@
+1 FAMC @F15@
+2 PEDI birth
+0 @I35@ INDI
+1 NAME Phan Tất /Dực/
+2 GIVN Phan Tất
+2 SURN Dực
+1 SEX M
+1 FAMC @F12@
+2 PEDI birth
+0 @I36@ INDI
+1 NAME Phan Tất /Thắng/
+2 GIVN Phan Tất
+2 SURN Thắng
+1 SEX M
+1 NOTE Bio notes: Giỗ 2-9
+1 FAMS @F16@
+1 FAMC @F12@
+2 PEDI birth
+0 @I37@ INDI
+1 NAME Họ Phan /Bà/
+2 GIVN Họ Phan
+2 SURN Bà
+1 SEX F
+1 NOTE Bio notes: Giỗ 12-9
+1 FAMS @F16@
+0 @I38@ INDI
+1 NAME Phan Tất /Tế/
+2 GIVN Phan Tất
+2 SURN Tế
+1 SEX M
+1 FAMC @F12@
+2 PEDI birth
+0 @I39@ INDI
+1 NAME Phan Tất /Lân/
+2 GIVN Phan Tất
+2 SURN Lân
+1 SEX M
+1 FAMC @F12@
+2 PEDI birth
+0 @I40@ INDI
+1 NAME Phan Tất /Hiềng/
+2 GIVN Phan Tất
+2 SURN Hiềng
+1 SEX M
+1 FAMC @F12@
+2 PEDI birth
+0 @I41@ INDI
+1 NAME Phan Tất /Xứng/
+2 GIVN Phan Tất
+2 SURN Xứng
+1 SEX M
+1 NOTE Bio notes: Giỗ 28-5
+1 FAMS @F17@
+1 FAMS @F18@
+1 FAMC @F14@
+2 PEDI birth
+0 @I42@ INDI
+1 NAME Phan Thị /Xa/
+2 GIVN Phan Thị
+2 SURN Xa
+1 SEX F
+1 NOTE Bio notes: Giỗ 3-8
+1 FAMS @F17@
+0 @I43@ INDI
+1 NAME Phan Thị /Phụng/
+2 GIVN Phan Thị
+2 SURN Phụng
+1 SEX F
+1 FAMS @F18@
+0 @I44@ INDI
+1 NAME Phan Tất /Hiến (Nghị)/
+2 GIVN Phan Tất
+2 SURN Hiến (Nghị)
+1 SEX M
+1 NOTE Bio notes: Chi ở xã Nam Thành-Yên Thành-Nghệ An
+1 FAMS @F19@
+1 FAMC @F14@
+2 PEDI birth
+0 @I45@ INDI
+1 NAME Phan Thị /Dung/
+2 GIVN Phan Thị
+2 SURN Dung
+1 SEX F
+1 FAMS @F19@
+0 @I46@ INDI
+1 NAME Phan Công /Tước/
+2 GIVN Phan Công
+2 NICK Hiệu Phúc Lộc
+2 NPFX Hiệu Phúc Lộc
+2 SURN Tước
+1 SEX M
+1 NOTE Bio notes: Hiệu Phúc Lộc
+1 FAMS @F20@
+1 FAMC @F21@
+2 PEDI birth
+0 @I47@ INDI
+1 NAME Họ Nguyễn /Bà/
+2 GIVN Họ Nguyễn
+2 SURN Bà
+1 SEX F
+1 FAMS @F20@
+0 @I48@ INDI
+1 NAME Phan Tất /Phú/
+2 GIVN Phan Tất
+2 SURN Phú
+1 SEX M
+1 FAMC @F17@
+2 PEDI birth
+0 @I49@ INDI
+1 NAME Phan Tất /Tạo/
+2 GIVN Phan Tất
+2 SURN Tạo
+1 SEX M
+1 NOTE Bio notes: Giỗ 13-2; Nối đời chi ở Yên Thành Nghệ An
+1 FAMS @F22@
+1 FAMC @F17@
+2 PEDI birth
+0 @I50@ INDI
+1 NAME Nguyễn Thị /Chiêm/
+2 GIVN Nguyễn Thị
+2 SURN Chiêm
+1 SEX F
+1 NOTE Bio notes: Giỗ 1-1
+1 FAMS @F22@
+0 @I51@ INDI
+1 NAME Phan Tất /Diệp/
+2 GIVN Phan Tất
+2 SURN Diệp
+1 SEX M
+1 FAMC @F17@
+2 PEDI birth
+0 @I52@ INDI
+1 NAME Phan Tất /Kế/
+2 GIVN Phan Tất
+2 SURN Kế
+1 SEX M
+1 FAMC @F17@
+2 PEDI birth
+0 @I53@ INDI
+1 NAME Phan Công /Huệ/
+2 GIVN Phan Công
+2 SURN Huệ
+1 SEX M
+1 NOTE Bio notes: Còn gọi Phan Tất Tuyến?; Giỗ 5-10; Mộ ở Kẻ Duộc-Yên Thành-Gốc cây cổ thụ
+1 FAMS @F23@
+1 FAMC @F20@
+2 PEDI birth
+0 @I54@ INDI
+1 NAME Nguyễn Thị /Hào/
+2 GIVN Nguyễn Thị
+2 SURN Hào
+1 SEX F
+1 NOTE Bio notes: Giỗ 23-5; Mộ ở Cồn Sơn
+1 FAMS @F23@
+0 @I55@ INDI
+1 NAME Phan Võ /Giang/
+2 GIVN Phan Võ
+2 SURN Giang
+1 SEX M
+1 NOTE Bio notes: Kỳ 9-4; Mộ Ô được đưa vào Thanh Chí 1994 nhưng vợ ô lúc còn sống cùng với con trai là Phan Công Thu và cháu ruột gọi bằng mự là Phan Công Hào 1795
+1 FAMS @F24@
+1 FAMC @F23@
+2 PEDI birth
+0 @I56@ INDI
+1 NAME Nguyễn Thị /Thu/
+2 GIVN Nguyễn Thị
+2 SURN Thu
+1 SEX F
+1 NOTE Bio notes: Kỵ 17-5
+1 FAMS @F24@
+0 @I57@ INDI
+1 NAME Ông /Hòe/
+2 GIVN Ông
+2 SURN Hòe
+1 SEX M
+1 FAMC @F23@
+2 PEDI birth
+0 @I58@ INDI
+1 NAME Bác /Hai/
+2 GIVN Bác
+2 SURN Hai
+1 SEX M
+1 FAMC @F23@
+2 PEDI birth
+0 @I59@ INDI
+1 NAME Phan Công /Giáp/
+2 GIVN Phan Công
+2 SURN Giáp
+1 SEX M
+1 FAMS @F25@
+1 FAMC @F23@
+2 PEDI birth
+0 @I60@ INDI
+1 NAME Nguyễn Thị /Thu (em)/
+2 GIVN Nguyễn Thị
+2 SURN Thu (em)
+1 SEX F
+1 NOTE Bio notes: Em gái ruột của vợ ông Võ Giang; Mộ ở Yên Thành-Nghệ An
+1 FAMS @F25@
+0 @I61@ INDI
+1 NAME Phan Công /Thu/
+2 GIVN Phan Công
+2 SURN Thu
+1 SEX M
+1 NOTE Bio notes: Kỵ 21-3; Vào xã Thanh Chi-Thanh Chương năm 1795 cùng mẹ là bà Nguyễn Thị Thu
+1 FAMS @F28@
+1 FAMC @F24@
+2 PEDI birth
+0 @I62@ INDI
+1 NAME Phan Thị /Mè/
+2 GIVN Phan Thị
+2 SURN Mè
+1 SEX F
+1 NOTE Bio notes: Kỵ 7-3
+1 FAMC @F24@
+2 PEDI birth
+0 @I63@ INDI
+1 NAME Phan Công /Hào/
+2 GIVN Phan Công
+2 SURN Hào
+1 SEX M
+1 NOTE Bio notes: Vào Thanh Chí 1795 cùng thím ruột là vợ ô Phan Võ Giang
+1 FAMS @F1@
+1 FAMC @F25@
+2 PEDI birth
+0 @I64@ INDI
+1 NAME Phan Công /Trực/
+2 GIVN Phan Công
+2 SURN Trực
+1 SEX M
+1 NOTE Bio notes: Bị thất lạc, không rõ tung tích
+1 FAMC @F25@
+2 PEDI birth
+0 @I65@ INDI
+1 NAME Phan Công /Mạnh/
+2 GIVN Phan Công
+2 SURN Mạnh
+1 SEX M
+1 NOTE Bio notes: Kỵ 21-8
+1 FAMS @F26@
+1 FAMS @F27@
+1 FAMC @F28@
+2 PEDI birth
+0 @I66@ INDI
+1 NAME Phạm Thị /.../
+2 GIVN Phạm Thị
+2 SURN ...
+1 SEX F
+1 NOTE Bio notes: Kỵ 7-8
+1 FAMS @F26@
+0 @I67@ INDI
+1 NAME Phan Công /Minh/
+2 GIVN Phan Công
+2 SURN Minh
+1 SEX M
+1 NOTE Bio notes: Vô tự
+1 FAMC @F28@
+2 PEDI birth
+0 @I68@ INDI
+1 NAME Phan Công /Khương/
+2 GIVN Phan Công
+2 SURN Khương
+1 SEX M
+1 FAMS @F30@
+1 FAMC @F28@
+2 PEDI birth
+0 @I69@ INDI
+1 NAME Phan Thị /Nha/
+2 GIVN Phan Thị
+2 SURN Nha
+1 SEX F
+1 FAMC @F1@
+2 PEDI birth
+0 @I70@ INDI
+1 NAME Phan Công /Đề/
+2 GIVN Phan Công
+2 SURN Đề
+1 SEX M
+1 BIRT
+2 DATE 1775
+1 DEAT Y
+2 DATE 1838
+1 FAMS @F31@
+1 FAMC @F1@
+2 PEDI birth
+0 @I71@ INDI
+1 NAME Phan Công /Nậm/
+2 GIVN Phan Công
+2 SURN Nậm
+1 SEX M
+1 NOTE Bio notes: Kỵ 3-12; Tục Niệm 1830(?)
+1 FAMS @F29@
+1 FAMS @F33@
+1 FAMC @F26@
+2 PEDI birth
+0 @I72@ INDI
+1 NAME Phan Công /Hùng/
+2 GIVN Phan Công
+2 SURN Hùng
+1 SEX M
+1 NOTE Bio notes: Vô tự
+1 FAMC @F26@
+2 PEDI birth
+0 @I73@ INDI
+1 NAME Phan Công /Hòa/
+2 GIVN Phan Công
+2 SURN Hòa
+1 SEX M
+1 NOTE Bio notes: Kỵ 26-3; Vô tự
+1 FAMC @F26@
+2 PEDI birth
+0 @I74@ INDI
+1 NAME Phan Công /Cường/
+2 GIVN Phan Công
+2 SURN Cường
+1 SEX M
+1 NOTE Bio notes: Kỵ 25-2
+1 FAMC @F26@
+2 PEDI birth
+0 @I75@ INDI
+1 NAME Phan Doãn /Bớ/
+2 GIVN Phan Doãn
+2 SURN Bớ
+1 SEX M
+1 FAMS @F36@
+1 FAMC @F30@
+2 PEDI birth
+0 @I76@ INDI
+1 NAME Phan Doãn /Tuội/
+2 GIVN Phan Doãn
+2 NPFX Cha
+2 SURN Tuội
+1 SEX M
+1 FAMS @F38@
+1 FAMC @F30@
+2 PEDI birth
+0 @I77@ INDI
+1 NAME Phan Thị /Huân/
+2 GIVN Phan Thị
+2 SURN Huân
+1 SEX F
+1 FAMC @F31@
+2 PEDI birth
+0 @I78@ INDI
+1 NAME Phan Doãn /Nhợ/
+2 GIVN Phan Doãn
+2 SURN Nhợ
+1 SEX M
+1 BIRT
+2 DATE 1808
+1 DEAT Y
+2 DATE 1869
+1 FAMS @F39@
+1 FAMC @F31@
+2 PEDI birth
+0 @I79@ INDI
+1 NAME Phan /Tuân/
+2 GIVN Phan
+2 SURN Tuân
+1 SEX M
+1 BIRT
+2 DATE 1843
+1 DEAT Y
+2 DATE 1901
+1 NOTE Bio notes: Kỵ 20-3
+1 FAMS @F32@
+1 FAMC @F33@
+2 PEDI birth
+0 @I80@ INDI
+1 NAME Nguyễn Thị /Biên/
+2 GIVN Nguyễn Thị
+2 SURN Biên
+1 SEX F
+1 NOTE Bio notes: Kỵ 4-4
+1 FAMS @F32@
+0 @I81@ INDI
+1 NAME Phan Doãn /Trực/
+2 GIVN Phan Doãn
+2 SURN Trực
+1 SEX M
+1 BIRT
+2 DATE 1855
+1 DEAT Y
+2 DATE 1909
+1 FAMS @F34@
+1 FAMC @F33@
+2 PEDI birth
+0 @I82@ INDI
+1 NAME Nguyễn Thị /Đàn/
+2 GIVN Nguyễn Thị
+2 SURN Đàn
+1 SEX F
+1 BIRT
+2 DATE 1855
+1 DEAT Y
+2 DATE 1953
+1 FAMS @F34@
+0 @I83@ INDI
+1 NAME Phan Doãn /Quế/
+2 GIVN Phan Doãn
+2 SURN Quế
+1 SEX M
+1 BIRT
+2 DATE 1859
+1 DEAT Y
+1 FAMS @F35@
+1 FAMC @F33@
+2 PEDI birth
+0 @I84@ INDI
+1 NAME Nguyễn Thị /Đênh/
+2 GIVN Nguyễn Thị
+2 SURN Đênh
+1 SEX F
+1 FAMS @F35@
+0 @I85@ INDI
+1 NAME Phan Doãn /Khai/
+2 GIVN Phan Doãn
+2 SURN Khai
+1 SEX M
+1 FAMS @F50@
+1 FAMC @F36@
+2 PEDI birth
+0 @I86@ INDI
+1 NAME Phan Doãn /Kiêu/
+2 GIVN Phan Doãn
+2 SURN Kiêu
+1 SEX M
+1 FAMS @F52@
+1 FAMC @F36@
+2 PEDI birth
+0 @I87@ INDI
+1 NAME Phan Doãn /Tuội/
+2 GIVN Phan Doãn
+2 SURN Tuội
+1 SEX M
+1 FAMS @F37@
+1 FAMC @F38@
+2 PEDI birth
+0 @I88@ INDI
+1 NAME Nguyễn Thị /Thuận/
+2 GIVN Nguyễn Thị
+2 SURN Thuận
+1 SEX F
+1 FAMS @F37@
+0 @I89@ INDI
+1 NAME Phan Doãn /Chía/
+2 GIVN Phan Doãn
+2 SURN Chía
+1 SEX M
+1 FAMS @F55@
+1 FAMC @F38@
+2 PEDI birth
+0 @I90@ INDI
+1 NAME Phan Thị /Hạc/
+2 GIVN Phan Thị
+2 SURN Hạc
+1 SEX F
+1 FAMC @F39@
+2 PEDI birth
+0 @I91@ INDI
+1 NAME Phan Thị /Hồng/
+2 GIVN Phan Thị
+2 SURN Hồng
+1 SEX F
+1 FAMC @F39@
+2 PEDI birth
+0 @I92@ INDI
+1 NAME Phan Doãn /Thấu/
+2 GIVN Phan Doãn
+2 SURN Thấu
+1 SEX M
+1 BIRT
+2 DATE 1839
+1 DEAT Y
+2 DATE 1881
+1 FAMS @F56@
+1 FAMC @F39@
+2 PEDI birth
+0 @I93@ INDI
+1 NAME Phan Doãn /Phùng/
+2 GIVN Phan Doãn
+2 SURN Phùng
+1 SEX M
+1 FAMS @F57@
+1 FAMC @F39@
+2 PEDI birth
+0 @I94@ INDI
+1 NAME Phan Doãn /Dật/
+2 GIVN Phan Doãn
+2 SURN Dật
+1 SEX M
+1 FAMS @F272@
+1 FAMC @F39@
+2 PEDI birth
+0 @I95@ INDI
+1 NAME Phan Doãn /Địch/
+2 GIVN Phan Doãn
+2 SURN Địch
+1 SEX M
+1 BIRT
+2 DATE 1875
+1 DEAT Y
+2 DATE 1925
+1 NOTE Bio notes: Kỵ 18-6
+1 FAMS @F40@
+1 FAMS @F41@
+1 FAMC @F32@
+2 PEDI birth
+0 @I96@ INDI
+1 NAME Tôn Thị /Tuân/
+2 GIVN Tôn Thị
+2 SURN Tuân
+1 SEX F
+1 BIRT
+2 DATE 1875
+1 DEAT Y
+2 DATE 1958
+1 NOTE Bio notes: Kỵ 1-12
+1 FAMS @F40@
+0 @I97@ INDI
+1 NAME Phan Doãn /Đức/
+2 GIVN Phan Doãn
+2 SURN Đức
+1 SEX M
+1 BIRT
+2 DATE 1893
+1 DEAT Y
+2 DATE 1931
+1 NOTE Bio notes: Tức Ông Viện; V 19Đ30-1931
+1 FAMS @F42@
+1 FAMC @F32@
+2 PEDI birth
+0 @I98@ INDI
+1 NAME Nguyễn Thị /Thăng/
+2 GIVN Nguyễn Thị
+2 SURN Thăng
+1 SEX F
+1 DEAT Y
+2 DATE 1936
+1 NOTE Bio notes: MVNAH - 18
+1 FAMS @F42@
+0 @I99@ INDI
+1 NAME Phan Quang /Cận/
+2 GIVN Phan Quang
+2 SURN Cận
+1 SEX M
+1 BIRT
+2 DATE 1876
+1 DEAT Y
+2 DATE 1936
+1 NOTE Bio notes: Tục Ô Cẩn Đoàn; ĐV1930-31
+1 FAMS @F43@
+1 FAMC @F32@
+2 PEDI birth
+0 @I100@ INDI
+1 NAME Hồ Thị /Đích/
+2 GIVN Hồ Thị
+2 SURN Đích
+1 SEX F
+1 BIRT
+2 DATE 1880
+1 DEAT Y
+2 DATE 1954
+1 FAMS @F43@
+0 @I101@ INDI
+1 NAME Phan Doãn /Tuy/
+2 GIVN Phan Doãn
+2 SURN Tuy
+1 SEX M
+1 BIRT
+2 DATE 1895
+1 DEAT Y
+1 NOTE Bio notes: Vô tự
+1 FAMC @F32@
+2 PEDI birth
+0 @I102@ INDI
+1 NAME Phan Doãn /Tao/
+2 GIVN Phan Doãn
+2 SURN Tao
+1 SEX M
+1 BIRT
+2 DATE 1895
+1 DEAT Y
+1 NOTE Bio notes: Ô Hương Tươu
+1 FAMS @F44@
+1 FAMC @F32@
+2 PEDI birth
+0 @I103@ INDI
+1 NAME Ngô Thị /Hiêng/
+2 GIVN Ngô Thị
+2 SURN Hiêng
+1 SEX F
+1 FAMS @F44@
+0 @I104@ INDI
+1 NAME Phan Doãn /Tích/
+2 GIVN Phan Doãn
+2 SURN Tích
+1 SEX M
+1 BIRT
+2 DATE 1898
+1 DEAT Y
+2 DATE 1950
+1 NOTE Bio notes: Kỵ 19-8
+1 FAMS @F45@
+1 FAMC @F32@
+2 PEDI birth
+0 @I105@ INDI
+1 NAME Nguyễn Thị /Thiệu/
+2 GIVN Nguyễn Thị
+2 SURN Thiệu
+1 SEX F
+1 BIRT
+2 DATE 1910
+1 DEAT Y
+2 DATE 1990
+1 NOTE Bio notes: Kỵ 11-8
+1 FAMS @F45@
+0 @I106@ INDI
+1 NAME Phan Hành /Thiện/
+2 GIVN Phan Hành
+2 SURN Thiện
+1 SEX M
+1 BIRT
+2 DATE 1878
+1 DEAT Y
+2 DATE 1962
+1 FAMS @F46@
+1 FAMS @F47@
+1 FAMC @F34@
+2 PEDI birth
+0 @I107@ INDI
+1 NAME Phạm Thị /Phấn/
+2 GIVN Phạm Thị
+2 SURN Phấn
+1 SEX F
+1 BIRT
+2 DATE 1873
+1 DEAT Y
+2 DATE 1902
+1 FAMS @F46@
+0 @I108@ INDI
+1 NAME Phan Thúc /Chuyết/
+2 GIVN Phan Thúc
+2 SURN Chuyết
+1 SEX M
+1 BIRT
+2 DATE 1898
+1 DEAT Y
+2 DATE 1980
+1 FAMS @F48@
+1 FAMC @F34@
+2 PEDI birth
+0 @I109@ INDI
+1 NAME Cao Thị /Hoạt/
+2 GIVN Cao Thị
+2 SURN Hoạt
+1 SEX F
+1 BIRT
+2 DATE 1911
+1 DEAT Y
+2 DATE 14 FEB 1961
+1 FAMS @F48@
+0 @I110@ INDI
+1 NAME Phan Doãn /Trinh/
+2 GIVN Phan Doãn
+2 SURN Trinh
+1 SEX M
+1 BIRT
+2 DATE 1879
+1 DEAT Y
+2 DATE 1948
+1 FAMS @F49@
+1 FAMC @F35@
+2 PEDI birth
+0 @I111@ INDI
+1 NAME Phạm Thị /Em/
+2 GIVN Phạm Thị
+2 SURN Em
+1 SEX F
+1 FAMS @F49@
+0 @I112@ INDI
+1 NAME Phan Doãn /Thế/
+2 GIVN Phan Doãn
+2 SURN Thế
+1 SEX M
+1 BIRT
+2 DATE 1925
+1 DEAT Y
+2 DATE 1980
+1 FAMC @F50@
+2 PEDI birth
+0 @I113@ INDI
+1 NAME Phan Doãn /Dũng/
+2 GIVN Phan Doãn
+2 SURN Dũng
+1 SEX M
+1 DEAT Y
+2 DATE 1938
+1 NOTE Bio notes: Kỵ 10-3
+1 FAMS @F51@
+1 FAMC @F50@
+2 PEDI birth
+0 @I114@ INDI
+1 NAME Đậu Thị /Cờu/
+2 GIVN Đậu Thị
+2 SURN Cờu
+1 SEX F
+1 FAMS @F51@
+0 @I115@ INDI
+1 NAME Phan Doãn /Khai (Con)/
+2 GIVN Phan Doãn
+2 SURN Khai (Con)
+1 SEX M
+1 FAMC @F50@
+2 PEDI birth
+0 @I116@ INDI
+1 NAME Phan Doãn /Quý/
+2 GIVN Phan Doãn
+2 SURN Quý
+1 SEX M
+1 FAMC @F52@
+2 PEDI birth
+0 @I117@ INDI
+1 NAME Phan Doãn /Kỳ/
+2 GIVN Phan Doãn
+2 NPFX Con
+2 SURN Kỳ
+1 SEX M
+1 BIRT
+2 DATE 1916
+1 DEAT Y
+1 FAMS @F53@
+1 FAMC @F37@
+2 PEDI birth
+0 @I118@ INDI
+1 NAME Trần Thị /Ba/
+2 GIVN Trần Thị
+2 SURN Ba
+1 SEX F
+1 FAMS @F53@
+0 @I119@ INDI
+1 NAME Phan Doãn /Tuyến/
+2 GIVN Phan Doãn
+2 SURN Tuyến
+1 SEX M
+1 BIRT
+2 DATE 1926
+1 DEAT Y
+2 DATE 1994
+1 FAMS @F54@
+1 FAMC @F55@
+2 PEDI birth
+0 @I120@ INDI
+1 NAME Đặng Thị /Lan/
+2 GIVN Đặng Thị
+2 SURN Lan
+1 SEX F
+1 BIRT
+2 DATE 1932
+1 FAMS @F54@
+0 @I121@ INDI
+1 NAME Phan Thị /Quý/
+2 GIVN Phan Thị
+2 SURN Quý
+1 SEX F
+1 FAMC @F56@
+2 PEDI birth
+0 @I122@ INDI
+1 NAME Phan Doãn /Quát/
+2 GIVN Phan Doãn
+2 SURN Quát
+1 SEX M
+1 BIRT
+2 DATE 1873
+1 DEAT Y
+2 DATE 1955
+1 FAMS @F101@
+1 FAMC @F56@
+2 PEDI birth
+0 @I123@ INDI
+1 NAME Phan Doãn /Thuân/
+2 GIVN Phan Doãn
+2 SURN Thuân
+1 SEX M
+1 FAMC @F57@
+2 PEDI birth
+0 @I124@ INDI
+1 NAME Phan Doãn /Thúy/
+2 GIVN Phan Doãn
+2 SURN Thúy
+1 SEX M
+1 BIRT
+2 DATE 1893
+1 DEAT Y
+2 DATE 1941
+1 NOTE Bio notes: Tức Mại; ĐV1930-31; Kỵ 19-9; Canh Thin
+1 FAMS @F58@
+1 FAMS @F59@
+1 FAMC @F40@
+2 PEDI birth
+0 @I125@ INDI
+1 NAME Trịnh Thị /Huân/
+2 GIVN Trịnh Thị
+2 SURN Huân
+1 SEX F
+1 BIRT
+2 DATE 1896
+1 DEAT Y
+2 DATE 1983
+1 NOTE Bio notes: Kỵ 9-2
+1 FAMS @F58@
+0 @I126@ INDI
+1 NAME Phan Thị /Yến/
+2 GIVN Phan Thị
+2 SURN Yến
+1 SEX F
+1 BIRT
+2 DATE 1894
+1 DEAT Y
+2 DATE 1988
+1 NOTE Bio notes: Tức Vẹn; Kỵ 28-10
+1 FAMC @F40@
+2 PEDI birth
+0 @I127@ INDI
+1 NAME Phan Thị /Oanh/
+2 GIVN Phan Thị
+2 SURN Oanh
+1 SEX F
+1 BIRT
+2 DATE 1896
+1 DEAT Y
+2 DATE 1979
+1 NOTE Bio notes: Tức Mợi; Mất ở Campuchia
+1 FAMC @F40@
+2 PEDI birth
+0 @I128@ INDI
+1 NAME Phan Doãn /Đỏ/
+2 GIVN Phan Doãn
+2 SURN Đỏ
+1 SEX M
+1 BIRT
+2 DATE 1898
+1 DEAT Y
+1 FAMC @F40@
+2 PEDI birth
+0 @I129@ INDI
+1 NAME Phan Doãn /Liên/
+2 GIVN Phan Doãn
+2 SURN Liên
+1 SEX M
+1 BIRT
+2 DATE 1900
+1 DEAT Y
+2 DATE 1984
+1 NOTE Bio notes: Tức Năm; ĐV1930-31; Kỵ 6-10
+1 FAMS @F60@
+1 FAMS @F61@
+1 FAMC @F40@
+2 PEDI birth
+0 @I130@ INDI
+1 NAME Trần Thị /Hợi/
+2 GIVN Trần Thị
+2 SURN Hợi
+1 SEX F
+1 BIRT
+2 DATE 1911
+1 DEAT Y
+2 DATE 1933
+1 NOTE Bio notes: Kỵ 20-12
+1 FAMS @F60@
+0 @I131@ INDI
+1 NAME Phan Doãn /Tiệu/
+2 GIVN Phan Doãn
+2 SURN Tiệu
+1 SEX M
+1 BIRT
+2 DATE 1902
+1 DEAT Y
+2 DATE 1984
+1 NOTE Bio notes: Kỵ 14-2
+1 FAMS @F62@
+1 FAMC @F40@
+2 PEDI birth
+0 @I132@ INDI
+1 NAME Phạm Thị /Kiêu/
+2 GIVN Phạm Thị
+2 SURN Kiêu
+1 SEX F
+1 BIRT
+2 DATE 1912
+1 DEAT Y
+2 DATE 1960
+1 NOTE Bio notes: Kỵ 26-6
+1 FAMS @F62@
+0 @I133@ INDI
+1 NAME Phan Doãn /Sáu/
+2 GIVN Phan Doãn
+2 SURN Sáu
+1 SEX M
+1 BIRT
+2 DATE 1908
+1 DEAT Y
+2 DATE 1988
+1 NOTE Bio notes: Bí danh Nhì Ngọ; Kỵ 24-8; ĐV 1930-31
+1 FAMS @F63@
+1 FAMS @F64@
+1 FAMS @F65@
+1 FAMC @F40@
+2 PEDI birth
+0 @I134@ INDI
+1 NAME Ngô Thị /Tính/
+2 GIVN Ngô Thị
+2 SURN Tính
+1 SEX F
+1 DEAT Y
+2 DATE 1999
+1 NOTE Bio notes: Tức bà Thứ; Tục Chắt; Kỵ 10-8
+1 FAMS @F63@
+0 @I135@ INDI
+1 NAME Phan Doãn /Bảy/
+2 GIVN Phan Doãn
+2 SURN Bảy
+1 SEX M
+1 BIRT
+2 DATE 1910
+1 DEAT Y
+2 DATE 2001
+1 NOTE Bio notes: Tức Minh Tuyết; ĐV 1930-31; Kỵ 26-10
+1 FAMS @F66@
+1 FAMC @F40@
+2 PEDI birth
+0 @I136@ INDI
+1 NAME Nguyễn Thị /Cúc/
+2 GIVN Nguyễn Thị
+2 SURN Cúc
+1 SEX F
+1 BIRT
+2 DATE 1916
+1 DEAT Y
+2 DATE 2021
+1 FAMS @F66@
+0 @I137@ INDI
+1 NAME Phan Doãn /Thân/
+2 GIVN Phan Doãn
+2 SURN Thân
+1 SEX M
+1 BIRT
+2 DATE 1915
+1 DEAT Y
+2 DATE 1995
+1 NOTE Bio notes: Tức Chín; Kỵ 21-4
+1 FAMS @F67@
+1 FAMC @F40@
+2 PEDI birth
+0 @I138@ INDI
+1 NAME Nguyễn Thị /Tuyến/
+2 GIVN Nguyễn Thị
+2 SURN Tuyến
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 DEAT Y
+1 FAMS @F67@
+0 @I139@ INDI
+1 NAME Phan Doãn /Điểu/
+2 GIVN Phan Doãn
+2 SURN Điểu
+1 SEX M
+1 BIRT
+2 DATE 1910
+1 DEAT Y
+2 DATE 1998
+1 NOTE Bio notes: Kỵ 15-3
+1 FAMS @F68@
+1 FAMS @F69@
+1 FAMC @F41@
+2 PEDI birth
+0 @I140@ INDI
+1 NAME Nguyễn Thị /Bơ/
+2 GIVN Nguyễn Thị
+2 SURN Bơ
+1 SEX F
+1 BIRT
+2 DATE 1911
+1 DEAT Y
+2 DATE 1933
+1 NOTE Bio notes: Kỵ 3-6
+1 FAMS @F68@
+0 @I141@ INDI
+1 NAME Phan Doãn /Quảng/
+2 GIVN Phan Doãn
+2 SURN Quảng
+1 SEX M
+1 BIRT
+2 DATE 1917
+1 DEAT Y
+2 DATE 1949
+1 NOTE Bio notes: Kỵ 17-7
+1 FAMS @F70@
+1 FAMC @F41@
+2 PEDI birth
+0 @I142@ INDI
+1 NAME Trần Thị /Ba/
+2 GIVN Trần Thị
+2 SURN Ba
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 DEAT Y
+2 DATE 2012
+1 NOTE Bio notes: Đã tái giá; Kỵ 19-1
+1 FAMS @F70@
+0 @I143@ INDI
+1 NAME Phan Doãn /Viện/
+2 GIVN Phan Doãn
+2 SURN Viện
+1 SEX M
+1 BIRT
+2 DATE 1907
+1 DEAT Y
+2 DATE 1932
+1 NOTE Bio notes: ĐV 1930-31; Vô tự; Liệt sỹ
+1 FAMC @F42@
+2 PEDI birth
+0 @I144@ INDI
+1 NAME Phan Văn /Hồng/
+2 GIVN Phan Văn
+2 SURN Hồng
+1 SEX M
+1 BIRT
+2 DATE 1908
+1 DEAT Y
+2 DATE 1987
+1 NOTE Bio notes: ĐV 1930-31; Kỵ 7-10
+1 FAMS @F71@
+1 FAMC @F42@
+2 PEDI birth
+0 @I145@ INDI
+1 NAME Lê Thị /Nhơn/
+2 GIVN Lê Thị
+2 SURN Nhơn
+1 SEX F
+1 BIRT
+2 DATE 1925
+1 DEAT Y
+2 DATE 2008
+1 NOTE Bio notes: Kỵ 29-9
+1 FAMS @F71@
+0 @I146@ INDI
+1 NAME Phan Thị /Vịnh/
+2 GIVN Phan Thị
+2 SURN Vịnh
+1 SEX F
+1 BIRT
+2 DATE 1913
+1 DEAT Y
+2 DATE 1962
+1 NOTE Bio notes: LR - 19
+1 FAMS @F72@
+1 FAMC @F42@
+2 PEDI birth
+0 @I147@ INDI
+1 NAME Nguyễn Văn /Tôn/
+2 GIVN Nguyễn Văn
+2 SURN Tôn
+1 SEX M
+1 FAMS @F72@
+0 @I148@ INDI
+1 NAME Phan Doãn /Nhiễu/
+2 GIVN Phan Doãn
+2 SURN Nhiễu
+1 SEX M
+1 BIRT
+2 DATE 1915
+1 DEAT Y
+2 DATE 1930
+1 NOTE Bio notes: Vô tự
+1 FAMC @F42@
+2 PEDI birth
+0 @I149@ INDI
+1 NAME Phan Thị /Ca/
+2 GIVN Phan Thị
+2 SURN Ca
+1 SEX F
+1 BIRT
+2 DATE 1917
+1 DEAT Y
+2 DATE 1945
+1 NOTE Bio notes: VÔ TỰ
+1 FAMC @F42@
+2 PEDI birth
+0 @I150@ INDI
+1 NAME Phan Thị /Hườn/
+2 GIVN Phan Thị
+2 SURN Hườn
+1 SEX F
+1 BIRT
+2 DATE 1919
+1 DEAT Y
+2 DATE 1998
+1 FAMS @F73@
+1 FAMC @F42@
+2 PEDI birth
+0 @I151@ INDI
+1 NAME Hồ Sỹ /Các/
+2 GIVN Hồ Sỹ
+2 SURN Các
+1 SEX M
+1 NOTE Bio notes: Tức Thuận
+1 FAMS @F73@
+0 @I152@ INDI
+1 NAME Phan Thanh /Bảo/
+2 GIVN Phan Thanh
+2 SURN Bảo
+1 SEX M
+1 BIRT
+2 DATE 1923
+1 DEAT Y
+2 DATE 2007
+1 NOTE Bio notes: Kỵ 13-10
+1 FAMS @F74@
+1 FAMC @F42@
+2 PEDI birth
+0 @I153@ INDI
+1 NAME Cao Thị /Thảo/
+2 GIVN Cao Thị
+2 SURN Thảo
+1 SEX F
+1 BIRT
+2 DATE 1925
+1 FAMS @F74@
+0 @I154@ INDI
+1 NAME Phan Thị /Tuyết/
+2 GIVN Phan Thị
+2 SURN Tuyết
+1 SEX F
+1 BIRT
+2 DATE 1925
+1 DEAT Y
+2 DATE 2016
+1 NOTE Bio notes: LR - 19
+1 FAMS @F75@
+1 FAMC @F42@
+2 PEDI birth
+0 @I155@ INDI
+1 NAME Nguyễn Văn /Đức/
+2 GIVN Nguyễn Văn
+2 SURN Đức
+1 SEX M
+1 FAMS @F75@
+0 @I156@ INDI
+1 NAME Phan Doãn /Thiều/
+2 GIVN Phan Doãn
+2 SURN Thiều
+1 SEX M
+1 BIRT
+2 DATE 1916
+1 DEAT Y
+2 DATE 1950
+1 NOTE Bio notes: Liệt sỹ
+1 FAMS @F150@
+1 FAMC @F43@
+2 PEDI birth
+0 @I157@ INDI
+1 NAME Phan Thị /Hòe/
+2 GIVN Phan Thị
+2 SURN Hòe
+1 SEX F
+1 BIRT
+2 DATE 1920
+1 FAMC @F44@
+2 PEDI birth
+0 @I158@ INDI
+1 NAME Phan Thị /Tiêm/
+2 GIVN Phan Thị
+2 SURN Tiêm
+1 SEX F
+1 BIRT
+2 DATE 1924
+1 DEAT Y
+1 FAMC @F44@
+2 PEDI birth
+0 @I159@ INDI
+1 NAME Phan Doãn /Thý/
+2 GIVN Phan Doãn
+2 SURN Thý
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 DEAT Y
+2 DATE 2003
+1 NOTE Bio notes: Kỵ 26-8
+1 FAMS @F76@
+1 FAMC @F44@
+2 PEDI birth
+0 @I160@ INDI
+1 NAME Lê Thị /Thảo/
+2 GIVN Lê Thị
+2 SURN Thảo
+1 SEX F
+1 BIRT
+2 DATE 1937
+1 FAMS @F76@
+0 @I161@ INDI
+1 NAME Phan Nghĩa /Tín/
+2 GIVN Phan Nghĩa
+2 SURN Tín
+1 SEX M
+1 BIRT
+2 DATE 1929
+1 DEAT Y
+2 DATE 1987
+1 FAMS @F77@
+1 FAMC @F45@
+2 PEDI birth
+0 @I162@ INDI
+1 NAME Hồ Thị /Thía/
+2 GIVN Hồ Thị
+2 SURN Thía
+1 SEX F
+1 BIRT
+2 DATE 1925
+1 DEAT Y
+2 DATE 3 DEC 1988
+1 NOTE Bio notes: Kỵ 3-12
+1 FAMS @F77@
+0 @I163@ INDI
+1 NAME Phan Nghĩa /Trung/
+2 GIVN Phan Nghĩa
+2 SURN Trung
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 DEAT Y
+1 FAMS @F78@
+1 FAMC @F45@
+2 PEDI birth
+0 @I164@ INDI
+1 NAME Vũ Thị /Yến/
+2 GIVN Vũ Thị
+2 SURN Yến
+1 SEX F
+1 FAMS @F78@
+0 @I165@ INDI
+1 NAME Phan Doãn /Kính/
+2 GIVN Phan Doãn
+2 SURN Kính
+1 SEX M
+1 BIRT
+2 DATE 1944
+1 DEAT Y
+2 DATE 2003
+1 NOTE Bio notes: Kỵ 17-12
+1 FAMS @F79@
+1 FAMC @F45@
+2 PEDI birth
+0 @I166@ INDI
+1 NAME Nguyễn Thị /Sáu/
+2 GIVN Nguyễn Thị
+2 SURN Sáu
+1 SEX F
+1 BIRT
+2 DATE 1949
+1 FAMS @F79@
+0 @I167@ INDI
+1 NAME Phan Thị /Nhân/
+2 GIVN Phan Thị
+2 SURN Nhân
+1 SEX F
+1 BIRT
+2 DATE 1930
+1 DEAT Y
+2 DATE 2005
+1 FAMS @F80@
+1 FAMC @F47@
+2 PEDI birth
+0 @I168@ INDI
+1 NAME Nguyễn Văn /Kỳ/
+2 GIVN Nguyễn Văn
+2 SURN Kỳ
+1 SEX M
+1 FAMS @F80@
+0 @I169@ INDI
+1 NAME Phan Thị /Nậy/
+2 GIVN Phan Thị
+2 SURN Nậy
+1 SEX F
+1 BIRT
+2 DATE 1932
+1 DEAT Y
+2 DATE 1992
+1 NOTE Bio notes: Vô tự
+1 FAMC @F47@
+2 PEDI birth
+0 @I170@ INDI
+1 NAME Phan Thị /Nhỏ/
+2 GIVN Phan Thị
+2 SURN Nhỏ
+1 SEX F
+1 BIRT
+2 DATE 1940
+1 FAMS @F81@
+1 FAMC @F47@
+2 PEDI birth
+0 @I171@ INDI
+1 NAME Nguyễn Văn /Bảy/
+2 GIVN Nguyễn Văn
+2 SURN Bảy
+1 SEX M
+1 FAMS @F81@
+0 @I172@ INDI
+1 NAME Phan Nghĩa /Tu/
+2 GIVN Phan Nghĩa
+2 SURN Tu
+1 SEX M
+1 BIRT
+2 DATE 1934
+1 FAMS @F82@
+1 FAMS @F163@
+1 FAMC @F47@
+2 PEDI birth
+0 @I173@ INDI
+1 NAME Đậu Thị /Hung/
+2 GIVN Đậu Thị
+2 SURN Hung
+1 SEX F
+1 FAMS @F82@
+0 @I174@ INDI
+1 NAME Phan Doãn /Thy/
+2 GIVN Phan Doãn
+2 SURN Thy
+1 SEX M
+1 BIRT
+2 DATE 1944
+1 DEAT Y
+2 DATE 1972
+1 NOTE Bio notes: Liệt sỹ
+1 FAMS @F83@
+1 FAMS @F166@
+1 FAMC @F47@
+2 PEDI birth
+0 @I175@ INDI
+1 NAME Trần Thị /Liên/
+2 GIVN Trần Thị
+2 SURN Liên
+1 SEX F
+1 BIRT
+2 DATE 1949
+1 FAMS @F83@
+0 @I176@ INDI
+1 NAME Phan Doãn /Xơng/
+2 GIVN Phan Doãn
+2 SURN Xơng
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 DEAT Y
+2 DATE 1968
+1 NOTE Bio notes: Liệt sỹ; Kỵ 18-10
+1 FAMC @F47@
+2 PEDI birth
+0 @I177@ INDI
+1 NAME Phan Huy /Liêu/
+2 GIVN Phan Huy
+2 SURN Liêu
+1 SEX M
+1 BIRT
+2 DATE 1930
+1 DEAT Y
+2 DATE 3 OCT 2025
+1 FAMS @F84@
+1 FAMC @F48@
+2 PEDI birth
+0 @I178@ INDI
+1 NAME Phan Thị Minh /Nguyệt/
+2 GIVN Phan Thị Minh
+2 SURN Nguyệt
+1 SEX F
+1 BIRT
+2 DATE 1932
+1 FAMS @F84@
+1 FAMS @F261@
+0 @I179@ INDI
+1 NAME Phan Thị Hồng /Liên/
+2 GIVN Phan Thị Hồng
+2 SURN Liên
+1 SEX F
+1 BIRT
+2 DATE 1932
+1 FAMC @F48@
+2 PEDI birth
+0 @I180@ INDI
+1 NAME Phan Huy /Giao/
+2 GIVN Phan Huy
+2 SURN Giao
+1 SEX M
+1 BIRT
+2 DATE 1937
+1 FAMS @F85@
+1 FAMS @F171@
+1 FAMC @F48@
+2 PEDI birth
+0 @I181@ INDI
+1 NAME Võ Thị Hồng /Minh/
+2 GIVN Võ Thị Hồng
+2 SURN Minh
+1 SEX F
+1 BIRT
+2 DATE 1938
+1 DEAT Y
+2 DATE 2023
+1 FAMS @F85@
+0 @I182@ INDI
+1 NAME Phan Thị /Giêng/
+2 GIVN Phan Thị
+2 SURN Giêng
+1 SEX F
+1 FAMC @F49@
+2 PEDI birth
+0 @I183@ INDI
+1 NAME Phan Doãn /Toại/
+2 GIVN Phan Doãn
+2 SURN Toại
+1 SEX M
+1 FAMC @F49@
+2 PEDI birth
+0 @I184@ INDI
+1 NAME Phan Doãn /Lợi/
+2 GIVN Phan Doãn
+2 SURN Lợi
+1 SEX M
+1 FAMC @F49@
+2 PEDI birth
+0 @I185@ INDI
+1 NAME Phan Doãn /Phùng/
+2 GIVN Phan Doãn
+2 SURN Phùng
+1 SEX M
+1 BIRT
+2 DATE 1924
+1 DEAT Y
+2 DATE 1999
+1 FAMS @F86@
+1 FAMS @F172@
+1 FAMC @F49@
+2 PEDI birth
+0 @I186@ INDI
+1 NAME Trần Thị /Chín/
+2 GIVN Trần Thị
+2 SURN Chín
+1 SEX F
+1 BIRT
+2 DATE 1927
+1 DEAT Y
+2 DATE 2023
+1 FAMS @F86@
+0 @I187@ INDI
+1 NAME Phan Doãn /Phong/
+2 GIVN Phan Doãn
+2 SURN Phong
+1 SEX M
+1 BIRT
+2 DATE 1925
+1 DEAT Y
+2 DATE 1980
+1 NOTE Bio notes: Kỵ 2-12
+1 FAMS @F87@
+1 FAMC @F51@
+2 PEDI birth
+0 @I188@ INDI
+1 NAME Nguyễn Thị /Em/
+2 GIVN Nguyễn Thị
+2 SURN Em
+1 SEX F
+1 BIRT
+2 DATE 1925
+1 FAMS @F87@
+0 @I189@ INDI
+1 NAME Phan Doãn /Biện/
+2 GIVN Phan Doãn
+2 SURN Biện
+1 SEX M
+1 BIRT
+2 DATE 1938
+1 DEAT Y
+2 DATE 2024
+1 FAMS @F88@
+1 FAMC @F51@
+2 PEDI birth
+0 @I190@ INDI
+1 NAME Nguyễn Thị /Hồng/
+2 GIVN Nguyễn Thị
+2 SURN Hồng
+1 SEX F
+1 BIRT
+2 DATE 1943
+1 FAMS @F88@
+0 @I191@ INDI
+1 NAME Phan Doãn /Tần/
+2 GIVN Phan Doãn
+2 SURN Tần
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 DEAT Y
+2 DATE 2008
+1 FAMS @F89@
+1 FAMC @F51@
+2 PEDI birth
+0 @I192@ INDI
+1 NAME Nguyễn Thị /Hương/
+2 GIVN Nguyễn Thị
+2 SURN Hương
+1 SEX F
+1 BIRT
+2 DATE 1939
+1 DEAT Y
+2 DATE 2021
+1 FAMS @F89@
+0 @I193@ INDI
+1 NAME Phan Doãn /Hùng/
+2 GIVN Phan Doãn
+2 SURN Hùng
+1 SEX M
+1 BIRT
+2 DATE 1934
+1 FAMS @F90@
+1 FAMC @F53@
+2 PEDI birth
+0 @I194@ INDI
+1 NAME Trần Thị /Thản/
+2 GIVN Trần Thị
+2 SURN Thản
+1 SEX F
+1 FAMS @F90@
+0 @I195@ INDI
+1 NAME Phan Doãn /Việt/
+2 GIVN Phan Doãn
+2 SURN Việt
+1 SEX M
+1 BIRT
+2 DATE 1936
+1 FAMS @F91@
+1 FAMC @F53@
+2 PEDI birth
+0 @I196@ INDI
+1 NAME Nguyễn Thị /Liệu/
+2 GIVN Nguyễn Thị
+2 SURN Liệu
+1 SEX F
+1 BIRT
+2 DATE 1940
+1 FAMS @F91@
+0 @I197@ INDI
+1 NAME Phan Doãn /Tuyết/
+2 GIVN Phan Doãn
+2 SURN Tuyết
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 FAMS @F92@
+1 FAMC @F53@
+2 PEDI birth
+0 @I198@ INDI
+1 NAME Lê Thị /Dần/
+2 GIVN Lê Thị
+2 SURN Dần
+1 SEX F
+1 FAMS @F92@
+0 @I199@ INDI
+1 NAME Phan Hồng /Chắt/
+2 GIVN Phan Hồng
+2 SURN Chắt
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 FAMS @F93@
+1 FAMS @F94@
+1 FAMC @F54@
+2 PEDI birth
+0 @I200@ INDI
+1 NAME Chu Thị /Vui/
+2 GIVN Chu Thị
+2 SURN Vui
+1 SEX F
+1 FAMS @F93@
+0 @I201@ INDI
+1 NAME Phan Hồng /Lai/
+2 GIVN Phan Hồng
+2 SURN Lai
+1 SEX M
+1 BIRT
+2 DATE 1957
+1 FAMS @F95@
+1 FAMC @F54@
+2 PEDI birth
+0 @I202@ INDI
+1 NAME Trần Thị /Loan/
+2 GIVN Trần Thị
+2 SURN Loan
+1 SEX F
+1 FAMS @F95@
+0 @I203@ INDI
+1 NAME Phan Hồng /Yên/
+2 GIVN Phan Hồng
+2 SURN Yên
+1 SEX M
+1 BIRT
+2 DATE 1961
+1 FAMS @F96@
+1 FAMC @F54@
+2 PEDI birth
+0 @I204@ INDI
+1 NAME Thái Thị Kim /Hoa/
+2 GIVN Thái Thị Kim
+2 SURN Hoa
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMS @F96@
+0 @I205@ INDI
+1 NAME Phan Hồng /Phúc/
+2 GIVN Phan Hồng
+2 SURN Phúc
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 FAMS @F97@
+1 FAMC @F54@
+2 PEDI birth
+0 @I206@ INDI
+1 NAME Nguyễn Thị /Liên/
+2 GIVN Nguyễn Thị
+2 SURN Liên
+1 SEX F
+1 FAMS @F97@
+0 @I207@ INDI
+1 NAME Phan Hồng /Lục/
+2 GIVN Phan Hồng
+2 SURN Lục
+1 SEX M
+1 BIRT
+2 DATE 1966
+1 FAMS @F98@
+1 FAMC @F54@
+2 PEDI birth
+0 @I208@ INDI
+1 NAME Đặng Thị /Hồng/
+2 GIVN Đặng Thị
+2 SURN Hồng
+1 SEX F
+1 FAMS @F98@
+0 @I209@ INDI
+1 NAME Phan Hồng /Bảy/
+2 GIVN Phan Hồng
+2 SURN Bảy
+1 SEX M
+1 BIRT
+2 DATE 1969
+1 FAMS @F99@
+1 FAMC @F54@
+2 PEDI birth
+0 @I210@ INDI
+1 NAME Nguyễn Thị /Hoàn/
+2 GIVN Nguyễn Thị
+2 SURN Hoàn
+1 SEX F
+1 FAMS @F99@
+0 @I211@ INDI
+1 NAME Phan Doãn /Ái/
+2 GIVN Phan Doãn
+2 SURN Ái
+1 SEX M
+1 BIRT
+2 DATE 1902
+1 DEAT Y
+2 DATE 1948
+1 NOTE Bio notes: Tức Ơi
+1 FAMS @F100@
+1 FAMC @F101@
+2 PEDI birth
+0 @I212@ INDI
+1 NAME Phan Thị /Chính/
+2 GIVN Phan Thị
+2 SURN Chính
+1 SEX F
+1 BIRT
+2 DATE 1904
+1 FAMS @F100@
+0 @I213@ INDI
+1 NAME Phan /Tiến/
+2 GIVN Phan
+2 SURN Tiến
+1 SEX M
+1 BIRT
+2 DATE 1917
+1 DEAT Y
+2 DATE 2017
+1 FAMS @F102@
+1 FAMS @F103@
+1 FAMC @F101@
+2 PEDI birth
+0 @I214@ INDI
+1 NAME Đỗ Thị Kim /Cúc/
+2 GIVN Đỗ Thị Kim
+2 SURN Cúc
+1 SEX F
+1 BIRT
+2 DATE 1925
+1 DEAT Y
+2 DATE 1954
+1 FAMS @F102@
+0 @I215@ INDI
+1 NAME Phan Thị Liên /Hương/
+2 GIVN Phan Thị Liên
+2 SURN Hương
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 DEAT Y
+2 DATE 2016
+1 NOTE Bio notes: ĐV Tiền khởi nghĩa
+1 FAMS @F104@
+1 FAMC @F58@
+2 PEDI birth
+0 @I216@ INDI
+1 NAME Võ Duy /Kỳ/
+2 GIVN Võ Duy
+2 SURN Kỳ
+1 SEX M
+1 FAMS @F104@
+0 @I217@ INDI
+1 NAME Phan Thị /Lài/
+2 GIVN Phan Thị
+2 SURN Lài
+1 SEX F
+1 BIRT
+2 DATE 1930
+1 DEAT Y
+2 DATE 2025
+1 FAMS @F105@
+1 FAMC @F58@
+2 PEDI birth
+0 @I218@ INDI
+1 NAME Trần Đức /Tao/
+2 GIVN Trần Đức
+2 SURN Tao
+1 SEX M
+1 BIRT
+2 DATE 1921
+1 DEAT Y
+2 DATE 2017
+1 FAMS @F105@
+0 @I219@ INDI
+1 NAME Phan Doãn /Biên/
+2 GIVN Phan Doãn
+2 SURN Biên
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 DEAT Y
+2 DATE 1998
+1 NOTE Bio notes: Kỵ 15-11
+1 FAMS @F106@
+1 FAMC @F58@
+2 PEDI birth
+0 @I220@ INDI
+1 NAME Lê Thị /Sinh/
+2 GIVN Lê Thị
+2 SURN Sinh
+1 SEX F
+1 BIRT
+2 DATE 1938
+1 DEAT Y
+2 DATE 29 MAR 2026
+1 NOTE Bio notes: Kỵ 11-02
+1 FAMS @F106@
+0 @I221@ INDI
+1 NAME Phan Doãn /Thích/
+2 GIVN Phan Doãn
+2 SURN Thích
+1 SEX M
+1 BIRT
+2 DATE 1939
+1 DEAT Y
+1 FAMS @F107@
+1 FAMC @F58@
+2 PEDI birth
+0 @I222@ INDI
+1 NAME Nguyễn Thị /Thường/
+2 GIVN Nguyễn Thị
+2 SURN Thường
+1 SEX F
+1 FAMS @F107@
+0 @I223@ INDI
+1 NAME Phan Tiến /Dũng/
+2 GIVN Phan Tiến
+2 SURN Dũng
+1 SEX M
+1 BIRT
+2 DATE 1937
+1 DEAT Y
+2 DATE 2007
+1 NOTE Bio notes: Tức Siêu
+1 FAMS @F108@
+1 FAMC @F58@
+2 PEDI birth
+0 @I224@ INDI
+1 NAME Nguyễn Thị /Ba/
+2 GIVN Nguyễn Thị
+2 SURN Ba
+1 SEX F
+1 BIRT
+2 DATE 1939
+1 DEAT Y
+2 DATE 2014
+1 FAMS @F108@
+0 @I225@ INDI
+1 NAME Phan Thanh /Dương/
+2 GIVN Phan Thanh
+2 SURN Dương
+1 SEX M
+1 BIRT
+2 DATE 1936
+1 DEAT Y
+2 DATE 1973
+1 FAMS @F109@
+1 FAMC @F61@
+2 PEDI birth
+0 @I226@ INDI
+1 NAME Vũ Thị /Nhấn/
+2 GIVN Vũ Thị
+2 SURN Nhấn
+1 SEX F
+1 BIRT
+2 DATE 1939
+1 DEAT Y
+2 DATE 2019
+1 FAMS @F109@
+0 @I227@ INDI
+1 NAME Phan Thanh /Chấn/
+2 GIVN Phan Thanh
+2 SURN Chấn
+1 SEX M
+1 BIRT
+2 DATE 1938
+1 DEAT Y
+2 DATE 2017
+1 FAMS @F110@
+1 FAMS @F111@
+1 FAMC @F61@
+2 PEDI birth
+0 @I228@ INDI
+1 NAME Nguyễn Thị /Thu/
+2 GIVN Nguyễn Thị
+2 SURN Thu
+1 SEX F
+1 FAMS @F110@
+0 @I229@ INDI
+1 NAME Phan Thị /Băng/
+2 GIVN Phan Thị
+2 SURN Băng
+1 SEX F
+1 BIRT
+2 DATE 1940
+1 FAMS @F112@
+1 FAMC @F61@
+2 PEDI birth
+0 @I230@ INDI
+1 NAME Nguyễn Thanh /Quang/
+2 GIVN Nguyễn Thanh
+2 SURN Quang
+1 SEX M
+1 FAMS @F112@
+0 @I231@ INDI
+1 NAME Phan Thanh /Bạt/
+2 GIVN Phan Thanh
+2 SURN Bạt
+1 SEX M
+1 BIRT
+2 DATE 1943
+1 FAMS @F113@
+1 FAMC @F61@
+2 PEDI birth
+0 @I232@ INDI
+1 NAME Nguyễn Thị /My/
+2 GIVN Nguyễn Thị
+2 SURN My
+1 SEX F
+1 NOTE Bio notes: Vợ 2?
+1 FAMS @F113@
+0 @I233@ INDI
+1 NAME Phan Thanh /Tiệp/
+2 GIVN Phan Thanh
+2 SURN Tiệp
+1 SEX M
+1 BIRT
+2 DATE 1945
+1 DEAT Y
+2 DATE 2021
+1 NOTE Bio notes: Kỵ 26-6
+1 FAMS @F114@
+1 FAMC @F61@
+2 PEDI birth
+0 @I234@ INDI
+1 NAME Phương Thị /Gái/
+2 GIVN Phương Thị
+2 SURN Gái
+1 SEX F
+1 NOTE Bio notes: Tức Lan
+1 FAMS @F114@
+0 @I235@ INDI
+1 NAME Phan Thanh /Cự/
+2 GIVN Phan Thanh
+2 SURN Cự
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 DEAT Y
+2 DATE 2002
+1 FAMS @F115@
+1 FAMC @F61@
+2 PEDI birth
+0 @I236@ INDI
+1 NAME Phạm Thị /Mai/
+2 GIVN Phạm Thị
+2 SURN Mai
+1 SEX F
+1 FAMS @F115@
+0 @I237@ INDI
+1 NAME Phan Thanh /Khoát/
+2 GIVN Phan Thanh
+2 SURN Khoát
+1 SEX M
+1 BIRT
+2 DATE 1949
+1 DEAT Y
+2 DATE 2021
+1 NOTE Bio notes: Tức Lâm; Vợ 2 tên Nguyễn Thị Hương Trâm? Sinh năm?
+1 FAMS @F116@
+1 FAMS @F117@
+1 FAMC @F61@
+2 PEDI birth
+0 @I238@ INDI
+1 NAME Nguyễn Thị Kim /Quy/
+2 GIVN Nguyễn Thị Kim
+2 SURN Quy
+1 SEX F
+1 BIRT
+2 DATE 1955
+1 FAMS @F116@
+0 @I239@ INDI
+1 NAME Phan Thanh /Đỉnh/
+2 GIVN Phan Thanh
+2 SURN Đỉnh
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 DEAT Y
+2 DATE 1973
+1 NOTE Bio notes: Liệt sỹ; Kỵ 16-10
+1 FAMC @F61@
+2 PEDI birth
+0 @I240@ INDI
+1 NAME Phan Doãn /Bách/
+2 GIVN Phan Doãn
+2 SURN Bách
+1 SEX M
+1 BIRT
+2 DATE 1928
+1 DEAT Y
+2 DATE 1929
+1 NOTE Bio notes: Kỵ 25-5
+1 FAMC @F62@
+2 PEDI birth
+0 @I241@ INDI
+1 NAME Phan Thị /Huê/
+2 GIVN Phan Thị
+2 SURN Huê
+1 SEX F
+1 BIRT
+2 DATE 1930
+1 DEAT Y
+2 DATE 2020
+1 FAMS @F118@
+1 FAMC @F62@
+2 PEDI birth
+0 @I242@ INDI
+1 NAME Nguyễn Cảnh /Giáo/
+2 GIVN Nguyễn Cảnh
+2 SURN Giáo
+1 SEX M
+1 BIRT
+2 DATE 1930
+1 DEAT Y
+2 DATE 1995
+1 FAMS @F118@
+0 @I243@ INDI
+1 NAME Phan Doãn /Châu/
+2 GIVN Phan Doãn
+2 SURN Châu
+1 SEX M
+1 BIRT
+2 DATE 1934
+1 DEAT Y
+2 DATE 2016
+1 NOTE Bio notes: Kỵ 5-7
+1 FAMS @F119@
+1 FAMC @F62@
+2 PEDI birth
+0 @I244@ INDI
+1 NAME Trần Thị /Quý/
+2 GIVN Trần Thị
+2 SURN Quý
+1 SEX F
+1 BIRT
+2 DATE 1933
+1 DEAT Y
+2 DATE 2024
+1 NOTE Bio notes: Kỵ 16-1
+1 FAMS @F119@
+0 @I245@ INDI
+1 NAME Phan Thị /Lan/
+2 GIVN Phan Thị
+2 SURN Lan
+1 SEX F
+1 BIRT
+2 DATE 1947
+1 DEAT Y
+2 DATE 2018
+1 FAMS @F120@
+1 FAMC @F62@
+2 PEDI birth
+0 @I246@ INDI
+1 NAME Đỗ Xuân /Can/
+2 GIVN Đỗ Xuân
+2 SURN Can
+1 SEX M
+1 BIRT
+2 DATE 1945
+1 FAMS @F120@
+0 @I247@ INDI
+1 NAME Phan Doãn /Linh/
+2 GIVN Phan Doãn
+2 SURN Linh
+1 SEX M
+1 BIRT
+2 DATE 1949
+1 FAMS @F121@
+1 FAMC @F62@
+2 PEDI birth
+0 @I248@ INDI
+1 NAME Lại Thị /Hậu/
+2 GIVN Lại Thị
+2 SURN Hậu
+1 SEX F
+1 BIRT
+2 DATE 1955
+1 FAMS @F121@
+0 @I249@ INDI
+1 NAME Phan Thanh /An/
+2 GIVN Phan Thanh
+2 SURN An
+1 SEX M
+1 BIRT
+2 DATE 1949
+1 FAMS @F122@
+1 FAMC @F64@
+2 PEDI birth
+0 @I250@ INDI
+1 NAME Phan Thị /Nhâm/
+2 GIVN Phan Thị
+2 SURN Nhâm
+1 SEX F
+1 BIRT
+2 DATE 1958
+1 FAMS @F122@
+0 @I251@ INDI
+1 NAME Phan Doãn /Lập/
+2 GIVN Phan Doãn
+2 SURN Lập
+1 SEX M
+1 BIRT
+2 DATE 1952
+1 FAMS @F123@
+1 FAMC @F64@
+2 PEDI birth
+0 @I252@ INDI
+1 NAME Phạm Thị Thanh /Bình/
+2 GIVN Phạm Thị Thanh
+2 SURN Bình
+1 SEX F
+1 BIRT
+2 DATE 1954
+1 DEAT Y
+2 DATE 2026
+1 FAMS @F123@
+0 @I253@ INDI
+1 NAME Phan Doãn /Hoàng/
+2 GIVN Phan Doãn
+2 SURN Hoàng
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 NOTE Bio notes: Mất sớm
+1 FAMC @F64@
+2 PEDI birth
+0 @I254@ INDI
+1 NAME Phan Doãn /Trường/
+2 GIVN Phan Doãn
+2 SURN Trường
+1 SEX M
+1 BIRT
+2 DATE 1957
+1 DEAT Y
+1 FAMS @F124@
+1 FAMC @F64@
+2 PEDI birth
+0 @I255@ INDI
+1 NAME Mai Thị /Thoa/
+2 GIVN Mai Thị
+2 SURN Thoa
+1 SEX F
+1 BIRT
+2 DATE 1959
+1 FAMS @F124@
+0 @I256@ INDI
+1 NAME Phan Doãn /Sơn/
+2 GIVN Phan Doãn
+2 SURN Sơn
+1 SEX M
+1 BIRT
+2 DATE 1965
+1 FAMS @F125@
+1 FAMC @F64@
+2 PEDI birth
+0 @I257@ INDI
+1 NAME Đinh Thị /Vân/
+2 GIVN Đinh Thị
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 1966
+1 FAMS @F125@
+0 @I258@ INDI
+1 NAME Phan Thị /Phương/
+2 GIVN Phan Thị
+2 SURN Phương
+1 SEX F
+1 BIRT
+2 DATE 1941
+1 FAMS @F126@
+1 FAMC @F63@
+2 PEDI birth
+0 @I259@ INDI
+1 NAME Nguyễn Văn /Sơn/
+2 GIVN Nguyễn Văn
+2 SURN Sơn
+1 SEX M
+1 BIRT
+2 DATE 1937
+1 FAMS @F126@
+0 @I260@ INDI
+1 NAME Phan Lễ /Kim/
+2 GIVN Phan Lễ
+2 SURN Kim
+1 SEX M
+1 BIRT
+2 DATE 1941
+1 FAMS @F127@
+1 FAMC @F66@
+2 PEDI birth
+0 @I261@ INDI
+1 NAME Ngô Thị /Hồng/
+2 GIVN Ngô Thị
+2 SURN Hồng
+1 SEX F
+1 FAMS @F127@
+0 @I262@ INDI
+1 NAME Phan Doãn /Ngọc/
+2 GIVN Phan Doãn
+2 SURN Ngọc
+1 SEX M
+1 BIRT
+2 DATE 1944
+1 FAMS @F128@
+1 FAMC @F66@
+2 PEDI birth
+0 @I263@ INDI
+1 NAME Nguyễn Thị Lý /Hải/
+2 GIVN Nguyễn Thị Lý
+2 SURN Hải
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 FAMS @F128@
+0 @I264@ INDI
+1 NAME Phan Thị /Phương/
+2 GIVN Phan Thị
+2 SURN Phương
+1 SEX F
+1 BIRT
+2 DATE 1946
+1 DEAT Y
+2 DATE 1956
+1 FAMC @F67@
+2 PEDI birth
+0 @I265@ INDI
+1 NAME Phan Thị Hải /Đường/
+2 GIVN Phan Thị Hải
+2 SURN Đường
+1 SEX F
+1 BIRT
+2 DATE 1950
+1 NOTE Bio notes: Vô tự
+1 FAMS @F129@
+1 FAMC @F67@
+2 PEDI birth
+0 @I266@ INDI
+1 NAME Nguyễn Văn /Nguyên/
+2 GIVN Nguyễn Văn
+2 SURN Nguyên
+1 SEX M
+1 FAMS @F129@
+0 @I267@ INDI
+1 NAME Phan Thị Hải /Sâm/
+2 GIVN Phan Thị Hải
+2 SURN Sâm
+1 SEX F
+1 BIRT
+2 DATE 1958
+1 FAMS @F130@
+1 FAMC @F67@
+2 PEDI birth
+0 @I268@ INDI
+1 NAME Lê Quang /Ninh/
+2 GIVN Lê Quang
+2 SURN Ninh
+1 SEX M
+1 FAMS @F130@
+0 @I269@ INDI
+1 NAME Phan Quang /Vinh/
+2 GIVN Phan Quang
+2 SURN Vinh
+1 SEX M
+1 BIRT
+2 DATE 1960
+1 FAMS @F131@
+1 FAMC @F67@
+2 PEDI birth
+0 @I270@ INDI
+1 NAME Trần Thị Minh /Thư/
+2 GIVN Trần Thị Minh
+2 SURN Thư
+1 SEX F
+1 BIRT
+2 DATE 1963
+1 FAMS @F131@
+0 @I271@ INDI
+1 NAME Phan Thị /Huệ/
+2 GIVN Phan Thị
+2 SURN Huệ
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 DEAT Y
+2 DATE 2017
+1 FAMC @F69@
+2 PEDI birth
+0 @I272@ INDI
+1 NAME Phan Doãn /Ngư/
+2 GIVN Phan Doãn
+2 SURN Ngư
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 FAMS @F132@
+1 FAMC @F69@
+2 PEDI birth
+0 @I273@ INDI
+1 NAME Phạm Thị /Băng/
+2 GIVN Phạm Thị
+2 SURN Băng
+1 SEX F
+1 FAMS @F132@
+0 @I274@ INDI
+1 NAME Phan Chiến /Thắng/
+2 GIVN Phan Chiến
+2 SURN Thắng
+1 SEX M
+1 BIRT
+2 DATE 1950
+1 FAMS @F133@
+1 FAMC @F69@
+2 PEDI birth
+0 @I275@ INDI
+1 NAME Phạm Thị /Thơm/
+2 GIVN Phạm Thị
+2 SURN Thơm
+1 SEX F
+1 FAMS @F133@
+0 @I276@ INDI
+1 NAME Phan Thị /Quy/
+2 GIVN Phan Thị
+2 SURN Quy
+1 SEX F
+1 BIRT
+2 DATE 1952
+1 FAMC @F69@
+2 PEDI birth
+0 @I277@ INDI
+1 NAME Phan Doãn /Chiến/
+2 GIVN Phan Doãn
+2 SURN Chiến
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 FAMS @F134@
+1 FAMC @F69@
+2 PEDI birth
+0 @I278@ INDI
+1 NAME Nguyễn Thị /Hoan/
+2 GIVN Nguyễn Thị
+2 SURN Hoan
+1 SEX F
+1 FAMS @F134@
+0 @I279@ INDI
+1 NAME Phan Doãn /Sỹ/
+2 GIVN Phan Doãn
+2 SURN Sỹ
+1 SEX M
+1 BIRT
+2 DATE 1956
+1 FAMS @F135@
+1 FAMC @F69@
+2 PEDI birth
+0 @I280@ INDI
+1 NAME Nguyễn Thị /Hà/
+2 GIVN Nguyễn Thị
+2 SURN Hà
+1 SEX F
+1 FAMS @F135@
+0 @I281@ INDI
+1 NAME Phan Xuân /Việt/
+2 GIVN Phan Xuân
+2 SURN Việt
+1 SEX M
+1 BIRT
+2 DATE 1960
+1 FAMS @F136@
+1 FAMC @F69@
+2 PEDI birth
+0 @I282@ INDI
+1 NAME Đậu Thị /Sen/
+2 GIVN Đậu Thị
+2 SURN Sen
+1 SEX F
+1 FAMS @F136@
+0 @I283@ INDI
+1 NAME Phan Doãn /Tạo/
+2 GIVN Phan Doãn
+2 SURN Tạo
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 FAMS @F137@
+1 FAMC @F70@
+2 PEDI birth
+0 @I284@ INDI
+1 NAME Nguyễn Thị /Hà/
+2 GIVN Nguyễn Thị
+2 SURN Hà
+1 SEX F
+1 FAMS @F137@
+0 @I285@ INDI
+1 NAME Phan Thanh /Bình/
+2 GIVN Phan Thanh
+2 SURN Bình
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 DEAT Y
+2 DATE 2017
+1 NOTE Bio notes: BB- 20
+1 FAMS @F138@
+1 FAMC @F71@
+2 PEDI birth
+0 @I286@ INDI
+1 NAME Nguyễn Thị /Diên/
+2 GIVN Nguyễn Thị
+2 SURN Diên
+1 SEX F
+1 NOTE Bio notes: LR - 20
+1 FAMS @F138@
+0 @I287@ INDI
+1 NAME Phan Tự /Điền/
+2 GIVN Phan Tự
+2 SURN Điền
+1 SEX M
+1 BIRT
+2 DATE 1949
+1 FAMS @F139@
+1 FAMC @F71@
+2 PEDI birth
+0 @I288@ INDI
+1 NAME Nguyễn Thị /Khuyên/
+2 GIVN Nguyễn Thị
+2 SURN Khuyên
+1 SEX F
+1 BIRT
+2 DATE 1950
+1 FAMS @F139@
+0 @I289@ INDI
+1 NAME Phan Doãn /Quang/
+2 GIVN Phan Doãn
+2 SURN Quang
+1 SEX M
+1 BIRT
+2 DATE 1952
+1 NOTE Bio notes: TB - 20
+1 FAMS @F140@
+1 FAMC @F71@
+2 PEDI birth
+0 @I290@ INDI
+1 NAME Nguyễn Thị /Nhuần/
+2 GIVN Nguyễn Thị
+2 SURN Nhuần
+1 SEX F
+1 NOTE Bio notes: LR - 20
+1 FAMS @F140@
+0 @I291@ INDI
+1 NAME Phan Doãn /Hòa/
+2 GIVN Phan Doãn
+2 SURN Hòa
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 FAMS @F141@
+1 FAMC @F71@
+2 PEDI birth
+0 @I292@ INDI
+1 NAME Phùng Thị /Lan/
+2 GIVN Phùng Thị
+2 SURN Lan
+1 SEX F
+1 NOTE Bio notes: LR -20
+1 FAMS @F141@
+0 @I293@ INDI
+1 NAME Phan Thanh /Lâm/
+2 GIVN Phan Thanh
+2 SURN Lâm
+1 SEX M
+1 BIRT
+2 DATE 1956
+1 NOTE Bio notes: TD -20
+1 FAMS @F142@
+1 FAMS @F143@
+1 FAMC @F71@
+2 PEDI birth
+0 @I294@ INDI
+1 NAME Ngô Thị Bích /Liên/
+2 GIVN Ngô Thị Bích
+2 SURN Liên
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 NOTE Bio notes: TD - 20
+1 FAMS @F142@
+0 @I295@ INDI
+1 NAME Nguyễn Thị /Đào/
+2 GIVN Nguyễn Thị
+2 SURN Đào
+1 SEX F
+1 BIRT
+2 DATE 1970
+1 NOTE Bio notes: TD - 20
+1 FAMS @F143@
+0 @I296@ INDI
+1 NAME Phan Doãn /Thanh/
+2 GIVN Phan Doãn
+2 SURN Thanh
+1 SEX M
+1 BIRT
+2 DATE 1963
+1 NOTE Bio notes: TD - 20
+1 FAMS @F144@
+1 FAMC @F71@
+2 PEDI birth
+0 @I297@ INDI
+1 NAME Nguyễn Thị /Trinh/
+2 GIVN Nguyễn Thị
+2 SURN Trinh
+1 SEX F
+1 BIRT
+2 DATE 1961
+1 NOTE Bio notes: TD - 20
+1 FAMS @F144@
+0 @I298@ INDI
+1 NAME Phan Thị Thanh /Mai/
+2 GIVN Phan Thị Thanh
+2 SURN Mai
+1 SEX F
+1 BIRT
+2 DATE 1969
+1 NOTE Bio notes: TD - 20
+1 FAMS @F145@
+1 FAMC @F71@
+2 PEDI birth
+0 @I299@ INDI
+1 NAME Trần Văn /Quảng/
+2 GIVN Trần Văn
+2 SURN Quảng
+1 SEX M
+1 BIRT
+2 DATE 1966
+1 NOTE Bio notes: CA - 20
+1 FAMS @F145@
+0 @I300@ INDI
+1 NAME Phan Thị Xuân /Chi/
+2 GIVN Phan Thị Xuân
+2 SURN Chi
+1 SEX F
+1 BIRT
+2 DATE 27 JAN 1960
+1 DEAT Y
+2 DATE 1963
+1 NOTE Bio notes: CHẾT - 20
+1 FAMC @F71@
+2 PEDI birth
+0 @I301@ INDI
+1 NAME Nguyễn Thị /Nhung/
+2 GIVN Nguyễn Thị
+2 SURN Nhung
+1 SEX F
+1 FAMC @F72@
+2 PEDI birth
+0 @I302@ INDI
+1 NAME Nguyễn Thị /Vinh/
+2 GIVN Nguyễn Thị
+2 SURN Vinh
+1 SEX F
+1 FAMC @F72@
+2 PEDI birth
+0 @I303@ INDI
+1 NAME Nguyễn Văn /Dương/
+2 GIVN Nguyễn Văn
+2 SURN Dương
+1 SEX M
+1 FAMC @F72@
+2 PEDI birth
+0 @I304@ INDI
+1 NAME Phan Thị Thanh /Hà/
+2 GIVN Phan Thị Thanh
+2 SURN Hà
+1 SEX F
+1 BIRT
+2 DATE 1957
+1 FAMS @F146@
+1 FAMC @F74@
+2 PEDI birth
+0 @I305@ INDI
+1 NAME Ngô Việt /Trung/
+2 GIVN Ngô Việt
+2 SURN Trung
+1 SEX M
+1 BIRT
+2 DATE 1953
+1 NOTE Bio notes: GSTS-TS - 20
+1 FAMS @F146@
+0 @I306@ INDI
+1 NAME Phan Thanh /Diện/
+2 GIVN Phan Thanh
+2 SURN Diện
+1 SEX M
+1 BIRT
+2 DATE 1959
+1 NOTE Bio notes: -20
+1 FAMS @F147@
+1 FAMC @F74@
+2 PEDI birth
+0 @I307@ INDI
+1 NAME Trần Thị Phương /Thảo/
+2 GIVN Trần Thị Phương
+2 SURN Thảo
+1 SEX F
+1 FAMS @F147@
+0 @I308@ INDI
+1 NAME Phan Minh /Tâm/
+2 GIVN Phan Minh
+2 SURN Tâm
+1 SEX M
+1 BIRT
+2 DATE 1969
+1 NOTE Bio notes: Cử N - 20
+1 FAMS @F148@
+1 FAMC @F74@
+2 PEDI birth
+0 @I309@ INDI
+1 NAME Nguyên Tố /Như/
+2 GIVN Nguyên Tố
+2 SURN Như
+1 SEX F
+1 BIRT
+2 DATE 1975
+1 FAMS @F148@
+0 @I310@ INDI
+1 NAME Phan Doãn /Bình/
+2 GIVN Phan Doãn
+2 SURN Bình
+1 SEX M
+1 BIRT
+2 DATE 1938
+1 DEAT Y
+2 DATE 2004
+1 FAMS @F149@
+1 FAMC @F150@
+2 PEDI birth
+0 @I311@ INDI
+1 NAME Cao Thị /Nhị/
+2 GIVN Cao Thị
+2 SURN Nhị
+1 SEX F
+1 BIRT
+2 DATE 1943
+1 FAMS @F149@
+0 @I312@ INDI
+1 NAME Phan Doãn /Hưng/
+2 GIVN Phan Doãn
+2 SURN Hưng
+1 SEX M
+1 BIRT
+2 DATE 1958
+1 FAMS @F151@
+1 FAMC @F76@
+2 PEDI birth
+0 @I313@ INDI
+1 NAME Nguyễn Thị /Ngoan/
+2 GIVN Nguyễn Thị
+2 SURN Ngoan
+1 SEX F
+1 BIRT
+2 DATE 1964
+1 FAMS @F151@
+0 @I314@ INDI
+1 NAME Phan Thị /Hường/
+2 GIVN Phan Thị
+2 SURN Hường
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 FAMS @F152@
+1 FAMC @F76@
+2 PEDI birth
+0 @I315@ INDI
+1 NAME Phùng Văn /Ngôn/
+2 GIVN Phùng Văn
+2 SURN Ngôn
+1 SEX M
+1 BIRT
+2 DATE 1962
+1 FAMS @F152@
+0 @I316@ INDI
+1 NAME Phan Thị /Tâm/
+2 GIVN Phan Thị
+2 SURN Tâm
+1 SEX F
+1 BIRT
+2 DATE 1965
+1 FAMC @F76@
+2 PEDI birth
+0 @I317@ INDI
+1 NAME Phan Thị /Hoàn/
+2 GIVN Phan Thị
+2 SURN Hoàn
+1 SEX F
+1 BIRT
+2 DATE 1969
+1 FAMS @F153@
+1 FAMC @F76@
+2 PEDI birth
+0 @I318@ INDI
+1 NAME Nguyễn Trọng /Kỷ/
+2 GIVN Nguyễn Trọng
+2 SURN Kỷ
+1 SEX M
+1 BIRT
+2 DATE 1969
+1 FAMS @F153@
+0 @I319@ INDI
+1 NAME Phan Thị /Trang/
+2 GIVN Phan Thị
+2 SURN Trang
+1 SEX F
+1 BIRT
+2 DATE 1973
+1 FAMC @F76@
+2 PEDI birth
+0 @I320@ INDI
+1 NAME Phan Thị /Long/
+2 GIVN Phan Thị
+2 SURN Long
+1 SEX F
+1 BIRT
+2 DATE 1976
+1 FAMS @F154@
+1 FAMC @F76@
+2 PEDI birth
+0 @I321@ INDI
+1 NAME Nguyễn Khoa /Diền/
+2 GIVN Nguyễn Khoa
+2 SURN Diền
+1 SEX M
+1 BIRT
+2 DATE 1977
+1 FAMS @F154@
+0 @I322@ INDI
+1 NAME Phan Lệ /Quyền/
+2 GIVN Phan Lệ
+2 SURN Quyền
+1 SEX M
+1 BIRT
+2 DATE 1956
+1 FAMS @F155@
+1 FAMC @F77@
+2 PEDI birth
+0 @I323@ INDI
+1 NAME Đậu Thị /Thanh/
+2 GIVN Đậu Thị
+2 SURN Thanh
+1 SEX F
+1 FAMS @F155@
+0 @I324@ INDI
+1 NAME Phan Lệ /Huynh/
+2 GIVN Phan Lệ
+2 SURN Huynh
+1 SEX M
+1 BIRT
+2 DATE 1960
+1 FAMS @F156@
+1 FAMC @F77@
+2 PEDI birth
+0 @I325@ INDI
+1 NAME Lê Thị /Tịnh/
+2 GIVN Lê Thị
+2 SURN Tịnh
+1 SEX F
+1 FAMS @F156@
+0 @I326@ INDI
+1 NAME Phan Doãn /Phượng/
+2 GIVN Phan Doãn
+2 SURN Phượng
+1 SEX M
+1 BIRT
+2 DATE 1962
+1 FAMS @F157@
+1 FAMC @F77@
+2 PEDI birth
+0 @I327@ INDI
+1 NAME Trần Thị /Thủy/
+2 GIVN Trần Thị
+2 SURN Thủy
+1 SEX F
+1 BIRT
+2 DATE 1964
+1 FAMS @F157@
+0 @I328@ INDI
+1 NAME Phan Thị /Liên/
+2 GIVN Phan Thị
+2 SURN Liên
+1 SEX F
+1 BIRT
+2 DATE 1965
+1 FAMC @F77@
+2 PEDI birth
+0 @I329@ INDI
+1 NAME Phan Thị /Mai/
+2 GIVN Phan Thị
+2 SURN Mai
+1 SEX F
+1 BIRT
+2 DATE 1951
+1 NOTE Bio notes: Tức Nhật
+1 FAMC @F77@
+2 PEDI birth
+0 @I330@ INDI
+1 NAME Phan Thị /Hoàn/
+2 GIVN Phan Thị
+2 SURN Hoàn
+1 SEX F
+1 BIRT
+2 DATE 1975
+1 FAMC @F77@
+2 PEDI birth
+0 @I331@ INDI
+1 NAME Phan Thị /Hoa/
+2 GIVN Phan Thị
+2 SURN Hoa
+1 SEX F
+1 BIRT
+2 DATE 1977
+1 FAMC @F78@
+2 PEDI birth
+0 @I332@ INDI
+1 NAME Phan Thanh /Hồng/
+2 GIVN Phan Thanh
+2 SURN Hồng
+1 SEX M
+1 BIRT
+2 DATE 1985
+1 FAMC @F78@
+2 PEDI birth
+0 @I333@ INDI
+1 NAME Phan Thị /Loan/
+2 GIVN Phan Thị
+2 SURN Loan
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMS @F158@
+1 FAMC @F79@
+2 PEDI birth
+0 @I334@ INDI
+1 NAME Trần Văn /Hoan/
+2 GIVN Trần Văn
+2 SURN Hoan
+1 SEX M
+1 BIRT
+2 DATE 1970
+1 DEAT Y
+2 DATE 2013
+1 FAMS @F158@
+0 @I335@ INDI
+1 NAME Phan Thị /Xoan/
+2 GIVN Phan Thị
+2 SURN Xoan
+1 SEX F
+1 BIRT
+2 DATE 1973
+1 FAMS @F159@
+1 FAMC @F79@
+2 PEDI birth
+0 @I336@ INDI
+1 NAME Nguyễn Quang /Thanh/
+2 GIVN Nguyễn Quang
+2 SURN Thanh
+1 SEX M
+1 BIRT
+2 DATE 1968
+1 FAMS @F159@
+0 @I337@ INDI
+1 NAME Phan Thị /Toàn/
+2 GIVN Phan Thị
+2 SURN Toàn
+1 SEX F
+1 BIRT
+2 DATE 1978
+1 FAMS @F160@
+1 FAMC @F79@
+2 PEDI birth
+0 @I338@ INDI
+1 NAME Nguyễn Khắc /Đồng/
+2 GIVN Nguyễn Khắc
+2 SURN Đồng
+1 SEX M
+1 BIRT
+2 DATE 1975
+1 FAMS @F160@
+0 @I339@ INDI
+1 NAME Phan Doãn /Đại/
+2 GIVN Phan Doãn
+2 SURN Đại
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMS @F161@
+1 FAMC @F79@
+2 PEDI birth
+0 @I340@ INDI
+1 NAME Lê Thị /Thúy/
+2 GIVN Lê Thị
+2 SURN Thúy
+1 SEX F
+1 BIRT
+2 DATE 1987
+1 FAMS @F161@
+0 @I341@ INDI
+1 NAME Phan Thị /Lượng/
+2 GIVN Phan Thị
+2 SURN Lượng
+1 SEX F
+1 BIRT
+2 DATE 1985
+1 FAMS @F162@
+1 FAMC @F79@
+2 PEDI birth
+0 @I342@ INDI
+1 NAME Nguyễn Hữu /Phương/
+2 GIVN Nguyễn Hữu
+2 SURN Phương
+1 SEX M
+1 BIRT
+2 DATE 1979
+1 FAMS @F162@
+0 @I343@ INDI
+1 NAME Phan Thị /Hợi/
+2 GIVN Phan Thị
+2 SURN Hợi
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMC @F163@
+2 PEDI birth
+0 @I344@ INDI
+1 NAME Phan Thị /Quỳnh/
+2 GIVN Phan Thị
+2 SURN Quỳnh
+1 SEX F
+1 BIRT
+2 DATE 1974
+1 FAMC @F163@
+2 PEDI birth
+0 @I345@ INDI
+1 NAME Phan Hữu /Đình/
+2 GIVN Phan Hữu
+2 SURN Đình
+1 SEX M
+1 BIRT
+2 DATE 1977
+1 FAMC @F163@
+2 PEDI birth
+0 @I346@ INDI
+1 NAME Phan Thị /Thắm/
+2 GIVN Phan Thị
+2 SURN Thắm
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMC @F163@
+2 PEDI birth
+0 @I347@ INDI
+1 NAME Phan Doãn /Thái/
+2 GIVN Phan Doãn
+2 SURN Thái
+1 SEX M
+1 BIRT
+2 DATE 1986
+1 FAMS @F164@
+1 FAMC @F163@
+2 PEDI birth
+0 @I348@ INDI
+1 NAME Nguyễn Thị /Lương/
+2 GIVN Nguyễn Thị
+2 SURN Lương
+1 SEX F
+1 BIRT
+2 DATE 1994
+1 FAMS @F164@
+0 @I349@ INDI
+1 NAME Phan Thị /Hồng/
+2 GIVN Phan Thị
+2 SURN Hồng
+1 SEX F
+1 FAMC @F163@
+2 PEDI birth
+0 @I350@ INDI
+1 NAME Phan Thị /Hà/
+2 GIVN Phan Thị
+2 SURN Hà
+1 SEX F
+1 FAMC @F163@
+2 PEDI birth
+0 @I351@ INDI
+1 NAME Phan Doãn /Ngọc/
+2 GIVN Phan Doãn
+2 SURN Ngọc
+1 SEX M
+1 BIRT
+2 DATE 1972
+1 FAMS @F165@
+1 FAMC @F166@
+2 PEDI birth
+0 @I352@ INDI
+1 NAME Hoàng Thị /Thu/
+2 GIVN Hoàng Thị
+2 SURN Thu
+1 SEX F
+1 FAMS @F165@
+0 @I353@ INDI
+1 NAME Phan Huy /Tùng/
+2 GIVN Phan Huy
+2 SURN Tùng
+1 SEX M
+1 BIRT
+2 DATE 1956
+1 FAMS @F167@
+1 FAMC @F84@
+2 PEDI birth
+0 @I354@ INDI
+1 NAME Lại Thị /Vinh/
+2 GIVN Lại Thị
+2 SURN Vinh
+1 SEX F
+1 BIRT
+2 DATE 1955
+1 FAMS @F167@
+0 @I355@ INDI
+1 NAME Phan Thị Minh /Ngân/
+2 GIVN Phan Thị Minh
+2 SURN Ngân
+1 SEX F
+1 BIRT
+2 DATE 1964
+1 DEAT Y
+2 DATE 10 NOV 2015
+1 FAMS @F325@
+1 FAMC @F84@
+2 PEDI birth
+0 @I356@ INDI
+1 NAME Phan Thị Hoa /Lý/
+2 GIVN Phan Thị Hoa
+2 SURN Lý
+1 SEX F
+1 BIRT
+2 DATE 1968
+1 FAMS @F168@
+1 FAMC @F84@
+2 PEDI birth
+0 @I357@ INDI
+1 NAME Phan Tiến /Lực/
+2 GIVN Phan Tiến
+2 SURN Lực
+1 SEX M
+1 BIRT
+2 DATE 1970
+1 FAMS @F169@
+1 FAMC @F84@
+2 PEDI birth
+0 @I358@ INDI
+1 NAME Phạm Thị /Niệm/
+2 GIVN Phạm Thị
+2 SURN Niệm
+1 SEX F
+1 BIRT
+2 DATE 1978
+1 FAMS @F169@
+0 @I359@ INDI
+1 NAME Phan Thanh /Nguyên/
+2 GIVN Phan Thanh
+2 SURN Nguyên
+1 SEX M
+1 BIRT
+2 DATE 1963
+1 FAMS @F170@
+1 FAMC @F171@
+2 PEDI birth
+0 @I360@ INDI
+1 NAME Hoàng Thị Thanh /Hương/
+2 GIVN Hoàng Thị Thanh
+2 SURN Hương
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMS @F170@
+0 @I361@ INDI
+1 NAME Phan Thu /Thủy/
+2 GIVN Phan Thu
+2 SURN Thủy
+1 SEX F
+1 BIRT
+2 DATE 1965
+1 FAMC @F171@
+2 PEDI birth
+0 @I362@ INDI
+1 NAME Phan Doãn /Tấn/
+2 GIVN Phan Doãn
+2 SURN Tấn
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 FAMC @F172@
+2 PEDI birth
+0 @I363@ INDI
+1 NAME Phan Doãn /Tần/
+2 GIVN Phan Doãn
+2 SURN Tần
+1 SEX M
+1 BIRT
+2 DATE 1950
+1 DEAT Y
+1 FAMS @F173@
+1 FAMC @F172@
+2 PEDI birth
+0 @I364@ INDI
+1 NAME Trần Thị /Cầm/
+2 GIVN Trần Thị
+2 SURN Cầm
+1 SEX F
+1 FAMS @F173@
+0 @I365@ INDI
+1 NAME Phan Doãn /Lâm/
+2 GIVN Phan Doãn
+2 SURN Lâm
+1 SEX M
+1 BIRT
+2 DATE 1954
+1 FAMS @F174@
+1 FAMC @F172@
+2 PEDI birth
+0 @I366@ INDI
+1 NAME Nguyễn Thị /Lãng/
+2 GIVN Nguyễn Thị
+2 SURN Lãng
+1 SEX F
+1 FAMS @F174@
+0 @I367@ INDI
+1 NAME Phan Thị /Soa/
+2 GIVN Phan Thị
+2 SURN Soa
+1 SEX F
+1 BIRT
+2 DATE 1956
+1 FAMC @F172@
+2 PEDI birth
+0 @I368@ INDI
+1 NAME Phan Thị /Hoa/
+2 GIVN Phan Thị
+2 SURN Hoa
+1 SEX F
+1 BIRT
+2 DATE 1958
+1 FAMC @F172@
+2 PEDI birth
+0 @I369@ INDI
+1 NAME Phan Thị /Hòa/
+2 GIVN Phan Thị
+2 SURN Hòa
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 FAMC @F172@
+2 PEDI birth
+0 @I370@ INDI
+1 NAME Phan Thị /Hiền/
+2 GIVN Phan Thị
+2 SURN Hiền
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 FAMC @F172@
+2 PEDI birth
+0 @I371@ INDI
+1 NAME Phan Doãn /Thuyết/
+2 GIVN Phan Doãn
+2 SURN Thuyết
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 FAMS @F175@
+1 FAMC @F172@
+2 PEDI birth
+0 @I372@ INDI
+1 NAME Hồ Thị /Bằng/
+2 GIVN Hồ Thị
+2 SURN Bằng
+1 SEX F
+1 FAMS @F175@
+0 @I373@ INDI
+1 NAME Phan Thị /Tuyết/
+2 GIVN Phan Thị
+2 SURN Tuyết
+1 SEX F
+1 BIRT
+2 DATE 1968
+1 FAMC @F172@
+2 PEDI birth
+0 @I374@ INDI
+1 NAME Phan Thị /Trầm/
+2 GIVN Phan Thị
+2 SURN Trầm
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMC @F172@
+2 PEDI birth
+0 @I375@ INDI
+1 NAME Phan Doãn /Minh/
+2 GIVN Phan Doãn
+2 SURN Minh
+1 SEX M
+1 BIRT
+2 DATE 1950
+1 DEAT Y
+2 DATE 1977
+1 NOTE Bio notes: Liệt sỹ
+1 FAMS @F176@
+1 FAMS @F303@
+1 FAMC @F87@
+2 PEDI birth
+0 @I376@ INDI
+1 NAME Phan Hồng /Tính/
+2 GIVN Phan Hồng
+2 SURN Tính
+1 SEX M
+1 BIRT
+2 DATE 1950
+1 DEAT Y
+2 DATE 2009
+1 FAMS @F177@
+1 FAMC @F87@
+2 PEDI birth
+0 @I377@ INDI
+1 NAME Phan Thị /Sâm 20C/
+2 GIVN Phan Thị
+2 SURN Sâm 20C
+1 SEX F
+1 BIRT
+2 DATE 1956
+1 FAMS @F178@
+1 FAMC @F87@
+2 PEDI birth
+0 @I378@ INDI
+1 NAME Phan Thị /Quế/
+2 GIVN Phan Thị
+2 SURN Quế
+1 SEX F
+1 BIRT
+2 DATE 1958
+1 FAMS @F179@
+1 FAMC @F87@
+2 PEDI birth
+0 @I379@ INDI
+1 NAME Phan Doãn /Huệ/
+2 GIVN Phan Doãn
+2 SURN Huệ
+1 SEX M
+1 BIRT
+2 DATE 1960
+1 FAMS @F180@
+1 FAMC @F87@
+2 PEDI birth
+0 @I380@ INDI
+1 NAME Thái Thị /Khai/
+2 GIVN Thái Thị
+2 SURN Khai
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 FAMS @F180@
+0 @I381@ INDI
+1 NAME Phan Thị /Đào/
+2 GIVN Phan Thị
+2 SURN Đào
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 FAMS @F181@
+1 FAMC @F87@
+2 PEDI birth
+0 @I382@ INDI
+1 NAME Phan Thị /Thơ/
+2 GIVN Phan Thị
+2 SURN Thơ
+1 SEX F
+1 BIRT
+2 DATE 1966
+1 FAMS @F182@
+1 FAMC @F87@
+2 PEDI birth
+0 @I383@ INDI
+1 NAME Phan Doãn /Văn/
+2 GIVN Phan Doãn
+2 SURN Văn
+1 SEX M
+1 BIRT
+2 DATE 1970
+1 DEAT Y
+2 DATE 2014
+1 FAMS @F183@
+1 FAMC @F87@
+2 PEDI birth
+0 @I384@ INDI
+1 NAME Phùng Thị /Hà/
+2 GIVN Phùng Thị
+2 SURN Hà
+1 SEX F
+1 BIRT
+2 DATE 1973
+1 FAMS @F183@
+0 @I385@ INDI
+1 NAME Phan Thị /Sen/
+2 GIVN Phan Thị
+2 SURN Sen
+1 SEX F
+1 BIRT
+2 DATE 1963
+1 FAMS @F184@
+1 FAMC @F88@
+2 PEDI birth
+0 @I386@ INDI
+1 NAME Phan Thị /Hà/
+2 GIVN Phan Thị
+2 SURN Hà
+1 SEX F
+1 BIRT
+2 DATE 1961
+1 FAMS @F185@
+1 FAMC @F88@
+2 PEDI birth
+0 @I387@ INDI
+1 NAME Phan Thị /Lan/
+2 GIVN Phan Thị
+2 SURN Lan
+1 SEX F
+1 BIRT
+2 DATE 1969
+1 FAMS @F186@
+1 FAMC @F88@
+2 PEDI birth
+0 @I388@ INDI
+1 NAME Phan Thị /Cúc/
+2 GIVN Phan Thị
+2 SURN Cúc
+1 SEX F
+1 BIRT
+2 DATE 1973
+1 FAMS @F187@
+1 FAMS @F188@
+1 FAMC @F88@
+2 PEDI birth
+0 @I389@ INDI
+1 NAME Phan Thị /Hằng/
+2 GIVN Phan Thị
+2 SURN Hằng
+1 SEX F
+1 BIRT
+2 DATE 1976
+1 FAMC @F88@
+2 PEDI birth
+0 @I390@ INDI
+1 NAME Phan Thị /Huyền/
+2 GIVN Phan Thị
+2 SURN Huyền
+1 SEX F
+1 BIRT
+2 DATE 1979
+1 FAMS @F189@
+1 FAMC @F88@
+2 PEDI birth
+0 @I391@ INDI
+1 NAME Phan Thanh /Quý/
+2 GIVN Phan Thanh
+2 SURN Quý
+1 SEX M
+1 BIRT
+2 DATE 1981
+1 DEAT Y
+2 DATE 2011
+1 FAMC @F88@
+2 PEDI birth
+0 @I392@ INDI
+1 NAME Phan Thị /Quyên/
+2 GIVN Phan Thị
+2 SURN Quyên
+1 SEX F
+1 BIRT
+2 DATE 1986
+1 FAMS @F190@
+1 FAMC @F88@
+2 PEDI birth
+0 @I393@ INDI
+1 NAME Phan Thanh /Ngọc/
+2 GIVN Phan Thanh
+2 SURN Ngọc
+1 SEX M
+1 BIRT
+2 DATE 1965
+1 FAMS @F191@
+1 FAMC @F89@
+2 PEDI birth
+0 @I394@ INDI
+1 NAME Phan Ánh /Đường/
+2 GIVN Phan Ánh
+2 SURN Đường
+1 SEX M
+1 BIRT
+2 DATE 1974
+1 FAMS @F192@
+1 FAMC @F89@
+2 PEDI birth
+0 @I395@ INDI
+1 NAME Phan Thanh /Châu/
+2 GIVN Phan Thanh
+2 SURN Châu
+1 SEX M
+1 BIRT
+2 DATE 1961
+1 FAMS @F193@
+1 FAMC @F89@
+2 PEDI birth
+0 @I396@ INDI
+1 NAME Phan Trí /Huấn/
+2 GIVN Phan Trí
+2 SURN Huấn
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 FAMS @F194@
+1 FAMC @F90@
+2 PEDI birth
+0 @I397@ INDI
+1 NAME Nguyễn Thị /Tuyết/
+2 GIVN Nguyễn Thị
+2 SURN Tuyết
+1 SEX F
+1 FAMS @F194@
+0 @I398@ INDI
+1 NAME Phan Trí /Hữu/
+2 GIVN Phan Trí
+2 SURN Hữu
+1 SEX M
+1 BIRT
+2 DATE 1968
+1 FAMS @F195@
+1 FAMC @F90@
+2 PEDI birth
+0 @I399@ INDI
+1 NAME Thái Thị /Sinh/
+2 GIVN Thái Thị
+2 SURN Sinh
+1 SEX F
+1 FAMS @F195@
+0 @I400@ INDI
+1 NAME Phan Doãn /Thống/
+2 GIVN Phan Doãn
+2 SURN Thống
+1 SEX M
+1 BIRT
+2 DATE 1975
+1 DEAT Y
+2 DATE 1975
+1 FAMS @F196@
+1 FAMC @F90@
+2 PEDI birth
+0 @I401@ INDI
+1 NAME Nguyễn Thị /Lán/
+2 GIVN Nguyễn Thị
+2 SURN Lán
+1 SEX F
+1 BIRT
+2 DATE 1975
+1 FAMS @F196@
+0 @I402@ INDI
+1 NAME Phan Thị /Hường/
+2 GIVN Phan Thị
+2 SURN Hường
+1 SEX F
+1 BIRT
+2 DATE 1961
+1 FAMC @F90@
+2 PEDI birth
+0 @I403@ INDI
+1 NAME Phan Trí /Thành/
+2 GIVN Phan Trí
+2 SURN Thành
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 DEAT Y
+2 DATE 2008
+1 FAMS @F197@
+1 FAMC @F91@
+2 PEDI birth
+0 @I404@ INDI
+1 NAME Lưu Thị /Yên/
+2 GIVN Lưu Thị
+2 SURN Yên
+1 SEX F
+1 BIRT
+2 DATE 1968
+1 FAMS @F197@
+0 @I405@ INDI
+1 NAME Phan Thanh /Thịnh/
+2 GIVN Phan Thanh
+2 SURN Thịnh
+1 SEX M
+1 BIRT
+2 DATE 1969
+1 FAMS @F198@
+1 FAMC @F91@
+2 PEDI birth
+0 @I406@ INDI
+1 NAME Nguyễn Thị /Tuyết/
+2 GIVN Nguyễn Thị
+2 SURN Tuyết
+1 SEX F
+1 BIRT
+2 DATE 1975
+1 FAMS @F198@
+0 @I407@ INDI
+1 NAME Phan Hồng /Thái/
+2 GIVN Phan Hồng
+2 SURN Thái
+1 SEX M
+1 BIRT
+2 DATE 1975
+1 FAMS @F199@
+1 FAMC @F91@
+2 PEDI birth
+0 @I408@ INDI
+1 NAME Đặng Thị Hồng /Lợi/
+2 GIVN Đặng Thị Hồng
+2 SURN Lợi
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMS @F199@
+0 @I409@ INDI
+1 NAME Phan Thị Hoa /Lài/
+2 GIVN Phan Thị Hoa
+2 SURN Lài
+1 SEX F
+1 BIRT
+2 DATE 1976
+1 FAMS @F200@
+1 FAMC @F91@
+2 PEDI birth
+0 @I410@ INDI
+1 NAME Phan Thị /Bé/
+2 GIVN Phan Thị
+2 SURN Bé
+1 SEX F
+1 BIRT
+2 DATE 1986
+1 FAMC @F92@
+2 PEDI birth
+0 @I411@ INDI
+1 NAME Phan Doãn /Bảo/
+2 GIVN Phan Doãn
+2 SURN Bảo
+1 SEX M
+1 BIRT
+2 DATE 1986
+1 FAMC @F92@
+2 PEDI birth
+0 @I412@ INDI
+1 NAME Phan Hồng /Vân/
+2 GIVN Phan Hồng
+2 SURN Vân
+1 SEX M
+1 BIRT
+2 DATE 1979
+1 FAMC @F93@
+2 PEDI birth
+0 @I413@ INDI
+1 NAME Phan Hồng /Nam/
+2 GIVN Phan Hồng
+2 SURN Nam
+1 SEX M
+1 BIRT
+2 DATE 1983
+1 FAMS @F201@
+1 FAMC @F93@
+2 PEDI birth
+0 @I414@ INDI
+1 NAME Nguyễn Thị /Nga/
+2 GIVN Nguyễn Thị
+2 SURN Nga
+1 SEX F
+1 FAMS @F201@
+0 @I415@ INDI
+1 NAME Phan Thị /Trang/
+2 GIVN Phan Thị
+2 SURN Trang
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMC @F93@
+2 PEDI birth
+0 @I416@ INDI
+1 NAME Phan Hồng /Trường/
+2 GIVN Phan Hồng
+2 SURN Trường
+1 SEX M
+1 BIRT
+2 DATE 1989
+1 FAMS @F202@
+1 FAMC @F95@
+2 PEDI birth
+0 @I417@ INDI
+1 NAME Hoàng Thị /Trà/
+2 GIVN Hoàng Thị
+2 SURN Trà
+1 SEX F
+1 FAMS @F202@
+0 @I418@ INDI
+1 NAME Phan Hồng /Chinh/
+2 GIVN Phan Hồng
+2 SURN Chinh
+1 SEX M
+1 BIRT
+2 DATE 1991
+1 FAMC @F95@
+2 PEDI birth
+0 @I419@ INDI
+1 NAME Phan Hồng /Chiến/
+2 GIVN Phan Hồng
+2 SURN Chiến
+1 SEX M
+1 BIRT
+2 DATE 1996
+1 FAMC @F95@
+2 PEDI birth
+0 @I420@ INDI
+1 NAME Phan Thái /Lâm/
+2 GIVN Phan Thái
+2 SURN Lâm
+1 SEX M
+1 BIRT
+2 DATE 1996
+1 FAMS @F203@
+1 FAMC @F96@
+2 PEDI birth
+0 @I421@ INDI
+1 NAME Trần Thị Tố /Nga/
+2 GIVN Trần Thị Tố
+2 SURN Nga
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMS @F203@
+0 @I422@ INDI
+1 NAME Phan Thị /Oanh/
+2 GIVN Phan Thị
+2 SURN Oanh
+1 SEX F
+1 BIRT
+2 DATE 2005
+1 FAMC @F96@
+2 PEDI birth
+0 @I423@ INDI
+1 NAME Phan Thị /Linh/
+2 GIVN Phan Thị
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 2003
+1 FAMC @F97@
+2 PEDI birth
+0 @I424@ INDI
+1 NAME Phan Thị /Phương/
+2 GIVN Phan Thị
+2 SURN Phương
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMC @F97@
+2 PEDI birth
+0 @I425@ INDI
+1 NAME Phan Thị /Nhung/
+2 GIVN Phan Thị
+2 SURN Nhung
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMC @F98@
+2 PEDI birth
+0 @I426@ INDI
+1 NAME Phan Doãn /Trung/
+2 GIVN Phan Doãn
+2 SURN Trung
+1 SEX M
+1 BIRT
+2 DATE 2000
+1 FAMC @F98@
+2 PEDI birth
+0 @I427@ INDI
+1 NAME Phan Thị /Hằng/
+2 GIVN Phan Thị
+2 SURN Hằng
+1 SEX F
+1 BIRT
+2 DATE 2002
+1 FAMC @F98@
+2 PEDI birth
+0 @I428@ INDI
+1 NAME Phan Tất /Tuấn/
+2 GIVN Phan Tất
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 1994
+1 FAMS @F204@
+1 FAMC @F99@
+2 PEDI birth
+0 @I429@ INDI
+1 NAME Nguyễn Thị /Huệ/
+2 GIVN Nguyễn Thị
+2 SURN Huệ
+1 SEX F
+1 FAMS @F204@
+0 @I430@ INDI
+1 NAME Phan Thị /Tú/
+2 GIVN Phan Thị
+2 SURN Tú
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMC @F99@
+2 PEDI birth
+0 @I431@ INDI
+1 NAME Phan Doãn /Tuyến/
+2 GIVN Phan Doãn
+2 SURN Tuyến
+1 SEX M
+1 BIRT
+2 DATE 1928
+1 DEAT Y
+2 DATE 2008
+1 NOTE Bio notes: Đại tá Lê Văn Thọ; Kỵ 4-2
+1 FAMS @F205@
+1 FAMS @F206@
+1 FAMC @F100@
+2 PEDI birth
+0 @I432@ INDI
+1 NAME Trần Thị Hồng /Hóa/
+2 GIVN Trần Thị Hồng
+2 SURN Hóa
+1 SEX F
+1 FAMS @F205@
+0 @I433@ INDI
+1 NAME Phan Thị /Mai/
+2 GIVN Phan Thị
+2 SURN Mai
+1 SEX F
+1 BIRT
+2 DATE 1931
+1 FAMC @F100@
+2 PEDI birth
+0 @I434@ INDI
+1 NAME Phan Doãn /Bích/
+2 GIVN Phan Doãn
+2 SURN Bích
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 FAMS @F207@
+1 FAMC @F100@
+2 PEDI birth
+0 @I435@ INDI
+1 NAME Trần Thị /Nại/
+2 GIVN Trần Thị
+2 SURN Nại
+1 SEX F
+1 FAMS @F207@
+0 @I436@ INDI
+1 NAME Phan Lễ /Uyển/
+2 GIVN Phan Lễ
+2 SURN Uyển
+1 SEX M
+1 BIRT
+2 DATE 1936
+1 FAMS @F208@
+1 FAMC @F100@
+2 PEDI birth
+0 @I437@ INDI
+1 NAME Trần Thị /Hồng/
+2 GIVN Trần Thị
+2 SURN Hồng
+1 SEX F
+1 FAMS @F208@
+0 @I438@ INDI
+1 NAME Phan Thị /Cư/
+2 GIVN Phan Thị
+2 SURN Cư
+1 SEX F
+1 BIRT
+2 DATE 1942
+1 DEAT Y
+2 DATE 2018
+1 FAMC @F100@
+2 PEDI birth
+0 @I439@ INDI
+1 NAME Phan Thị /Lục/
+2 GIVN Phan Thị
+2 SURN Lục
+1 SEX F
+1 BIRT
+2 DATE 1945
+1 FAMC @F100@
+2 PEDI birth
+0 @I440@ INDI
+1 NAME Phan Anh /Tuấn/
+2 GIVN Phan Anh
+2 SURN Tuấn
+1 SEX M
+1 NOTE Bio notes: Định cư ở Pháp
+1 FAMC @F102@
+2 PEDI birth
+0 @I441@ INDI
+1 NAME Phan Thị Kim /Anh/
+2 GIVN Phan Thị Kim
+2 SURN Anh
+1 SEX F
+1 NOTE Bio notes: Định cư ở Mỹ
+1 FAMC @F102@
+2 PEDI birth
+0 @I442@ INDI
+1 NAME Lê Thị /Xuân/
+2 GIVN Lê Thị
+2 SURN Xuân
+1 SEX F
+1 NOTE Bio notes: Con nuôi
+1 FAMC @F102@
+2 PEDI birth
+0 @I443@ INDI
+1 NAME Phan Thị Thùy /Giang/
+2 GIVN Phan Thị Thùy
+2 SURN Giang
+1 SEX F
+1 BIRT
+2 DATE 1965
+1 FAMS @F209@
+1 FAMC @F106@
+2 PEDI birth
+0 @I444@ INDI
+1 NAME Thái Huy /Sáu/
+2 GIVN Thái Huy
+2 SURN Sáu
+1 SEX M
+1 BIRT
+2 DATE 1962
+1 FAMS @F209@
+0 @I445@ INDI
+1 NAME Phan Thị /Lam/
+2 GIVN Phan Thị
+2 SURN Lam
+1 SEX F
+1 BIRT
+2 DATE 1967
+1 FAMS @F210@
+1 FAMC @F106@
+2 PEDI birth
+0 @I446@ INDI
+1 NAME Hoàng Đình /Quý/
+2 GIVN Hoàng Đình
+2 SURN Quý
+1 SEX M
+1 BIRT
+2 DATE 1960
+1 FAMS @F210@
+0 @I447@ INDI
+1 NAME Phan Thị Vĩnh /Chi/
+2 GIVN Phan Thị Vĩnh
+2 SURN Chi
+1 SEX F
+1 BIRT
+2 DATE 1970
+1 FAMS @F211@
+1 FAMC @F106@
+2 PEDI birth
+0 @I448@ INDI
+1 NAME Phạm Đình /Dương/
+2 GIVN Phạm Đình
+2 SURN Dương
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 FAMS @F211@
+0 @I449@ INDI
+1 NAME Phan Doãn /Sáng/
+2 GIVN Phan Doãn
+2 SURN Sáng
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 FAMS @F212@
+1 FAMC @F106@
+2 PEDI birth
+0 @I450@ INDI
+1 NAME Trần Thị Thu /Hà/
+2 GIVN Trần Thị Thu
+2 SURN Hà
+1 SEX F
+1 BIRT
+2 DATE 1983
+1 FAMS @F212@
+0 @I451@ INDI
+1 NAME Phan Chí /Lệ/
+2 GIVN Phan Chí
+2 SURN Lệ
+1 SEX M
+1 BIRT
+2 DATE 1980
+1 FAMS @F213@
+1 FAMC @F106@
+2 PEDI birth
+0 @I452@ INDI
+1 NAME Nguyễn Thị Trang /Diễm/
+2 GIVN Nguyễn Thị Trang
+2 SURN Diễm
+1 SEX F
+1 BIRT
+2 DATE 1991
+1 FAMS @F213@
+0 @I453@ INDI
+1 NAME Phan Thị /Thủy/
+2 GIVN Phan Thị
+2 SURN Thủy
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 FAMS @F214@
+1 FAMC @F106@
+2 PEDI birth
+0 @I454@ INDI
+1 NAME Nguyễn Tiến /Dũng/
+2 GIVN Nguyễn Tiến
+2 SURN Dũng
+1 SEX M
+1 BIRT
+2 DATE 1959
+1 FAMS @F214@
+0 @I455@ INDI
+1 NAME Phan Bình /Sơn/
+2 GIVN Phan Bình
+2 SURN Sơn
+1 SEX M
+1 FAMS @F215@
+1 FAMC @F107@
+2 PEDI birth
+0 @I456@ INDI
+1 NAME Nguyễn Thị /Kiểm/
+2 GIVN Nguyễn Thị
+2 SURN Kiểm
+1 SEX F
+1 BIRT
+2 DATE 1986
+1 FAMS @F215@
+0 @I457@ INDI
+1 NAME Phan Thị Cẩm /Vân/
+2 GIVN Phan Thị Cẩm
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 1980
+1 DEAT Y
+2 DATE 2021
+1 FAMC @F107@
+2 PEDI birth
+0 @I458@ INDI
+1 NAME Phan Thanh /Anh/
+2 GIVN Phan Thanh
+2 SURN Anh
+1 SEX M
+1 BIRT
+2 DATE 1972
+1 FAMS @F216@
+1 FAMC @F108@
+2 PEDI birth
+0 @I459@ INDI
+1 NAME Hà Thị /Nga/
+2 GIVN Hà Thị
+2 SURN Nga
+1 SEX F
+1 FAMS @F216@
+0 @I460@ INDI
+1 NAME Phan Thanh /Hùng/
+2 GIVN Phan Thanh
+2 SURN Hùng
+1 SEX M
+1 BIRT
+2 DATE 1974
+1 FAMS @F217@
+1 FAMC @F108@
+2 PEDI birth
+0 @I461@ INDI
+1 NAME Nguyễn Thị Thùy /Linh/
+2 GIVN Nguyễn Thị Thùy
+2 SURN Linh
+1 SEX F
+1 FAMS @F217@
+0 @I462@ INDI
+1 NAME Phan Chí /Trung/
+2 GIVN Phan Chí
+2 SURN Trung
+1 SEX M
+1 BIRT
+2 DATE 1977
+1 DEAT Y
+2 DATE 2009
+1 FAMC @F108@
+2 PEDI birth
+0 @I463@ INDI
+1 NAME Phan Thị Như /Ý/
+2 GIVN Phan Thị Như
+2 SURN Ý
+1 SEX F
+1 BIRT
+2 DATE 1979
+1 FAMC @F108@
+2 PEDI birth
+0 @I464@ INDI
+1 NAME Phan Tiến /Dũng/
+2 GIVN Phan Tiến
+2 SURN Dũng
+1 SEX M
+1 BIRT
+2 DATE 1961
+1 FAMC @F109@
+2 PEDI birth
+0 @I465@ INDI
+1 NAME Phan Thanh /Hùng/
+2 GIVN Phan Thanh
+2 SURN Hùng
+1 SEX M
+1 BIRT
+2 DATE 1962
+1 FAMS @F218@
+1 FAMC @F109@
+2 PEDI birth
+0 @I466@ INDI
+1 NAME Nguyễn Thị /Hiền/
+2 GIVN Nguyễn Thị
+2 SURN Hiền
+1 SEX F
+1 FAMS @F218@
+0 @I467@ INDI
+1 NAME Phan Tiến /Cường/
+2 GIVN Phan Tiến
+2 SURN Cường
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 FAMS @F219@
+1 FAMC @F109@
+2 PEDI birth
+0 @I468@ INDI
+1 NAME Trịnh Thị /Hiền/
+2 GIVN Trịnh Thị
+2 SURN Hiền
+1 SEX F
+1 FAMS @F219@
+0 @I469@ INDI
+1 NAME Phan Quyết /Thắng/
+2 GIVN Phan Quyết
+2 SURN Thắng
+1 SEX M
+1 BIRT
+2 DATE 1966
+1 FAMS @F220@
+1 FAMC @F109@
+2 PEDI birth
+0 @I470@ INDI
+1 NAME Đinh Thị /Hiển/
+2 GIVN Đinh Thị
+2 SURN Hiển
+1 SEX F
+1 BIRT
+2 DATE 1966
+1 FAMS @F220@
+0 @I471@ INDI
+1 NAME Phan Hoài /Nam/
+2 GIVN Phan Hoài
+2 SURN Nam
+1 SEX M
+1 BIRT
+2 DATE 1968
+1 FAMS @F221@
+1 FAMC @F109@
+2 PEDI birth
+0 @I472@ INDI
+1 NAME Vũ Thị Ánh /Dương/
+2 GIVN Vũ Thị Ánh
+2 SURN Dương
+1 SEX F
+1 BIRT
+2 DATE 1972
+1 FAMS @F221@
+0 @I473@ INDI
+1 NAME Phan Thị Kim /Dung/
+2 GIVN Phan Thị Kim
+2 SURN Dung
+1 SEX F
+1 BIRT
+2 DATE 1972
+1 FAMC @F109@
+2 PEDI birth
+0 @I474@ INDI
+1 NAME Phan Thị Như /Hà/
+2 GIVN Phan Thị Như
+2 SURN Hà
+1 SEX F
+1 BIRT
+2 DATE 1972
+1 FAMC @F109@
+2 PEDI birth
+0 @I475@ INDI
+1 NAME Phan Thị Bích /Thủy/
+2 GIVN Phan Thị Bích
+2 SURN Thủy
+1 SEX F
+1 BIRT
+2 DATE 1973
+1 FAMC @F109@
+2 PEDI birth
+0 @I476@ INDI
+1 NAME Phan Chi /Linh/
+2 GIVN Phan Chi
+2 SURN Linh
+1 SEX M
+1 BIRT
+2 DATE 1970
+1 FAMS @F245@
+1 FAMC @F110@
+2 PEDI birth
+0 @I477@ INDI
+1 NAME Phan Chí /Thiên/
+2 GIVN Phan Chí
+2 SURN Thiên
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 FAMS @F222@
+1 FAMC @F110@
+2 PEDI birth
+0 @I478@ INDI
+1 NAME Huỳnh Thị Thu /Cúc/
+2 GIVN Huỳnh Thị Thu
+2 SURN Cúc
+1 SEX F
+1 FAMS @F222@
+0 @I479@ INDI
+1 NAME Phan Chí /Phương/
+2 GIVN Phan Chí
+2 SURN Phương
+1 SEX F
+1 BIRT
+2 DATE 1977
+1 FAMC @F110@
+2 PEDI birth
+0 @I480@ INDI
+1 NAME Phan Nghị /Bình/
+2 GIVN Phan Nghị
+2 SURN Bình
+1 SEX M
+1 BIRT
+2 DATE 1977
+1 FAMC @F113@
+2 PEDI birth
+0 @I481@ INDI
+1 NAME Phan Doãn /David/
+2 GIVN Phan Doãn
+2 SURN David
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMC @F113@
+2 PEDI birth
+0 @I482@ INDI
+1 NAME Phan Thị /Daniel/
+2 GIVN Phan Thị
+2 SURN Daniel
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMC @F113@
+2 PEDI birth
+0 @I483@ INDI
+1 NAME Phan Thị /Tuyết/
+2 GIVN Phan Thị
+2 SURN Tuyết
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMC @F114@
+2 PEDI birth
+0 @I484@ INDI
+1 NAME Phan Thị /Tùng/
+2 GIVN Phan Thị
+2 SURN Tùng
+1 SEX F
+1 BIRT
+2 DATE 1973
+1 FAMC @F114@
+2 PEDI birth
+0 @I485@ INDI
+1 NAME Phan Chiến /Thắng/
+2 GIVN Phan Chiến
+2 SURN Thắng
+1 SEX M
+1 BIRT
+2 DATE 1975
+1 FAMS @F246@
+1 FAMC @F114@
+2 PEDI birth
+0 @I486@ INDI
+1 NAME Phan Thị Anh /Thu/
+2 GIVN Phan Thị Anh
+2 SURN Thu
+1 SEX F
+1 BIRT
+2 DATE 1977
+1 FAMC @F114@
+2 PEDI birth
+0 @I487@ INDI
+1 NAME Phan Thị /Nga/
+2 GIVN Phan Thị
+2 SURN Nga
+1 SEX F
+1 BIRT
+2 DATE 1957
+1 FAMC @F119@
+2 PEDI birth
+0 @I488@ INDI
+1 NAME Phan Doãn /Văn/
+2 GIVN Phan Doãn
+2 SURN Văn
+1 SEX M
+1 BIRT
+2 DATE 1960
+1 FAMS @F223@
+1 FAMC @F119@
+2 PEDI birth
+0 @I489@ INDI
+1 NAME Phan Thị /Nhung/
+2 GIVN Phan Thị
+2 SURN Nhung
+1 SEX F
+1 BIRT
+2 DATE 1960
+1 FAMS @F223@
+0 @I490@ INDI
+1 NAME Phan Trần Bình /Minh/
+2 GIVN Phan Trần Bình
+2 SURN Minh
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 FAMS @F224@
+1 FAMC @F119@
+2 PEDI birth
+0 @I491@ INDI
+1 NAME Lê Thị /Thơm/
+2 GIVN Lê Thị
+2 SURN Thơm
+1 SEX F
+1 BIRT
+2 DATE 1966
+1 FAMS @F224@
+0 @I492@ INDI
+1 NAME Phan Anh /Tuấn/
+2 GIVN Phan Anh
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 1966
+1 FAMS @F225@
+1 FAMC @F119@
+2 PEDI birth
+0 @I493@ INDI
+1 NAME Trần Thị /Thúy/
+2 GIVN Trần Thị
+2 SURN Thúy
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMS @F225@
+0 @I494@ INDI
+1 NAME Phan Thị Nhi /Thanh/
+2 GIVN Phan Thị Nhi
+2 SURN Thanh
+1 SEX F
+1 BIRT
+2 DATE 1969
+1 FAMC @F119@
+2 PEDI birth
+0 @I495@ INDI
+1 NAME Phan Thị /Tịnh/
+2 GIVN Phan Thị
+2 SURN Tịnh
+1 SEX F
+1 BIRT
+2 DATE 1972
+1 FAMC @F119@
+2 PEDI birth
+0 @I496@ INDI
+1 NAME Phan Thị Cẩm /Ly/
+2 GIVN Phan Thị Cẩm
+2 SURN Ly
+1 SEX F
+1 BIRT
+2 DATE 1982
+1 FAMC @F121@
+2 PEDI birth
+0 @I497@ INDI
+1 NAME Phan Thị Trà /My/
+2 GIVN Phan Thị Trà
+2 SURN My
+1 SEX F
+1 BIRT
+2 DATE 1986
+1 FAMC @F121@
+2 PEDI birth
+0 @I498@ INDI
+1 NAME Phan Doãn /Phúc/
+2 GIVN Phan Doãn
+2 SURN Phúc
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMS @F226@
+1 FAMC @F121@
+2 PEDI birth
+0 @I499@ INDI
+1 NAME Nguyễn Thúy /Ngân/
+2 GIVN Nguyễn Thúy
+2 SURN Ngân
+1 SEX F
+1 BIRT
+2 DATE 1990
+1 FAMS @F226@
+0 @I500@ INDI
+1 NAME Phan Thị /Vân/
+2 GIVN Phan Thị
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 2000
+1 NOTE Bio notes: TD - 19
+1 FAMC @F138@
+2 PEDI birth
+0 @I501@ INDI
+1 NAME Phan Khánh /Linh/
+2 GIVN Phan Khánh
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 2002
+1 NOTE Bio notes: TD - 19
+1 FAMC @F138@
+2 PEDI birth
+0 @I502@ INDI
+1 NAME Phan Doãn /Đạt/
+2 GIVN Phan Doãn
+2 SURN Đạt
+1 SEX M
+1 BIRT
+2 DATE 2004
+1 NOTE Bio notes: SV - 19
+1 FAMC @F138@
+2 PEDI birth
+0 @I503@ INDI
+1 NAME Phan Mạnh /Hùng/
+2 GIVN Phan Mạnh
+2 SURN Hùng
+1 SEX M
+1 BIRT
+2 DATE 1974
+1 DEAT Y
+2 DATE 2013
+1 NOTE Bio notes: CN - 19
+1 FAMS @F227@
+1 FAMC @F139@
+2 PEDI birth
+0 @I504@ INDI
+1 NAME Lê Thị /Nhung/
+2 GIVN Lê Thị
+2 SURN Nhung
+1 SEX F
+1 BIRT
+2 DATE 1982
+1 NOTE Bio notes: TD - 19
+1 FAMS @F227@
+0 @I505@ INDI
+1 NAME Phan Mạnh /Dần/
+2 GIVN Phan Mạnh
+2 SURN Dần
+1 SEX M
+1 BIRT
+2 DATE 1975
+1 NOTE Bio notes: TSKH - 19
+1 FAMS @F228@
+1 FAMC @F139@
+2 PEDI birth
+0 @I506@ INDI
+1 NAME Vũ Thị Thu /Hạnh/
+2 GIVN Vũ Thị Thu
+2 SURN Hạnh
+1 SEX F
+1 BIRT
+2 DATE 1976
+1 NOTE Bio notes: CA - 19
+1 FAMS @F228@
+0 @I507@ INDI
+1 NAME Phan Thị Minh /Hoa/
+2 GIVN Phan Thị Minh
+2 SURN Hoa
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 NOTE Bio notes: TD - 19
+1 FAMS @F229@
+1 FAMC @F139@
+2 PEDI birth
+0 @I508@ INDI
+1 NAME Hoàng Đức /Thi/
+2 GIVN Hoàng Đức
+2 SURN Thi
+1 SEX M
+1 BIRT
+2 DATE 1976
+1 NOTE Bio notes: TD - 19
+1 FAMS @F229@
+0 @I509@ INDI
+1 NAME Phan Tất /Hải/
+2 GIVN Phan Tất
+2 SURN Hải
+1 SEX M
+1 BIRT
+2 DATE 1992
+1 FAMS @F230@
+1 FAMC @F140@
+2 PEDI birth
+0 @I510@ INDI
+1 NAME Nguyễn Thị /Tâm/
+2 GIVN Nguyễn Thị
+2 SURN Tâm
+1 SEX F
+1 BIRT
+2 DATE 1995
+1 FAMS @F230@
+0 @I511@ INDI
+1 NAME Phan Thị /Thủy/
+2 GIVN Phan Thị
+2 SURN Thủy
+1 SEX F
+1 BIRT
+2 DATE 1989
+1 FAMS @F231@
+1 FAMC @F140@
+2 PEDI birth
+0 @I512@ INDI
+1 NAME Trần Văn /Quyền/
+2 GIVN Trần Văn
+2 SURN Quyền
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMS @F231@
+0 @I513@ INDI
+1 NAME Phan Thị /Hoài/
+2 GIVN Phan Thị
+2 SURN Hoài
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMS @F232@
+1 FAMC @F140@
+2 PEDI birth
+0 @I514@ INDI
+1 NAME Lương Thanh /Tuyền/
+2 GIVN Lương Thanh
+2 SURN Tuyền
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMS @F232@
+0 @I515@ INDI
+1 NAME Phan Doãn /Huy/
+2 GIVN Phan Doãn
+2 SURN Huy
+1 SEX M
+1 BIRT
+2 DATE 1978
+1 FAMS @F233@
+1 FAMC @F140@
+2 PEDI birth
+0 @I516@ INDI
+1 NAME Võ Thị /Sen/
+2 GIVN Võ Thị
+2 SURN Sen
+1 SEX F
+1 BIRT
+2 DATE 1979
+1 FAMS @F233@
+0 @I517@ INDI
+1 NAME Phan Tất /Võ/
+2 GIVN Phan Tất
+2 SURN Võ
+1 SEX M
+1 BIRT
+2 DATE 1981
+1 FAMS @F234@
+1 FAMS @F235@
+1 FAMC @F141@
+2 PEDI birth
+0 @I518@ INDI
+1 NAME Nguyễn Thị Mộc /Linh/
+2 GIVN Nguyễn Thị Mộc
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 1985
+1 FAMS @F234@
+0 @I519@ INDI
+1 NAME Luân Thị Phương /Lan/
+2 GIVN Luân Thị Phương
+2 SURN Lan
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F235@
+0 @I520@ INDI
+1 NAME Phan Thu /Huyền/
+2 GIVN Phan Thu
+2 SURN Huyền
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMS @F236@
+1 FAMC @F141@
+2 PEDI birth
+0 @I521@ INDI
+1 NAME Vương /Linh/
+2 GIVN Vương
+2 SURN Linh
+1 SEX M
+1 BIRT
+2 DATE 1985
+1 DEAT Y
+2 DATE 2025
+1 FAMS @F236@
+0 @I522@ INDI
+1 NAME Phan Thanh /Tiệp/
+2 GIVN Phan Thanh
+2 SURN Tiệp
+1 SEX M
+1 BIRT
+2 DATE 1989
+1 FAMC @F142@
+2 PEDI birth
+0 @I523@ INDI
+1 NAME Phan Thu /Trang/
+2 GIVN Phan Thu
+2 SURN Trang
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMC @F143@
+2 PEDI birth
+0 @I524@ INDI
+1 NAME Phan Thanh /Tú/
+2 GIVN Phan Thanh
+2 SURN Tú
+1 SEX M
+1 BIRT
+2 DATE 2002
+1 FAMC @F143@
+2 PEDI birth
+0 @I525@ INDI
+1 NAME Phan Tất /Cương/
+2 GIVN Phan Tất
+2 SURN Cương
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMC @F144@
+2 PEDI birth
+0 @I526@ INDI
+1 NAME Phan Tất /Toàn/
+2 GIVN Phan Tất
+2 SURN Toàn
+1 SEX M
+1 BIRT
+2 DATE 1989
+1 FAMS @F237@
+1 FAMC @F144@
+2 PEDI birth
+0 @I527@ INDI
+1 NAME Bùi Thanh /Nga/
+2 GIVN Bùi Thanh
+2 SURN Nga
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMS @F237@
+0 @I528@ INDI
+1 NAME Phan Tất /Chương/
+2 GIVN Phan Tất
+2 SURN Chương
+1 SEX M
+1 BIRT
+2 DATE 1992
+1 FAMS @F238@
+1 FAMC @F144@
+2 PEDI birth
+0 @I529@ INDI
+1 NAME Nguyễn Khánh /Linh/
+2 GIVN Nguyễn Khánh
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMS @F238@
+0 @I530@ INDI
+1 NAME Trần Hà /Giang/
+2 GIVN Trần Hà
+2 SURN Giang
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMC @F145@
+2 PEDI birth
+0 @I531@ INDI
+1 NAME Trần Nam /Phương/
+2 GIVN Trần Nam
+2 SURN Phương
+1 SEX F
+1 FAMC @F145@
+2 PEDI birth
+0 @I532@ INDI
+1 NAME Ngô Kỳ /Lam/
+2 GIVN Ngô Kỳ
+2 SURN Lam
+1 SEX M
+1 BIRT
+2 DATE 1984
+1 FAMS @F239@
+1 FAMC @F146@
+2 PEDI birth
+0 @I533@ INDI
+1 NAME Nguyễn Thị Yến /Ly/
+2 GIVN Nguyễn Thị Yến
+2 SURN Ly
+1 SEX F
+1 BIRT
+2 DATE 1990
+1 FAMS @F239@
+0 @I534@ INDI
+1 NAME Ngô Hà /Quyên/
+2 GIVN Ngô Hà
+2 SURN Quyên
+1 SEX F
+1 BIRT
+2 DATE 1990
+1 FAMS @F240@
+1 FAMC @F146@
+2 PEDI birth
+0 @I535@ INDI
+1 NAME Lê Minh /Tú/
+2 GIVN Lê Minh
+2 SURN Tú
+1 SEX M
+1 BIRT
+2 DATE 1991
+1 FAMS @F240@
+0 @I536@ INDI
+1 NAME Phan Thanh /Liêm/
+2 GIVN Phan Thanh
+2 SURN Liêm
+1 SEX M
+1 BIRT
+2 DATE 1994
+1 FAMC @F147@
+2 PEDI birth
+0 @I537@ INDI
+1 NAME Phan Thanh /Nhàn/
+2 GIVN Phan Thanh
+2 SURN Nhàn
+1 SEX F
+1 BIRT
+2 DATE 1985
+1 FAMC @F147@
+2 PEDI birth
+0 @I538@ INDI
+1 NAME Phan Thanh Tố /Vân/
+2 GIVN Phan Thanh Tố
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 1998
+1 FAMS @F241@
+1 FAMC @F148@
+2 PEDI birth
+0 @I539@ INDI
+1 NAME Phan Tố Như /Hoa/
+2 GIVN Phan Tố Như
+2 SURN Hoa
+1 SEX F
+1 BIRT
+2 DATE 2004
+1 FAMS @F242@
+1 FAMC @F148@
+2 PEDI birth
+0 @I540@ INDI
+1 NAME Phan Trí /Đỉnh/
+2 GIVN Phan Trí
+2 SURN Đỉnh
+1 SEX M
+1 BIRT
+2 DATE 1951
+1 FAMS @F250@
+1 FAMC @F205@
+2 PEDI birth
+0 @I541@ INDI
+1 NAME Phan Trí /Hùng/
+2 GIVN Phan Trí
+2 SURN Hùng
+1 SEX M
+1 BIRT
+2 DATE 1957
+1 DEAT Y
+2 DATE 2026
+1 FAMS @F274@
+1 FAMC @F205@
+2 PEDI birth
+0 @I542@ INDI
+1 NAME Phan Thị /Huê/
+2 GIVN Phan Thị
+2 SURN Huê
+1 SEX F
+1 FAMS @F103@
+0 @I543@ INDI
+1 NAME Phan Thị /An/
+2 GIVN Phan Thị
+2 SURN An
+1 SEX F
+1 BIRT
+2 DATE 1957
+1 FAMC @F207@
+2 PEDI birth
+0 @I544@ INDI
+1 NAME Phan Trí /Toàn/
+2 GIVN Phan Trí
+2 SURN Toàn
+1 SEX M
+1 BIRT
+2 DATE 1958
+1 FAMS @F243@
+1 FAMS @F251@
+1 FAMC @F207@
+2 PEDI birth
+0 @I545@ INDI
+1 NAME Lê Thị Mỹ /Dung/
+2 GIVN Lê Thị Mỹ
+2 SURN Dung
+1 SEX F
+1 FAMS @F243@
+0 @I546@ INDI
+1 NAME Phan Thị /Soa/
+2 GIVN Phan Thị
+2 SURN Soa
+1 SEX F
+1 BIRT
+2 DATE 1963
+1 FAMC @F207@
+2 PEDI birth
+0 @I547@ INDI
+1 NAME Phan Thanh /Hải/
+2 GIVN Phan Thanh
+2 SURN Hải
+1 SEX M
+1 BIRT
+2 DATE 1963
+1 FAMS @F252@
+1 FAMC @F208@
+2 PEDI birth
+0 @I548@ INDI
+1 NAME Phan Thanh /Dương/
+2 GIVN Phan Thanh
+2 SURN Dương
+1 SEX M
+1 BIRT
+2 DATE 1967
+1 FAMS @F275@
+1 FAMC @F208@
+2 PEDI birth
+0 @I549@ INDI
+1 NAME Phan Thị /Hạnh/
+2 GIVN Phan Thị
+2 SURN Hạnh
+1 SEX F
+1 BIRT
+2 DATE 1978
+1 FAMC @F208@
+2 PEDI birth
+0 @I550@ INDI
+1 NAME Phan Thanh /Tuấn/
+2 GIVN Phan Thanh
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 1979
+1 DEAT Y
+2 DATE 2009
+1 NOTE Bio notes: Liệt sĩ
+1 FAMC @F208@
+2 PEDI birth
+0 @I551@ INDI
+1 NAME Phan Thanh /Tường/
+2 GIVN Phan Thanh
+2 SURN Tường
+1 SEX M
+1 BIRT
+2 DATE 1983
+1 FAMS @F244@
+1 FAMS @F253@
+1 FAMC @F208@
+2 PEDI birth
+0 @I552@ INDI
+1 NAME Nguyễn Thị /Vân/
+2 GIVN Nguyễn Thị
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMS @F244@
+0 @I553@ INDI
+1 NAME Phan Doãn /Sang/
+2 GIVN Phan Doãn
+2 SURN Sang
+1 SEX M
+1 BIRT
+2 DATE 2007
+1 FAMC @F212@
+2 PEDI birth
+0 @I554@ INDI
+1 NAME Phan Doãn /Hiệp/
+2 GIVN Phan Doãn
+2 SURN Hiệp
+1 SEX M
+1 BIRT
+2 DATE 2010
+1 FAMC @F212@
+2 PEDI birth
+0 @I555@ INDI
+1 NAME Phan Doãn /Phát/
+2 GIVN Phan Doãn
+2 SURN Phát
+1 SEX M
+1 BIRT
+2 DATE 2017
+1 FAMC @F212@
+2 PEDI birth
+0 @I556@ INDI
+1 NAME Phan Thị Bảo /Ngọc/
+2 GIVN Phan Thị Bảo
+2 SURN Ngọc
+1 SEX F
+1 BIRT
+2 DATE 2010
+1 FAMC @F215@
+2 PEDI birth
+0 @I557@ INDI
+1 NAME Phan Ngọc Khánh /Linh/
+2 GIVN Phan Ngọc Khánh
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 2011
+1 FAMC @F215@
+2 PEDI birth
+0 @I558@ INDI
+1 NAME Phan Thành /Đạt/
+2 GIVN Phan Thành
+2 SURN Đạt
+1 SEX M
+1 BIRT
+2 DATE 2008
+1 FAMC @F216@
+2 PEDI birth
+0 @I559@ INDI
+1 NAME Phan Thị Thanh /Trúc/
+2 GIVN Phan Thị Thanh
+2 SURN Trúc
+1 SEX F
+1 BIRT
+2 DATE 2006
+1 FAMC @F217@
+2 PEDI birth
+0 @I560@ INDI
+1 NAME Phan Gia /Bảo/
+2 GIVN Phan Gia
+2 SURN Bảo
+1 SEX M
+1 BIRT
+2 DATE 2008
+1 FAMC @F217@
+2 PEDI birth
+0 @I561@ INDI
+1 NAME Phan Trung /Kiên/
+2 GIVN Phan Trung
+2 SURN Kiên
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMS @F254@
+1 FAMC @F218@
+2 PEDI birth
+0 @I562@ INDI
+1 NAME Phan Thị Hồng /Giang/
+2 GIVN Phan Thị Hồng
+2 SURN Giang
+1 SEX F
+1 BIRT
+2 DATE 1995
+1 FAMC @F218@
+2 PEDI birth
+0 @I563@ INDI
+1 NAME Phan Thanh /Sơn/
+2 GIVN Phan Thanh
+2 SURN Sơn
+1 SEX M
+1 BIRT
+2 DATE 1995
+1 FAMC @F219@
+2 PEDI birth
+0 @I564@ INDI
+1 NAME Phan Thanh /Đức/
+2 GIVN Phan Thanh
+2 SURN Đức
+1 SEX M
+1 BIRT
+2 DATE 1997
+1 FAMC @F219@
+2 PEDI birth
+0 @I565@ INDI
+1 NAME Phan Thị Như /Ngọc/
+2 GIVN Phan Thị Như
+2 SURN Ngọc
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMC @F220@
+2 PEDI birth
+0 @I566@ INDI
+1 NAME Phan Thành /Đạt/
+2 GIVN Phan Thành
+2 SURN Đạt
+1 SEX M
+1 BIRT
+2 DATE 2004
+1 FAMC @F220@
+2 PEDI birth
+0 @I567@ INDI
+1 NAME Phan Vũ Minh /Hoàng/
+2 GIVN Phan Vũ Minh
+2 SURN Hoàng
+1 SEX M
+1 BIRT
+2 DATE 1999
+1 FAMC @F221@
+2 PEDI birth
+0 @I568@ INDI
+1 NAME Phan Vũ Minh /Phong/
+2 GIVN Phan Vũ Minh
+2 SURN Phong
+1 SEX M
+1 BIRT
+2 DATE 2005
+1 FAMC @F221@
+2 PEDI birth
+0 @I569@ INDI
+1 NAME Phan Châu /Long/
+2 GIVN Phan Châu
+2 SURN Long
+1 SEX M
+1 FAMC @F245@
+2 PEDI birth
+0 @I570@ INDI
+1 NAME Phan Chí /Minh/
+2 GIVN Phan Chí
+2 SURN Minh
+1 SEX M
+1 BIRT
+2 DATE 2003
+1 FAMC @F222@
+2 PEDI birth
+0 @I571@ INDI
+1 NAME Phan Thị Minh /Thảo/
+2 GIVN Phan Thị Minh
+2 SURN Thảo
+1 SEX F
+1 BIRT
+2 DATE 2007
+1 FAMC @F222@
+2 PEDI birth
+0 @I572@ INDI
+1 NAME Phan Chí /Minh/
+2 GIVN Phan Chí
+2 SURN Minh
+1 SEX M
+1 BIRT
+2 DATE 2003
+1 FAMC @F246@
+2 PEDI birth
+0 @I573@ INDI
+1 NAME Phan Việt /Đức/
+2 GIVN Phan Việt
+2 SURN Đức
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMS @F247@
+1 FAMC @F223@
+2 PEDI birth
+0 @I574@ INDI
+1 NAME Nguyễn Thị /Thơm/
+2 GIVN Nguyễn Thị
+2 SURN Thơm
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F247@
+0 @I575@ INDI
+1 NAME Phan Thị Ngọc /Bích/
+2 GIVN Phan Thị Ngọc
+2 SURN Bích
+1 SEX F
+1 BIRT
+2 DATE 1989
+1 FAMS @F248@
+1 FAMC @F223@
+2 PEDI birth
+0 @I576@ INDI
+1 NAME Nguyễn Bá /Hiếu/
+2 GIVN Nguyễn Bá
+2 SURN Hiếu
+1 SEX M
+1 BIRT
+2 DATE 1988
+1 FAMS @F248@
+0 @I577@ INDI
+1 NAME Phan Tiến /Thành/
+2 GIVN Phan Tiến
+2 SURN Thành
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMS @F267@
+1 FAMC @F224@
+2 PEDI birth
+0 @I578@ INDI
+1 NAME Phan Tất /Đạt/
+2 GIVN Phan Tất
+2 NPFX Đạt
+2 SURN Đạt
+1 SEX M
+1 BIRT
+2 DATE 1999
+1 FAMC @F224@
+2 PEDI birth
+0 @I579@ INDI
+1 NAME Phan Thị Phương /Thảo/
+2 GIVN Phan Thị Phương
+2 SURN Thảo
+1 SEX F
+1 BIRT
+2 DATE 1993
+1 FAMC @F225@
+2 PEDI birth
+0 @I580@ INDI
+1 NAME Phan Thị /Thùy/
+2 GIVN Phan Thị
+2 SURN Thùy
+1 SEX F
+1 BIRT
+2 DATE 1995
+1 FAMC @F225@
+2 PEDI birth
+0 @I581@ INDI
+1 NAME Phan Doãn /Shin/
+2 GIVN Phan Doãn
+2 SURN Shin
+1 SEX M
+1 BIRT
+2 DATE 2020
+1 FAMC @F226@
+2 PEDI birth
+0 @I582@ INDI
+1 NAME Phan Doãn /Jun/
+2 GIVN Phan Doãn
+2 SURN Jun
+1 SEX M
+1 BIRT
+2 DATE 2024
+1 FAMC @F226@
+2 PEDI birth
+0 @I583@ INDI
+1 NAME Phan Quốc /Anh/
+2 GIVN Phan Quốc
+2 SURN Anh
+1 SEX M
+1 BIRT
+2 DATE 2008
+1 FAMC @F227@
+2 PEDI birth
+0 @I584@ INDI
+1 NAME Phan Thu /Quyên/
+2 GIVN Phan Thu
+2 SURN Quyên
+1 SEX F
+1 BIRT
+2 DATE 2003
+1 FAMC @F228@
+2 PEDI birth
+0 @I585@ INDI
+1 NAME Phan Thu /Mai/
+2 GIVN Phan Thu
+2 SURN Mai
+1 SEX F
+1 BIRT
+2 DATE 2011
+1 FAMC @F228@
+2 PEDI birth
+0 @I586@ INDI
+1 NAME Phan Tuấn /Minh/
+2 GIVN Phan Tuấn
+2 SURN Minh
+1 SEX M
+1 BIRT
+2 DATE 2014
+1 FAMC @F228@
+2 PEDI birth
+0 @I587@ INDI
+1 NAME Hoàng Minh /Thư/
+2 GIVN Hoàng Minh
+2 SURN Thư
+1 SEX F
+1 BIRT
+2 DATE 2008
+1 FAMC @F229@
+2 PEDI birth
+0 @I588@ INDI
+1 NAME Hoàng Kỳ /Anh/
+2 GIVN Hoàng Kỳ
+2 SURN Anh
+1 SEX M
+1 BIRT
+2 DATE 2010
+1 FAMC @F229@
+2 PEDI birth
+0 @I589@ INDI
+1 NAME Phan Phú /Nguyên/
+2 GIVN Phan Phú
+2 SURN Nguyên
+1 SEX M
+1 BIRT
+2 DATE 2010
+1 FAMC @F234@
+2 PEDI birth
+0 @I590@ INDI
+1 NAME Nguyễn Gia /Huy/
+2 GIVN Nguyễn Gia
+2 SURN Huy
+1 SEX M
+1 BIRT
+2 DATE 2012
+1 FAMC @F234@
+2 PEDI birth
+0 @I591@ INDI
+1 NAME Phan Tường /Lam/
+2 GIVN Phan Tường
+2 SURN Lam
+1 SEX M
+1 BIRT
+2 DATE 2016
+1 FAMC @F235@
+2 PEDI birth
+0 @I592@ INDI
+1 NAME Phan Tường /Vi/
+2 GIVN Phan Tường
+2 SURN Vi
+1 SEX F
+1 BIRT
+2 DATE 2022
+1 FAMC @F235@
+2 PEDI birth
+0 @I593@ INDI
+1 NAME Vương Huệ /Phương/
+2 GIVN Vương Huệ
+2 SURN Phương
+1 SEX F
+1 BIRT
+2 DATE 2010
+1 FAMC @F236@
+2 PEDI birth
+0 @I594@ INDI
+1 NAME Vương Việt /Dũng/
+2 GIVN Vương Việt
+2 SURN Dũng
+1 SEX M
+1 BIRT
+2 DATE 2016
+1 FAMC @F236@
+2 PEDI birth
+0 @I595@ INDI
+1 NAME Phan An /Khôi/
+2 GIVN Phan An
+2 SURN Khôi
+1 SEX M
+1 BIRT
+2 DATE 2022
+1 FAMC @F237@
+2 PEDI birth
+0 @I596@ INDI
+1 NAME Phan Thanh /Thái/
+2 GIVN Phan Thanh
+2 SURN Thái
+1 SEX M
+1 BIRT
+2 DATE 1981
+1 FAMS @F249@
+1 FAMC @F250@
+2 PEDI birth
+0 @I597@ INDI
+1 NAME Lê Hồng /Huê/
+2 GIVN Lê Hồng
+2 SURN Huê
+1 SEX F
+1 BIRT
+2 DATE 1982
+1 FAMS @F249@
+0 @I598@ INDI
+1 NAME Phan Bích /Vân/
+2 GIVN Phan Bích
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 1983
+1 FAMC @F250@
+2 PEDI birth
+0 @I599@ INDI
+1 NAME Nguyễn Thị /Toành/
+2 GIVN Nguyễn Thị
+2 SURN Toành
+1 SEX F
+1 BIRT
+2 DATE 1908
+1 DEAT Y
+2 DATE 1997
+1 NOTE Bio notes: Kỵ 26-12 Bính Tý
+1 FAMS @F61@
+0 @I600@ INDI
+1 NAME Phan Trí /Hòa/
+2 GIVN Phan Trí
+2 SURN Hòa
+1 SEX M
+1 BIRT
+2 DATE 1991
+1 FAMS @F255@
+1 FAMC @F251@
+2 PEDI birth
+0 @I601@ INDI
+1 NAME Phan Thị Mỹ /Trang/
+2 GIVN Phan Thị Mỹ
+2 SURN Trang
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMC @F251@
+2 PEDI birth
+0 @I602@ INDI
+1 NAME Phan Thanh /Nga/
+2 GIVN Phan Thanh
+2 SURN Nga
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMC @F252@
+2 PEDI birth
+0 @I603@ INDI
+1 NAME Phan Thị Thanh /Nhàn/
+2 GIVN Phan Thị Thanh
+2 SURN Nhàn
+1 SEX F
+1 BIRT
+2 DATE 1989
+1 FAMC @F252@
+2 PEDI birth
+0 @I604@ INDI
+1 NAME Phan Trí /Phong/
+2 GIVN Phan Trí
+2 SURN Phong
+1 SEX M
+1 BIRT
+2 DATE 2013
+1 FAMC @F253@
+2 PEDI birth
+0 @I605@ INDI
+1 NAME Phan Thị Hồng Hạnh /Ngân/
+2 GIVN Phan Thị Hồng Hạnh
+2 SURN Ngân
+1 SEX F
+1 BIRT
+2 DATE 2018
+1 FAMC @F254@
+2 PEDI birth
+0 @I606@ INDI
+1 NAME Phan Thị Hồng Minh /Anh/
+2 GIVN Phan Thị Hồng Minh
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2021
+1 FAMC @F254@
+2 PEDI birth
+0 @I607@ INDI
+1 NAME Phan Tất /Thành/
+2 GIVN Phan Tất
+2 SURN Thành
+1 SEX M
+1 BIRT
+2 DATE 2008
+1 FAMC @F249@
+2 PEDI birth
+0 @I608@ INDI
+1 NAME Phan Trí /Bảo/
+2 GIVN Phan Trí
+2 SURN Bảo
+1 SEX M
+1 BIRT
+2 DATE 2019
+1 FAMC @F255@
+2 PEDI birth
+0 @I609@ INDI
+1 NAME Phan Thị /Hoàn/
+2 GIVN Phan Thị
+2 SURN Hoàn
+1 SEX F
+1 BIRT
+2 DATE 1922
+1 NOTE Bio notes: -19
+1 FAMS @F256@
+0 @I610@ INDI
+1 NAME Hồ Sĩ /Thuận/
+2 GIVN Hồ Sĩ
+2 SURN Thuận
+1 SEX M
+1 BIRT
+2 DATE 1921
+1 DEAT Y
+2 DATE 1994
+1 NOTE Bio notes: -21
+1 FAMS @F256@
+0 @I611@ INDI
+1 NAME Hồ Sĩ /Hiền/
+2 GIVN Hồ Sĩ
+2 SURN Hiền
+1 SEX M
+1 BIRT
+2 DATE 1945
+1 FAMS @F257@
+1 FAMC @F256@
+2 PEDI birth
+0 @I612@ INDI
+1 NAME Nguyễn Thị /Quế/
+2 GIVN Nguyễn Thị
+2 SURN Quế
+1 SEX F
+1 BIRT
+2 DATE 1942
+1 FAMS @F257@
+0 @I613@ INDI
+1 NAME Hồ Sĩ /Hậu/
+2 GIVN Hồ Sĩ
+2 SURN Hậu
+1 SEX M
+1 BIRT
+2 DATE 1947
+1 FAMS @F258@
+1 FAMC @F256@
+2 PEDI birth
+0 @I614@ INDI
+1 NAME Trần Thị Kim /Dung/
+2 GIVN Trần Thị Kim
+2 SURN Dung
+1 SEX F
+1 BIRT
+2 DATE 1949
+1 FAMS @F258@
+0 @I615@ INDI
+1 NAME Hồ Thị Thu /Hương/
+2 GIVN Hồ Thị Thu
+2 SURN Hương
+1 SEX F
+1 BIRT
+2 DATE 1977
+1 FAMC @F257@
+2 PEDI birth
+0 @I616@ INDI
+1 NAME Hồ Thị Mỹ /Giang/
+2 GIVN Hồ Thị Mỹ
+2 SURN Giang
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMC @F257@
+2 PEDI birth
+0 @I617@ INDI
+1 NAME Hồ Thị Thanh /Tâm/
+2 GIVN Hồ Thị Thanh
+2 SURN Tâm
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMC @F257@
+2 PEDI birth
+0 @I618@ INDI
+1 NAME Hồ Phi /Diện/
+2 GIVN Hồ Phi
+2 SURN Diện
+1 SEX M
+1 BIRT
+2 DATE 1955
+1 FAMS @F259@
+1 FAMC @F256@
+2 PEDI birth
+0 @I619@ INDI
+1 NAME Nguyễn Thị /Hải/
+2 GIVN Nguyễn Thị
+2 SURN Hải
+1 SEX F
+1 FAMS @F259@
+0 @I620@ INDI
+1 NAME Hồ Sĩ /Thành/
+2 GIVN Hồ Sĩ
+2 SURN Thành
+1 SEX M
+1 BIRT
+2 DATE 1968
+1 FAMS @F260@
+1 FAMC @F256@
+2 PEDI birth
+0 @I621@ INDI
+1 NAME Nguyễn Thị /Hồng/
+2 GIVN Nguyễn Thị
+2 SURN Hồng
+1 SEX F
+1 BIRT
+2 DATE 1976
+1 FAMS @F260@
+0 @I622@ INDI
+1 NAME Hồ Nguyễn Đức /Anh/
+2 GIVN Hồ Nguyễn Đức
+2 SURN Anh
+1 SEX M
+1 BIRT
+2 DATE 1997
+1 FAMC @F259@
+2 PEDI birth
+0 @I623@ INDI
+1 NAME Hồ Thị Cẩm /Bình/
+2 GIVN Hồ Thị Cẩm
+2 SURN Bình
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMC @F260@
+2 PEDI birth
+0 @I624@ INDI
+1 NAME Hồ Sĩ /Đạt/
+2 GIVN Hồ Sĩ
+2 SURN Đạt
+1 SEX M
+1 BIRT
+2 DATE 2000
+1 FAMC @F260@
+2 PEDI birth
+0 @I625@ INDI
+1 NAME Hồ Sĩ /Phương/
+2 GIVN Hồ Sĩ
+2 SURN Phương
+1 SEX M
+1 BIRT
+2 DATE 1951
+1 DEAT Y
+2 DATE 1974
+1 FAMC @F256@
+2 PEDI birth
+0 @I626@ INDI
+1 NAME Hồ Sĩ /Châu/
+2 GIVN Hồ Sĩ
+2 SURN Châu
+1 SEX M
+1 BIRT
+2 DATE 1961
+1 DEAT Y
+2 DATE 1980
+1 FAMC @F256@
+2 PEDI birth
+0 @I627@ INDI
+1 NAME Hồ Sĩ /Ngũ/
+2 GIVN Hồ Sĩ
+2 SURN Ngũ
+1 SEX M
+1 BIRT
+2 DATE 1958
+1 DEAT Y
+2 DATE 1961
+1 FAMC @F256@
+2 PEDI birth
+0 @I628@ INDI
+1 NAME Trần Thị /Ngọc/
+2 GIVN Trần Thị
+2 SURN Ngọc
+1 SEX F
+0 @I629@ INDI
+1 NAME Nguyễn Thị /Khương/
+2 GIVN Nguyễn Thị
+2 SURN Khương
+1 SEX F
+1 BIRT
+2 DATE 1921
+1 DEAT Y
+2 DATE 2005
+1 NOTE Bio notes: Kỵ 1-6
+1 FAMS @F64@
+0 @I630@ INDI
+1 NAME Phan Tất /Trang/
+2 GIVN Phan Tất
+2 SURN Trang
+1 SEX M
+0 @I631@ INDI
+1 NAME Phan Doãn /Tần/
+2 GIVN Phan Doãn
+2 SURN Tần
+1 SEX M
+1 BIRT
+2 DATE 1948
+1 DEAT Y
+2 DATE 1964
+0 @I632@ INDI
+1 NAME Phan Doãn /Tần/
+2 GIVN Phan Doãn
+2 SURN Tần
+1 SEX M
+1 BIRT
+2 DATE 1980
+0 @I633@ INDI
+1 NAME Phan Thị Cẩm /Vân/
+2 GIVN Phan Thị Cẩm
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 1972
+1 DEAT Y
+2 DATE 2009
+0 @I634@ INDI
+1 NAME Nguyễn Thị /Dự/
+2 GIVN Nguyễn Thị
+2 SURN Dự
+1 SEX F
+1 BIRT
+2 DATE 1916
+1 DEAT Y
+2 DATE 1995
+1 NOTE Bio notes: Tức Bà Điểu; Kỵ 17-7
+1 FAMS @F69@
+0 @I635@ INDI
+1 NAME Phan Lê /Kiên/
+2 GIVN Phan Lê
+2 SURN Kiên
+1 SEX M
+1 BIRT
+2 DATE 1977
+1 DEAT Y
+2 DATE 1987
+0 @I636@ INDI
+1 NAME 1932 /Liêu/
+2 GIVN 1932
+2 SURN Liêu
+1 SEX F
+1 FAMC @F261@
+2 PEDI birth
+0 @I637@ INDI
+1 NAME Phan Viết /Đức/
+2 GIVN Phan Viết
+2 SURN Đức
+1 SEX M
+1 BIRT
+2 DATE 1985
+0 @I638@ INDI
+1 NAME Trần Thị /Vân/
+2 GIVN Trần Thị
+2 SURN Vân
+1 SEX F
+1 FAMS @F206@
+0 @I639@ INDI
+1 NAME Phan Thị Diệp /Anh/
+2 GIVN Phan Thị Diệp
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2006
+0 @I640@ INDI
+1 NAME Phan Đức /Hậu/
+2 GIVN Phan Đức
+2 SURN Hậu
+1 SEX M
+1 BIRT
+2 DATE 1980
+1 FAMS @F262@
+1 FAMC @F132@
+2 PEDI birth
+0 @I641@ INDI
+1 NAME Lê Thị Ngọc /Trang/
+2 GIVN Lê Thị Ngọc
+2 SURN Trang
+1 SEX F
+1 BIRT
+2 DATE 1983
+1 FAMS @F262@
+0 @I642@ INDI
+1 NAME Phan Thị /Hiên/
+2 GIVN Phan Thị
+2 SURN Hiên
+1 SEX F
+1 BIRT
+2 DATE 1983
+0 @I643@ INDI
+1 NAME Phan Hồng /Long/
+2 GIVN Phan Hồng
+2 SURN Long
+1 SEX M
+1 BIRT
+2 DATE 1978
+0 @I644@ INDI
+1 NAME Phan Thị /Thường/
+2 GIVN Phan Thị
+2 SURN Thường
+1 SEX F
+1 BIRT
+2 DATE 1987
+0 @I645@ INDI
+1 NAME Phan Doãn /Lời/
+2 GIVN Phan Doãn
+2 SURN Lời
+1 SEX M
+1 BIRT
+2 DATE 1997
+1 DEAT Y
+2 DATE 2019
+0 @I646@ INDI
+1 NAME Nguyễn Thị Phương /Trang/
+2 GIVN Nguyễn Thị Phương
+2 SURN Trang
+1 SEX F
+1 FAMS @F111@
+0 @I647@ INDI
+1 NAME Phan Thị /Yên/
+2 GIVN Phan Thị
+2 SURN Yên
+1 SEX F
+1 BIRT
+2 DATE 1984
+0 @I648@ INDI
+1 NAME Phan Doãn /Nhân/
+2 GIVN Phan Doãn
+2 SURN Nhân
+1 SEX M
+1 BIRT
+2 DATE 1985
+0 @I649@ INDI
+1 NAME Nguyễn Thị Hương /Trâm/
+2 GIVN Nguyễn Thị Hương
+2 SURN Trâm
+1 SEX F
+1 FAMS @F117@
+0 @I650@ INDI
+1 NAME Phan Thị /Mai/
+2 GIVN Phan Thị
+2 SURN Mai
+1 SEX F
+1 BIRT
+2 DATE 1997
+0 @I651@ INDI
+1 NAME Phan Thị Hoa /Lê/
+2 GIVN Phan Thị Hoa
+2 SURN Lê
+1 SEX F
+1 BIRT
+2 DATE 1947
+1 FAMS @F263@
+1 FAMC @F66@
+2 PEDI birth
+0 @I652@ INDI
+1 NAME Trịnh Minh /Hồng/
+2 GIVN Trịnh Minh
+2 SURN Hồng
+1 SEX M
+1 BIRT
+2 DATE 1942
+1 FAMS @F263@
+0 @I653@ INDI
+1 NAME Phan Trần Khánh /Ly/
+2 GIVN Phan Trần Khánh
+2 SURN Ly
+1 SEX F
+1 BIRT
+2 DATE 1990
+1 FAMS @F264@
+1 FAMC @F131@
+2 PEDI birth
+0 @I654@ INDI
+1 NAME Nguyễn Hoàng /Minh/
+2 GIVN Nguyễn Hoàng
+2 SURN Minh
+1 SEX M
+1 FAMS @F264@
+0 @I655@ INDI
+1 NAME Phan Trần Bảo /Long/
+2 GIVN Phan Trần Bảo
+2 SURN Long
+1 SEX M
+1 BIRT
+2 DATE 1994
+1 FAMC @F131@
+2 PEDI birth
+0 @I656@ INDI
+1 NAME Phan Tất /Phong/
+2 GIVN Phan Tất
+2 SURN Phong
+1 SEX M
+1 BIRT
+2 DATE 2013
+1 FAMC @F244@
+2 PEDI birth
+0 @I657@ INDI
+1 NAME Phan Quán /Khải/
+2 GIVN Phan Quán
+2 SURN Khải
+1 SEX M
+1 BIRT
+2 DATE 2004
+0 @I658@ INDI
+1 NAME Nguyễn Thị /Lê/
+2 GIVN Nguyễn Thị
+2 SURN Lê
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F265@
+0 @I659@ INDI
+1 NAME Phan Ngọc /Tuấn/
+2 GIVN Phan Ngọc
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 1980
+1 FAMS @F265@
+1 FAMC @F173@
+2 PEDI birth
+0 @I660@ INDI
+1 NAME Phan Đăng /Duy/
+2 GIVN Phan Đăng
+2 SURN Duy
+1 SEX M
+1 BIRT
+2 DATE 2012
+1 FAMC @F265@
+2 PEDI birth
+0 @I661@ INDI
+1 NAME Phan Thị /.../
+2 GIVN Phan Thị
+2 SURN ...
+1 SEX F
+1 BIRT
+2 DATE 2012
+1 FAMC @F265@
+2 PEDI birth
+0 @I662@ INDI
+1 NAME Phan Nguyễn Gia /Bảo/
+2 GIVN Phan Nguyễn Gia
+2 SURN Bảo
+1 SEX M
+1 BIRT
+2 DATE 2009
+1 FAMC @F266@
+2 PEDI birth
+0 @I663@ INDI
+1 NAME Phan Tiến /Lục/
+2 GIVN Phan Tiến
+2 SURN Lục
+1 SEX M
+1 BIRT
+2 DATE 1970
+0 @I664@ INDI
+1 NAME Phan Nguyễn Gia /Huy/
+2 GIVN Phan Nguyễn Gia
+2 SURN Huy
+1 SEX M
+1 BIRT
+2 DATE 2013
+1 FAMC @F266@
+2 PEDI birth
+0 @I665@ INDI
+1 NAME Phan Thị An /Nhiên/
+2 GIVN Phan Thị An
+2 SURN Nhiên
+1 SEX F
+1 BIRT
+2 DATE 2022
+1 FAMC @F247@
+2 PEDI birth
+0 @I666@ INDI
+1 NAME Phan Thị Gia /Hân/
+2 GIVN Phan Thị Gia
+2 SURN Hân
+1 SEX F
+1 BIRT
+2 DATE 2020
+1 FAMC @F267@
+2 PEDI birth
+0 @I667@ INDI
+1 NAME Phan Duy /Anh/
+2 GIVN Phan Duy
+2 SURN Anh
+1 SEX M
+1 BIRT
+2 DATE 2022
+1 FAMC @F267@
+2 PEDI birth
+0 @I668@ INDI
+1 NAME Phan Thị /Phượng/
+2 GIVN Phan Thị
+2 SURN Phượng
+1 SEX F
+1 BIRT
+2 DATE 1956
+1 FAMS @F268@
+1 FAMC @F64@
+2 PEDI birth
+0 @I669@ INDI
+1 NAME Nguyễn Doãn /Hợi/
+2 GIVN Nguyễn Doãn
+2 SURN Hợi
+1 SEX M
+1 BIRT
+2 DATE 1953
+1 FAMS @F268@
+0 @I670@ INDI
+1 NAME Phan Minh /Tiến/
+2 GIVN Phan Minh
+2 SURN Tiến
+1 SEX M
+1 BIRT
+2 DATE 2014
+1 FAMC @F161@
+2 PEDI birth
+0 @I671@ INDI
+1 NAME Phan Tuệ /Nhi/
+2 GIVN Phan Tuệ
+2 SURN Nhi
+1 SEX F
+1 BIRT
+2 DATE 2024
+1 FAMC @F213@
+2 PEDI birth
+0 @I672@ INDI
+1 NAME Trần Xuân /Nông/
+2 GIVN Trần Xuân
+2 SURN Nông
+1 SEX M
+1 BIRT
+2 DATE 1983
+1 FAMS @F269@
+0 @I673@ INDI
+1 NAME Phan Thị Thu /Trang/
+2 GIVN Phan Thị Thu
+2 SURN Trang
+1 SEX F
+1 BIRT
+2 DATE 1985
+1 FAMS @F269@
+1 FAMC @F124@
+2 PEDI birth
+0 @I674@ INDI
+1 NAME Phan Anh /Tuấn/
+2 GIVN Phan Anh
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 2012
+1 FAMC @F270@
+2 PEDI birth
+0 @I675@ INDI
+1 NAME Phan Anh /Tú/
+2 GIVN Phan Anh
+2 SURN Tú
+1 SEX M
+1 BIRT
+2 DATE 2019
+1 FAMC @F270@
+2 PEDI birth
+0 @I676@ INDI
+1 NAME Nguyễn Thị /Tứ/
+2 GIVN Nguyễn Thị
+2 SURN Tứ
+1 SEX F
+1 BIRT
+2 DATE 1993
+1 FAMS @F271@
+0 @I677@ INDI
+1 NAME Phan Tất /Tùng/
+2 GIVN Phan Tất
+2 SURN Tùng
+1 SEX M
+1 BIRT
+2 DATE 1991
+1 FAMS @F271@
+1 FAMC @F157@
+2 PEDI birth
+0 @I678@ INDI
+1 NAME Phan Tuệ /Nhi/
+2 GIVN Phan Tuệ
+2 SURN Nhi
+1 SEX F
+1 BIRT
+2 DATE 2021
+1 FAMC @F271@
+2 PEDI birth
+0 @I679@ INDI
+1 NAME Phan Thị /Oanh/
+2 GIVN Phan Thị
+2 SURN Oanh
+1 SEX F
+1 FAMC @F272@
+2 PEDI birth
+0 @I680@ INDI
+1 NAME Phan Thị /Yến/
+2 GIVN Phan Thị
+2 SURN Yến
+1 SEX F
+1 FAMC @F272@
+2 PEDI birth
+0 @I681@ INDI
+1 NAME Phan Thị /Phượng/
+2 GIVN Phan Thị
+2 SURN Phượng
+1 SEX F
+1 FAMC @F272@
+2 PEDI birth
+0 @I682@ INDI
+1 NAME Phan Thị /Loan/
+2 GIVN Phan Thị
+2 SURN Loan
+1 SEX F
+1 FAMC @F272@
+2 PEDI birth
+0 @I683@ INDI
+1 NAME Phan Doãn /Mân/
+2 GIVN Phan Doãn
+2 SURN Mân
+1 SEX M
+1 FAMS @F273@
+1 FAMC @F272@
+2 PEDI birth
+0 @I684@ INDI
+1 NAME Phan Doãn /Ban/
+2 GIVN Phan Doãn
+2 SURN Ban
+1 SEX M
+1 FAMC @F273@
+2 PEDI birth
+0 @I685@ INDI
+1 NAME Phan Thị Hoe /Tiêng/
+2 GIVN Phan Thị Hoe
+2 SURN Tiêng
+1 SEX F
+1 BIRT
+2 DATE 1900
+1 DEAT Y
+1 FAMC @F101@
+2 PEDI birth
+0 @I686@ INDI
+1 NAME Phan Doãn /Đợi/
+2 GIVN Phan Doãn
+2 SURN Đợi
+1 SEX M
+1 NOTE Bio notes: Mất lúc 13 tuổi
+1 FAMC @F101@
+2 PEDI birth
+0 @I687@ INDI
+1 NAME Phan Thị /Huỳnh/
+2 GIVN Phan Thị
+2 SURN Huỳnh
+1 SEX F
+1 BIRT
+2 DATE 1910
+1 DEAT Y
+2 DATE 1999
+1 FAMC @F101@
+2 PEDI birth
+0 @I688@ INDI
+1 NAME Phan Thị /Hiềng/
+2 GIVN Phan Thị
+2 SURN Hiềng
+1 SEX F
+1 NOTE Bio notes: Mất lúc 11 tuổi
+1 FAMC @F101@
+2 PEDI birth
+0 @I689@ INDI
+1 NAME Phan Thị /Em/
+2 GIVN Phan Thị
+2 SURN Em
+1 SEX F
+1 BIRT
+2 DATE 1916
+1 DEAT Y
+2 DATE 2009
+1 FAMC @F101@
+2 PEDI birth
+0 @I690@ INDI
+1 NAME Phan Thị Kim /Thanh/
+2 GIVN Phan Thị Kim
+2 SURN Thanh
+1 SEX F
+1 FAMC @F102@
+2 PEDI birth
+0 @I691@ INDI
+1 NAME Đỗ Tuấn /Anh/
+2 GIVN Đỗ Tuấn
+2 SURN Anh
+1 SEX M
+1 NOTE Bio notes: Con nuôi
+1 FAMC @F102@
+2 PEDI birth
+0 @I692@ INDI
+1 NAME Phan Ngọc /Thư/
+2 GIVN Phan Ngọc
+2 SURN Thư
+1 SEX F
+1 BIRT
+2 DATE 2013
+1 FAMC @F249@
+2 PEDI birth
+0 @I693@ INDI
+1 NAME Phan Vĩnh /Thiện/
+2 GIVN Phan Vĩnh
+2 SURN Thiện
+1 SEX M
+1 BIRT
+2 DATE 2019
+1 FAMC @F249@
+2 PEDI birth
+0 @I694@ INDI
+1 NAME Phan Tất /Phú/
+2 GIVN Phan Tất
+2 SURN Phú
+1 SEX M
+1 BIRT
+2 DATE 2014
+1 FAMC @F253@
+2 PEDI birth
+0 @I695@ INDI
+1 NAME Phan Thị Thanh /Tâm/
+2 GIVN Phan Thị Thanh
+2 SURN Tâm
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMC @F252@
+2 PEDI birth
+0 @I696@ INDI
+1 NAME Phan Thị Mai /Anh/
+2 GIVN Phan Thị Mai
+2 SURN Anh
+1 SEX F
+1 FAMC @F274@
+2 PEDI birth
+0 @I697@ INDI
+1 NAME Phan Thị Lan /Anh/
+2 GIVN Phan Thị Lan
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMC @F275@
+2 PEDI birth
+0 @I698@ INDI
+1 NAME Phan Thanh /Đạt/
+2 GIVN Phan Thanh
+2 SURN Đạt
+1 SEX M
+1 BIRT
+2 DATE 1995
+1 FAMC @F275@
+2 PEDI birth
+0 @I699@ INDI
+1 NAME Phan Quốc /Dũng/
+2 GIVN Phan Quốc
+2 SURN Dũng
+1 SEX M
+1 BIRT
+2 DATE 2004
+1 FAMC @F227@
+2 PEDI birth
+0 @I700@ INDI
+1 NAME Phan Tuệ /Minh/
+2 GIVN Phan Tuệ
+2 SURN Minh
+1 SEX M
+1 BIRT
+2 DATE 2024
+1 FAMC @F271@
+2 PEDI birth
+0 @I701@ INDI
+1 NAME Phan Thanh /Bằng/
+2 GIVN Phan Thanh
+2 SURN Bằng
+1 SEX M
+1 BIRT
+2 DATE 1978
+1 FAMS @F270@
+1 FAMC @F122@
+2 PEDI birth
+0 @I702@ INDI
+1 NAME Ngô Thị /Nga/
+2 GIVN Ngô Thị
+2 SURN Nga
+1 SEX F
+1 BIRT
+2 DATE 1982
+1 FAMS @F270@
+0 @I703@ INDI
+1 NAME Phan Thanh /Diễn/
+2 GIVN Phan Thanh
+2 SURN Diễn
+1 SEX M
+1 BIRT
+2 DATE 1980
+1 FAMS @F276@
+1 FAMC @F122@
+2 PEDI birth
+0 @I704@ INDI
+1 NAME Nguyễn Thị /Oanh/
+2 GIVN Nguyễn Thị
+2 SURN Oanh
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMS @F276@
+0 @I705@ INDI
+1 NAME Phan Thanh /Phong/
+2 GIVN Phan Thanh
+2 SURN Phong
+1 SEX M
+1 BIRT
+2 DATE 1983
+1 FAMS @F277@
+1 FAMC @F122@
+2 PEDI birth
+0 @I706@ INDI
+1 NAME Nguyễn Thị /Nhung/
+2 GIVN Nguyễn Thị
+2 SURN Nhung
+1 SEX F
+1 BIRT
+2 DATE 1987
+1 FAMS @F277@
+0 @I707@ INDI
+1 NAME Phan Tất /Thái/
+2 GIVN Phan Tất
+2 SURN Thái
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMS @F278@
+1 FAMC @F122@
+2 PEDI birth
+0 @I708@ INDI
+1 NAME Đào Thị Ngọc /Thúy/
+2 GIVN Đào Thị Ngọc
+2 SURN Thúy
+1 SEX F
+1 BIRT
+2 DATE 1991
+1 FAMS @F278@
+0 @I709@ INDI
+1 NAME Phan Tất /Long/
+2 GIVN Phan Tất
+2 SURN Long
+1 SEX M
+1 BIRT
+2 DATE 2005
+1 FAMC @F276@
+2 PEDI birth
+0 @I710@ INDI
+1 NAME Phan Thị Tú /Uyên/
+2 GIVN Phan Thị Tú
+2 SURN Uyên
+1 SEX F
+1 BIRT
+2 DATE 2004
+1 FAMC @F270@
+2 PEDI birth
+0 @I711@ INDI
+1 NAME Phan Nguyễn Hà /Linh/
+2 GIVN Phan Nguyễn Hà
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 2011
+1 FAMC @F277@
+2 PEDI birth
+0 @I712@ INDI
+1 NAME Phan Thanh /Hưng/
+2 GIVN Phan Thanh
+2 SURN Hưng
+1 SEX M
+1 BIRT
+2 DATE 2014
+1 FAMC @F277@
+2 PEDI birth
+0 @I713@ INDI
+1 NAME Phan Thanh /Phát/
+2 GIVN Phan Thanh
+2 SURN Phát
+1 SEX M
+1 BIRT
+2 DATE 2021
+1 FAMC @F277@
+2 PEDI birth
+0 @I714@ INDI
+1 NAME Phan Gia /Bảo/
+2 GIVN Phan Gia
+2 SURN Bảo
+1 SEX M
+1 BIRT
+2 DATE 2014
+1 FAMC @F278@
+2 PEDI birth
+0 @I715@ INDI
+1 NAME Phan Diệp /Anh/
+2 GIVN Phan Diệp
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2017
+1 FAMC @F278@
+2 PEDI birth
+0 @I716@ INDI
+1 NAME Phan Doãn /Thành/
+2 GIVN Phan Doãn
+2 SURN Thành
+1 SEX M
+1 BIRT
+2 DATE 1979
+1 FAMS @F279@
+1 FAMC @F123@
+2 PEDI birth
+0 @I717@ INDI
+1 NAME Đậu Thị Anh /Tú/
+2 GIVN Đậu Thị Anh
+2 SURN Tú
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMS @F279@
+0 @I718@ INDI
+1 NAME Phan Thanh /Dũng/
+2 GIVN Phan Thanh
+2 SURN Dũng
+1 SEX M
+1 BIRT
+2 DATE 1981
+1 FAMS @F280@
+1 FAMC @F123@
+2 PEDI birth
+0 @I719@ INDI
+1 NAME Lê Thị Bích /Nguyệt/
+2 GIVN Lê Thị Bích
+2 SURN Nguyệt
+1 SEX F
+1 BIRT
+2 DATE 1982
+1 FAMS @F280@
+0 @I720@ INDI
+1 NAME Phan Thị Thảo /Ngân/
+2 GIVN Phan Thị Thảo
+2 SURN Ngân
+1 SEX F
+1 BIRT
+2 DATE 2005
+1 FAMC @F280@
+2 PEDI birth
+0 @I721@ INDI
+1 NAME Phan Tất /Đạt/
+2 GIVN Phan Tất
+2 SURN Đạt
+1 SEX M
+1 BIRT
+2 DATE 2009
+1 FAMC @F280@
+2 PEDI birth
+0 @I722@ INDI
+1 NAME Phan Thị Diễm /Quỳnh/
+2 GIVN Phan Thị Diễm
+2 SURN Quỳnh
+1 SEX F
+1 BIRT
+2 DATE 2006
+1 FAMC @F279@
+2 PEDI birth
+0 @I723@ INDI
+1 NAME Phan Tất /Huy/
+2 GIVN Phan Tất
+2 SURN Huy
+1 SEX M
+1 BIRT
+2 DATE 2010
+1 FAMC @F279@
+2 PEDI birth
+0 @I724@ INDI
+1 NAME Phan Thanh /Quân/
+2 GIVN Phan Thanh
+2 SURN Quân
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMC @F124@
+2 PEDI birth
+0 @I725@ INDI
+1 NAME Phan Doãn /Khánh/
+2 GIVN Phan Doãn
+2 SURN Khánh
+1 SEX M
+1 BIRT
+2 DATE 1992
+1 FAMS @F281@
+1 FAMC @F125@
+2 PEDI birth
+0 @I726@ INDI
+1 NAME Nguyễn Thị /Tuyết/
+2 GIVN Nguyễn Thị
+2 SURN Tuyết
+1 SEX F
+1 BIRT
+2 DATE 1991
+1 FAMS @F281@
+0 @I727@ INDI
+1 NAME Phan Doãn /Hòa/
+2 GIVN Phan Doãn
+2 SURN Hòa
+1 SEX M
+1 BIRT
+2 DATE 1994
+1 FAMC @F125@
+2 PEDI birth
+0 @I728@ INDI
+1 NAME Phan Minh /Đăng/
+2 GIVN Phan Minh
+2 SURN Đăng
+1 SEX M
+1 BIRT
+2 DATE 2016
+1 FAMC @F281@
+2 PEDI birth
+0 @I729@ INDI
+1 NAME Phan Minh /Tiến/
+2 GIVN Phan Minh
+2 SURN Tiến
+1 SEX M
+1 BIRT
+2 DATE 2020
+1 FAMC @F281@
+2 PEDI birth
+0 @I730@ INDI
+1 NAME Phan Thị Anh /Thơ/
+2 GIVN Phan Thị Anh
+2 SURN Thơ
+1 SEX F
+1 BIRT
+2 DATE 1977
+1 FAMC @F127@
+2 PEDI birth
+0 @I731@ INDI
+1 NAME Phan Lễ /Kiên/
+2 GIVN Phan Lễ
+2 SURN Kiên
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMS @F282@
+1 FAMC @F127@
+2 PEDI birth
+0 @I732@ INDI
+1 NAME Trần Thúy Thiên /Thanh/
+2 GIVN Trần Thúy Thiên
+2 SURN Thanh
+1 SEX F
+1 BIRT
+2 DATE 1994
+1 FAMS @F282@
+0 @I733@ INDI
+1 NAME Phan Lê /Nam/
+2 GIVN Phan Lê
+2 SURN Nam
+1 SEX M
+1 BIRT
+2 DATE 2024
+1 FAMC @F282@
+2 PEDI birth
+0 @I734@ INDI
+1 NAME Phan Lê /Ba/
+2 GIVN Phan Lê
+2 SURN Ba
+1 SEX M
+1 BIRT
+2 DATE 2025
+1 FAMC @F282@
+2 PEDI birth
+0 @I735@ INDI
+1 NAME Phan Thị /Mai/
+2 GIVN Phan Thị
+2 SURN Mai
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMC @F128@
+2 PEDI birth
+0 @I736@ INDI
+1 NAME Phan Trí /Cường/
+2 GIVN Phan Trí
+2 SURN Cường
+1 SEX M
+1 BIRT
+2 DATE 1974
+1 FAMS @F283@
+1 FAMS @F284@
+1 FAMC @F128@
+2 PEDI birth
+0 @I737@ INDI
+1 NAME Ngô Thị /Thùy/
+2 GIVN Ngô Thị
+2 SURN Thùy
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMS @F283@
+0 @I738@ INDI
+1 NAME Phan Trí /Đạt/
+2 GIVN Phan Trí
+2 SURN Đạt
+1 SEX M
+1 BIRT
+2 DATE 1996
+1 FAMC @F128@
+2 PEDI birth
+0 @I739@ INDI
+1 NAME Phan Thị /Thủy/
+2 GIVN Phan Thị
+2 SURN Thủy
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMC @F128@
+2 PEDI birth
+0 @I740@ INDI
+1 NAME Phan Bảo /Linh/
+2 GIVN Phan Bảo
+2 SURN Linh
+1 SEX M
+1 BIRT
+2 DATE 2002
+1 FAMC @F283@
+2 PEDI birth
+0 @I741@ INDI
+1 NAME Phan Thảo /Linh/
+2 GIVN Phan Thảo
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 2005
+1 FAMC @F283@
+2 PEDI birth
+0 @I742@ INDI
+1 NAME Trần Thị Thiên /Hương/
+2 GIVN Trần Thị Thiên
+2 SURN Hương
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F284@
+0 @I743@ INDI
+1 NAME Phan Nhã Thạch /Vy/
+2 GIVN Phan Nhã Thạch
+2 SURN Vy
+1 SEX F
+1 BIRT
+2 DATE 2015
+1 FAMC @F284@
+2 PEDI birth
+0 @I744@ INDI
+1 NAME Phan Trần /Vũ/
+2 GIVN Phan Trần
+2 SURN Vũ
+1 SEX M
+1 BIRT
+2 DATE 2019
+1 FAMC @F284@
+2 PEDI birth
+0 @I745@ INDI
+1 NAME Phan Chiến /Thắng/
+2 GIVN Phan Chiến
+2 SURN Thắng
+1 SEX M
+1 BIRT
+2 DATE 1952
+1 FAMS @F285@
+1 FAMC @F67@
+2 PEDI birth
+0 @I746@ INDI
+1 NAME Nguyễn Thị /Bình/
+2 GIVN Nguyễn Thị
+2 SURN Bình
+1 SEX F
+1 FAMS @F285@
+0 @I747@ INDI
+1 NAME Phan Thị /Huyền/
+2 GIVN Phan Thị
+2 SURN Huyền
+1 SEX F
+1 BIRT
+2 DATE 1987
+1 FAMS @F286@
+1 FAMC @F285@
+2 PEDI birth
+0 @I748@ INDI
+1 NAME Gautier Collin /Collin/
+2 GIVN Gautier Collin
+2 SURN Collin
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 FAMS @F286@
+0 @I749@ INDI
+1 NAME Phan Tuấn /Thành/
+2 GIVN Phan Tuấn
+2 SURN Thành
+1 SEX M
+1 BIRT
+2 DATE 1989
+1 FAMS @F287@
+1 FAMC @F285@
+2 PEDI birth
+0 @I750@ INDI
+1 NAME Nguyễn Thùy /Dung/
+2 GIVN Nguyễn Thùy
+2 SURN Dung
+1 SEX F
+1 FAMS @F287@
+0 @I751@ INDI
+1 NAME Phan Quyền /Đức/
+2 GIVN Phan Quyền
+2 SURN Đức
+1 SEX M
+1 BIRT
+2 DATE 2018
+1 FAMC @F287@
+2 PEDI birth
+0 @I752@ INDI
+1 NAME Phan Thị Khánh /Vy/
+2 GIVN Phan Thị Khánh
+2 SURN Vy
+1 SEX F
+1 BIRT
+2 DATE 2020
+1 FAMC @F287@
+2 PEDI birth
+0 @I753@ INDI
+1 NAME Phan Tuấn /Hưng/
+2 GIVN Phan Tuấn
+2 SURN Hưng
+1 SEX M
+1 BIRT
+2 DATE 2008
+1 FAMC @F262@
+2 PEDI birth
+0 @I754@ INDI
+1 NAME Phan Trang /Nhung/
+2 GIVN Phan Trang
+2 SURN Nhung
+1 SEX F
+1 BIRT
+2 DATE 2012
+1 FAMC @F262@
+2 PEDI birth
+0 @I755@ INDI
+1 NAME Phan Thị /Hiền/
+2 GIVN Phan Thị
+2 SURN Hiền
+1 SEX F
+1 BIRT
+2 DATE 1983
+1 FAMC @F132@
+2 PEDI birth
+0 @I756@ INDI
+1 NAME Phan Hoàng /Long/
+2 GIVN Phan Hoàng
+2 SURN Long
+1 SEX M
+1 BIRT
+2 DATE 1978
+1 FAMS @F288@
+1 FAMC @F133@
+2 PEDI birth
+0 @I757@ INDI
+1 NAME Nguyễn Thị /Tú/
+2 GIVN Nguyễn Thị
+2 SURN Tú
+1 SEX F
+1 BIRT
+2 DATE 1982
+1 FAMS @F288@
+0 @I758@ INDI
+1 NAME Phan Thị /Vân/
+2 GIVN Phan Thị
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 1985
+1 FAMC @F133@
+2 PEDI birth
+0 @I759@ INDI
+1 NAME Phạm Thị /Thường/
+2 GIVN Phạm Thị
+2 SURN Thường
+1 SEX F
+1 BIRT
+2 DATE 1987
+1 FAMC @F133@
+2 PEDI birth
+0 @I760@ INDI
+1 NAME Phan Thị /Nguyệt/
+2 GIVN Phan Thị
+2 SURN Nguyệt
+1 SEX F
+1 BIRT
+2 DATE 2011
+1 FAMC @F288@
+2 PEDI birth
+0 @I761@ INDI
+1 NAME Phan Doãn /Dũng/
+2 GIVN Phan Doãn
+2 SURN Dũng
+1 SEX M
+1 BIRT
+2 DATE 1981
+1 FAMC @F134@
+2 PEDI birth
+0 @I762@ INDI
+1 NAME Phan Thị /Hoàn/
+2 GIVN Phan Thị
+2 SURN Hoàn
+1 SEX F
+1 BIRT
+2 DATE 1983
+1 FAMC @F134@
+2 PEDI birth
+0 @I763@ INDI
+1 NAME Phan Doãn /Đạt/
+2 GIVN Phan Doãn
+2 SURN Đạt
+1 SEX M
+1 FAMC @F134@
+2 PEDI birth
+0 @I764@ INDI
+1 NAME Phan Doãn /Tiên/
+2 GIVN Phan Doãn
+2 SURN Tiên
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMS @F289@
+1 FAMC @F135@
+2 PEDI birth
+0 @I765@ INDI
+1 NAME Nguyễn Thị /Mùi/
+2 GIVN Nguyễn Thị
+2 SURN Mùi
+1 SEX F
+1 BIRT
+2 DATE 1991
+1 FAMS @F289@
+0 @I766@ INDI
+1 NAME Phan Thị /Hoa/
+2 GIVN Phan Thị
+2 SURN Hoa
+1 SEX F
+1 BIRT
+2 DATE 1991
+1 FAMC @F135@
+2 PEDI birth
+0 @I767@ INDI
+1 NAME Phan Thị /Huyền/
+2 GIVN Phan Thị
+2 SURN Huyền
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMC @F135@
+2 PEDI birth
+0 @I768@ INDI
+1 NAME Phan Doãn Thiện /Bảo/
+2 GIVN Phan Doãn Thiện
+2 SURN Bảo
+1 SEX M
+1 BIRT
+2 DATE 2012
+1 FAMC @F289@
+2 PEDI birth
+0 @I769@ INDI
+1 NAME Phan Thị /Lan/
+2 GIVN Phan Thị
+2 SURN Lan
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMS @F290@
+1 FAMC @F136@
+2 PEDI birth
+0 @I770@ INDI
+1 NAME Nguyễn Quang /Toàn/
+2 GIVN Nguyễn Quang
+2 SURN Toàn
+1 SEX M
+1 BIRT
+2 DATE 1975
+1 FAMS @F290@
+0 @I771@ INDI
+1 NAME Phan Thị /Mai/
+2 GIVN Phan Thị
+2 SURN Mai
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F291@
+1 FAMC @F136@
+2 PEDI birth
+0 @I772@ INDI
+1 NAME Nguyễn Thanh /San/
+2 GIVN Nguyễn Thanh
+2 SURN San
+1 SEX M
+1 BIRT
+2 DATE 1985
+1 FAMS @F291@
+0 @I773@ INDI
+1 NAME Phan Thị /Anh/
+2 GIVN Phan Thị
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2001
+1 FAMC @F136@
+2 PEDI birth
+0 @I774@ INDI
+1 NAME Phan Thị /Hải/
+2 GIVN Phan Thị
+2 SURN Hải
+1 SEX F
+1 BIRT
+2 DATE 1980
+1 FAMC @F137@
+2 PEDI birth
+0 @I775@ INDI
+1 NAME Phan Doãn /Quân/
+2 GIVN Phan Doãn
+2 SURN Quân
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMS @F292@
+1 FAMC @F137@
+2 PEDI birth
+0 @I776@ INDI
+1 NAME Nguyễn Thị /Lê/
+2 GIVN Nguyễn Thị
+2 SURN Lê
+1 SEX F
+1 FAMS @F292@
+0 @I777@ INDI
+1 NAME Phan Thị /Yến/
+2 GIVN Phan Thị
+2 SURN Yến
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMC @F137@
+2 PEDI birth
+0 @I778@ INDI
+1 NAME Phan Thị /Hằng/
+2 GIVN Phan Thị
+2 SURN Hằng
+1 SEX F
+1 BIRT
+2 DATE 1986
+1 FAMC @F137@
+2 PEDI birth
+0 @I779@ INDI
+1 NAME Phan Doãn /Lợi/
+2 GIVN Phan Doãn
+2 SURN Lợi
+1 SEX M
+1 BIRT
+2 DATE 1993
+1 DEAT Y
+2 DATE 2019
+1 FAMC @F137@
+2 PEDI birth
+0 @I780@ INDI
+1 NAME Phan Thanh /Hải/
+2 GIVN Phan Thanh
+2 SURN Hải
+1 SEX M
+1 BIRT
+2 DATE 1972
+1 FAMS @F293@
+1 FAMC @F149@
+2 PEDI birth
+0 @I781@ INDI
+1 NAME Nguyễn Hồng /Diễm/
+2 GIVN Nguyễn Hồng
+2 SURN Diễm
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMS @F293@
+0 @I782@ INDI
+1 NAME Phan Thanh /Hùng/
+2 GIVN Phan Thanh
+2 SURN Hùng
+1 SEX M
+1 BIRT
+2 DATE 1974
+1 FAMS @F294@
+1 FAMC @F149@
+2 PEDI birth
+0 @I783@ INDI
+1 NAME Châu Thị Thùy /Dung/
+2 GIVN Châu Thị Thùy
+2 SURN Dung
+1 SEX F
+1 BIRT
+2 DATE 1976
+1 FAMS @F294@
+0 @I784@ INDI
+1 NAME Phan Thanh /An/
+2 GIVN Phan Thanh
+2 SURN An
+1 SEX M
+1 BIRT
+2 DATE 1977
+1 FAMC @F149@
+2 PEDI birth
+0 @I785@ INDI
+1 NAME Phan Châu /Giang/
+2 GIVN Phan Châu
+2 SURN Giang
+1 SEX F
+1 BIRT
+2 DATE 1980
+1 FAMC @F149@
+2 PEDI birth
+0 @I786@ INDI
+1 NAME Phan Anh /Tuấn/
+2 GIVN Phan Anh
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 2004
+1 FAMC @F294@
+2 PEDI birth
+0 @I787@ INDI
+1 NAME Phan Anh /Kiệt/
+2 GIVN Phan Anh
+2 SURN Kiệt
+1 SEX M
+1 BIRT
+2 DATE 2007
+1 FAMC @F294@
+2 PEDI birth
+0 @I788@ INDI
+1 NAME Phan Quan /Khải/
+2 GIVN Phan Quan
+2 SURN Khải
+1 SEX M
+1 BIRT
+2 DATE 2004
+1 FAMC @F293@
+2 PEDI birth
+0 @I789@ INDI
+1 NAME Phan Diễm /Quỳnh/
+2 GIVN Phan Diễm
+2 SURN Quỳnh
+1 SEX F
+1 BIRT
+2 DATE 2008
+1 FAMC @F293@
+2 PEDI birth
+0 @I790@ INDI
+1 NAME Phan Diễm /Châu/
+2 GIVN Phan Diễm
+2 SURN Châu
+1 SEX F
+1 BIRT
+2 DATE 2012
+1 FAMC @F293@
+2 PEDI birth
+0 @I791@ INDI
+1 NAME Phan Duy /Anh/
+2 GIVN Phan Duy
+2 SURN Anh
+1 SEX M
+1 BIRT
+2 DATE 2013
+1 FAMC @F233@
+2 PEDI birth
+0 @I792@ INDI
+1 NAME Phan Lam /Anh/
+2 GIVN Phan Lam
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2015
+1 FAMC @F233@
+2 PEDI birth
+0 @I793@ INDI
+1 NAME Lương Phan Thanh /Trường/
+2 GIVN Lương Phan Thanh
+2 SURN Trường
+1 SEX M
+1 BIRT
+2 DATE 2019
+1 FAMC @F232@
+2 PEDI birth
+0 @I794@ INDI
+1 NAME Trần Đăng /Khoa/
+2 GIVN Trần Đăng
+2 SURN Khoa
+1 SEX M
+1 BIRT
+2 DATE 2014
+1 FAMC @F231@
+2 PEDI birth
+0 @I795@ INDI
+1 NAME Trần Trúc /Linh/
+2 GIVN Trần Trúc
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 2016
+1 FAMC @F231@
+2 PEDI birth
+0 @I796@ INDI
+1 NAME Phan Ngọc /Diệp/
+2 GIVN Phan Ngọc
+2 SURN Diệp
+1 SEX F
+1 BIRT
+2 DATE 2023
+1 FAMC @F230@
+2 PEDI birth
+0 @I797@ INDI
+1 NAME Phan Thị /Hà/
+2 GIVN Phan Thị
+2 SURN Hà
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMC @F151@
+2 PEDI birth
+0 @I798@ INDI
+1 NAME Phan Thị /Mai/
+2 GIVN Phan Thị
+2 SURN Mai
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F295@
+1 FAMC @F151@
+2 PEDI birth
+0 @I799@ INDI
+1 NAME Hoàng Văn /Việt/
+2 GIVN Hoàng Văn
+2 SURN Việt
+1 SEX M
+1 FAMS @F295@
+0 @I800@ INDI
+1 NAME Phan Tất /Thắng/
+2 GIVN Phan Tất
+2 SURN Thắng
+1 SEX M
+1 BIRT
+2 DATE 1997
+1 FAMC @F151@
+2 PEDI birth
+0 @I801@ INDI
+1 NAME Phan Chí /Linh/
+2 GIVN Phan Chí
+2 SURN Linh
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMS @F296@
+1 FAMC @F155@
+2 PEDI birth
+0 @I802@ INDI
+1 NAME Lê Thị /Nhung/
+2 GIVN Lê Thị
+2 SURN Nhung
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMS @F296@
+0 @I803@ INDI
+1 NAME Phan Thị /Nhàn/
+2 GIVN Phan Thị
+2 SURN Nhàn
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMS @F297@
+1 FAMC @F155@
+2 PEDI birth
+0 @I804@ INDI
+1 NAME Trần Văn /Thông/
+2 GIVN Trần Văn
+2 SURN Thông
+1 SEX M
+1 FAMS @F297@
+0 @I805@ INDI
+1 NAME Phan Thị /Nhâm/
+2 GIVN Phan Thị
+2 SURN Nhâm
+1 SEX F
+1 BIRT
+2 DATE 1987
+1 FAMC @F155@
+2 PEDI birth
+0 @I806@ INDI
+1 NAME Phan Doãn /Nghĩa/
+2 GIVN Phan Doãn
+2 SURN Nghĩa
+1 SEX M
+1 BIRT
+2 DATE 1991
+1 FAMC @F155@
+2 PEDI birth
+0 @I807@ INDI
+1 NAME Phan Thị /Lan/
+2 GIVN Phan Thị
+2 SURN Lan
+1 SEX F
+1 BIRT
+2 DATE 2011
+1 FAMC @F296@
+2 PEDI birth
+0 @I808@ INDI
+1 NAME Phan Thị /Long/
+2 GIVN Phan Thị
+2 SURN Long
+1 SEX F
+1 BIRT
+2 DATE 1989
+1 FAMC @F156@
+2 PEDI birth
+0 @I809@ INDI
+1 NAME Phan Tất /Thành/
+2 GIVN Phan Tất
+2 SURN Thành
+1 SEX M
+1 BIRT
+2 DATE 1991
+1 FAMC @F156@
+2 PEDI birth
+0 @I810@ INDI
+1 NAME Phan Thị /Lương/
+2 GIVN Phan Thị
+2 SURN Lương
+1 SEX F
+1 BIRT
+2 DATE 1993
+1 FAMC @F156@
+2 PEDI birth
+0 @I811@ INDI
+1 NAME Phan Tất /Tâm/
+2 GIVN Phan Tất
+2 SURN Tâm
+1 SEX M
+1 BIRT
+2 DATE 1996
+1 FAMC @F156@
+2 PEDI birth
+0 @I812@ INDI
+1 NAME Phan Doãn /Trình/
+2 GIVN Phan Doãn
+2 SURN Trình
+1 SEX M
+1 BIRT
+2 DATE 1986
+1 FAMC @F157@
+2 PEDI birth
+0 @I813@ INDI
+1 NAME Phan Thị /Thắm/
+2 GIVN Phan Thị
+2 SURN Thắm
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F298@
+1 FAMC @F157@
+2 PEDI birth
+0 @I814@ INDI
+1 NAME Trịnh Văn /Thạo/
+2 GIVN Trịnh Văn
+2 SURN Thạo
+1 SEX M
+1 BIRT
+2 DATE 1984
+1 FAMS @F298@
+0 @I815@ INDI
+1 NAME Phan Doãn /Mạnh/
+2 GIVN Phan Doãn
+2 SURN Mạnh
+1 SEX M
+1 BIRT
+2 DATE 1994
+1 FAMC @F157@
+2 PEDI birth
+0 @I816@ INDI
+1 NAME Phan Thanh /Hải/
+2 GIVN Phan Thanh
+2 SURN Hải
+1 SEX M
+1 BIRT
+2 DATE 1978
+1 FAMS @F299@
+1 FAMC @F78@
+2 PEDI birth
+0 @I817@ INDI
+1 NAME Đặng Thị /Thơm/
+2 GIVN Đặng Thị
+2 SURN Thơm
+1 SEX F
+1 BIRT
+2 DATE 1983
+1 FAMS @F299@
+0 @I818@ INDI
+1 NAME Phan Hải /Anh/
+2 GIVN Phan Hải
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2007
+1 FAMC @F299@
+2 PEDI birth
+0 @I819@ INDI
+1 NAME Phan Minh /Quân/
+2 GIVN Phan Minh
+2 SURN Quân
+1 SEX M
+1 BIRT
+2 DATE 2012
+1 FAMC @F161@
+2 PEDI birth
+0 @I820@ INDI
+1 NAME Phan Thị Ngọc /Anh/
+2 GIVN Phan Thị Ngọc
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2021
+1 FAMC @F164@
+2 PEDI birth
+0 @I821@ INDI
+1 NAME Phan Minh /Hoàng/
+2 GIVN Phan Minh
+2 SURN Hoàng
+1 SEX M
+1 BIRT
+2 DATE 2001
+1 FAMC @F165@
+2 PEDI birth
+0 @I822@ INDI
+1 NAME Phan Hồng /Ngọc/
+2 GIVN Phan Hồng
+2 SURN Ngọc
+1 SEX F
+1 BIRT
+2 DATE 2005
+1 FAMC @F165@
+2 PEDI birth
+0 @I823@ INDI
+1 NAME Phan Hữu /Trung/
+2 GIVN Phan Hữu
+2 SURN Trung
+1 SEX M
+1 BIRT
+2 DATE 1981
+1 FAMS @F300@
+1 FAMC @F167@
+2 PEDI birth
+0 @I824@ INDI
+1 NAME Nguyễn Thị Kim /Phượng/
+2 GIVN Nguyễn Thị Kim
+2 SURN Phượng
+1 SEX F
+1 BIRT
+2 DATE 1982
+1 FAMS @F300@
+0 @I825@ INDI
+1 NAME Phan Thị Trung /Hiếu/
+2 GIVN Phan Thị Trung
+2 SURN Hiếu
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMC @F167@
+2 PEDI birth
+0 @I826@ INDI
+1 NAME Phan Nguyễn Thanh /Thủy/
+2 GIVN Phan Nguyễn Thanh
+2 SURN Thủy
+1 SEX F
+1 BIRT
+2 DATE 2010
+1 FAMC @F300@
+2 PEDI birth
+0 @I827@ INDI
+1 NAME Phan Nguyễn Thanh /Thảo/
+2 GIVN Phan Nguyễn Thanh
+2 SURN Thảo
+1 SEX F
+1 BIRT
+2 DATE 2015
+1 FAMC @F300@
+2 PEDI birth
+0 @I828@ INDI
+1 NAME Phan Phạm Thanh /Mẫn/
+2 GIVN Phan Phạm Thanh
+2 SURN Mẫn
+1 SEX M
+1 BIRT
+2 DATE 2003
+1 FAMC @F169@
+2 PEDI birth
+0 @I829@ INDI
+1 NAME Phan Phạm Thanh /Tiệp/
+2 GIVN Phan Phạm Thanh
+2 SURN Tiệp
+1 SEX M
+1 BIRT
+2 DATE 2009
+1 FAMC @F169@
+2 PEDI birth
+0 @I830@ INDI
+1 NAME Phan Võ Thanh /Hải/
+2 GIVN Phan Võ Thanh
+2 SURN Hải
+1 SEX M
+1 BIRT
+2 DATE 1995
+1 FAMC @F170@
+2 PEDI birth
+0 @I831@ INDI
+1 NAME Phan Võ Thanh /Uyên/
+2 GIVN Phan Võ Thanh
+2 SURN Uyên
+1 SEX M
+1 BIRT
+2 DATE 2001
+1 FAMC @F170@
+2 PEDI birth
+0 @I832@ INDI
+1 NAME Phan Hoàng Châu /Anh/
+2 GIVN Phan Hoàng Châu
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2011
+1 FAMC @F170@
+2 PEDI birth
+0 @I833@ INDI
+1 NAME Phan Thị /Tùng/
+2 GIVN Phan Thị
+2 SURN Tùng
+1 SEX F
+1 BIRT
+2 DATE 1983
+1 FAMS @F301@
+1 FAMC @F173@
+2 PEDI birth
+0 @I834@ INDI
+1 NAME Trần Quốc /Hoàn/
+2 GIVN Trần Quốc
+2 SURN Hoàn
+1 SEX M
+1 BIRT
+2 DATE 1979
+1 FAMS @F301@
+0 @I835@ INDI
+1 NAME Phan Ngọc /Quân/
+2 GIVN Phan Ngọc
+2 SURN Quân
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMC @F173@
+2 PEDI birth
+0 @I836@ INDI
+1 NAME Phan Đăng /Duy/
+2 GIVN Phan Đăng
+2 SURN Duy
+1 SEX M
+1 BIRT
+2 DATE 2012
+1 FAMC @F301@
+2 PEDI birth
+0 @I837@ INDI
+1 NAME Phan Thị /.../
+2 GIVN Phan Thị
+2 SURN ...
+1 SEX F
+1 BIRT
+2 DATE 2012
+1 FAMC @F301@
+2 PEDI birth
+0 @I838@ INDI
+1 NAME Phan Doãn /Lĩnh/
+2 GIVN Phan Doãn
+2 SURN Lĩnh
+1 SEX M
+1 BIRT
+2 DATE 1986
+1 FAMC @F174@
+2 PEDI birth
+0 @I839@ INDI
+1 NAME Phan Thị /Giang/
+2 GIVN Phan Thị
+2 SURN Giang
+1 SEX F
+1 BIRT
+2 DATE 1993
+1 FAMC @F174@
+2 PEDI birth
+0 @I840@ INDI
+1 NAME Phan Doãn /Bảo/
+2 GIVN Phan Doãn
+2 SURN Bảo
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMC @F175@
+2 PEDI birth
+0 @I841@ INDI
+1 NAME Phan Thị /Oanh/
+2 GIVN Phan Thị
+2 SURN Oanh
+1 SEX F
+1 BIRT
+2 DATE 1994
+1 FAMC @F175@
+2 PEDI birth
+0 @I842@ INDI
+1 NAME Phan Thị Quỳnh /Nga/
+2 GIVN Phan Thị Quỳnh
+2 SURN Nga
+1 SEX F
+1 BIRT
+2 DATE 1977
+1 FAMS @F302@
+1 FAMC @F303@
+2 PEDI birth
+0 @I843@ INDI
+1 NAME Phan Hồng /Quân/
+2 GIVN Phan Hồng
+2 SURN Quân
+1 SEX M
+1 BIRT
+2 DATE 1984
+1 FAMS @F304@
+1 FAMC @F177@
+2 PEDI birth
+0 @I844@ INDI
+1 NAME Phan Thanh /Bình/
+2 GIVN Phan Thanh
+2 SURN Bình
+1 SEX M
+1 BIRT
+2 DATE 1986
+1 FAMS @F305@
+1 FAMC @F177@
+2 PEDI birth
+0 @I845@ INDI
+1 NAME Phan Thị /An/
+2 GIVN Phan Thị
+2 SURN An
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F306@
+1 FAMC @F177@
+2 PEDI birth
+0 @I846@ INDI
+1 NAME Phan Doãn /Cường/
+2 GIVN Phan Doãn
+2 SURN Cường
+1 SEX M
+1 BIRT
+2 DATE 1986
+1 FAMS @F266@
+1 FAMC @F180@
+2 PEDI birth
+0 @I847@ INDI
+1 NAME Phan Thị /Loan/
+2 GIVN Phan Thị
+2 SURN Loan
+1 SEX F
+1 BIRT
+2 DATE 1986
+1 FAMS @F307@
+1 FAMC @F180@
+2 PEDI birth
+0 @I848@ INDI
+1 NAME Phan Thị Hoa /Lý/
+2 GIVN Phan Thị Hoa
+2 SURN Lý
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMS @F308@
+1 FAMC @F180@
+2 PEDI birth
+0 @I849@ INDI
+1 NAME Phan Thị /Hạnh/
+2 GIVN Phan Thị
+2 SURN Hạnh
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMS @F309@
+1 FAMC @F180@
+2 PEDI birth
+0 @I850@ INDI
+1 NAME Phan Doãn /Trường/
+2 GIVN Phan Doãn
+2 SURN Trường
+1 SEX M
+1 BIRT
+2 DATE 1993
+1 FAMS @F310@
+1 FAMC @F183@
+2 PEDI birth
+0 @I851@ INDI
+1 NAME Phan Thị /Quỳnh/
+2 GIVN Phan Thị
+2 SURN Quỳnh
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMS @F311@
+1 FAMC @F183@
+2 PEDI birth
+0 @I852@ INDI
+1 NAME Phan Doãn /Chương/
+2 GIVN Phan Doãn
+2 SURN Chương
+1 SEX M
+1 BIRT
+2 DATE 2004
+1 FAMC @F183@
+2 PEDI birth
+0 @I853@ INDI
+1 NAME Phan Doãn /Thăng/
+2 GIVN Phan Doãn
+2 SURN Thăng
+1 SEX M
+1 BIRT
+2 DATE 2004
+1 FAMC @F194@
+2 PEDI birth
+0 @I854@ INDI
+1 NAME Phan Doãn /Long/
+2 GIVN Phan Doãn
+2 SURN Long
+1 SEX M
+1 BIRT
+2 DATE 2004
+1 FAMC @F194@
+2 PEDI birth
+0 @I855@ INDI
+1 NAME Phan Thị /Hoài/
+2 GIVN Phan Thị
+2 SURN Hoài
+1 SEX F
+1 BIRT
+2 DATE 2004
+1 FAMC @F195@
+2 PEDI birth
+0 @I856@ INDI
+1 NAME Phan Doãn /Tú/
+2 GIVN Phan Doãn
+2 SURN Tú
+1 SEX M
+1 FAMC @F195@
+2 PEDI birth
+0 @I857@ INDI
+1 NAME Phan Thị /Thương/
+2 GIVN Phan Thị
+2 SURN Thương
+1 SEX F
+1 BIRT
+2 DATE 2004
+1 FAMC @F195@
+2 PEDI birth
+0 @I858@ INDI
+1 NAME Phan Thành /Vinh/
+2 GIVN Phan Thành
+2 SURN Vinh
+1 SEX M
+1 FAMC @F196@
+2 PEDI birth
+0 @I859@ INDI
+1 NAME Phan Doãn /Chơng/
+2 GIVN Phan Doãn
+2 SURN Chơng
+1 SEX M
+1 FAMC @F196@
+2 PEDI birth
+0 @I860@ INDI
+1 NAME Phan Tất /Thắng/
+2 GIVN Phan Tất
+2 SURN Thắng
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMS @F312@
+1 FAMC @F197@
+2 PEDI birth
+0 @I861@ INDI
+1 NAME Lê Thị /Giang/
+2 GIVN Lê Thị
+2 SURN Giang
+1 SEX F
+1 BIRT
+2 DATE 1994
+1 FAMS @F312@
+0 @I862@ INDI
+1 NAME Phan Thị Thu /Trang/
+2 GIVN Phan Thị Thu
+2 SURN Trang
+1 SEX F
+1 BIRT
+2 DATE 1992
+1 FAMS @F313@
+1 FAMC @F197@
+2 PEDI birth
+0 @I863@ INDI
+1 NAME Phan Tất /Sáng/
+2 GIVN Phan Tất
+2 SURN Sáng
+1 SEX M
+1 BIRT
+2 DATE 1994
+1 FAMS @F314@
+1 FAMC @F197@
+2 PEDI birth
+0 @I864@ INDI
+1 NAME Phan Hồng /Trường/
+2 GIVN Phan Hồng
+2 SURN Trường
+1 SEX M
+1 BIRT
+2 DATE 2015
+1 FAMC @F312@
+2 PEDI birth
+0 @I865@ INDI
+1 NAME Phan Tất /Vượng/
+2 GIVN Phan Tất
+2 SURN Vượng
+1 SEX M
+1 BIRT
+2 DATE 2007
+1 FAMC @F198@
+2 PEDI birth
+0 @I866@ INDI
+1 NAME Phan Tất /Thọ/
+2 GIVN Phan Tất
+2 SURN Thọ
+1 SEX M
+1 BIRT
+2 DATE 2011
+1 FAMC @F198@
+2 PEDI birth
+0 @I867@ INDI
+1 NAME Phan Thị Ngọc /Hà/
+2 GIVN Phan Thị Ngọc
+2 SURN Hà
+1 SEX F
+1 BIRT
+2 DATE 2000
+1 FAMC @F199@
+2 PEDI birth
+0 @I868@ INDI
+1 NAME Phan Cẩm /Nhung/
+2 GIVN Phan Cẩm
+2 SURN Nhung
+1 SEX F
+1 BIRT
+2 DATE 2002
+1 FAMC @F199@
+2 PEDI birth
+0 @I869@ INDI
+1 NAME Phan Hồng /Phú/
+2 GIVN Phan Hồng
+2 SURN Phú
+1 SEX M
+1 BIRT
+2 DATE 2014
+1 FAMC @F199@
+2 PEDI birth
+0 @I870@ INDI
+1 NAME Phan Ngọc /Anh/
+2 GIVN Phan Ngọc
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2015
+1 FAMC @F201@
+2 PEDI birth
+0 @I871@ INDI
+1 NAME Phan Mai /Anh/
+2 GIVN Phan Mai
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2021
+1 FAMC @F201@
+2 PEDI birth
+0 @I872@ INDI
+1 NAME Phan Diệu /Linh/
+2 GIVN Phan Diệu
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 2016
+1 FAMC @F202@
+2 PEDI birth
+0 @I873@ INDI
+1 NAME Phan /Hoàng/
+2 GIVN Phan
+2 SURN Hoàng
+1 SEX M
+1 BIRT
+2 DATE 2018
+1 FAMC @F202@
+2 PEDI birth
+0 @I874@ INDI
+1 NAME Nguyễn Thị /Xuân/
+2 GIVN Nguyễn Thị
+2 SURN Xuân
+1 SEX F
+1 BIRT
+2 DATE 1899
+1 DEAT Y
+2 DATE 1972
+1 NOTE Bio notes: Kỵ 21-11
+1 FAMS @F59@
+0 @I875@ INDI
+1 NAME Hồ Thị /Yến/
+2 GIVN Hồ Thị
+2 SURN Yến
+1 SEX F
+1 NOTE Bio notes: Thọ 84 tuổi
+1 FAMS @F41@
+0 @I876@ INDI
+1 NAME Trịnh Thị /Khuyên/
+2 GIVN Trịnh Thị
+2 SURN Khuyên
+1 SEX F
+1 BIRT
+2 DATE 1905
+1 DEAT Y
+2 DATE 1985
+1 FAMS @F47@
+0 @I877@ INDI
+1 NAME Hoàng Thị /Thảo/
+2 GIVN Hoàng Thị
+2 SURN Thảo
+1 SEX F
+1 FAMS @F94@
+0 @I878@ INDI
+1 NAME Phan Doãn Cu /Sáu/
+2 GIVN Phan Doãn Cu
+2 SURN Sáu
+1 SEX M
+1 BIRT
+2 DATE 1943
+1 NOTE Bio notes: Mất sớm
+1 FAMC @F64@
+2 PEDI birth
+0 @I879@ INDI
+1 NAME Phan Công /Dũng/
+2 GIVN Phan Công
+2 SURN Dũng
+1 SEX M
+1 BIRT
+2 DATE 2020
+1 FAMC @F203@
+2 PEDI birth
+0 @I880@ INDI
+1 NAME Phan Công /Quang/
+2 GIVN Phan Công
+2 SURN Quang
+1 SEX M
+1 FAMC @F203@
+2 PEDI birth
+0 @I881@ INDI
+1 NAME Phan Thị Cháu /Chín/
+2 GIVN Phan Thị Cháu
+2 SURN Chín
+1 SEX F
+1 BIRT
+2 DATE 1944
+1 DEAT Y
+2 DATE 1944
+1 FAMC @F67@
+2 PEDI birth
+0 @I882@ INDI
+1 NAME Phan Thị Nam /Phương/
+2 GIVN Phan Thị Nam
+2 SURN Phương
+1 SEX F
+1 BIRT
+2 DATE 1947
+1 DEAT Y
+2 DATE 1956
+1 FAMC @F67@
+2 PEDI birth
+0 @I883@ INDI
+1 NAME Phan Thị Hải /Vân/
+2 GIVN Phan Thị Hải
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 1954
+1 DEAT Y
+2 DATE 1954
+1 FAMC @F67@
+2 PEDI birth
+0 @I884@ INDI
+1 NAME Phan Doãn /Nghĩa/
+2 GIVN Phan Doãn
+2 SURN Nghĩa
+1 SEX M
+1 BIRT
+2 DATE 1956
+1 DEAT Y
+2 DATE 1956
+1 FAMC @F67@
+2 PEDI birth
+0 @I885@ INDI
+1 NAME Nguyễn Minh /Hoàng/
+2 GIVN Nguyễn Minh
+2 SURN Hoàng
+1 SEX M
+1 BIRT
+2 DATE 2017
+1 FAMC @F264@
+2 PEDI birth
+0 @I886@ INDI
+1 NAME Nguyễn Minh /Anh/
+2 GIVN Nguyễn Minh
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2025
+1 FAMC @F264@
+2 PEDI birth
+0 @I887@ INDI
+1 NAME Nguyễn Anh /Tuấn/
+2 GIVN Nguyễn Anh
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMC @F214@
+2 PEDI birth
+0 @I888@ INDI
+1 NAME Nguyễn Tuấn /Thanh/
+2 GIVN Nguyễn Tuấn
+2 SURN Thanh
+1 SEX F
+1 BIRT
+2 DATE 1998
+1 FAMC @F214@
+2 PEDI birth
+0 @I889@ INDI
+1 NAME Thái Thị Thanh /Huyền/
+2 GIVN Thái Thị Thanh
+2 SURN Huyền
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F315@
+1 FAMC @F209@
+2 PEDI birth
+0 @I890@ INDI
+1 NAME Nguyễn /Hoàng/
+2 GIVN Nguyễn
+2 SURN Hoàng
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMS @F315@
+0 @I891@ INDI
+1 NAME Thái Huy /Hải/
+2 GIVN Thái Huy
+2 SURN Hải
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMS @F316@
+1 FAMC @F209@
+2 PEDI birth
+0 @I892@ INDI
+1 NAME Nguyễn Thị Thu /Hương/
+2 GIVN Nguyễn Thị Thu
+2 SURN Hương
+1 SEX F
+1 BIRT
+2 DATE 1995
+1 FAMS @F316@
+0 @I893@ INDI
+1 NAME Hoàng Đình /Nhân/
+2 GIVN Hoàng Đình
+2 SURN Nhân
+1 SEX M
+1 BIRT
+2 DATE 1992
+1 FAMC @F210@
+2 PEDI birth
+0 @I894@ INDI
+1 NAME Hoàng Đình /Hậu/
+2 GIVN Hoàng Đình
+2 SURN Hậu
+1 SEX M
+1 BIRT
+2 DATE 1995
+1 FAMC @F210@
+2 PEDI birth
+0 @I895@ INDI
+1 NAME Phạm Mạnh /Hùng/
+2 GIVN Phạm Mạnh
+2 SURN Hùng
+1 SEX M
+1 BIRT
+2 DATE 1999
+1 FAMC @F211@
+2 PEDI birth
+0 @I896@ INDI
+1 NAME Phạm Thị Việt /Hà/
+2 GIVN Phạm Thị Việt
+2 SURN Hà
+1 SEX F
+1 BIRT
+2 DATE 2004
+1 FAMC @F211@
+2 PEDI birth
+0 @I897@ INDI
+1 NAME Phan Doãn Minh /Khôi/
+2 GIVN Phan Doãn Minh
+2 SURN Khôi
+1 SEX M
+1 BIRT
+2 DATE 2025
+1 FAMC @F247@
+2 PEDI birth
+0 @I898@ INDI
+1 NAME Lê Tuấn /Anh/
+2 GIVN Lê Tuấn
+2 SURN Anh
+1 SEX F
+1 FAMC @F130@
+2 PEDI birth
+0 @I899@ INDI
+1 NAME Phan Thị Thanh /Châu/
+2 GIVN Phan Thị Thanh
+2 SURN Châu
+1 SEX F
+1 BIRT
+2 DATE 1954
+1 FAMS @F317@
+1 FAMC @F104@
+2 PEDI birth
+0 @I900@ INDI
+1 NAME Nguyễn /Tâm/
+2 GIVN Nguyễn
+2 SURN Tâm
+1 SEX M
+1 BIRT
+2 DATE 1949
+1 FAMS @F317@
+0 @I901@ INDI
+1 NAME Phan Hồng /Chương/
+2 GIVN Phan Hồng
+2 SURN Chương
+1 SEX M
+1 BIRT
+2 DATE 1956
+1 FAMS @F318@
+1 FAMC @F104@
+2 PEDI birth
+0 @I902@ INDI
+1 NAME Trần Thị Thanh /Huyền/
+2 GIVN Trần Thị Thanh
+2 SURN Huyền
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 FAMS @F318@
+0 @I903@ INDI
+1 NAME Trần Phan Thanh /Hà/
+2 GIVN Trần Phan Thanh
+2 SURN Hà
+1 SEX M
+1 BIRT
+2 DATE 1952
+1 FAMC @F105@
+2 PEDI birth
+0 @I904@ INDI
+1 NAME Trần  Phan Việt /Hải/
+2 GIVN Trần  Phan Việt
+2 SURN Hải
+1 SEX F
+1 BIRT
+2 DATE 1957
+1 FAMC @F105@
+2 PEDI birth
+0 @I905@ INDI
+1 NAME Trần Phan Chí /Công/
+2 GIVN Trần Phan Chí
+2 SURN Công
+1 SEX F
+1 BIRT
+2 DATE 1962
+1 FAMC @F105@
+2 PEDI birth
+0 @I906@ INDI
+1 NAME Trần Phan Chí /Tâm/
+2 GIVN Trần Phan Chí
+2 SURN Tâm
+1 SEX F
+1 BIRT
+2 DATE 1965
+1 FAMC @F105@
+2 PEDI birth
+0 @I907@ INDI
+1 NAME Trần Phan Yên /Thế/
+2 GIVN Trần Phan Yên
+2 SURN Thế
+1 SEX F
+1 BIRT
+2 DATE 1969
+1 FAMC @F105@
+2 PEDI birth
+0 @I908@ INDI
+1 NAME Nguyễn Khắc Tấn /Phát/
+2 GIVN Nguyễn Khắc Tấn
+2 SURN Phát
+1 SEX M
+1 BIRT
+2 DATE 2002
+1 FAMC @F160@
+2 PEDI birth
+0 @I909@ INDI
+1 NAME Nguyễn Khắc Tấn /Tài/
+2 GIVN Nguyễn Khắc Tấn
+2 SURN Tài
+1 SEX M
+1 BIRT
+2 DATE 2009
+1 FAMC @F160@
+2 PEDI birth
+0 @I910@ INDI
+1 NAME Nguyễn Hữu Mạnh /Cường/
+2 GIVN Nguyễn Hữu Mạnh
+2 SURN Cường
+1 SEX M
+1 BIRT
+2 DATE 2009
+1 FAMC @F162@
+2 PEDI birth
+0 @I911@ INDI
+1 NAME Nguyễn Hữu Trung /Kiên/
+2 GIVN Nguyễn Hữu Trung
+2 SURN Kiên
+1 SEX M
+1 BIRT
+2 DATE 2013
+1 FAMC @F162@
+2 PEDI birth
+0 @I912@ INDI
+1 NAME Trần Văn /Thắng/
+2 GIVN Trần Văn
+2 SURN Thắng
+1 SEX M
+1 BIRT
+2 DATE 1996
+1 FAMC @F158@
+2 PEDI birth
+0 @I913@ INDI
+1 NAME Trần Thị Lệ /Uyên/
+2 GIVN Trần Thị Lệ
+2 SURN Uyên
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMC @F158@
+2 PEDI birth
+0 @I914@ INDI
+1 NAME Nguyễn Quang /Đạt/
+2 GIVN Nguyễn Quang
+2 SURN Đạt
+1 SEX M
+1 BIRT
+2 DATE 1999
+1 FAMC @F159@
+2 PEDI birth
+0 @I915@ INDI
+1 NAME Nguyễn Quang /Thịnh/
+2 GIVN Nguyễn Quang
+2 SURN Thịnh
+1 SEX M
+1 BIRT
+2 DATE 2003
+1 FAMC @F159@
+2 PEDI birth
+0 @I916@ INDI
+1 NAME Nguyễn Văn /Đường/
+2 GIVN Nguyễn Văn
+2 SURN Đường
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 FAMS @F319@
+1 FAMC @F126@
+2 PEDI birth
+0 @I917@ INDI
+1 NAME Trần Thị /Anh/
+2 GIVN Trần Thị
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 1974
+1 FAMS @F319@
+0 @I918@ INDI
+1 NAME Nguyễn Văn /Hạnh/
+2 GIVN Nguyễn Văn
+2 SURN Hạnh
+1 SEX M
+1 BIRT
+2 DATE 1966
+1 FAMS @F320@
+1 FAMS @F321@
+1 FAMC @F126@
+2 PEDI birth
+0 @I919@ INDI
+1 NAME Võ Thị /Duyên/
+2 GIVN Võ Thị
+2 SURN Duyên
+1 SEX F
+1 BIRT
+2 DATE 1964
+1 DEAT Y
+1 FAMS @F320@
+0 @I920@ INDI
+1 NAME Nguyễn Thị /Lài/
+2 GIVN Nguyễn Thị
+2 SURN Lài
+1 SEX F
+1 BIRT
+2 DATE 1969
+1 FAMS @F322@
+1 FAMC @F126@
+2 PEDI birth
+0 @I921@ INDI
+1 NAME Nguyễn Thanh /Hiền/
+2 GIVN Nguyễn Thanh
+2 SURN Hiền
+1 SEX M
+1 BIRT
+2 DATE 1961
+1 FAMS @F322@
+0 @I922@ INDI
+1 NAME Nguyễn Thị /Lương/
+2 GIVN Nguyễn Thị
+2 SURN Lương
+1 SEX F
+1 BIRT
+2 DATE 1971
+1 FAMS @F323@
+1 FAMC @F126@
+2 PEDI birth
+0 @I923@ INDI
+1 NAME Dương Nhật /Kính/
+2 GIVN Dương Nhật
+2 SURN Kính
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 FAMS @F323@
+0 @I924@ INDI
+1 NAME Nguyễn Văn /Thuân/
+2 GIVN Nguyễn Văn
+2 SURN Thuân
+1 SEX M
+1 BIRT
+2 DATE 1974
+1 FAMS @F324@
+1 FAMC @F126@
+2 PEDI birth
+0 @I925@ INDI
+1 NAME Lê Thị Thu /Hiền/
+2 GIVN Lê Thị Thu
+2 SURN Hiền
+1 SEX F
+1 BIRT
+2 DATE 1976
+1 FAMS @F324@
+0 @I926@ INDI
+1 NAME Nguyễn Thị Thuỳ /Anh/
+2 GIVN Nguyễn Thị Thuỳ
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 1974
+1 FAMS @F321@
+0 @I927@ INDI
+1 NAME Nguyễn Bá /Nhân/
+2 GIVN Nguyễn Bá
+2 SURN Nhân
+1 SEX F
+1 BIRT
+2 DATE 2015
+1 FAMC @F248@
+2 PEDI birth
+0 @I928@ INDI
+1 NAME Nguyễn Bá Bảo /Lâm/
+2 GIVN Nguyễn Bá Bảo
+2 SURN Lâm
+1 SEX F
+1 BIRT
+2 DATE 2019
+1 FAMC @F248@
+2 PEDI birth
+0 @I929@ INDI
+1 NAME Phan Khánh /Hoàng/
+2 GIVN Phan Khánh
+2 SURN Hoàng
+2 _MARNM Hoàng
+1 SEX M
+1 BIRT
+2 DATE 1988
+1 FAMC @F318@
+0 @I930@ INDI
+1 NAME Phan Hoàng /Anh/
+2 GIVN Phan Hoàng
+2 SURN Anh
+2 _MARNM Anh
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMC @F318@
+0 @I931@ INDI
+1 NAME Phan Thị /.../
+2 GIVN Phan Thị
+2 SURN ...
+1 DEAT Y
+1 NOTE Bio notes: Kỵ 11-8
+1 FAMS @F27@
+0 @I932@ INDI
+1 NAME Lê Thị /Nghìn/
+2 GIVN Lê Thị
+2 SURN Nghìn
+1 NOTE Bio notes: Kỵ 19-9
+1 FAMS @F29@
+0 @I933@ INDI
+1 NAME Phan Tất /Chính/
+2 GIVN Phan Tất
+2 SURN Chính
+1 SEX M
+1 BIRT
+2 DATE 2016
+1 FAMC @F283@
+0 @I934@ INDI
+1 NAME Bihag /Franz/
+2 GIVN Bihag
+2 SURN Franz
+1 SEX M
+1 BIRT
+2 DATE 1997
+1 FAMS @F241@
+0 @I935@ INDI
+1 NAME Trần Phan Anh /Kiệt/
+2 GIVN Trần Phan Anh
+2 SURN Kiệt
+1 SEX M
+1 BIRT
+2 DATE 2014
+1 FAMC @F269@
+0 @I936@ INDI
+1 NAME Trần Phan Trung /Kiên/
+2 GIVN Trần Phan Trung
+2 SURN Kiên
+1 SEX M
+1 BIRT
+2 DATE 2020
+1 FAMC @F269@
+0 @I937@ INDI
+1 NAME Trần Phan Tuấn /Ngọc/
+2 GIVN Trần Phan Tuấn
+2 SURN Ngọc
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMC @F325@
+0 @I938@ INDI
+1 NAME Nguyễn Phan Bảo /Ngọc/
+2 GIVN Nguyễn Phan Bảo
+2 SURN Ngọc
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMC @F325@
+0 @I939@ INDI
+1 NAME Nguyễn Văn /Thọ/
+2 GIVN Nguyễn Văn
+2 SURN Thọ
+1 SEX M
+1 BIRT
+2 DATE 1964
+1 FAMS @F168@
+0 @I940@ INDI
+1 NAME Nguyễn Phan Lý /Vy/
+2 GIVN Nguyễn Phan Lý
+2 SURN Vy
+1 SEX F
+1 BIRT
+2 DATE 1998
+1 FAMC @F168@
+0 @I941@ INDI
+1 NAME Nguyễn Phan Anh /Duy/
+2 GIVN Nguyễn Phan Anh
+2 SURN Duy
+1 SEX M
+1 BIRT
+2 DATE 2001
+1 FAMC @F168@
+0 @I942@ INDI
+1 NAME Nguyễn Phan Huy /Khôi/
+2 GIVN Nguyễn Phan Huy
+2 SURN Khôi
+1 SEX M
+1 BIRT
+2 DATE 1982
+1 FAMC @F317@
+0 @I943@ INDI
+1 NAME Nguyễn Phan Huy /Thành/
+2 GIVN Nguyễn Phan Huy
+2 SURN Thành
+1 SEX M
+1 BIRT
+2 DATE 1989
+1 FAMC @F317@
+0 @I944@ INDI
+1 NAME Nguyễn Thị /Lam/
+2 GIVN Nguyễn Thị
+2 SURN Lam
+1 SEX F
+1 BIRT
+2 DATE 1986
+1 FAMS @F326@
+1 FAMC @F268@
+0 @I945@ INDI
+1 NAME Nguyễn Văn /Phương/
+2 GIVN Nguyễn Văn
+2 SURN Phương
+1 SEX M
+1 BIRT
+2 DATE 1984
+1 FAMS @F326@
+0 @I946@ INDI
+1 NAME Nguyễn Thị /Nhàn/
+2 GIVN Nguyễn Thị
+2 SURN Nhàn
+1 SEX F
+1 BIRT
+2 DATE 1988
+1 FAMS @F327@
+1 FAMC @F268@
+0 @I947@ INDI
+1 NAME Nguyễn Thanh /Tuấn/
+2 GIVN Nguyễn Thanh
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 1986
+1 FAMS @F327@
+0 @I948@ INDI
+1 NAME Nguyễn Doãn /Hoàn/
+2 GIVN Nguyễn Doãn
+2 SURN Hoàn
+1 SEX M
+1 BIRT
+2 DATE 1991
+1 FAMS @F328@
+1 FAMC @F268@
+0 @I949@ INDI
+1 NAME Đinh Thị /Lan/
+2 GIVN Đinh Thị
+2 SURN Lan
+1 SEX F
+1 BIRT
+2 DATE 1997
+1 FAMS @F328@
+0 @I950@ INDI
+1 NAME Nguyễn Thị /Bé/
+2 GIVN Nguyễn Thị
+2 SURN Bé
+1 SEX F
+1 BIRT
+2 DATE 1995
+1 FAMS @F329@
+1 FAMC @F268@
+0 @I951@ INDI
+1 NAME Nguyễn Huy /Bình/
+2 GIVN Nguyễn Huy
+2 SURN Bình
+1 SEX M
+1 BIRT
+2 DATE 1995
+1 FAMS @F329@
+0 @I952@ INDI
+1 NAME Trần Thị Bích /Hạ/
+2 GIVN Trần Thị Bích
+2 SURN Hạ
+1 SEX F
+1 BIRT
+2 DATE 1966
+1 FAMS @F193@
+0 @I953@ INDI
+1 NAME Phan Huy /Hoàng/
+2 GIVN Phan Huy
+2 SURN Hoàng
+1 SEX M
+1 BIRT
+2 DATE 1995
+1 FAMS @F330@
+1 FAMC @F193@
+0 @I954@ INDI
+1 NAME Cao Huỳnh Như /Ngọc/
+2 GIVN Cao Huỳnh Như
+2 SURN Ngọc
+1 SEX F
+1 BIRT
+2 DATE 1999
+1 FAMS @F330@
+0 @I955@ INDI
+1 NAME Phan Huy /Khôi/
+2 GIVN Phan Huy
+2 SURN Khôi
+1 SEX M
+1 BIRT
+2 DATE 2024
+1 FAMC @F330@
+0 @I956@ INDI
+1 NAME Nguyễn Thị Hồng /Vân/
+2 GIVN Nguyễn Thị Hồng
+2 SURN Vân
+1 SEX F
+1 BIRT
+2 DATE 1968
+1 FAMS @F191@
+0 @I957@ INDI
+1 NAME Phan Thị Linh /Trang/
+2 GIVN Phan Thị Linh
+2 SURN Trang
+1 SEX F
+1 BIRT
+2 DATE 2001
+1 FAMC @F191@
+0 @I958@ INDI
+1 NAME Phan Thị Thùy /Linh/
+2 GIVN Phan Thị Thùy
+2 SURN Linh
+1 SEX F
+1 BIRT
+2 DATE 2001
+1 FAMC @F191@
+0 @I959@ INDI
+1 NAME Nguyễn Thị /Phượng/
+2 GIVN Nguyễn Thị
+2 SURN Phượng
+1 SEX F
+1 BIRT
+2 DATE 1981
+1 FAMS @F192@
+0 @I960@ INDI
+1 NAME Phan Ngọc Ánh /Dương/
+2 GIVN Phan Ngọc Ánh
+2 SURN Dương
+1 SEX M
+1 BIRT
+2 DATE 2008
+1 FAMC @F192@
+0 @I961@ INDI
+1 NAME Phan Ngọc Gia /Bảo/
+2 GIVN Phan Ngọc Gia
+2 SURN Bảo
+1 SEX M
+1 BIRT
+2 DATE 2018
+1 FAMC @F192@
+0 @I962@ INDI
+1 NAME Phan Thanh /Hải/
+2 GIVN Phan Thanh
+2 SURN Hải
+1 SEX M
+1 BIRT
+2 DATE 1970
+1 FAMS @F331@
+1 FAMC @F89@
+0 @I963@ INDI
+1 NAME Nguyễn Thị /Hương/
+2 GIVN Nguyễn Thị
+2 SURN Hương
+1 SEX F
+1 BIRT
+2 DATE 1976
+1 FAMS @F331@
+0 @I964@ INDI
+1 NAME Phan Thị Thanh /Thủy/
+2 GIVN Phan Thị Thanh
+2 SURN Thủy
+1 SEX F
+1 BIRT
+2 DATE 2001
+1 FAMC @F331@
+0 @I965@ INDI
+1 NAME Phan Thanh /Hoài/
+2 GIVN Phan Thanh
+2 SURN Hoài
+1 SEX M
+1 BIRT
+2 DATE 2008
+1 FAMC @F331@
+0 @I966@ INDI
+1 NAME Phan Mạnh /Hùng/
+2 GIVN Phan Mạnh
+2 SURN Hùng
+1 SEX M
+1 BIRT
+2 DATE 2010
+1 FAMC @F331@
+0 @I967@ INDI
+1 NAME Trịnh Huyền /Anh/
+2 GIVN Trịnh Huyền
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 1974
+1 FAMS @F332@
+1 FAMC @F263@
+0 @I968@ INDI
+1 NAME Nguyễn Hồng /Sơn/
+2 GIVN Nguyễn Hồng
+2 SURN Sơn
+1 SEX M
+1 BIRT
+2 DATE 1975
+1 FAMS @F332@
+0 @I969@ INDI
+1 NAME Trịnh Quang /Minh/
+2 GIVN Trịnh Quang
+2 SURN Minh
+1 SEX M
+1 BIRT
+2 DATE 1976
+1 FAMS @F333@
+1 FAMC @F263@
+0 @I970@ INDI
+1 NAME Trần Uyên /Tuyết/
+2 GIVN Trần Uyên
+2 SURN Tuyết
+1 SEX F
+1 BIRT
+2 DATE 1978
+1 FAMS @F333@
+0 @I971@ INDI
+1 NAME Lê Thị /Sáu/
+2 GIVN Lê Thị
+2 SURN Sáu
+2 _MARNM Sáu
+1 SEX F
+1 BIRT
+2 DATE 1953
+1 NOTE Bio notes: Tái giá
+1 FAMS @F176@
+0 @I972@ INDI
+1 NAME Lương Văn /Lực/
+2 GIVN Lương Văn
+2 SURN Lực
+1 SEX M
+1 BIRT
+2 DATE 1979
+1 FAMS @F302@
+0 @I973@ INDI
+1 NAME Nguyễn Thị /Mùi/
+2 GIVN Nguyễn Thị
+2 SURN Mùi
+1 SEX F
+1 BIRT
+2 DATE 1954
+1 FAMS @F177@
+0 @I974@ INDI
+1 NAME Phạm Thị /Đường/
+2 GIVN Phạm Thị
+2 SURN Đường
+1 SEX F
+1 BIRT
+2 DATE 1984
+1 FAMS @F304@
+0 @I975@ INDI
+1 NAME Phan Hải /Anh/
+2 GIVN Phan Hải
+2 SURN Anh
+1 SEX M
+1 BIRT
+2 DATE 2016
+1 FAMC @F304@
+0 @I976@ INDI
+1 NAME Phan Hồng /Sơn/
+2 GIVN Phan Hồng
+2 SURN Sơn
+1 SEX M
+1 BIRT
+2 DATE 2019
+1 FAMC @F304@
+0 @I977@ INDI
+1 NAME Phan Thanh /Tuấn/
+2 GIVN Phan Thanh
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 2023
+1 FAMC @F304@
+0 @I978@ INDI
+1 NAME Trần Thị /Duyên/
+2 GIVN Trần Thị
+2 SURN Duyên
+1 SEX F
+1 BIRT
+2 DATE 1990
+1 FAMS @F305@
+0 @I979@ INDI
+1 NAME Phan Trần Hà /Phương/
+2 GIVN Phan Trần Hà
+2 SURN Phương
+1 SEX F
+1 BIRT
+2 DATE 2016
+1 FAMC @F305@
+0 @I980@ INDI
+1 NAME Phan Trần Hải /Đăng/
+2 GIVN Phan Trần Hải
+2 SURN Đăng
+1 SEX M
+1 BIRT
+2 DATE 2020
+1 FAMC @F305@
+0 @I981@ INDI
+1 NAME Nguyễn Văn /Ngọc/
+2 GIVN Nguyễn Văn
+2 SURN Ngọc
+1 SEX M
+1 BIRT
+2 DATE 1988
+1 FAMS @F306@
+0 @I982@ INDI
+1 NAME Lê Anh /Tố/
+2 GIVN Lê Anh
+2 SURN Tố
+1 SEX M
+1 FAMS @F178@
+0 @I983@ INDI
+1 NAME Trần Đình /Duyệt/
+2 GIVN Trần Đình
+2 SURN Duyệt
+1 SEX M
+1 FAMS @F179@
+0 @I984@ INDI
+1 NAME Nguyễn Văn /Phúc/
+2 GIVN Nguyễn Văn
+2 SURN Phúc
+1 SEX M
+1 BIRT
+2 DATE 1990
+1 FAMS @F308@
+0 @I985@ INDI
+1 NAME Lê Duy /Tân/
+2 GIVN Lê Duy
+2 SURN Tân
+1 SEX M
+1 BIRT
+2 DATE 1988
+1 FAMS @F307@
+0 @I986@ INDI
+1 NAME Phan Gia /Hân/
+2 GIVN Phan Gia
+2 SURN Hân
+1 SEX F
+1 BIRT
+2 DATE 2025
+1 FAMC @F307@
+0 @I987@ INDI
+1 NAME Nguyễn Văn /Cường/
+2 GIVN Nguyễn Văn
+2 SURN Cường
+1 SEX M
+1 BIRT
+2 DATE 1993
+1 FAMS @F309@
+0 @I988@ INDI
+1 NAME Nguyễn Văn /Duyệt/
+2 GIVN Nguyễn Văn
+2 SURN Duyệt
+1 SEX M
+1 FAMS @F181@
+0 @I989@ INDI
+1 NAME Trần Văn /Sen/
+2 GIVN Trần Văn
+2 SURN Sen
+1 SEX M
+1 FAMS @F182@
+0 @I990@ INDI
+1 NAME Lê Thị /Giang/
+2 GIVN Lê Thị
+2 SURN Giang
+1 SEX F
+1 BIRT
+2 DATE 1996
+1 FAMS @F310@
+0 @I991@ INDI
+1 NAME Phan  Lê Tú /Anh/
+2 GIVN Phan  Lê Tú
+2 SURN Anh
+1 SEX F
+1 BIRT
+2 DATE 2018
+1 FAMC @F310@
+0 @I992@ INDI
+1 NAME Phan Lê Minh /Khôi/
+2 GIVN Phan Lê Minh
+2 SURN Khôi
+1 SEX M
+1 BIRT
+2 DATE 2024
+1 FAMC @F310@
+0 @I993@ INDI
+1 NAME Võ Xuân /Thủy/
+2 GIVN Võ Xuân
+2 SURN Thủy
+1 SEX M
+1 BIRT
+2 DATE 1987
+1 FAMS @F311@
+0 @I994@ INDI
+1 NAME Phan Thị /Duyện/
+2 GIVN Phan Thị
+2 SURN Duyện
+1 SEX F
+1 DEAT Y
+1 FAMC @F51@
+0 @I995@ INDI
+1 NAME Phan Thị /Huy/
+2 GIVN Phan Thị
+2 SURN Huy
+1 SEX F
+1 DEAT Y
+1 FAMC @F51@
+0 @I996@ INDI
+1 NAME Nguyễn Văn /Thuận/
+2 GIVN Nguyễn Văn
+2 SURN Thuận
+1 SEX M
+1 BIRT
+2 DATE 1958
+1 FAMS @F185@
+0 @I997@ INDI
+1 NAME Phùng Văn /Ngọc/
+2 GIVN Phùng Văn
+2 SURN Ngọc
+1 SEX M
+1 BIRT
+2 DATE 1967
+1 FAMS @F184@
+0 @I998@ INDI
+1 NAME Phạm Hồng /Sơn/
+2 GIVN Phạm Hồng
+2 SURN Sơn
+1 SEX M
+1 BIRT
+2 DATE 1958
+1 FAMS @F186@
+0 @I999@ INDI
+1 NAME Đinh Văn /Lĩnh/
+2 GIVN Đinh Văn
+2 SURN Lĩnh
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 FAMS @F188@
+0 @I1000@ INDI
+1 NAME Nguyễn Văn /Ánh/
+2 GIVN Nguyễn Văn
+2 SURN Ánh
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 FAMS @F187@
+0 @I1001@ INDI
+1 NAME Nguyễn Anh /Tuấn/
+2 GIVN Nguyễn Anh
+2 SURN Tuấn
+1 SEX M
+1 BIRT
+2 DATE 1978
+1 FAMS @F189@
+0 @I1002@ INDI
+1 NAME Nguyễn Trọng /Bảy/
+2 GIVN Nguyễn Trọng
+2 SURN Bảy
+1 SEX M
+1 BIRT
+2 DATE 1976
+1 FAMS @F190@
+0 @I1003@ INDI
+1 NAME Phan Quốc /Huy/
+2 GIVN Phan Quốc
+2 SURN Huy
+1 SEX M
+1 BIRT
+2 DATE 2018
+1 FAMC @F312@
+0 @I1004@ INDI
+1 NAME Nguyễn Quang /Anh/
+2 GIVN Nguyễn Quang
+2 SURN Anh
+1 SEX M
+1 BIRT
+2 DATE 1985
+1 FAMS @F313@
+0 @I1005@ INDI
+1 NAME Ngô Thị /Dung/
+2 GIVN Ngô Thị
+2 SURN Dung
+1 SEX F
+1 BIRT
+2 DATE 1998
+1 FAMS @F314@
+0 @I1006@ INDI
+1 NAME Phan Thiện /Nhân/
+2 GIVN Phan Thiện
+2 SURN Nhân
+1 SEX M
+1 BIRT
+2 DATE 2023
+1 FAMC @F314@
+0 @I1007@ INDI
+1 NAME Trần Ngọc /Chương/
+2 GIVN Trần Ngọc
+2 SURN Chương
+1 SEX M
+1 BIRT
+2 DATE 1973
+1 FAMS @F200@
+0 @F1@ FAM
+1 HUSB @I63@
+1 CHIL @I1@
+1 CHIL @I69@
+1 CHIL @I70@
+0 @F2@ FAM
+1 HUSB @I2@
+1 CHIL @I3@
+0 @F3@ FAM
+1 HUSB @I3@
+1 CHIL @I4@
+0 @F4@ FAM
+1 HUSB @I4@
+1 CHIL @I5@
+0 @F5@ FAM
+1 HUSB @I5@
+1 CHIL @I6@
+0 @F7@ FAM
+1 HUSB @I6@
+1 CHIL @I7@
+0 @F13@ FAM
+1 HUSB @I16@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I29@
+1 CHIL @I30@
+1 CHIL @I31@
+0 @F15@ FAM
+1 HUSB @I18@
+1 CHIL @I32@
+1 CHIL @I34@
+0 @F21@ FAM
+1 HUSB @I34@
+1 CHIL @I46@
+0 @F28@ FAM
+1 HUSB @I61@
+1 CHIL @I65@
+1 CHIL @I67@
+1 CHIL @I68@
+0 @F30@ FAM
+1 HUSB @I68@
+1 CHIL @I75@
+1 CHIL @I76@
+0 @F31@ FAM
+1 HUSB @I70@
+1 CHIL @I77@
+1 CHIL @I78@
+0 @F33@ FAM
+1 HUSB @I71@
+1 CHIL @I79@
+1 CHIL @I81@
+1 CHIL @I83@
+0 @F36@ FAM
+1 HUSB @I75@
+1 CHIL @I85@
+1 CHIL @I86@
+0 @F38@ FAM
+1 HUSB @I76@
+1 CHIL @I87@
+1 CHIL @I89@
+0 @F39@ FAM
+1 HUSB @I78@
+1 CHIL @I90@
+1 CHIL @I91@
+1 CHIL @I92@
+1 CHIL @I93@
+1 CHIL @I94@
+0 @F50@ FAM
+1 HUSB @I85@
+1 CHIL @I112@
+1 CHIL @I113@
+1 CHIL @I115@
+0 @F52@ FAM
+1 HUSB @I86@
+1 CHIL @I116@
+0 @F55@ FAM
+1 HUSB @I89@
+1 CHIL @I119@
+0 @F56@ FAM
+1 HUSB @I92@
+1 CHIL @I121@
+1 CHIL @I122@
+0 @F57@ FAM
+1 HUSB @I93@
+1 CHIL @I123@
+0 @F101@ FAM
+1 HUSB @I122@
+1 CHIL @I211@
+1 CHIL @I213@
+1 CHIL @I685@
+1 CHIL @I686@
+1 CHIL @I687@
+1 CHIL @I688@
+1 CHIL @I689@
+0 @F150@ FAM
+1 HUSB @I156@
+1 CHIL @I310@
+0 @F163@ FAM
+1 HUSB @I172@
+1 CHIL @I343@
+1 CHIL @I344@
+1 CHIL @I345@
+1 CHIL @I346@
+1 CHIL @I347@
+1 CHIL @I349@
+1 CHIL @I350@
+0 @F166@ FAM
+1 HUSB @I174@
+1 CHIL @I351@
+0 @F171@ FAM
+1 HUSB @I180@
+1 CHIL @I359@
+1 CHIL @I361@
+0 @F172@ FAM
+1 HUSB @I185@
+1 CHIL @I362@
+1 CHIL @I363@
+1 CHIL @I365@
+1 CHIL @I367@
+1 CHIL @I368@
+1 CHIL @I369@
+1 CHIL @I370@
+1 CHIL @I371@
+1 CHIL @I373@
+1 CHIL @I374@
+0 @F245@ FAM
+1 HUSB @I476@
+1 CHIL @I569@
+0 @F246@ FAM
+1 HUSB @I485@
+1 CHIL @I572@
+0 @F250@ FAM
+1 HUSB @I540@
+1 CHIL @I596@
+1 CHIL @I598@
+0 @F251@ FAM
+1 HUSB @I544@
+1 CHIL @I600@
+1 CHIL @I601@
+0 @F252@ FAM
+1 HUSB @I547@
+1 CHIL @I602@
+1 CHIL @I603@
+1 CHIL @I695@
+0 @F253@ FAM
+1 HUSB @I551@
+1 CHIL @I604@
+1 CHIL @I694@
+0 @F254@ FAM
+1 HUSB @I561@
+1 CHIL @I605@
+1 CHIL @I606@
+0 @F255@ FAM
+1 HUSB @I600@
+1 CHIL @I608@
+0 @F261@ FAM
+1 WIFE @I178@
+1 CHIL @I636@
+0 @F266@ FAM
+1 HUSB @I846@
+1 CHIL @I662@
+1 CHIL @I664@
+0 @F267@ FAM
+1 HUSB @I577@
+1 CHIL @I666@
+1 CHIL @I667@
+0 @F272@ FAM
+1 HUSB @I94@
+1 CHIL @I679@
+1 CHIL @I680@
+1 CHIL @I681@
+1 CHIL @I682@
+1 CHIL @I683@
+0 @F273@ FAM
+1 HUSB @I683@
+1 CHIL @I684@
+0 @F274@ FAM
+1 HUSB @I541@
+1 CHIL @I696@
+0 @F275@ FAM
+1 HUSB @I548@
+1 CHIL @I697@
+1 CHIL @I698@
+0 @F303@ FAM
+1 HUSB @I375@
+1 CHIL @I842@
+0 @F325@ FAM
+1 WIFE @I355@
+1 CHIL @I937@
+1 CHIL @I938@
+0 @F6@ FAM
+1 HUSB @I7@
+1 WIFE @I8@
+1 CHIL @I9@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F8@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I12@
+1 CHIL @I14@
+1 CHIL @I16@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F9@ FAM
+1 HUSB @I9@
+1 WIFE @I11@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F10@ FAM
+1 HUSB @I12@
+1 WIFE @I13@
+1 CHIL @I17@
+1 CHIL @I18@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F11@ FAM
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I19@
+1 CHIL @I20@
+1 CHIL @I21@
+1 CHIL @I22@
+1 CHIL @I23@
+1 CHIL @I24@
+1 CHIL @I25@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F12@ FAM
+1 HUSB @I25@
+1 WIFE @I26@
+1 CHIL @I35@
+1 CHIL @I36@
+1 CHIL @I38@
+1 CHIL @I39@
+1 CHIL @I40@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F14@ FAM
+1 HUSB @I32@
+1 WIFE @I33@
+1 CHIL @I41@
+1 CHIL @I44@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F16@ FAM
+1 HUSB @I36@
+1 WIFE @I37@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F17@ FAM
+1 HUSB @I41@
+1 WIFE @I42@
+1 CHIL @I48@
+1 CHIL @I49@
+1 CHIL @I51@
+1 CHIL @I52@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F18@ FAM
+1 HUSB @I41@
+1 WIFE @I43@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F19@ FAM
+1 HUSB @I44@
+1 WIFE @I45@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F20@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I53@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F22@ FAM
+1 HUSB @I49@
+1 WIFE @I50@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F23@ FAM
+1 HUSB @I53@
+1 WIFE @I54@
+1 CHIL @I55@
+1 CHIL @I57@
+1 CHIL @I58@
+1 CHIL @I59@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F24@ FAM
+1 HUSB @I55@
+1 WIFE @I56@
+1 CHIL @I61@
+1 CHIL @I62@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F25@ FAM
+1 HUSB @I59@
+1 WIFE @I60@
+1 CHIL @I63@
+1 CHIL @I64@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F26@ FAM
+1 HUSB @I65@
+1 WIFE @I66@
+1 CHIL @I71@
+1 CHIL @I72@
+1 CHIL @I73@
+1 CHIL @I74@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F27@ FAM
+1 HUSB @I65@
+1 WIFE @I931@
+1 _CURRENT Y
+1 _PRIMARY N
+0 @F29@ FAM
+1 HUSB @I71@
+1 WIFE @I932@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F32@ FAM
+1 HUSB @I79@
+1 WIFE @I80@
+1 CHIL @I95@
+1 CHIL @I97@
+1 CHIL @I99@
+1 CHIL @I101@
+1 CHIL @I102@
+1 CHIL @I104@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F34@ FAM
+1 HUSB @I81@
+1 WIFE @I82@
+1 CHIL @I106@
+1 CHIL @I108@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F35@ FAM
+1 HUSB @I83@
+1 WIFE @I84@
+1 CHIL @I110@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F37@ FAM
+1 HUSB @I87@
+1 WIFE @I88@
+1 CHIL @I117@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F40@ FAM
+1 HUSB @I95@
+1 WIFE @I96@
+1 CHIL @I124@
+1 CHIL @I126@
+1 CHIL @I127@
+1 CHIL @I128@
+1 CHIL @I129@
+1 CHIL @I131@
+1 CHIL @I133@
+1 CHIL @I135@
+1 CHIL @I137@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F41@ FAM
+1 HUSB @I95@
+1 WIFE @I875@
+1 CHIL @I139@
+1 CHIL @I141@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F42@ FAM
+1 HUSB @I97@
+1 WIFE @I98@
+1 CHIL @I143@
+1 CHIL @I144@
+1 CHIL @I146@
+1 CHIL @I148@
+1 CHIL @I149@
+1 CHIL @I150@
+1 CHIL @I152@
+1 CHIL @I154@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F43@ FAM
+1 HUSB @I99@
+1 WIFE @I100@
+1 CHIL @I156@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F44@ FAM
+1 HUSB @I102@
+1 WIFE @I103@
+1 CHIL @I157@
+1 CHIL @I158@
+1 CHIL @I159@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F45@ FAM
+1 HUSB @I104@
+1 WIFE @I105@
+1 CHIL @I161@
+1 CHIL @I163@
+1 CHIL @I165@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F46@ FAM
+1 HUSB @I106@
+1 WIFE @I107@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F47@ FAM
+1 HUSB @I106@
+1 WIFE @I876@
+1 CHIL @I167@
+1 CHIL @I169@
+1 CHIL @I170@
+1 CHIL @I172@
+1 CHIL @I174@
+1 CHIL @I176@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F48@ FAM
+1 HUSB @I108@
+1 WIFE @I109@
+1 CHIL @I177@
+1 CHIL @I179@
+1 CHIL @I180@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F49@ FAM
+1 HUSB @I110@
+1 WIFE @I111@
+1 CHIL @I182@
+1 CHIL @I183@
+1 CHIL @I184@
+1 CHIL @I185@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F51@ FAM
+1 HUSB @I113@
+1 WIFE @I114@
+1 CHIL @I187@
+1 CHIL @I189@
+1 CHIL @I191@
+1 CHIL @I994@
+1 CHIL @I995@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F53@ FAM
+1 HUSB @I117@
+1 WIFE @I118@
+1 CHIL @I193@
+1 CHIL @I195@
+1 CHIL @I197@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F54@ FAM
+1 HUSB @I119@
+1 WIFE @I120@
+1 CHIL @I199@
+1 CHIL @I201@
+1 CHIL @I203@
+1 CHIL @I205@
+1 CHIL @I207@
+1 CHIL @I209@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F58@ FAM
+1 HUSB @I124@
+1 WIFE @I125@
+1 CHIL @I215@
+1 CHIL @I217@
+1 CHIL @I219@
+1 CHIL @I221@
+1 CHIL @I223@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F59@ FAM
+1 HUSB @I124@
+1 WIFE @I874@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F60@ FAM
+1 HUSB @I129@
+1 WIFE @I130@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F61@ FAM
+1 HUSB @I129@
+1 WIFE @I599@
+1 CHIL @I225@
+1 CHIL @I227@
+1 CHIL @I229@
+1 CHIL @I231@
+1 CHIL @I233@
+1 CHIL @I235@
+1 CHIL @I237@
+1 CHIL @I239@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F62@ FAM
+1 HUSB @I131@
+1 WIFE @I132@
+1 CHIL @I240@
+1 CHIL @I241@
+1 CHIL @I243@
+1 CHIL @I245@
+1 CHIL @I247@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F63@ FAM
+1 HUSB @I133@
+1 WIFE @I134@
+1 CHIL @I258@
+1 MARR
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F64@ FAM
+1 HUSB @I133@
+1 WIFE @I629@
+1 CHIL @I249@
+1 CHIL @I251@
+1 CHIL @I253@
+1 CHIL @I254@
+1 CHIL @I256@
+1 CHIL @I668@
+1 CHIL @I878@
+1 MARR
+1 EVEN
+2 TYPE Ending
+1 _CURRENT N
+1 _PRIMARY N
+0 @F65@ FAM
+1 HUSB @I133@
+1 _CURRENT Y
+1 _PRIMARY N
+0 @F66@ FAM
+1 HUSB @I135@
+1 WIFE @I136@
+1 CHIL @I260@
+1 CHIL @I262@
+1 CHIL @I651@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F67@ FAM
+1 HUSB @I137@
+1 WIFE @I138@
+1 CHIL @I264@
+1 CHIL @I265@
+1 CHIL @I267@
+1 CHIL @I269@
+1 CHIL @I745@
+1 CHIL @I881@
+1 CHIL @I882@
+1 CHIL @I883@
+1 CHIL @I884@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F68@ FAM
+1 HUSB @I139@
+1 WIFE @I140@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F69@ FAM
+1 HUSB @I139@
+1 WIFE @I634@
+1 CHIL @I271@
+1 CHIL @I272@
+1 CHIL @I274@
+1 CHIL @I276@
+1 CHIL @I277@
+1 CHIL @I279@
+1 CHIL @I281@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F70@ FAM
+1 HUSB @I141@
+1 WIFE @I142@
+1 CHIL @I283@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F71@ FAM
+1 HUSB @I144@
+1 WIFE @I145@
+1 CHIL @I285@
+1 CHIL @I287@
+1 CHIL @I289@
+1 CHIL @I291@
+1 CHIL @I293@
+1 CHIL @I296@
+1 CHIL @I298@
+1 CHIL @I300@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F72@ FAM
+1 HUSB @I147@
+1 WIFE @I146@
+1 CHIL @I301@
+1 CHIL @I302@
+1 CHIL @I303@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F73@ FAM
+1 HUSB @I151@
+1 WIFE @I150@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F74@ FAM
+1 HUSB @I152@
+1 WIFE @I153@
+1 CHIL @I304@
+1 CHIL @I306@
+1 CHIL @I308@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F75@ FAM
+1 HUSB @I155@
+1 WIFE @I154@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F76@ FAM
+1 HUSB @I159@
+1 WIFE @I160@
+1 CHIL @I312@
+1 CHIL @I314@
+1 CHIL @I316@
+1 CHIL @I317@
+1 CHIL @I319@
+1 CHIL @I320@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F77@ FAM
+1 HUSB @I161@
+1 WIFE @I162@
+1 CHIL @I322@
+1 CHIL @I324@
+1 CHIL @I326@
+1 CHIL @I328@
+1 CHIL @I329@
+1 CHIL @I330@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F78@ FAM
+1 HUSB @I163@
+1 WIFE @I164@
+1 CHIL @I331@
+1 CHIL @I332@
+1 CHIL @I816@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F79@ FAM
+1 HUSB @I165@
+1 WIFE @I166@
+1 CHIL @I333@
+1 CHIL @I335@
+1 CHIL @I337@
+1 CHIL @I339@
+1 CHIL @I341@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F80@ FAM
+1 HUSB @I168@
+1 WIFE @I167@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F81@ FAM
+1 HUSB @I171@
+1 WIFE @I170@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F82@ FAM
+1 HUSB @I172@
+1 WIFE @I173@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F83@ FAM
+1 HUSB @I174@
+1 WIFE @I175@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F84@ FAM
+1 HUSB @I177@
+1 WIFE @I178@
+1 CHIL @I353@
+1 CHIL @I355@
+1 CHIL @I356@
+1 CHIL @I357@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F85@ FAM
+1 HUSB @I180@
+1 WIFE @I181@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F86@ FAM
+1 HUSB @I185@
+1 WIFE @I186@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F87@ FAM
+1 HUSB @I187@
+1 WIFE @I188@
+1 CHIL @I375@
+1 CHIL @I376@
+1 CHIL @I377@
+1 CHIL @I378@
+1 CHIL @I379@
+1 CHIL @I381@
+1 CHIL @I382@
+1 CHIL @I383@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F88@ FAM
+1 HUSB @I189@
+1 WIFE @I190@
+1 CHIL @I385@
+1 CHIL @I386@
+1 CHIL @I387@
+1 CHIL @I388@
+1 CHIL @I389@
+1 CHIL @I390@
+1 CHIL @I391@
+1 CHIL @I392@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F89@ FAM
+1 HUSB @I191@
+1 WIFE @I192@
+1 CHIL @I393@
+1 CHIL @I394@
+1 CHIL @I395@
+1 CHIL @I962@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F90@ FAM
+1 HUSB @I193@
+1 WIFE @I194@
+1 CHIL @I396@
+1 CHIL @I398@
+1 CHIL @I400@
+1 CHIL @I402@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F91@ FAM
+1 HUSB @I195@
+1 WIFE @I196@
+1 CHIL @I403@
+1 CHIL @I405@
+1 CHIL @I407@
+1 CHIL @I409@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F92@ FAM
+1 HUSB @I197@
+1 WIFE @I198@
+1 CHIL @I410@
+1 CHIL @I411@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F93@ FAM
+1 HUSB @I199@
+1 WIFE @I200@
+1 CHIL @I412@
+1 CHIL @I413@
+1 CHIL @I415@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F94@ FAM
+1 HUSB @I199@
+1 WIFE @I877@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F95@ FAM
+1 HUSB @I201@
+1 WIFE @I202@
+1 CHIL @I416@
+1 CHIL @I418@
+1 CHIL @I419@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F96@ FAM
+1 HUSB @I203@
+1 WIFE @I204@
+1 CHIL @I420@
+1 CHIL @I422@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F97@ FAM
+1 HUSB @I205@
+1 WIFE @I206@
+1 CHIL @I423@
+1 CHIL @I424@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F98@ FAM
+1 HUSB @I207@
+1 WIFE @I208@
+1 CHIL @I425@
+1 CHIL @I426@
+1 CHIL @I427@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F99@ FAM
+1 HUSB @I209@
+1 WIFE @I210@
+1 CHIL @I428@
+1 CHIL @I430@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F100@ FAM
+1 HUSB @I211@
+1 WIFE @I212@
+1 CHIL @I431@
+1 CHIL @I433@
+1 CHIL @I434@
+1 CHIL @I436@
+1 CHIL @I438@
+1 CHIL @I439@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F102@ FAM
+1 HUSB @I213@
+1 WIFE @I214@
+1 CHIL @I440@
+1 CHIL @I441@
+1 CHIL @I442@
+1 CHIL @I690@
+1 CHIL @I691@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F103@ FAM
+1 HUSB @I213@
+1 WIFE @I542@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F104@ FAM
+1 HUSB @I216@
+1 WIFE @I215@
+1 CHIL @I899@
+1 CHIL @I901@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F105@ FAM
+1 HUSB @I218@
+1 WIFE @I217@
+1 CHIL @I903@
+1 CHIL @I904@
+1 CHIL @I905@
+1 CHIL @I906@
+1 CHIL @I907@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F106@ FAM
+1 HUSB @I219@
+1 WIFE @I220@
+1 CHIL @I443@
+1 CHIL @I445@
+1 CHIL @I447@
+1 CHIL @I449@
+1 CHIL @I451@
+1 CHIL @I453@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F107@ FAM
+1 HUSB @I221@
+1 WIFE @I222@
+1 CHIL @I455@
+1 CHIL @I457@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F108@ FAM
+1 HUSB @I223@
+1 WIFE @I224@
+1 CHIL @I458@
+1 CHIL @I460@
+1 CHIL @I462@
+1 CHIL @I463@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F109@ FAM
+1 HUSB @I225@
+1 WIFE @I226@
+1 CHIL @I464@
+1 CHIL @I465@
+1 CHIL @I467@
+1 CHIL @I469@
+1 CHIL @I471@
+1 CHIL @I473@
+1 CHIL @I474@
+1 CHIL @I475@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F110@ FAM
+1 HUSB @I227@
+1 WIFE @I228@
+1 CHIL @I476@
+1 CHIL @I477@
+1 CHIL @I479@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F111@ FAM
+1 HUSB @I227@
+1 WIFE @I646@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F112@ FAM
+1 HUSB @I230@
+1 WIFE @I229@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F113@ FAM
+1 HUSB @I231@
+1 WIFE @I232@
+1 CHIL @I480@
+1 CHIL @I481@
+1 CHIL @I482@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F114@ FAM
+1 HUSB @I233@
+1 WIFE @I234@
+1 CHIL @I483@
+1 CHIL @I484@
+1 CHIL @I485@
+1 CHIL @I486@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F115@ FAM
+1 HUSB @I235@
+1 WIFE @I236@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F116@ FAM
+1 HUSB @I237@
+1 WIFE @I238@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F117@ FAM
+1 HUSB @I237@
+1 WIFE @I649@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F118@ FAM
+1 HUSB @I242@
+1 WIFE @I241@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F119@ FAM
+1 HUSB @I243@
+1 WIFE @I244@
+1 CHIL @I487@
+1 CHIL @I488@
+1 CHIL @I490@
+1 CHIL @I492@
+1 CHIL @I494@
+1 CHIL @I495@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F120@ FAM
+1 HUSB @I246@
+1 WIFE @I245@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F121@ FAM
+1 HUSB @I247@
+1 WIFE @I248@
+1 CHIL @I496@
+1 CHIL @I497@
+1 CHIL @I498@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F122@ FAM
+1 HUSB @I249@
+1 WIFE @I250@
+1 CHIL @I701@
+1 CHIL @I703@
+1 CHIL @I705@
+1 CHIL @I707@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F123@ FAM
+1 HUSB @I251@
+1 WIFE @I252@
+1 CHIL @I716@
+1 CHIL @I718@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F124@ FAM
+1 HUSB @I254@
+1 WIFE @I255@
+1 CHIL @I673@
+1 CHIL @I724@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F125@ FAM
+1 HUSB @I256@
+1 WIFE @I257@
+1 CHIL @I725@
+1 CHIL @I727@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F126@ FAM
+1 HUSB @I259@
+1 WIFE @I258@
+1 CHIL @I916@
+1 CHIL @I918@
+1 CHIL @I920@
+1 CHIL @I922@
+1 CHIL @I924@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F127@ FAM
+1 HUSB @I260@
+1 WIFE @I261@
+1 CHIL @I730@
+1 CHIL @I731@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F128@ FAM
+1 HUSB @I262@
+1 WIFE @I263@
+1 CHIL @I735@
+1 CHIL @I736@
+1 CHIL @I738@
+1 CHIL @I739@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F129@ FAM
+1 HUSB @I266@
+1 WIFE @I265@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F130@ FAM
+1 HUSB @I268@
+1 WIFE @I267@
+1 CHIL @I898@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F131@ FAM
+1 HUSB @I269@
+1 WIFE @I270@
+1 CHIL @I653@
+1 CHIL @I655@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F132@ FAM
+1 HUSB @I272@
+1 WIFE @I273@
+1 CHIL @I640@
+1 CHIL @I755@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F133@ FAM
+1 HUSB @I274@
+1 WIFE @I275@
+1 CHIL @I756@
+1 CHIL @I758@
+1 CHIL @I759@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F134@ FAM
+1 HUSB @I277@
+1 WIFE @I278@
+1 CHIL @I761@
+1 CHIL @I762@
+1 CHIL @I763@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F135@ FAM
+1 HUSB @I279@
+1 WIFE @I280@
+1 CHIL @I764@
+1 CHIL @I766@
+1 CHIL @I767@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F136@ FAM
+1 HUSB @I281@
+1 WIFE @I282@
+1 CHIL @I769@
+1 CHIL @I771@
+1 CHIL @I773@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F137@ FAM
+1 HUSB @I283@
+1 WIFE @I284@
+1 CHIL @I774@
+1 CHIL @I775@
+1 CHIL @I777@
+1 CHIL @I778@
+1 CHIL @I779@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F138@ FAM
+1 HUSB @I285@
+1 WIFE @I286@
+1 CHIL @I500@
+1 CHIL @I501@
+1 CHIL @I502@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F139@ FAM
+1 HUSB @I287@
+1 WIFE @I288@
+1 CHIL @I503@
+1 CHIL @I505@
+1 CHIL @I507@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F140@ FAM
+1 HUSB @I289@
+1 WIFE @I290@
+1 CHIL @I509@
+1 CHIL @I511@
+1 CHIL @I513@
+1 CHIL @I515@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F141@ FAM
+1 HUSB @I291@
+1 WIFE @I292@
+1 CHIL @I517@
+1 CHIL @I520@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F142@ FAM
+1 HUSB @I293@
+1 WIFE @I294@
+1 CHIL @I522@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F143@ FAM
+1 HUSB @I293@
+1 WIFE @I295@
+1 CHIL @I523@
+1 CHIL @I524@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F144@ FAM
+1 HUSB @I296@
+1 WIFE @I297@
+1 CHIL @I525@
+1 CHIL @I526@
+1 CHIL @I528@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F145@ FAM
+1 HUSB @I299@
+1 WIFE @I298@
+1 CHIL @I530@
+1 CHIL @I531@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F146@ FAM
+1 HUSB @I305@
+1 WIFE @I304@
+1 CHIL @I532@
+1 CHIL @I534@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F147@ FAM
+1 HUSB @I306@
+1 WIFE @I307@
+1 CHIL @I536@
+1 CHIL @I537@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F148@ FAM
+1 HUSB @I308@
+1 WIFE @I309@
+1 CHIL @I538@
+1 CHIL @I539@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F149@ FAM
+1 HUSB @I310@
+1 WIFE @I311@
+1 CHIL @I780@
+1 CHIL @I782@
+1 CHIL @I784@
+1 CHIL @I785@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F151@ FAM
+1 HUSB @I312@
+1 WIFE @I313@
+1 CHIL @I797@
+1 CHIL @I798@
+1 CHIL @I800@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F152@ FAM
+1 HUSB @I315@
+1 WIFE @I314@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F153@ FAM
+1 HUSB @I318@
+1 WIFE @I317@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F154@ FAM
+1 HUSB @I321@
+1 WIFE @I320@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F155@ FAM
+1 HUSB @I322@
+1 WIFE @I323@
+1 CHIL @I801@
+1 CHIL @I803@
+1 CHIL @I805@
+1 CHIL @I806@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F156@ FAM
+1 HUSB @I324@
+1 WIFE @I325@
+1 CHIL @I808@
+1 CHIL @I809@
+1 CHIL @I810@
+1 CHIL @I811@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F157@ FAM
+1 HUSB @I326@
+1 WIFE @I327@
+1 CHIL @I677@
+1 CHIL @I812@
+1 CHIL @I813@
+1 CHIL @I815@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F158@ FAM
+1 HUSB @I334@
+1 WIFE @I333@
+1 CHIL @I912@
+1 CHIL @I913@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F159@ FAM
+1 HUSB @I336@
+1 WIFE @I335@
+1 CHIL @I914@
+1 CHIL @I915@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F160@ FAM
+1 HUSB @I338@
+1 WIFE @I337@
+1 CHIL @I908@
+1 CHIL @I909@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F161@ FAM
+1 HUSB @I339@
+1 WIFE @I340@
+1 CHIL @I670@
+1 CHIL @I819@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F162@ FAM
+1 HUSB @I342@
+1 WIFE @I341@
+1 CHIL @I910@
+1 CHIL @I911@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F164@ FAM
+1 HUSB @I347@
+1 WIFE @I348@
+1 CHIL @I820@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F165@ FAM
+1 HUSB @I351@
+1 WIFE @I352@
+1 CHIL @I821@
+1 CHIL @I822@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F167@ FAM
+1 HUSB @I353@
+1 WIFE @I354@
+1 CHIL @I823@
+1 CHIL @I825@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F168@ FAM
+1 HUSB @I939@
+1 WIFE @I356@
+1 CHIL @I940@
+1 CHIL @I941@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F169@ FAM
+1 HUSB @I357@
+1 WIFE @I358@
+1 CHIL @I828@
+1 CHIL @I829@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F170@ FAM
+1 HUSB @I359@
+1 WIFE @I360@
+1 CHIL @I830@
+1 CHIL @I831@
+1 CHIL @I832@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F173@ FAM
+1 HUSB @I363@
+1 WIFE @I364@
+1 CHIL @I659@
+1 CHIL @I833@
+1 CHIL @I835@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F174@ FAM
+1 HUSB @I365@
+1 WIFE @I366@
+1 CHIL @I838@
+1 CHIL @I839@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F175@ FAM
+1 HUSB @I371@
+1 WIFE @I372@
+1 CHIL @I840@
+1 CHIL @I841@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F176@ FAM
+1 HUSB @I375@
+1 WIFE @I971@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F177@ FAM
+1 HUSB @I376@
+1 WIFE @I973@
+1 CHIL @I843@
+1 CHIL @I844@
+1 CHIL @I845@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F178@ FAM
+1 HUSB @I982@
+1 WIFE @I377@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F179@ FAM
+1 HUSB @I983@
+1 WIFE @I378@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F180@ FAM
+1 HUSB @I379@
+1 WIFE @I380@
+1 CHIL @I846@
+1 CHIL @I847@
+1 CHIL @I848@
+1 CHIL @I849@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F181@ FAM
+1 HUSB @I988@
+1 WIFE @I381@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F182@ FAM
+1 HUSB @I989@
+1 WIFE @I382@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F183@ FAM
+1 HUSB @I383@
+1 WIFE @I384@
+1 CHIL @I850@
+1 CHIL @I851@
+1 CHIL @I852@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F184@ FAM
+1 HUSB @I997@
+1 WIFE @I385@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F185@ FAM
+1 HUSB @I996@
+1 WIFE @I386@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F186@ FAM
+1 HUSB @I998@
+1 WIFE @I387@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F187@ FAM
+1 HUSB @I1000@
+1 WIFE @I388@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F188@ FAM
+1 HUSB @I999@
+1 WIFE @I388@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F189@ FAM
+1 HUSB @I1001@
+1 WIFE @I390@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F190@ FAM
+1 HUSB @I1002@
+1 WIFE @I392@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F191@ FAM
+1 HUSB @I393@
+1 WIFE @I956@
+1 CHIL @I957@
+1 CHIL @I958@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F192@ FAM
+1 HUSB @I394@
+1 WIFE @I959@
+1 CHIL @I960@
+1 CHIL @I961@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F193@ FAM
+1 HUSB @I395@
+1 WIFE @I952@
+1 CHIL @I953@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F194@ FAM
+1 HUSB @I396@
+1 WIFE @I397@
+1 CHIL @I853@
+1 CHIL @I854@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F195@ FAM
+1 HUSB @I398@
+1 WIFE @I399@
+1 CHIL @I855@
+1 CHIL @I856@
+1 CHIL @I857@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F196@ FAM
+1 HUSB @I400@
+1 WIFE @I401@
+1 CHIL @I858@
+1 CHIL @I859@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F197@ FAM
+1 HUSB @I403@
+1 WIFE @I404@
+1 CHIL @I860@
+1 CHIL @I862@
+1 CHIL @I863@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F198@ FAM
+1 HUSB @I405@
+1 WIFE @I406@
+1 CHIL @I865@
+1 CHIL @I866@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F199@ FAM
+1 HUSB @I407@
+1 WIFE @I408@
+1 CHIL @I867@
+1 CHIL @I868@
+1 CHIL @I869@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F200@ FAM
+1 HUSB @I1007@
+1 WIFE @I409@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F201@ FAM
+1 HUSB @I413@
+1 WIFE @I414@
+1 CHIL @I870@
+1 CHIL @I871@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F202@ FAM
+1 HUSB @I416@
+1 WIFE @I417@
+1 CHIL @I872@
+1 CHIL @I873@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F203@ FAM
+1 HUSB @I420@
+1 WIFE @I421@
+1 CHIL @I879@
+1 CHIL @I880@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F204@ FAM
+1 HUSB @I428@
+1 WIFE @I429@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F205@ FAM
+1 HUSB @I431@
+1 WIFE @I432@
+1 CHIL @I540@
+1 CHIL @I541@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F206@ FAM
+1 HUSB @I431@
+1 WIFE @I638@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F207@ FAM
+1 HUSB @I434@
+1 WIFE @I435@
+1 CHIL @I543@
+1 CHIL @I544@
+1 CHIL @I546@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F208@ FAM
+1 HUSB @I436@
+1 WIFE @I437@
+1 CHIL @I547@
+1 CHIL @I548@
+1 CHIL @I549@
+1 CHIL @I550@
+1 CHIL @I551@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F209@ FAM
+1 HUSB @I444@
+1 WIFE @I443@
+1 CHIL @I889@
+1 CHIL @I891@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F210@ FAM
+1 HUSB @I446@
+1 WIFE @I445@
+1 CHIL @I893@
+1 CHIL @I894@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F211@ FAM
+1 HUSB @I448@
+1 WIFE @I447@
+1 CHIL @I895@
+1 CHIL @I896@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F212@ FAM
+1 HUSB @I449@
+1 WIFE @I450@
+1 CHIL @I553@
+1 CHIL @I554@
+1 CHIL @I555@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F213@ FAM
+1 HUSB @I451@
+1 WIFE @I452@
+1 CHIL @I671@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F214@ FAM
+1 HUSB @I454@
+1 WIFE @I453@
+1 CHIL @I887@
+1 CHIL @I888@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F215@ FAM
+1 HUSB @I455@
+1 WIFE @I456@
+1 CHIL @I556@
+1 CHIL @I557@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F216@ FAM
+1 HUSB @I458@
+1 WIFE @I459@
+1 CHIL @I558@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F217@ FAM
+1 HUSB @I460@
+1 WIFE @I461@
+1 CHIL @I559@
+1 CHIL @I560@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F218@ FAM
+1 HUSB @I465@
+1 WIFE @I466@
+1 CHIL @I561@
+1 CHIL @I562@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F219@ FAM
+1 HUSB @I467@
+1 WIFE @I468@
+1 CHIL @I563@
+1 CHIL @I564@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F220@ FAM
+1 HUSB @I469@
+1 WIFE @I470@
+1 CHIL @I565@
+1 CHIL @I566@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F221@ FAM
+1 HUSB @I471@
+1 WIFE @I472@
+1 CHIL @I567@
+1 CHIL @I568@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F222@ FAM
+1 HUSB @I477@
+1 WIFE @I478@
+1 CHIL @I570@
+1 CHIL @I571@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F223@ FAM
+1 HUSB @I488@
+1 WIFE @I489@
+1 CHIL @I573@
+1 CHIL @I575@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F224@ FAM
+1 HUSB @I490@
+1 WIFE @I491@
+1 CHIL @I577@
+1 CHIL @I578@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F225@ FAM
+1 HUSB @I492@
+1 WIFE @I493@
+1 CHIL @I579@
+1 CHIL @I580@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F226@ FAM
+1 HUSB @I498@
+1 WIFE @I499@
+1 CHIL @I581@
+1 CHIL @I582@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F227@ FAM
+1 HUSB @I503@
+1 WIFE @I504@
+1 CHIL @I583@
+1 CHIL @I699@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F228@ FAM
+1 HUSB @I505@
+1 WIFE @I506@
+1 CHIL @I584@
+1 CHIL @I585@
+1 CHIL @I586@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F229@ FAM
+1 HUSB @I508@
+1 WIFE @I507@
+1 CHIL @I587@
+1 CHIL @I588@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F230@ FAM
+1 HUSB @I509@
+1 WIFE @I510@
+1 CHIL @I796@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F231@ FAM
+1 HUSB @I512@
+1 WIFE @I511@
+1 CHIL @I794@
+1 CHIL @I795@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F232@ FAM
+1 HUSB @I514@
+1 WIFE @I513@
+1 CHIL @I793@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F233@ FAM
+1 HUSB @I515@
+1 WIFE @I516@
+1 CHIL @I791@
+1 CHIL @I792@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F234@ FAM
+1 HUSB @I517@
+1 WIFE @I518@
+1 CHIL @I589@
+1 CHIL @I590@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F235@ FAM
+1 HUSB @I517@
+1 WIFE @I519@
+1 CHIL @I591@
+1 CHIL @I592@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F236@ FAM
+1 HUSB @I521@
+1 WIFE @I520@
+1 CHIL @I593@
+1 CHIL @I594@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F237@ FAM
+1 HUSB @I526@
+1 WIFE @I527@
+1 CHIL @I595@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F238@ FAM
+1 HUSB @I528@
+1 WIFE @I529@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F239@ FAM
+1 HUSB @I532@
+1 WIFE @I533@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F240@ FAM
+1 HUSB @I535@
+1 WIFE @I534@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F241@ FAM
+1 HUSB @I934@
+1 WIFE @I538@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F242@ FAM
+1 WIFE @I539@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F243@ FAM
+1 HUSB @I544@
+1 WIFE @I545@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F244@ FAM
+1 HUSB @I551@
+1 WIFE @I552@
+1 CHIL @I656@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F247@ FAM
+1 HUSB @I573@
+1 WIFE @I574@
+1 CHIL @I665@
+1 CHIL @I897@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F248@ FAM
+1 HUSB @I576@
+1 WIFE @I575@
+1 CHIL @I927@
+1 CHIL @I928@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F249@ FAM
+1 HUSB @I596@
+1 WIFE @I597@
+1 CHIL @I607@
+1 CHIL @I692@
+1 CHIL @I693@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F256@ FAM
+1 HUSB @I610@
+1 WIFE @I609@
+1 CHIL @I611@
+1 CHIL @I613@
+1 CHIL @I618@
+1 CHIL @I620@
+1 CHIL @I625@
+1 CHIL @I626@
+1 CHIL @I627@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F257@ FAM
+1 HUSB @I611@
+1 WIFE @I612@
+1 CHIL @I615@
+1 CHIL @I616@
+1 CHIL @I617@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F258@ FAM
+1 HUSB @I613@
+1 WIFE @I614@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F259@ FAM
+1 HUSB @I618@
+1 WIFE @I619@
+1 CHIL @I622@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F260@ FAM
+1 HUSB @I620@
+1 WIFE @I621@
+1 CHIL @I623@
+1 CHIL @I624@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F262@ FAM
+1 HUSB @I640@
+1 WIFE @I641@
+1 CHIL @I753@
+1 CHIL @I754@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F263@ FAM
+1 HUSB @I652@
+1 WIFE @I651@
+1 CHIL @I967@
+1 CHIL @I969@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F264@ FAM
+1 HUSB @I654@
+1 WIFE @I653@
+1 CHIL @I885@
+1 CHIL @I886@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F265@ FAM
+1 HUSB @I659@
+1 WIFE @I658@
+1 CHIL @I660@
+1 CHIL @I661@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F268@ FAM
+1 HUSB @I669@
+1 WIFE @I668@
+1 CHIL @I944@
+1 CHIL @I946@
+1 CHIL @I948@
+1 CHIL @I950@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F269@ FAM
+1 HUSB @I672@
+1 WIFE @I673@
+1 CHIL @I935@
+1 CHIL @I936@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F270@ FAM
+1 HUSB @I701@
+1 WIFE @I702@
+1 CHIL @I674@
+1 CHIL @I675@
+1 CHIL @I710@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F271@ FAM
+1 HUSB @I677@
+1 WIFE @I676@
+1 CHIL @I678@
+1 CHIL @I700@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F276@ FAM
+1 HUSB @I703@
+1 WIFE @I704@
+1 CHIL @I709@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F277@ FAM
+1 HUSB @I705@
+1 WIFE @I706@
+1 CHIL @I711@
+1 CHIL @I712@
+1 CHIL @I713@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F278@ FAM
+1 HUSB @I707@
+1 WIFE @I708@
+1 CHIL @I714@
+1 CHIL @I715@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F279@ FAM
+1 HUSB @I716@
+1 WIFE @I717@
+1 CHIL @I722@
+1 CHIL @I723@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F280@ FAM
+1 HUSB @I718@
+1 WIFE @I719@
+1 CHIL @I720@
+1 CHIL @I721@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F281@ FAM
+1 HUSB @I725@
+1 WIFE @I726@
+1 CHIL @I728@
+1 CHIL @I729@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F282@ FAM
+1 HUSB @I731@
+1 WIFE @I732@
+1 CHIL @I733@
+1 CHIL @I734@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F283@ FAM
+1 HUSB @I736@
+1 WIFE @I737@
+1 CHIL @I740@
+1 CHIL @I741@
+1 CHIL @I933@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F284@ FAM
+1 HUSB @I736@
+1 WIFE @I742@
+1 CHIL @I743@
+1 CHIL @I744@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F285@ FAM
+1 HUSB @I745@
+1 WIFE @I746@
+1 CHIL @I747@
+1 CHIL @I749@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F286@ FAM
+1 HUSB @I748@
+1 WIFE @I747@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F287@ FAM
+1 HUSB @I749@
+1 WIFE @I750@
+1 CHIL @I751@
+1 CHIL @I752@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F288@ FAM
+1 HUSB @I756@
+1 WIFE @I757@
+1 CHIL @I760@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F289@ FAM
+1 HUSB @I764@
+1 WIFE @I765@
+1 CHIL @I768@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F290@ FAM
+1 HUSB @I770@
+1 WIFE @I769@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F291@ FAM
+1 HUSB @I772@
+1 WIFE @I771@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F292@ FAM
+1 HUSB @I775@
+1 WIFE @I776@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F293@ FAM
+1 HUSB @I780@
+1 WIFE @I781@
+1 CHIL @I788@
+1 CHIL @I789@
+1 CHIL @I790@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F294@ FAM
+1 HUSB @I782@
+1 WIFE @I783@
+1 CHIL @I786@
+1 CHIL @I787@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F295@ FAM
+1 HUSB @I799@
+1 WIFE @I798@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F296@ FAM
+1 HUSB @I801@
+1 WIFE @I802@
+1 CHIL @I807@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F297@ FAM
+1 HUSB @I804@
+1 WIFE @I803@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F298@ FAM
+1 HUSB @I814@
+1 WIFE @I813@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F299@ FAM
+1 HUSB @I816@
+1 WIFE @I817@
+1 CHIL @I818@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F300@ FAM
+1 HUSB @I823@
+1 WIFE @I824@
+1 CHIL @I826@
+1 CHIL @I827@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F301@ FAM
+1 HUSB @I834@
+1 WIFE @I833@
+1 CHIL @I836@
+1 CHIL @I837@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F302@ FAM
+1 HUSB @I972@
+1 WIFE @I842@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F304@ FAM
+1 HUSB @I843@
+1 WIFE @I974@
+1 CHIL @I975@
+1 CHIL @I976@
+1 CHIL @I977@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F305@ FAM
+1 HUSB @I844@
+1 WIFE @I978@
+1 CHIL @I979@
+1 CHIL @I980@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F306@ FAM
+1 HUSB @I981@
+1 WIFE @I845@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F307@ FAM
+1 HUSB @I985@
+1 WIFE @I847@
+1 CHIL @I986@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F308@ FAM
+1 HUSB @I984@
+1 WIFE @I848@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F309@ FAM
+1 HUSB @I987@
+1 WIFE @I849@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F310@ FAM
+1 HUSB @I850@
+1 WIFE @I990@
+1 CHIL @I991@
+1 CHIL @I992@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F311@ FAM
+1 HUSB @I993@
+1 WIFE @I851@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F312@ FAM
+1 HUSB @I860@
+1 WIFE @I861@
+1 CHIL @I864@
+1 CHIL @I1003@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F313@ FAM
+1 HUSB @I1004@
+1 WIFE @I862@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F314@ FAM
+1 HUSB @I863@
+1 WIFE @I1005@
+1 CHIL @I1006@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F315@ FAM
+1 HUSB @I890@
+1 WIFE @I889@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F316@ FAM
+1 HUSB @I891@
+1 WIFE @I892@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F317@ FAM
+1 HUSB @I900@
+1 WIFE @I899@
+1 CHIL @I942@
+1 CHIL @I943@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F318@ FAM
+1 HUSB @I901@
+1 WIFE @I902@
+1 CHIL @I929@
+1 CHIL @I930@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F319@ FAM
+1 HUSB @I916@
+1 WIFE @I917@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F320@ FAM
+1 HUSB @I918@
+1 WIFE @I919@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F321@ FAM
+1 HUSB @I918@
+1 WIFE @I926@
+1 _CURRENT N
+1 _PRIMARY N
+0 @F322@ FAM
+1 HUSB @I921@
+1 WIFE @I920@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F323@ FAM
+1 HUSB @I923@
+1 WIFE @I922@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F324@ FAM
+1 HUSB @I924@
+1 WIFE @I925@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F326@ FAM
+1 HUSB @I945@
+1 WIFE @I944@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F327@ FAM
+1 HUSB @I947@
+1 WIFE @I946@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F328@ FAM
+1 HUSB @I948@
+1 WIFE @I949@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F329@ FAM
+1 HUSB @I951@
+1 WIFE @I950@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F330@ FAM
+1 HUSB @I953@
+1 WIFE @I954@
+1 CHIL @I955@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F331@ FAM
+1 HUSB @I962@
+1 WIFE @I963@
+1 CHIL @I964@
+1 CHIL @I965@
+1 CHIL @I966@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F332@ FAM
+1 HUSB @I968@
+1 WIFE @I967@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 @F333@ FAM
+1 HUSB @I969@
+1 WIFE @I970@
+1 _CURRENT Y
+1 _PRIMARY Y
+0 TRLR
