@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="vi" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Họ Phan — Công cụ Gia phả</title>
+  <link rel="stylesheet" href="theme.css">
+  <style>
+    body{display:flex;flex-direction:column}
+    .page-wrap{flex:1;display:flex;justify-content:center;padding:40px 16px}
+    .page{width:min(100%,640px)}
+    .page h1{font-size:28px;font-weight:400;letter-spacing:-.5px;margin-bottom:4px}
+    .page .sub{font-size:14px;color:var(--md-on-surface-var);margin-bottom:32px;line-height:1.6}
+    .tools{list-style:none;display:grid;gap:12px}
+    .tool-card{background:var(--md-surface-1);border-radius:var(--r-md);padding:16px 20px;
+      cursor:pointer;transition:box-shadow .2s,background .15s;display:block;text-decoration:none;color:inherit}
+    .tool-card:hover{box-shadow:var(--md-elev-1);background:var(--md-surface-2)}
+    .tool-head{display:flex;align-items:center;gap:12px;margin-bottom:4px}
+    .tool-icon{width:40px;height:40px;border-radius:var(--r-full);
+      background:var(--md-primary-ctr);color:var(--md-on-primary-ctr);
+      display:flex;align-items:center;justify-content:center;flex-shrink:0}
+    .tool-icon .mi{font-size:20px}
+    .tool-name{font-size:16px;font-weight:500;letter-spacing:.15px}
+    .tool-desc{font-size:13px;color:var(--md-on-surface-var);line-height:1.5;padding-left:52px}
+  </style>
+</head>
+<body>
+<script src="ged-nav.js" data-active="tools"></script>
+<div class="page-wrap"><main class="page">
+  <h1>Công cụ Gia phả</h1>
+  <p class="sub">Xem cây phả hệ, biểu đồ quạt, kiểm tra và chỉnh sửa file GEDCOM — tất cả chạy trên trình duyệt.</p>
+  <ul class="tools">
+    <li><a class="tool-card" href="PedigreeChart.html">
+      <div class="tool-head"><div class="tool-icon"><span class="mi filled">account_tree</span></div><span class="tool-name">Pedigree Chart</span></div>
+      <div class="tool-desc">Sơ đồ phả hệ tương tác — phóng to, tìm kiếm, xuất poster. Tải GEDCOM từ máy hoặc URL.</div>
+    </a></li>
+    <li><a class="tool-card" href="Fanchart.html">
+      <div class="tool-head"><div class="tool-icon"><span class="mi filled">donut_large</span></div><span class="tool-name">Fan Chart</span></div>
+      <div class="tool-desc">Biểu đồ quạt 180°/270°/360° — 15 bảng màu, xuất SVG/PNG/PDF.</div>
+    </a></li>
+    <li><a class="tool-card" href="Validator.html">
+      <div class="tool-head"><div class="tool-icon"><span class="mi filled">verified</span></div><span class="tool-name">GEDCOM Validator</span></div>
+      <div class="tool-desc">Kiểm tra toàn diện — lỗi ngày tháng, cha mẹ, trùng tên, ghost family (11 tab).</div>
+    </a></li>
+    <li><a class="tool-card" href="Reverser.html">
+      <div class="tool-head"><div class="tool-icon"><span class="mi filled">swap_horiz</span></div><span class="tool-name">Name Reverser</span></div>
+      <div class="tool-desc">Đảo thứ tự NAME / GIVN / SURN trong file GEDCOM.</div>
+    </a></li>
+    <li><a class="tool-card" href="https://www.familyecho.com/" target="_blank" rel="noopener">
+      <div class="tool-head"><div class="tool-icon" style="background:var(--md-secondary-ctr);color:var(--md-on-secondary-ctr)"><span class="mi filled">edit_note</span></div><span class="tool-name">FamilyEcho.com</span><span class="mi" style="font-size:16px;color:var(--md-on-surface-var);margin-left:auto">open_in_new</span></div>
+      <div class="tool-desc">Chỉnh sửa cây gia phả trực tuyến — nhập/xuất file GEDCOM, kéo thả, chia sẻ. Công cụ bên ngoài miễn phí.</div>
+    </a></li>
+  </ul>
+  <footer class="phan-footer" style="margin-top:32px">Không dữ liệu nào được tải lên máy chủ.</footer>
+</main></div>
+</body>
+</html>
