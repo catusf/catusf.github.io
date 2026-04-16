@@ -38,7 +38,7 @@
   header {
     background: var(--ink);
     color: var(--paper);
-    padding: 28px 24px 22px;
+    padding: 19px 24px 15px;
     text-align: center;
     position: relative;
     overflow: hidden;
@@ -78,7 +78,7 @@
     background: #fff;
     border: 1px solid var(--border);
     border-radius: 6px;
-    margin-top: 16px;
+    margin-top: 8px;
     overflow: visible;
   }
   .card-header {
@@ -449,10 +449,6 @@
 
   <!-- FILE UPLOAD -->
   <div class="card">
-    <div class="card-header">
-      <span class="icon">📂</span>
-      <h2>Tải file GEDCOM</h2>
-    </div>
     <div class="card-body">
       <div class="loading-bar" id="loadingBar"></div>
       <div id="uploadArea">
@@ -474,10 +470,6 @@
 
   <!-- SEARCH -->
   <div class="card">
-    <div class="card-header">
-      <span class="icon">🔍</span>
-      <h2>Chọn hai người</h2>
-    </div>
     <div class="card-body">
       <div class="person-grid">
         <div class="person-block">
@@ -512,10 +504,6 @@
 
   <!-- RESULT -->
   <div class="card">
-    <div class="card-header">
-      <span class="icon">🔗</span>
-      <h2>Kết quả quan hệ</h2>
-    </div>
     <div class="card-body">
       <div id="resultArea">
         <div class="result-pending">Chọn hai người để xem quan hệ</div>
@@ -1051,10 +1039,6 @@ function renderResult(result) {
       var lcaName = lcaP ? lcaP.name : lca.id;
 
       html += '<div class="lca-block">';
-
-      var totalGroups = groups.length;
-      var hdrLabel = 'Tổ tiên chung' + (totalGroups > 1 ? ' ' + (gidx + 1) + '/' + totalGroups : '');
-      html += '<div class="lca-header">' + hdrLabel + '</div>';
 
       if (lca2) {
         var lca2P    = INDEX.people.get(lca2.id);
