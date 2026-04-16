@@ -374,7 +374,7 @@ function computeLabel(da, db, actorId, targetId, index, relType) {
   const delta = db - da;
 
   const juniorDist = delta >= 0 ? db : da;
-  const suffix = juniorDist <= 1 ? '' : juniorDist <= 3 ? ' họ' : ' họ xa';
+  const suffix = juniorDist <= 1 ? '' : ' họ';
 
   const allW = [...branchW];
 
