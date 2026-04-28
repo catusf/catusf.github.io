@@ -9,7 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Be+Vietnam+Pro:wght@300;400;500&display=swap" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script src="gedcom-parser.js"></script>
-<script src="ged-shared.js"></script>
+<script src="phan-shared.js"></script>
 <style>
 * { margin:0; padding:0; box-sizing:border-box; }
 body { font-family:var(--font-sans,'Be Vietnam Pro',sans-serif); height:100vh; overflow:hidden; display:flex; flex-direction:column; transition:background .35s; }
@@ -438,7 +438,7 @@ body.light .btn-poster {
 </style>
 </head>
 <body class="light">
-<script src="ged-nav.js" data-active="pedigree"></script>
+<script src="phan-nav.js" data-active="pedigree"></script>
 <header>
   <!-- Row 1: always visible -->
   <div class="header-row1">
@@ -711,7 +711,7 @@ function applyThemeToDOM() {
   document.getElementById('tThmM').textContent = icon;
   document.getElementById('tLblM').textContent  = lbl;
   // Update shared nav toggle label too
-  if (window.GedNav) GedNav.setTheme(isLight ? 'light' : 'dark');
+  if (window.PhanNav) PhanNav.setTheme(isLight ? 'light' : 'dark');
 }
 function toggleTheme() {
   isLight = !isLight;
@@ -722,7 +722,7 @@ document.getElementById('togBtn').addEventListener('click', toggleTheme);
 document.getElementById('togBtnMobile').addEventListener('click', toggleTheme);
 
 // Listen for theme changes from the shared nav bar
-window.addEventListener('ged-theme-change', function(e) {
+window.addEventListener('phan-theme-change', function(e) {
   const wantLight = e.detail.theme === 'light';
   if (isLight !== wantLight) {
     isLight = wantLight;
@@ -2170,8 +2170,8 @@ function hideTip(ev){
 
 // ── Init ─────────────────────────────────────────────────
 // Respect stored theme from shared nav (localStorage)
-if (window.GedNav) {
-  isLight = GedNav.getTheme() === 'light';
+if (window.PhanNav) {
+  isLight = PhanNav.getTheme() === 'light';
 }
 applyThemeToDOM();
 refreshLegendDots();
