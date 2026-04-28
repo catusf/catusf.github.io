@@ -24,6 +24,8 @@
 2 SURN Diễn
 1 SEX M
 1 NOTE Bio notes: Tự Huệ Minh; Giỗ 15-8; Mộ tại Đồi Sơn
+1 FACT 1
+2 TYPE Generation
 1 FAMS @F2@
 0 @I3@ INDI
 1 NAME Phan Tất /Hào/
@@ -31,6 +33,8 @@
 2 SURN Hào
 1 SEX M
 1 NOTE Bio notes: Mộ tại Bàu Dợi
+1 FACT 2
+2 TYPE Generation
 1 FAMS @F3@
 1 FAMC @F2@
 2 PEDI birth
@@ -40,6 +44,8 @@
 2 SURN Kính
 1 SEX M
 1 NOTE Bio notes: Giỗ 15-2; Mộ tại Đồi Sơn
+1 FACT 3
+2 TYPE Generation
 1 FAMS @F4@
 1 FAMC @F3@
 2 PEDI birth
@@ -49,6 +55,8 @@
 2 SURN Hiền
 1 SEX M
 1 NOTE Bio notes: Giỗ 1-8; Mộ tại Đồi Sơn
+1 FACT 4
+2 TYPE Generation
 1 FAMS @F5@
 1 FAMC @F4@
 2 PEDI birth
@@ -59,6 +67,8 @@
 2 SURN Hành
 1 SEX M
 1 NOTE Bio notes: Giỗ 1-4; Mộ tại Đồi Sơn
+1 FACT 5
+2 TYPE Generation
 1 FAMS @F7@
 1 FAMC @F5@
 2 PEDI birth
@@ -69,6 +79,8 @@
 2 SURN Lượng
 1 SEX M
 1 NOTE Bio notes: Giỗ 24-8; Mộ tại Làng Trung; Bà Hoàng Thị Nghĩa
+1 FACT 6
+2 TYPE Generation
 1 FAMS @F6@
 1 FAMC @F7@
 2 PEDI birth
@@ -77,6 +89,8 @@
 2 GIVN Hoàng Thị
 2 SURN Nghĩa
 1 SEX F
+1 FACT 6
+2 TYPE Generation
 1 FAMS @F6@
 0 @I9@ INDI
 1 NAME Phan Tất /Thông/
@@ -85,6 +99,8 @@
 2 SURN Thông
 1 SEX M
 1 NOTE Bio notes: Giỗ 16-8; Mộ tại Bàu Dợi; Di tích lịch sử - văn hóa cấp Quốc gia QĐ 188-BVH ngày 13-2-1995 ở xã Hoa Thành-Yên Thành-Nghệ An; bia đá Tiến sĩ ở Văn Miếu - Quốc Tử Giám Hà Nội
+1 FACT 7
+2 TYPE Generation
 1 FAMS @F8@
 1 FAMS @F9@
 1 FAMC @F6@
@@ -94,18 +110,24 @@
 2 GIVN Hoàng Thị
 2 SURN Hòa
 1 SEX F
+1 FACT 7
+2 TYPE Generation
 1 FAMS @F8@
 0 @I11@ INDI
 1 NAME Hoàng Thị /Nghi/
 2 GIVN Hoàng Thị
 2 SURN Nghi
 1 SEX F
+1 FACT 7
+2 TYPE Generation
 1 FAMS @F9@
 0 @I12@ INDI
 1 NAME Phan Tất /Văn/
 2 GIVN Phan Tất
 2 SURN Văn
 1 SEX M
+1 FACT 8
+2 TYPE Generation
 1 FAMS @F10@
 1 FAMC @F8@
 2 PEDI birth
@@ -114,12 +136,16 @@
 2 GIVN Nguyễn Thị
 2 SURN Điều
 1 SEX F
+1 FACT 8
+2 TYPE Generation
 1 FAMS @F10@
 0 @I14@ INDI
 1 NAME Phan Tất /Cẩn/
 2 GIVN Phan Tất
 2 SURN Cẩn
 1 SEX M
+1 FACT 8
+2 TYPE Generation
 1 FAMS @F11@
 1 FAMC @F8@
 2 PEDI birth
@@ -128,6 +154,8 @@
 2 GIVN Phan Thị
 2 SURN Xuyên
 1 SEX F
+1 FACT 8
+2 TYPE Generation
 1 FAMS @F11@
 0 @I16@ INDI
 1 NAME Phan Tất /Đạo/
@@ -135,6 +163,8 @@
 2 SURN Đạo
 1 SEX M
 1 NOTE Bio notes: Giỗ 1-12
+1 FACT 8
+2 TYPE Generation
 1 FAMS @F13@
 1 FAMC @F8@
 2 PEDI birth
@@ -144,6 +174,8 @@
 2 SURN Vinh
 1 SEX M
 1 NOTE Bio notes: Giỗ 12-1; Thọ 85 tuổi; Lưu lạc ở Quỳnh Lưu
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F10@
 2 PEDI birth
 0 @I18@ INDI
@@ -152,6 +184,8 @@
 2 SURN Nguyên
 1 SEX M
 1 NOTE Bio notes: Giỗ 20-5
+1 FACT 9
+2 TYPE Generation
 1 FAMS @F15@
 1 FAMC @F10@
 2 PEDI birth
@@ -161,6 +195,8 @@
 2 SURN Thủ
 1 SEX M
 1 NOTE Bio notes: Ô này ở Đức Thanh - Đức Thọ - Hà Tĩnh
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F11@
 2 PEDI birth
 0 @I20@ INDI
@@ -169,6 +205,8 @@
 2 SURN Tráng
 1 SEX M
 1 NOTE Bio notes: Ô này ở Đức Thuận - Đức Thọ - Hà Tĩnh
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F11@
 2 PEDI birth
 0 @I21@ INDI
@@ -176,6 +214,8 @@
 2 GIVN Phan Tất
 2 SURN Nghiêm
 1 SEX M
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F11@
 2 PEDI birth
 0 @I22@ INDI
@@ -183,6 +223,8 @@
 2 GIVN Phan Tất
 2 SURN Bài
 1 SEX M
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F11@
 2 PEDI birth
 0 @I23@ INDI
@@ -190,6 +232,8 @@
 2 GIVN Phan Tất
 2 SURN Đắc
 1 SEX M
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F11@
 2 PEDI birth
 0 @I24@ INDI
@@ -197,6 +241,8 @@
 2 GIVN Phan Tất
 2 SURN Thung
 1 SEX M
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F11@
 2 PEDI birth
 0 @I25@ INDI
@@ -205,6 +251,8 @@
 2 SURN Hữu
 1 SEX M
 1 NOTE Bio notes: Phải lánh nạn đến xã Ngô Đồng-Nam Sách-Hải Hưng
+1 FACT 9
+2 TYPE Generation
 1 FAMS @F12@
 1 FAMC @F11@
 2 PEDI birth
@@ -213,6 +261,8 @@
 2 GIVN Bùi Thị
 2 SURN Chừng
 1 SEX F
+1 FACT 9
+2 TYPE Generation
 1 FAMS @F12@
 0 @I27@ INDI
 1 NAME Phan Tất /Thanh/
@@ -220,6 +270,8 @@
 2 SURN Thanh
 1 SEX M
 1 NOTE Bio notes: Giỗ 17-12
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F13@
 2 PEDI birth
 0 @I28@ INDI
@@ -227,6 +279,8 @@
 2 GIVN Phan Tất
 2 SURN Thành
 1 SEX M
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F13@
 2 PEDI birth
 0 @I29@ INDI
@@ -234,6 +288,8 @@
 2 GIVN Phan Tất
 2 SURN Hữu
 1 SEX M
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F13@
 2 PEDI birth
 0 @I30@ INDI
@@ -242,6 +298,8 @@
 2 SURN Sinh
 1 SEX M
 1 NOTE Bio notes: Giỗ 1-12
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F13@
 2 PEDI birth
 0 @I31@ INDI
@@ -250,6 +308,8 @@
 2 SURN Yên
 1 SEX M
 1 NOTE Bio notes: Giỗ 3-9
+1 FACT 9
+2 TYPE Generation
 1 FAMC @F13@
 2 PEDI birth
 0 @I32@ INDI
@@ -258,6 +318,8 @@
 2 SURN Cường
 1 SEX M
 1 NOTE Bio notes: Giỗ 16-11
+1 FACT 10
+2 TYPE Generation
 1 FAMS @F14@
 1 FAMC @F15@
 2 PEDI birth
@@ -267,12 +329,16 @@
 2 SURN Quy
 1 SEX F
 1 NOTE Bio notes: Giỗ 6-11
+1 FACT 10
+2 TYPE Generation
 1 FAMS @F14@
 0 @I34@ INDI
 1 NAME Phan Đạo /Quang/
 2 GIVN Phan Đạo
 2 SURN Quang
 1 SEX M
+1 FACT 10
+2 TYPE Generation
 1 FAMS @F21@
 1 FAMC @F15@
 2 PEDI birth
@@ -281,6 +347,8 @@
 2 GIVN Phan Tất
 2 SURN Dực
 1 SEX M
+1 FACT 10
+2 TYPE Generation
 1 FAMC @F12@
 2 PEDI birth
 0 @I36@ INDI
@@ -289,6 +357,8 @@
 2 SURN Thắng
 1 SEX M
 1 NOTE Bio notes: Giỗ 2-9
+1 FACT 10
+2 TYPE Generation
 1 FAMS @F16@
 1 FAMC @F12@
 2 PEDI birth
@@ -298,12 +368,16 @@
 2 SURN Bà
 1 SEX F
 1 NOTE Bio notes: Giỗ 12-9
+1 FACT 10
+2 TYPE Generation
 1 FAMS @F16@
 0 @I38@ INDI
 1 NAME Phan Tất /Tế/
 2 GIVN Phan Tất
 2 SURN Tế
 1 SEX M
+1 FACT 10
+2 TYPE Generation
 1 FAMC @F12@
 2 PEDI birth
 0 @I39@ INDI
@@ -311,6 +385,8 @@
 2 GIVN Phan Tất
 2 SURN Lân
 1 SEX M
+1 FACT 10
+2 TYPE Generation
 1 FAMC @F12@
 2 PEDI birth
 0 @I40@ INDI
@@ -318,6 +394,8 @@
 2 GIVN Phan Tất
 2 SURN Hiềng
 1 SEX M
+1 FACT 10
+2 TYPE Generation
 1 FAMC @F12@
 2 PEDI birth
 0 @I41@ INDI
@@ -326,6 +404,8 @@
 2 SURN Xứng
 1 SEX M
 1 NOTE Bio notes: Giỗ 28-5
+1 FACT 11
+2 TYPE Generation
 1 FAMS @F17@
 1 FAMS @F18@
 1 FAMC @F14@
@@ -336,12 +416,16 @@
 2 SURN Xa
 1 SEX F
 1 NOTE Bio notes: Giỗ 3-8
+1 FACT 11
+2 TYPE Generation
 1 FAMS @F17@
 0 @I43@ INDI
 1 NAME Phan Thị /Phụng/
 2 GIVN Phan Thị
 2 SURN Phụng
 1 SEX F
+1 FACT 11
+2 TYPE Generation
 1 FAMS @F18@
 0 @I44@ INDI
 1 NAME Phan Tất /Hiến (Nghị)/
@@ -349,6 +433,8 @@
 2 SURN Hiến (Nghị)
 1 SEX M
 1 NOTE Bio notes: Chi ở xã Nam Thành-Yên Thành-Nghệ An
+1 FACT 11
+2 TYPE Generation
 1 FAMS @F19@
 1 FAMC @F14@
 2 PEDI birth
@@ -357,6 +443,8 @@
 2 GIVN Phan Thị
 2 SURN Dung
 1 SEX F
+1 FACT 11
+2 TYPE Generation
 1 FAMS @F19@
 0 @I46@ INDI
 1 NAME Phan Công /Tước/
@@ -366,6 +454,8 @@
 2 SURN Tước
 1 SEX M
 1 NOTE Bio notes: Hiệu Phúc Lộc
+1 FACT 11
+2 TYPE Generation
 1 FAMS @F20@
 1 FAMC @F21@
 2 PEDI birth
@@ -374,12 +464,16 @@
 2 GIVN Họ Nguyễn
 2 SURN Bà
 1 SEX F
+1 FACT 11
+2 TYPE Generation
 1 FAMS @F20@
 0 @I48@ INDI
 1 NAME Phan Tất /Phú/
 2 GIVN Phan Tất
 2 SURN Phú
 1 SEX M
+1 FACT 12
+2 TYPE Generation
 1 FAMC @F17@
 2 PEDI birth
 0 @I49@ INDI
@@ -388,6 +482,8 @@
 2 SURN Tạo
 1 SEX M
 1 NOTE Bio notes: Giỗ 13-2; Nối đời chi ở Yên Thành Nghệ An
+1 FACT 12
+2 TYPE Generation
 1 FAMS @F22@
 1 FAMC @F17@
 2 PEDI birth
@@ -397,12 +493,16 @@
 2 SURN Chiêm
 1 SEX F
 1 NOTE Bio notes: Giỗ 1-1
+1 FACT 12
+2 TYPE Generation
 1 FAMS @F22@
 0 @I51@ INDI
 1 NAME Phan Tất /Diệp/
 2 GIVN Phan Tất
 2 SURN Diệp
 1 SEX M
+1 FACT 12
+2 TYPE Generation
 1 FAMC @F17@
 2 PEDI birth
 0 @I52@ INDI
@@ -410,6 +510,8 @@
 2 GIVN Phan Tất
 2 SURN Kế
 1 SEX M
+1 FACT 12
+2 TYPE Generation
 1 FAMC @F17@
 2 PEDI birth
 0 @I53@ INDI
@@ -418,6 +520,8 @@
 2 SURN Huệ
 1 SEX M
 1 NOTE Bio notes: Còn gọi Phan Tất Tuyến?; Giỗ 5-10; Mộ ở Kẻ Duộc-Yên Thành-Gốc cây cổ thụ
+1 FACT 12
+2 TYPE Generation
 1 FAMS @F23@
 1 FAMC @F20@
 2 PEDI birth
@@ -427,6 +531,8 @@
 2 SURN Hào
 1 SEX F
 1 NOTE Bio notes: Giỗ 23-5; Mộ ở Cồn Sơn
+1 FACT 12
+2 TYPE Generation
 1 FAMS @F23@
 0 @I55@ INDI
 1 NAME Phan Võ /Giang/
@@ -434,6 +540,8 @@
 2 SURN Giang
 1 SEX M
 1 NOTE Bio notes: Kỳ 9-4; Mộ Ô được đưa vào Thanh Chí 1994 nhưng vợ ô lúc còn sống cùng với con trai là Phan Công Thu và cháu ruột gọi bằng mự là Phan Công Hào 1795
+1 FACT 13
+2 TYPE Generation
 1 FAMS @F24@
 1 FAMC @F23@
 2 PEDI birth
@@ -443,12 +551,16 @@
 2 SURN Thu
 1 SEX F
 1 NOTE Bio notes: Kỵ 17-5
+1 FACT 13
+2 TYPE Generation
 1 FAMS @F24@
 0 @I57@ INDI
 1 NAME Ông /Hòe/
 2 GIVN Ông
 2 SURN Hòe
 1 SEX M
+1 FACT 13
+2 TYPE Generation
 1 FAMC @F23@
 2 PEDI birth
 0 @I58@ INDI
@@ -456,6 +568,8 @@
 2 GIVN Bác
 2 SURN Hai
 1 SEX M
+1 FACT 13
+2 TYPE Generation
 1 FAMC @F23@
 2 PEDI birth
 0 @I59@ INDI
@@ -463,6 +577,8 @@
 2 GIVN Phan Công
 2 SURN Giáp
 1 SEX M
+1 FACT 13
+2 TYPE Generation
 1 FAMS @F25@
 1 FAMC @F23@
 2 PEDI birth
@@ -472,6 +588,8 @@
 2 SURN Thu (em)
 1 SEX F
 1 NOTE Bio notes: Em gái ruột của vợ ông Võ Giang; Mộ ở Yên Thành-Nghệ An
+1 FACT 13
+2 TYPE Generation
 1 FAMS @F25@
 0 @I61@ INDI
 1 NAME Phan Công /Thu/
@@ -479,6 +597,8 @@
 2 SURN Thu
 1 SEX M
 1 NOTE Bio notes: Kỵ 21-3; Bà tạ thế ngày 7-3; Vào xã Thanh Chi-Thanh Chương năm 1795 cùng mẹ là bà Nguyễn Thị Thu
+1 FACT 14
+2 TYPE Generation
 1 FAMS @F27@
 1 FAMC @F24@
 2 PEDI birth
@@ -487,6 +607,8 @@
 2 GIVN Phan Thị
 2 SURN Mè
 1 SEX F
+1 FACT 14
+2 TYPE Generation
 1 FAMC @F24@
 2 PEDI birth
 0 @I63@ INDI
@@ -495,6 +617,8 @@
 2 SURN Hào
 1 SEX M
 1 NOTE Bio notes: Vào Thanh Chí 1795 cùng thím ruột là vợ ô Phan Võ Giang
+1 FACT 14
+2 TYPE Generation
 1 FAMS @F1@
 1 FAMC @F25@
 2 PEDI birth
@@ -504,6 +628,8 @@
 2 SURN Trực
 1 SEX M
 1 NOTE Bio notes: Bị thất lạc, không rõ tung tích
+1 FACT 14
+2 TYPE Generation
 1 FAMC @F25@
 2 PEDI birth
 0 @I65@ INDI
@@ -514,6 +640,8 @@
 1 NOTE Bio notes: Kỵ 21-8
 2 CONT Bà chính thất Phạm Thị; Kỵ 7-8
 2 CONT Bà tứứ thất Phan Thị; Kỵ 11-8
+1 FACT 15
+2 TYPE Generation
 1 FAMS @F26@
 1 FAMC @F27@
 2 PEDI birth
@@ -529,6 +657,8 @@
 2 SURN Minh
 1 SEX M
 1 NOTE Bio notes: Vô tự
+1 FACT 15
+2 TYPE Generation
 1 FAMC @F27@
 2 PEDI birth
 0 @I68@ INDI
@@ -536,6 +666,8 @@
 2 GIVN Phan Công
 2 SURN Khương
 1 SEX M
+1 FACT 15
+2 TYPE Generation
 1 FAMS @F28@
 1 FAMC @F27@
 2 PEDI birth
@@ -544,6 +676,8 @@
 2 GIVN Phan Thị
 2 SURN Nha
 1 SEX F
+1 FACT 15
+2 TYPE Generation
 1 FAMC @F1@
 2 PEDI birth
 0 @I70@ INDI
@@ -555,6 +689,8 @@
 2 DATE 1775
 1 DEAT Y
 2 DATE 1838
+1 FACT 15
+2 TYPE Generation
 1 FAMS @F29@
 1 FAMC @F1@
 2 PEDI birth
@@ -564,6 +700,8 @@
 2 SURN Nậm
 1 SEX M
 1 NOTE Bio notes: Kỵ 3-12; Tục Niệm 1830(?); Lê Thị Nghìn Kỵ 19-9
+1 FACT 16
+2 TYPE Generation
 1 FAMS @F31@
 1 FAMC @F26@
 2 PEDI birth
@@ -573,6 +711,8 @@
 2 SURN Hùng
 1 SEX M
 1 NOTE Bio notes: Vô tự
+1 FACT 16
+2 TYPE Generation
 1 FAMC @F26@
 2 PEDI birth
 0 @I73@ INDI
@@ -581,6 +721,8 @@
 2 SURN Hòa
 1 SEX M
 1 NOTE Bio notes: Kỵ 26-3; Vô tự
+1 FACT 16
+2 TYPE Generation
 1 FAMC @F26@
 2 PEDI birth
 0 @I74@ INDI
@@ -589,6 +731,8 @@
 2 SURN Cường
 1 SEX M
 1 NOTE Bio notes: Kỵ 25-2
+1 FACT 16
+2 TYPE Generation
 1 FAMC @F26@
 2 PEDI birth
 0 @I75@ INDI
@@ -596,6 +740,8 @@
 2 GIVN Phan Doãn
 2 SURN Bớ
 1 SEX M
+1 FACT 16
+2 TYPE Generation
 1 FAMS @F34@
 1 FAMC @F28@
 2 PEDI birth
@@ -605,6 +751,8 @@
 2 NPFX Cha
 2 SURN Tuội
 1 SEX M
+1 FACT 16
+2 TYPE Generation
 1 FAMS @F36@
 1 FAMC @F28@
 2 PEDI birth
@@ -613,6 +761,8 @@
 2 GIVN Phan Thị
 2 SURN Huân
 1 SEX F
+1 FACT 16
+2 TYPE Generation
 1 FAMC @F29@
 2 PEDI birth
 0 @I78@ INDI
@@ -624,6 +774,8 @@
 2 DATE 1808
 1 DEAT Y
 2 DATE 1869
+1 FACT 16
+2 TYPE Generation
 1 FAMS @F37@
 1 FAMC @F29@
 2 PEDI birth
@@ -637,6 +789,8 @@
 1 DEAT Y
 2 DATE 1901
 1 NOTE Bio notes: Kỵ 20-3
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F30@
 1 FAMC @F31@
 2 PEDI birth
@@ -656,6 +810,8 @@
 2 DATE 1855
 1 DEAT Y
 2 DATE 1909
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F32@
 1 FAMC @F31@
 2 PEDI birth
@@ -677,6 +833,8 @@
 1 BIRT
 2 DATE 1859
 1 DEAT Y
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F33@
 1 FAMC @F31@
 2 PEDI birth
@@ -691,6 +849,8 @@
 2 GIVN Phan Doãn
 2 SURN Khai
 1 SEX M
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F48@
 1 FAMC @F34@
 2 PEDI birth
@@ -699,6 +859,8 @@
 2 GIVN Phan Doãn
 2 SURN Kiêu
 1 SEX M
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F50@
 1 FAMC @F34@
 2 PEDI birth
@@ -707,6 +869,8 @@
 2 GIVN Phan Doãn
 2 SURN Tuội
 1 SEX M
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F35@
 1 FAMC @F36@
 2 PEDI birth
@@ -721,6 +885,8 @@
 2 GIVN Phan Doãn
 2 SURN Chía
 1 SEX M
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F53@
 1 FAMC @F36@
 2 PEDI birth
@@ -729,6 +895,8 @@
 2 GIVN Phan Thị
 2 SURN Hạc
 1 SEX F
+1 FACT 17
+2 TYPE Generation
 1 FAMC @F37@
 2 PEDI birth
 0 @I91@ INDI
@@ -736,6 +904,8 @@
 2 GIVN Phan Thị
 2 SURN Hồng
 1 SEX F
+1 FACT 17
+2 TYPE Generation
 1 FAMC @F37@
 2 PEDI birth
 0 @I92@ INDI
@@ -747,6 +917,8 @@
 2 DATE 1839
 1 DEAT Y
 2 DATE 1881
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F54@
 1 FAMC @F37@
 2 PEDI birth
@@ -755,6 +927,8 @@
 2 GIVN Phan Doãn
 2 SURN Phùng
 1 SEX M
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F55@
 1 FAMC @F37@
 2 PEDI birth
@@ -763,6 +937,8 @@
 2 GIVN Phan Doãn
 2 SURN Dật
 1 SEX M
+1 FACT 17
+2 TYPE Generation
 1 FAMS @F251@
 1 FAMC @F37@
 2 PEDI birth
@@ -776,6 +952,8 @@
 1 DEAT Y
 2 DATE 1925
 1 NOTE Bio notes: Kỵ 27-2
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F38@
 1 FAMS @F39@
 1 FAMC @F30@
@@ -800,6 +978,8 @@
 1 DEAT Y
 2 DATE 1931
 1 NOTE Bio notes: Tức Ông Viện; V 19Đ30-1931
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F40@
 1 FAMC @F30@
 2 PEDI birth
@@ -811,6 +991,8 @@
 1 DEAT Y
 2 DATE 1936
 1 NOTE Bio notes: MVNAH - 18
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F40@
 0 @I99@ INDI
 1 NAME Phan Quang /Cận/
@@ -822,6 +1004,8 @@
 1 DEAT Y
 2 DATE 1936
 1 NOTE Bio notes: Tục Ô Cẩn Đoàn; ĐV1930-31
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F41@
 1 FAMC @F30@
 2 PEDI birth
@@ -844,6 +1028,8 @@
 2 DATE 1895
 1 DEAT Y
 1 NOTE Bio notes: Vô tự
+1 FACT 18
+2 TYPE Generation
 1 FAMC @F30@
 2 PEDI birth
 0 @I102@ INDI
@@ -855,6 +1041,8 @@
 2 DATE 1895
 1 DEAT Y
 1 NOTE Bio notes: Ô Hương Tươu
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F42@
 1 FAMC @F30@
 2 PEDI birth
@@ -874,6 +1062,8 @@
 1 DEAT Y
 2 DATE 1950
 1 NOTE Bio notes: Kỵ 19-8
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F43@
 1 FAMC @F30@
 2 PEDI birth
@@ -897,6 +1087,8 @@
 2 DATE 1878
 1 DEAT Y
 2 DATE 1962
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F44@
 1 FAMS @F45@
 1 FAMC @F32@
@@ -920,6 +1112,8 @@
 2 DATE 1898
 1 DEAT Y
 2 DATE 1980
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F46@
 1 FAMC @F32@
 2 PEDI birth
@@ -942,6 +1136,8 @@
 2 DATE 1879
 1 DEAT Y
 2 DATE 1948
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F47@
 1 FAMC @F33@
 2 PEDI birth
@@ -960,6 +1156,8 @@
 2 DATE 1925
 1 DEAT Y
 2 DATE 1980
+1 FACT 18
+2 TYPE Generation
 1 FAMC @F48@
 2 PEDI birth
 0 @I113@ INDI
@@ -970,6 +1168,8 @@
 1 DEAT Y
 2 DATE 1938
 1 NOTE Bio notes: Kỵ 10-3
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F49@
 1 FAMC @F48@
 2 PEDI birth
@@ -984,6 +1184,8 @@
 2 GIVN Phan Doãn
 2 SURN Khai (Con)
 1 SEX M
+1 FACT 18
+2 TYPE Generation
 1 FAMC @F48@
 2 PEDI birth
 0 @I116@ INDI
@@ -991,6 +1193,8 @@
 2 GIVN Phan Doãn
 2 SURN Quý
 1 SEX M
+1 FACT 18
+2 TYPE Generation
 1 FAMC @F50@
 2 PEDI birth
 0 @I117@ INDI
@@ -1002,6 +1206,8 @@
 1 BIRT
 2 DATE 1916
 1 DEAT Y
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F51@
 1 FAMC @F35@
 2 PEDI birth
@@ -1020,6 +1226,8 @@
 2 DATE 1926
 1 DEAT Y
 2 DATE 1994
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F52@
 1 FAMC @F53@
 2 PEDI birth
@@ -1036,6 +1244,8 @@
 2 GIVN Phan Thị
 2 SURN Quý
 1 SEX F
+1 FACT 18
+2 TYPE Generation
 1 FAMC @F54@
 2 PEDI birth
 0 @I122@ INDI
@@ -1047,6 +1257,8 @@
 2 DATE 1873
 1 DEAT Y
 2 DATE 1955
+1 FACT 18
+2 TYPE Generation
 1 FAMS @F98@
 1 FAMC @F54@
 2 PEDI birth
@@ -1055,6 +1267,8 @@
 2 GIVN Phan Doãn
 2 SURN Thuân
 1 SEX M
+1 FACT 18
+2 TYPE Generation
 1 FAMC @F55@
 2 PEDI birth
 0 @I124@ INDI
@@ -1067,6 +1281,8 @@
 1 DEAT Y
 2 DATE 1941
 1 NOTE Bio notes: Tức Mại; ĐV1930-31; Kỵ 19-9; Canh Thin
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F56@
 1 FAMS @F57@
 1 FAMC @F38@
@@ -1091,6 +1307,8 @@
 1 DEAT Y
 2 DATE 1988
 1 NOTE Bio notes: Tức Vẹn; Kỵ 28-10
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F38@
 2 PEDI birth
 0 @I127@ INDI
@@ -1103,6 +1321,8 @@
 1 DEAT Y
 2 DATE 1961
 1 NOTE Bio notes: Tức Mợi
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F38@
 2 PEDI birth
 0 @I128@ INDI
@@ -1113,6 +1333,8 @@
 1 BIRT
 2 DATE 1898
 1 DEAT Y
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F38@
 2 PEDI birth
 0 @I129@ INDI
@@ -1125,6 +1347,8 @@
 1 DEAT Y
 2 DATE 1984
 1 NOTE Bio notes: Tức Năm; ĐV1930-31; Kỵ 6-10
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F58@
 1 FAMS @F59@
 1 FAMC @F38@
@@ -1145,6 +1369,8 @@
 1 DEAT Y
 2 DATE 1984
 1 NOTE Bio notes: Kỵ 14-2
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F60@
 1 FAMC @F38@
 2 PEDI birth
@@ -1169,6 +1395,8 @@
 1 DEAT Y
 2 DATE 1988
 1 NOTE Bio notes: Bí danh Nhì Ngọ; Kỵ 24-8; ĐV 1930-31
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F61@
 1 FAMS @F62@
 1 FAMC @F38@
@@ -1190,6 +1418,8 @@
 1 DEAT Y
 2 DATE 2001
 1 NOTE Bio notes: Tức Minh Tuyết; ĐV 1930-31; Kỵ 26-10
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F63@
 1 FAMC @F38@
 2 PEDI birth
@@ -1213,6 +1443,8 @@
 1 DEAT Y
 2 DATE 1995
 1 NOTE Bio notes: Tức Chín; Kỵ 21-4
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F64@
 1 FAMC @F38@
 2 PEDI birth
@@ -1235,6 +1467,8 @@
 1 DEAT Y
 2 DATE 1998
 1 NOTE Bio notes: Kỵ 15-3
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F65@
 1 FAMS @F66@
 1 FAMC @F38@
@@ -1258,6 +1492,8 @@
 2 DATE 1917
 1 DEAT Y
 2 DATE 1948
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F67@
 1 FAMC @F38@
 2 PEDI birth
@@ -1281,6 +1517,8 @@
 1 DEAT Y
 2 DATE 1932
 1 NOTE Bio notes: ĐV 1930-31; Vô tự; Liệt sỹ
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F40@
 2 PEDI birth
 0 @I144@ INDI
@@ -1293,6 +1531,8 @@
 1 DEAT Y
 2 DATE 1987
 1 NOTE Bio notes: ĐV 1930-31; Kỵ 7-10
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F68@
 1 FAMC @F40@
 2 PEDI birth
@@ -1306,6 +1546,8 @@
 1 DEAT Y
 2 DATE 2008
 1 NOTE Bio notes: Kỵ 29-9
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F68@
 0 @I146@ INDI
 1 NAME Phan Thị /Vịnh/
@@ -1317,6 +1559,8 @@
 1 DEAT Y
 2 DATE 1962
 1 NOTE Bio notes: LR - 19
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F69@
 1 FAMC @F40@
 2 PEDI birth
@@ -1336,6 +1580,8 @@
 1 DEAT Y
 2 DATE 1930
 1 NOTE Bio notes: Vô tự
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F40@
 2 PEDI birth
 0 @I149@ INDI
@@ -1348,6 +1594,8 @@
 1 DEAT Y
 2 DATE 1945
 1 NOTE Bio notes: VÔ TỰ
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F40@
 2 PEDI birth
 0 @I150@ INDI
@@ -1359,6 +1607,8 @@
 2 DATE 1919
 1 DEAT Y
 2 DATE 1998
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F70@
 1 FAMC @F40@
 2 PEDI birth
@@ -1379,6 +1629,8 @@
 1 DEAT Y
 2 DATE 2007
 1 NOTE Bio notes: Kỵ 13-10
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F71@
 1 FAMC @F40@
 2 PEDI birth
@@ -1389,6 +1641,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1925
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F71@
 0 @I154@ INDI
 1 NAME Phan Thị /Tuyết/
@@ -1400,6 +1654,8 @@
 1 DEAT Y
 2 DATE 2016
 1 NOTE Bio notes: LR - 19
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F72@
 1 FAMC @F40@
 2 PEDI birth
@@ -1419,6 +1675,8 @@
 1 DEAT Y
 2 DATE 1950
 1 NOTE Bio notes: Liệt sỹ
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F147@
 1 FAMC @F41@
 2 PEDI birth
@@ -1429,6 +1687,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1920
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F42@
 2 PEDI birth
 0 @I158@ INDI
@@ -1439,6 +1699,8 @@
 1 BIRT
 2 DATE 1924
 1 DEAT Y
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F42@
 2 PEDI birth
 0 @I159@ INDI
@@ -1451,6 +1713,8 @@
 1 DEAT Y
 2 DATE 2003
 1 NOTE Bio notes: Kỵ 26-8
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F73@
 1 FAMC @F42@
 2 PEDI birth
@@ -1471,6 +1735,8 @@
 2 DATE 1929
 1 DEAT Y
 2 DATE 1987
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F74@
 1 FAMC @F43@
 2 PEDI birth
@@ -1493,6 +1759,8 @@
 1 BIRT
 2 DATE 1935
 1 DEAT Y
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F75@
 1 FAMC @F43@
 2 PEDI birth
@@ -1512,6 +1780,8 @@
 1 DEAT Y
 2 DATE 2003
 1 NOTE Bio notes: Kỵ 17-12
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F76@
 1 FAMC @F43@
 2 PEDI birth
@@ -1532,6 +1802,8 @@
 2 DATE 1930
 1 DEAT Y
 2 DATE 2005
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F77@
 1 FAMC @F45@
 2 PEDI birth
@@ -1551,6 +1823,8 @@
 1 DEAT Y
 2 DATE 1992
 1 NOTE Bio notes: Vô tự
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F45@
 2 PEDI birth
 0 @I170@ INDI
@@ -1560,6 +1834,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1940
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F78@
 1 FAMC @F45@
 2 PEDI birth
@@ -1576,6 +1852,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1934
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F79@
 1 FAMS @F160@
 1 FAMC @F45@
@@ -1596,6 +1874,8 @@
 1 DEAT Y
 2 DATE 1972
 1 NOTE Bio notes: Liệt sỹ
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F80@
 1 FAMS @F163@
 1 FAMC @F45@
@@ -1618,6 +1898,8 @@
 1 DEAT Y
 2 DATE 1968
 1 NOTE Bio notes: Liệt sỹ; Kỵ 18-10
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F45@
 2 PEDI birth
 0 @I177@ INDI
@@ -1629,6 +1911,8 @@
 2 DATE 1930
 1 DEAT Y
 2 DATE 3 OCT 2025
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F81@
 1 FAMC @F46@
 2 PEDI birth
@@ -1648,6 +1932,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1932
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F46@
 2 PEDI birth
 0 @I180@ INDI
@@ -1657,6 +1943,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1937
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F82@
 1 FAMS @F167@
 1 FAMC @F46@
@@ -1676,6 +1964,8 @@
 2 GIVN Phan Thị
 2 SURN Giêng
 1 SEX F
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F47@
 2 PEDI birth
 0 @I183@ INDI
@@ -1683,6 +1973,8 @@
 2 GIVN Phan Doãn
 2 SURN Toại
 1 SEX M
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F47@
 2 PEDI birth
 0 @I184@ INDI
@@ -1690,6 +1982,8 @@
 2 GIVN Phan Doãn
 2 SURN Lợi
 1 SEX M
+1 FACT 19
+2 TYPE Generation
 1 FAMC @F47@
 2 PEDI birth
 0 @I185@ INDI
@@ -1701,6 +1995,8 @@
 2 DATE 1924
 1 DEAT Y
 2 DATE 1999
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F83@
 1 FAMS @F168@
 1 FAMC @F47@
@@ -1725,6 +2021,8 @@
 1 DEAT Y
 2 DATE 1980
 1 NOTE Bio notes: Kỵ 2-12
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F84@
 1 FAMC @F49@
 2 PEDI birth
@@ -1743,6 +2041,8 @@
 2 DATE 1938
 1 DEAT Y
 2 DATE 2024
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F85@
 1 FAMC @F49@
 2 PEDI birth
@@ -1761,6 +2061,8 @@
 2 DATE 1935
 1 DEAT Y
 2 DATE 2008
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F86@
 1 FAMS @F174@
 1 FAMC @F49@
@@ -1778,6 +2080,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1934
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F87@
 1 FAMC @F51@
 2 PEDI birth
@@ -1794,6 +2098,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1936
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F88@
 1 FAMC @F51@
 2 PEDI birth
@@ -1810,6 +2116,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1947
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F89@
 1 FAMC @F51@
 2 PEDI birth
@@ -1826,6 +2134,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1954
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F90@
 1 FAMS @F91@
 1 FAMC @F52@
@@ -1843,6 +2153,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1957
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F92@
 1 FAMC @F52@
 2 PEDI birth
@@ -1859,6 +2171,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1961
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F93@
 1 FAMC @F52@
 2 PEDI birth
@@ -1877,6 +2191,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1964
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F94@
 1 FAMC @F52@
 2 PEDI birth
@@ -1893,6 +2209,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1966
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F95@
 1 FAMC @F52@
 2 PEDI birth
@@ -1909,6 +2227,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1969
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F96@
 1 FAMC @F52@
 2 PEDI birth
@@ -1928,6 +2248,8 @@
 1 DEAT Y
 2 DATE 1948
 1 NOTE Bio notes: Tức Ơi
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F97@
 1 FAMC @F98@
 2 PEDI birth
@@ -1948,6 +2270,8 @@
 2 DATE 1917
 1 DEAT Y
 2 DATE 2017
+1 FACT 19
+2 TYPE Generation
 1 FAMS @F99@
 1 FAMS @F100@
 1 FAMC @F98@
@@ -1972,6 +2296,8 @@
 1 DEAT Y
 2 DATE 2016
 1 NOTE Bio notes: ĐV Tiền khởi nghĩa
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F101@
 1 FAMC @F56@
 2 PEDI birth
@@ -1990,6 +2316,8 @@
 2 DATE 1930
 1 DEAT Y
 2 DATE 2025
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F102@
 1 FAMC @F56@
 2 PEDI birth
@@ -2012,6 +2340,8 @@
 2 DATE 1935
 1 DEAT Y
 2 DATE 1998
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F103@
 1 FAMC @F56@
 2 PEDI birth
@@ -2034,6 +2364,8 @@
 1 BIRT
 2 DATE 1939
 1 DEAT Y
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F104@
 1 FAMC @F56@
 2 PEDI birth
@@ -2053,6 +2385,8 @@
 1 DEAT Y
 2 DATE 2007
 1 NOTE Bio notes: Tức Siêu
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F105@
 1 FAMC @F56@
 2 PEDI birth
@@ -2075,6 +2409,8 @@
 2 DATE 1936
 1 DEAT Y
 2 DATE 1973
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F106@
 1 FAMC @F58@
 2 PEDI birth
@@ -2097,6 +2433,8 @@
 2 DATE 1938
 1 DEAT Y
 2 DATE 2017
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F107@
 1 FAMS @F108@
 1 FAMC @F58@
@@ -2114,6 +2452,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1940
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F109@
 1 FAMC @F58@
 2 PEDI birth
@@ -2130,6 +2470,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1943
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F110@
 1 FAMC @F58@
 2 PEDI birth
@@ -2150,6 +2492,8 @@
 1 DEAT Y
 2 DATE 2021
 1 NOTE Bio notes: Kỵ 26-6
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F111@
 1 FAMC @F58@
 2 PEDI birth
@@ -2169,6 +2513,8 @@
 2 DATE 1948
 1 DEAT Y
 2 DATE 2002
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F112@
 1 FAMC @F58@
 2 PEDI birth
@@ -2188,6 +2534,8 @@
 1 DEAT Y
 2 DATE 2021
 1 NOTE Bio notes: Tức Lâm; Vợ 2 tên Nguyễn Thị Hương Trâm? Sinh năm?
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F113@
 1 FAMS @F114@
 1 FAMC @F58@
@@ -2210,6 +2558,8 @@
 1 DEAT Y
 2 DATE 1973
 1 NOTE Bio notes: Liệt sỹ; Kỵ 16-10
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F58@
 2 PEDI birth
 0 @I240@ INDI
@@ -2222,6 +2572,8 @@
 1 DEAT Y
 2 DATE 1929
 1 NOTE Bio notes: Kỵ 25-5
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F60@
 2 PEDI birth
 0 @I241@ INDI
@@ -2233,6 +2585,8 @@
 2 DATE 1930
 1 DEAT Y
 2 DATE 2020
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F115@
 1 FAMC @F60@
 2 PEDI birth
@@ -2256,6 +2610,8 @@
 1 DEAT Y
 2 DATE 2016
 1 NOTE Bio notes: Kỵ 5-7
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F116@
 1 FAMC @F60@
 2 PEDI birth
@@ -2279,6 +2635,8 @@
 2 DATE 1947
 1 DEAT Y
 2 DATE 2018
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F117@
 1 FAMC @F60@
 2 PEDI birth
@@ -2297,6 +2655,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1949
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F118@
 1 FAMC @F60@
 2 PEDI birth
@@ -2315,6 +2675,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1949
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F119@
 1 FAMC @F62@
 2 PEDI birth
@@ -2333,6 +2695,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1952
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F120@
 1 FAMC @F62@
 2 PEDI birth
@@ -2354,6 +2718,8 @@
 1 BIRT
 2 DATE 1954
 1 NOTE Bio notes: Mất sớm
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F62@
 2 PEDI birth
 0 @I254@ INDI
@@ -2364,6 +2730,8 @@
 1 BIRT
 2 DATE 1957
 1 DEAT Y
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F121@
 1 FAMC @F62@
 2 PEDI birth
@@ -2382,6 +2750,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1965
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F122@
 1 FAMC @F62@
 2 PEDI birth
@@ -2400,6 +2770,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1941
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F123@
 1 FAMC @F61@
 2 PEDI birth
@@ -2418,6 +2790,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1941
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F124@
 1 FAMC @F63@
 2 PEDI birth
@@ -2434,6 +2808,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1944
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F125@
 1 FAMC @F63@
 2 PEDI birth
@@ -2452,6 +2828,8 @@
 2 DATE 1946
 1 DEAT Y
 2 DATE 1956
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F64@
 2 PEDI birth
 0 @I265@ INDI
@@ -2462,6 +2840,8 @@
 1 BIRT
 2 DATE 1950
 1 NOTE Bio notes: Vô tự
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F126@
 1 FAMC @F64@
 2 PEDI birth
@@ -2478,6 +2858,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1958
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F127@
 1 FAMC @F64@
 2 PEDI birth
@@ -2494,6 +2876,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1960
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F128@
 1 FAMC @F64@
 2 PEDI birth
@@ -2512,6 +2896,8 @@
 2 DATE 1945
 1 DEAT Y
 2 DATE 2017
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F66@
 2 PEDI birth
 0 @I272@ INDI
@@ -2521,6 +2907,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1947
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F129@
 1 FAMC @F66@
 2 PEDI birth
@@ -2537,6 +2925,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1950
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F130@
 1 FAMC @F66@
 2 PEDI birth
@@ -2553,6 +2943,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1952
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F66@
 2 PEDI birth
 0 @I277@ INDI
@@ -2562,6 +2954,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1954
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F131@
 1 FAMC @F66@
 2 PEDI birth
@@ -2578,6 +2972,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1956
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F132@
 1 FAMC @F66@
 2 PEDI birth
@@ -2594,6 +2990,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1960
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F133@
 1 FAMC @F66@
 2 PEDI birth
@@ -2610,6 +3008,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1948
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F134@
 1 FAMC @F67@
 2 PEDI birth
@@ -2629,6 +3029,8 @@
 1 DEAT Y
 2 DATE 2017
 1 NOTE Bio notes: BB- 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F135@
 1 FAMC @F68@
 2 PEDI birth
@@ -2638,6 +3040,8 @@
 2 SURN Diên
 1 SEX F
 1 NOTE Bio notes: LR - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F135@
 0 @I287@ INDI
 1 NAME Phan Tự /Điền/
@@ -2646,6 +3050,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1949
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F136@
 1 FAMC @F68@
 2 PEDI birth
@@ -2656,6 +3062,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1950
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F136@
 0 @I289@ INDI
 1 NAME Phan Doãn /Quang/
@@ -2665,6 +3073,8 @@
 1 BIRT
 2 DATE 1952
 1 NOTE Bio notes: TB - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F137@
 1 FAMC @F68@
 2 PEDI birth
@@ -2674,6 +3084,8 @@
 2 SURN Nhuần
 1 SEX F
 1 NOTE Bio notes: LR - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F137@
 0 @I291@ INDI
 1 NAME Phan Doãn /Hòa/
@@ -2682,6 +3094,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1954
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F138@
 1 FAMC @F68@
 2 PEDI birth
@@ -2691,6 +3105,8 @@
 2 SURN Lan
 1 SEX F
 1 NOTE Bio notes: LR -20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F138@
 0 @I293@ INDI
 1 NAME Phan Thanh /Lâm/
@@ -2700,6 +3116,8 @@
 1 BIRT
 2 DATE 1956
 1 NOTE Bio notes: TD -20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F139@
 1 FAMS @F140@
 1 FAMC @F68@
@@ -2712,6 +3130,8 @@
 1 BIRT
 2 DATE 1962
 1 NOTE Bio notes: TD - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F139@
 0 @I295@ INDI
 1 NAME Nguyễn Thị /Đào/
@@ -2721,6 +3141,8 @@
 1 BIRT
 2 DATE 1970
 1 NOTE Bio notes: TD - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F140@
 0 @I296@ INDI
 1 NAME Phan Doãn /Thanh/
@@ -2730,6 +3152,8 @@
 1 BIRT
 2 DATE 1963
 1 NOTE Bio notes: TD - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F141@
 1 FAMC @F68@
 2 PEDI birth
@@ -2741,6 +3165,8 @@
 1 BIRT
 2 DATE 1961
 1 NOTE Bio notes: TD - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F141@
 0 @I298@ INDI
 1 NAME Phan Thị Thanh /Mai/
@@ -2750,6 +3176,8 @@
 1 BIRT
 2 DATE 1969
 1 NOTE Bio notes: TD - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F142@
 1 FAMC @F68@
 2 PEDI birth
@@ -2761,6 +3189,8 @@
 1 BIRT
 2 DATE 1966
 1 NOTE Bio notes: CA - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F142@
 0 @I300@ INDI
 1 NAME Phan Thị Xuân /Chi/
@@ -2772,6 +3202,8 @@
 1 DEAT Y
 2 DATE 1963
 1 NOTE Bio notes: CHẾT - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F68@
 2 PEDI birth
 0 @I301@ INDI
@@ -2779,6 +3211,8 @@
 2 GIVN Nguyễn Thị
 2 SURN Nhung
 1 SEX F
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F69@
 2 PEDI birth
 0 @I302@ INDI
@@ -2786,6 +3220,8 @@
 2 GIVN Nguyễn Thị
 2 SURN Vinh
 1 SEX F
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F69@
 2 PEDI birth
 0 @I303@ INDI
@@ -2793,6 +3229,8 @@
 2 GIVN Nguyễn Văn
 2 SURN Dương
 1 SEX M
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F69@
 2 PEDI birth
 0 @I304@ INDI
@@ -2802,6 +3240,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1957
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F143@
 1 FAMC @F71@
 2 PEDI birth
@@ -2813,6 +3253,8 @@
 1 BIRT
 2 DATE 1953
 1 NOTE Bio notes: GSTS-TS - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F143@
 0 @I306@ INDI
 1 NAME Phan Thanh /Diện/
@@ -2822,6 +3264,8 @@
 1 BIRT
 2 DATE 1959
 1 NOTE Bio notes: -20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F144@
 1 FAMC @F71@
 2 PEDI birth
@@ -2839,6 +3283,8 @@
 1 BIRT
 2 DATE 1969
 1 NOTE Bio notes: Cử N - 20
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F145@
 1 FAMC @F71@
 2 PEDI birth
@@ -2849,6 +3295,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1975
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F145@
 0 @I310@ INDI
 1 NAME Phan Doãn /Bình/
@@ -2859,6 +3307,8 @@
 2 DATE 1938
 1 DEAT Y
 2 DATE 2004
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F146@
 1 FAMC @F147@
 2 PEDI birth
@@ -2877,6 +3327,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1958
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F148@
 1 FAMC @F73@
 2 PEDI birth
@@ -2895,6 +3347,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1962
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F149@
 1 FAMC @F73@
 2 PEDI birth
@@ -2913,6 +3367,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1965
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F73@
 2 PEDI birth
 0 @I317@ INDI
@@ -2922,6 +3378,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1969
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F150@
 1 FAMC @F73@
 2 PEDI birth
@@ -2940,6 +3398,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1973
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F73@
 2 PEDI birth
 0 @I320@ INDI
@@ -2949,6 +3409,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1976
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F151@
 1 FAMC @F73@
 2 PEDI birth
@@ -2967,6 +3429,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1956
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F152@
 1 FAMC @F74@
 2 PEDI birth
@@ -2983,6 +3447,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1960
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F153@
 1 FAMC @F74@
 2 PEDI birth
@@ -2999,6 +3465,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1962
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F154@
 1 FAMC @F74@
 2 PEDI birth
@@ -3015,6 +3483,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1965
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F74@
 2 PEDI birth
 0 @I329@ INDI
@@ -3025,6 +3495,8 @@
 1 BIRT
 2 DATE 1951
 1 NOTE Bio notes: Tức Nhật
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F74@
 2 PEDI birth
 0 @I330@ INDI
@@ -3034,6 +3506,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1975
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F74@
 2 PEDI birth
 0 @I331@ INDI
@@ -3043,6 +3517,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1977
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F75@
 2 PEDI birth
 0 @I332@ INDI
@@ -3052,6 +3528,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1985
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F75@
 2 PEDI birth
 0 @I333@ INDI
@@ -3061,6 +3539,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1971
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F155@
 1 FAMC @F76@
 2 PEDI birth
@@ -3081,6 +3561,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1973
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F156@
 1 FAMC @F76@
 2 PEDI birth
@@ -3099,6 +3581,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1978
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F157@
 1 FAMC @F76@
 2 PEDI birth
@@ -3117,6 +3601,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1982
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F158@
 1 FAMC @F76@
 2 PEDI birth
@@ -3135,6 +3621,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1985
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F159@
 1 FAMC @F76@
 2 PEDI birth
@@ -3153,6 +3641,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1971
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F160@
 2 PEDI birth
 0 @I344@ INDI
@@ -3162,6 +3652,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1974
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F160@
 2 PEDI birth
 0 @I345@ INDI
@@ -3171,6 +3663,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1977
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F160@
 2 PEDI birth
 0 @I346@ INDI
@@ -3180,6 +3674,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1981
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F160@
 2 PEDI birth
 0 @I347@ INDI
@@ -3189,6 +3685,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1986
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F161@
 1 FAMC @F160@
 2 PEDI birth
@@ -3205,6 +3703,8 @@
 2 GIVN Phan Thị
 2 SURN Hồng
 1 SEX F
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F160@
 2 PEDI birth
 0 @I350@ INDI
@@ -3212,6 +3712,8 @@
 2 GIVN Phan Thị
 2 SURN Hà
 1 SEX F
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F160@
 2 PEDI birth
 0 @I351@ INDI
@@ -3221,6 +3723,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1972
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F162@
 1 FAMC @F163@
 2 PEDI birth
@@ -3237,6 +3741,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1956
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F164@
 1 FAMC @F81@
 2 PEDI birth
@@ -3257,6 +3763,8 @@
 2 DATE 1964
 1 DEAT Y
 2 DATE 10 NOV 2015
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F81@
 2 PEDI birth
 0 @I356@ INDI
@@ -3266,6 +3774,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1968
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F81@
 2 PEDI birth
 0 @I357@ INDI
@@ -3275,6 +3785,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1970
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F165@
 1 FAMC @F81@
 2 PEDI birth
@@ -3293,6 +3805,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1963
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F166@
 1 FAMC @F167@
 2 PEDI birth
@@ -3311,6 +3825,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1965
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F167@
 2 PEDI birth
 0 @I362@ INDI
@@ -3320,6 +3836,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1948
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F168@
 2 PEDI birth
 0 @I363@ INDI
@@ -3330,6 +3848,8 @@
 1 BIRT
 2 DATE 1950
 1 DEAT Y
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F169@
 1 FAMC @F168@
 2 PEDI birth
@@ -3346,6 +3866,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1954
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F170@
 1 FAMC @F168@
 2 PEDI birth
@@ -3362,6 +3884,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1956
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F168@
 2 PEDI birth
 0 @I368@ INDI
@@ -3371,6 +3895,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1958
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F168@
 2 PEDI birth
 0 @I369@ INDI
@@ -3380,6 +3906,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1960
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F168@
 2 PEDI birth
 0 @I370@ INDI
@@ -3389,6 +3917,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1962
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F168@
 2 PEDI birth
 0 @I371@ INDI
@@ -3398,6 +3928,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1964
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F171@
 1 FAMC @F168@
 2 PEDI birth
@@ -3414,6 +3946,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1968
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F168@
 2 PEDI birth
 0 @I374@ INDI
@@ -3423,6 +3957,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1971
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F168@
 2 PEDI birth
 0 @I375@ INDI
@@ -3435,6 +3971,8 @@
 1 DEAT Y
 2 DATE 1978
 1 NOTE Bio notes: Liệt sỹ
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F281@
 1 FAMC @F84@
 2 PEDI birth
@@ -3447,6 +3985,8 @@
 2 DATE 1954
 1 DEAT Y
 2 DATE 2008
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F282@
 1 FAMC @F84@
 2 PEDI birth
@@ -3457,6 +3997,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1956
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F84@
 2 PEDI birth
 0 @I378@ INDI
@@ -3466,6 +4008,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1958
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F84@
 2 PEDI birth
 0 @I379@ INDI
@@ -3475,6 +4019,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1960
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F172@
 1 FAMC @F84@
 2 PEDI birth
@@ -3493,6 +4039,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1962
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F84@
 2 PEDI birth
 0 @I382@ INDI
@@ -3502,6 +4050,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1966
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F84@
 2 PEDI birth
 0 @I383@ INDI
@@ -3513,6 +4063,8 @@
 2 DATE 1970
 1 DEAT Y
 2 DATE 2014
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F173@
 1 FAMC @F84@
 2 PEDI birth
@@ -3531,6 +4083,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1963
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F85@
 2 PEDI birth
 0 @I386@ INDI
@@ -3540,6 +4094,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1966
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F85@
 2 PEDI birth
 0 @I387@ INDI
@@ -3549,6 +4105,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1969
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F85@
 2 PEDI birth
 0 @I388@ INDI
@@ -3558,6 +4116,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1973
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F85@
 2 PEDI birth
 0 @I389@ INDI
@@ -3567,6 +4127,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1976
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F85@
 2 PEDI birth
 0 @I390@ INDI
@@ -3576,6 +4138,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1979
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F85@
 2 PEDI birth
 0 @I391@ INDI
@@ -3587,6 +4151,8 @@
 2 DATE 1981
 1 DEAT Y
 2 DATE 2011
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F85@
 2 PEDI birth
 0 @I392@ INDI
@@ -3596,6 +4162,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1986
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F85@
 2 PEDI birth
 0 @I393@ INDI
@@ -3605,6 +4173,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1963
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F174@
 2 PEDI birth
 0 @I394@ INDI
@@ -3614,6 +4184,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1965
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F174@
 2 PEDI birth
 0 @I395@ INDI
@@ -3623,6 +4195,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1967
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F174@
 2 PEDI birth
 0 @I396@ INDI
@@ -3632,6 +4206,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1961
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F174@
 2 PEDI birth
 0 @I397@ INDI
@@ -3641,6 +4217,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1964
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F175@
 1 FAMC @F87@
 2 PEDI birth
@@ -3657,6 +4235,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1968
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F176@
 1 FAMC @F87@
 2 PEDI birth
@@ -3675,6 +4255,8 @@
 2 DATE 1975
 1 DEAT Y
 2 DATE 1975
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F177@
 1 FAMC @F87@
 2 PEDI birth
@@ -3693,6 +4275,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1961
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F87@
 2 PEDI birth
 0 @I404@ INDI
@@ -3704,6 +4288,8 @@
 2 DATE 1964
 1 DEAT Y
 2 DATE 2008
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F178@
 1 FAMC @F88@
 2 PEDI birth
@@ -3720,6 +4306,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1969
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F179@
 1 FAMC @F88@
 2 PEDI birth
@@ -3738,6 +4326,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1975
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F180@
 1 FAMC @F88@
 2 PEDI birth
@@ -3756,6 +4346,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1977
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F88@
 2 PEDI birth
 0 @I411@ INDI
@@ -3765,6 +4357,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1986
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F89@
 2 PEDI birth
 0 @I412@ INDI
@@ -3774,6 +4368,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1986
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F89@
 2 PEDI birth
 0 @I413@ INDI
@@ -3783,6 +4379,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1979
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F90@
 2 PEDI birth
 0 @I414@ INDI
@@ -3792,6 +4390,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1983
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F181@
 1 FAMC @F90@
 2 PEDI birth
@@ -3808,6 +4408,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1996
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F90@
 2 PEDI birth
 0 @I417@ INDI
@@ -3817,6 +4419,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1989
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F182@
 1 FAMC @F92@
 2 PEDI birth
@@ -3833,6 +4437,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1991
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F92@
 2 PEDI birth
 0 @I420@ INDI
@@ -3842,6 +4448,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1996
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F92@
 2 PEDI birth
 0 @I421@ INDI
@@ -3851,6 +4459,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1996
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F183@
 1 FAMC @F93@
 2 PEDI birth
@@ -3869,6 +4479,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2005
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F93@
 2 PEDI birth
 0 @I424@ INDI
@@ -3878,6 +4490,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2003
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F94@
 2 PEDI birth
 0 @I425@ INDI
@@ -3887,6 +4501,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1992
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F94@
 2 PEDI birth
 0 @I426@ INDI
@@ -3896,6 +4512,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1997
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F95@
 2 PEDI birth
 0 @I427@ INDI
@@ -3905,6 +4523,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2000
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F95@
 2 PEDI birth
 0 @I428@ INDI
@@ -3914,6 +4534,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2002
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F95@
 2 PEDI birth
 0 @I429@ INDI
@@ -3923,6 +4545,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1994
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F184@
 1 FAMC @F96@
 2 PEDI birth
@@ -3939,6 +4563,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1997
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F96@
 2 PEDI birth
 0 @I432@ INDI
@@ -3951,6 +4577,8 @@
 1 DEAT Y
 2 DATE 2008
 1 NOTE Bio notes: Đại tá Lê Văn Thọ; Kỵ 4-2
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F185@
 1 FAMS @F186@
 1 FAMC @F97@
@@ -3968,6 +4596,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1931
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F97@
 2 PEDI birth
 0 @I435@ INDI
@@ -3977,6 +4607,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1935
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F187@
 1 FAMC @F97@
 2 PEDI birth
@@ -3993,6 +4625,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1936
+1 FACT 20
+2 TYPE Generation
 1 FAMS @F188@
 1 FAMC @F97@
 2 PEDI birth
@@ -4011,6 +4645,8 @@
 2 DATE 1942
 1 DEAT Y
 2 DATE 2018
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F97@
 2 PEDI birth
 0 @I440@ INDI
@@ -4020,6 +4656,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1945
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F97@
 2 PEDI birth
 0 @I441@ INDI
@@ -4028,6 +4666,8 @@
 2 SURN Tuấn
 1 SEX M
 1 NOTE Bio notes: Định cư ở Pháp
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F99@
 2 PEDI birth
 0 @I442@ INDI
@@ -4036,6 +4676,8 @@
 2 SURN Anh
 1 SEX F
 1 NOTE Bio notes: Định cư ở Mỹ
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F99@
 2 PEDI birth
 0 @I443@ INDI
@@ -4044,6 +4686,8 @@
 2 SURN Xuân
 1 SEX F
 1 NOTE Bio notes: Con nuôi
+1 FACT 20
+2 TYPE Generation
 1 FAMC @F99@
 2 PEDI birth
 0 @I444@ INDI
@@ -4053,6 +4697,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1965
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F189@
 1 FAMC @F103@
 2 PEDI birth
@@ -4071,6 +4717,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1967
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F190@
 1 FAMC @F103@
 2 PEDI birth
@@ -4089,6 +4737,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1970
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F191@
 1 FAMC @F103@
 2 PEDI birth
@@ -4107,6 +4757,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1973
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F192@
 1 FAMC @F103@
 2 PEDI birth
@@ -4117,6 +4769,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1983
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F192@
 0 @I452@ INDI
 1 NAME Phan Chí /Lệ/
@@ -4125,6 +4779,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1980
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F193@
 1 FAMC @F103@
 2 PEDI birth
@@ -4143,6 +4799,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1962
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F194@
 1 FAMC @F103@
 2 PEDI birth
@@ -4159,6 +4817,8 @@
 2 GIVN Phan Bình
 2 SURN Sơn
 1 SEX M
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F195@
 1 FAMC @F104@
 2 PEDI birth
@@ -4179,6 +4839,8 @@
 2 DATE 1980
 1 DEAT Y
 2 DATE 2021
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F104@
 2 PEDI birth
 0 @I459@ INDI
@@ -4188,6 +4850,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1972
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F196@
 1 FAMC @F105@
 2 PEDI birth
@@ -4196,6 +4860,8 @@
 2 GIVN Hà Thị
 2 SURN Nga
 1 SEX F
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F196@
 0 @I461@ INDI
 1 NAME Phan Thanh /Hùng/
@@ -4204,6 +4870,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1974
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F197@
 1 FAMC @F105@
 2 PEDI birth
@@ -4222,6 +4890,8 @@
 2 DATE 1977
 1 DEAT Y
 2 DATE 2009
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F105@
 2 PEDI birth
 0 @I464@ INDI
@@ -4231,6 +4901,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1979
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F105@
 2 PEDI birth
 0 @I465@ INDI
@@ -4240,6 +4912,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1961
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F106@
 2 PEDI birth
 0 @I466@ INDI
@@ -4249,6 +4923,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1962
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F198@
 1 FAMC @F106@
 2 PEDI birth
@@ -4265,6 +4941,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1964
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F199@
 1 FAMC @F106@
 2 PEDI birth
@@ -4281,6 +4959,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1966
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F200@
 1 FAMC @F106@
 2 PEDI birth
@@ -4299,6 +4979,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1968
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F201@
 1 FAMC @F106@
 2 PEDI birth
@@ -4317,6 +4999,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1972
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F106@
 2 PEDI birth
 0 @I475@ INDI
@@ -4326,6 +5010,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1972
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F106@
 2 PEDI birth
 0 @I476@ INDI
@@ -4335,6 +5021,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1973
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F106@
 2 PEDI birth
 0 @I477@ INDI
@@ -4344,6 +5032,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1970
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F224@
 1 FAMC @F107@
 2 PEDI birth
@@ -4354,6 +5044,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1973
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F202@
 1 FAMC @F107@
 2 PEDI birth
@@ -4370,6 +5062,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1977
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F107@
 2 PEDI birth
 0 @I481@ INDI
@@ -4379,6 +5073,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1977
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F110@
 2 PEDI birth
 0 @I482@ INDI
@@ -4388,6 +5084,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1990
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F110@
 2 PEDI birth
 0 @I483@ INDI
@@ -4397,6 +5095,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1992
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F110@
 2 PEDI birth
 0 @I484@ INDI
@@ -4406,6 +5106,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1971
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F111@
 2 PEDI birth
 0 @I485@ INDI
@@ -4415,6 +5117,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1973
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F111@
 2 PEDI birth
 0 @I486@ INDI
@@ -4424,6 +5128,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1975
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F225@
 1 FAMC @F111@
 2 PEDI birth
@@ -4434,6 +5140,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1977
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F111@
 2 PEDI birth
 0 @I488@ INDI
@@ -4443,6 +5151,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1957
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F116@
 2 PEDI birth
 0 @I489@ INDI
@@ -4452,6 +5162,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1960
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F203@
 1 FAMC @F116@
 2 PEDI birth
@@ -4462,6 +5174,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1960
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F203@
 0 @I491@ INDI
 1 NAME Phan Trần Bình /Minh/
@@ -4470,6 +5184,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1964
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F204@
 1 FAMC @F116@
 2 PEDI birth
@@ -4488,6 +5204,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1966
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F205@
 1 FAMC @F116@
 2 PEDI birth
@@ -4506,6 +5224,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1969
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F116@
 2 PEDI birth
 0 @I496@ INDI
@@ -4515,6 +5235,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1972
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F116@
 2 PEDI birth
 0 @I497@ INDI
@@ -4524,6 +5246,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1982
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F118@
 2 PEDI birth
 0 @I498@ INDI
@@ -4533,6 +5257,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1986
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F118@
 2 PEDI birth
 0 @I499@ INDI
@@ -4542,6 +5268,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1990
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F206@
 1 FAMC @F118@
 2 PEDI birth
@@ -4561,6 +5289,8 @@
 1 BIRT
 2 DATE 2000
 1 NOTE Bio notes: TD - 19
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F135@
 2 PEDI birth
 0 @I502@ INDI
@@ -4571,6 +5301,8 @@
 1 BIRT
 2 DATE 2002
 1 NOTE Bio notes: TD - 19
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F135@
 2 PEDI birth
 0 @I503@ INDI
@@ -4581,6 +5313,8 @@
 1 BIRT
 2 DATE 2004
 1 NOTE Bio notes: SV - 19
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F135@
 2 PEDI birth
 0 @I504@ INDI
@@ -4593,6 +5327,8 @@
 1 DEAT Y
 2 DATE 2013
 1 NOTE Bio notes: CN - 19
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F207@
 1 FAMC @F136@
 2 PEDI birth
@@ -4604,6 +5340,8 @@
 1 BIRT
 2 DATE 1982
 1 NOTE Bio notes: TD - 19
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F207@
 0 @I506@ INDI
 1 NAME Phan Mạnh /Dần/
@@ -4613,6 +5351,8 @@
 1 BIRT
 2 DATE 1975
 1 NOTE Bio notes: TSKH - 19
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F208@
 1 FAMC @F136@
 2 PEDI birth
@@ -4624,6 +5364,8 @@
 1 BIRT
 2 DATE 1976
 1 NOTE Bio notes: CA - 19
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F208@
 0 @I508@ INDI
 1 NAME Phan Thị Minh /Hoa/
@@ -4633,6 +5375,8 @@
 1 BIRT
 2 DATE 1981
 1 NOTE Bio notes: TD - 19
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F209@
 1 FAMC @F136@
 2 PEDI birth
@@ -4644,6 +5388,8 @@
 1 BIRT
 2 DATE 1976
 1 NOTE Bio notes: TD - 19
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F209@
 0 @I510@ INDI
 1 NAME Phan Tất /Hải/
@@ -4652,6 +5398,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1992
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F210@
 1 FAMC @F137@
 2 PEDI birth
@@ -4662,6 +5410,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1995
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F210@
 0 @I512@ INDI
 1 NAME Phan Thị /Thủy/
@@ -4670,6 +5420,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1989
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F211@
 1 FAMC @F137@
 2 PEDI birth
@@ -4680,6 +5432,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1987
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F211@
 0 @I514@ INDI
 1 NAME Phan Thị /Hoài/
@@ -4688,6 +5442,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1981
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F212@
 1 FAMC @F137@
 2 PEDI birth
@@ -4698,6 +5454,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1982
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F212@
 0 @I516@ INDI
 1 NAME Phan Doãn /Huy/
@@ -4706,6 +5464,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1978
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F213@
 1 FAMC @F137@
 2 PEDI birth
@@ -4716,6 +5476,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1979
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F213@
 0 @I518@ INDI
 1 NAME Phan Tất /Võ/
@@ -4724,6 +5486,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1981
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F214@
 1 FAMS @F215@
 1 FAMC @F138@
@@ -4735,6 +5499,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1985
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F214@
 0 @I520@ INDI
 1 NAME Luân Thị Phương /Lan/
@@ -4743,6 +5509,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1988
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F215@
 0 @I521@ INDI
 1 NAME Phan Thu /Huyền/
@@ -4751,6 +5519,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1984
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F216@
 1 FAMC @F138@
 2 PEDI birth
@@ -4763,6 +5533,8 @@
 2 DATE 1985
 1 DEAT Y
 2 DATE 2025
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F216@
 0 @I523@ INDI
 1 NAME Phan Thanh /Tiệp/
@@ -4771,6 +5543,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1989
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F139@
 2 PEDI birth
 0 @I524@ INDI
@@ -4780,6 +5554,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1997
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F140@
 2 PEDI birth
 0 @I525@ INDI
@@ -4789,6 +5565,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2002
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F140@
 2 PEDI birth
 0 @I526@ INDI
@@ -4798,6 +5576,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1987
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F141@
 2 PEDI birth
 0 @I527@ INDI
@@ -4807,6 +5587,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1989
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F217@
 1 FAMC @F141@
 2 PEDI birth
@@ -4817,6 +5599,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1997
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F217@
 0 @I529@ INDI
 1 NAME Phan Tất /Chương/
@@ -4825,6 +5609,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1992
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F218@
 1 FAMC @F141@
 2 PEDI birth
@@ -4835,6 +5621,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1996
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F218@
 0 @I531@ INDI
 1 NAME Trần Hà /Giang/
@@ -4843,6 +5631,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1992
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F142@
 2 PEDI birth
 0 @I532@ INDI
@@ -4850,6 +5640,8 @@
 2 GIVN Trần Nam
 2 SURN Phương
 1 SEX F
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F142@
 2 PEDI birth
 0 @I533@ INDI
@@ -4859,6 +5651,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1984
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F219@
 1 FAMC @F143@
 2 PEDI birth
@@ -4869,6 +5663,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1990
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F219@
 0 @I535@ INDI
 1 NAME Ngô Hà /Quyên/
@@ -4877,6 +5673,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1990
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F220@
 1 FAMC @F143@
 2 PEDI birth
@@ -4887,6 +5685,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1991
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F220@
 0 @I537@ INDI
 1 NAME Phan Thanh /Liêm/
@@ -4895,6 +5695,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1994
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F144@
 2 PEDI birth
 0 @I538@ INDI
@@ -4904,6 +5706,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1985
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F144@
 2 PEDI birth
 0 @I539@ INDI
@@ -4913,6 +5717,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1998
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F145@
 2 PEDI birth
 0 @I540@ INDI
@@ -4922,6 +5728,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2004
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F221@
 1 FAMC @F145@
 2 PEDI birth
@@ -4932,6 +5740,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1997
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F221@
 0 @I542@ INDI
 1 NAME Phan Trí /Đỉnh/
@@ -4940,6 +5750,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1951
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F229@
 1 FAMC @F185@
 2 PEDI birth
@@ -4952,6 +5764,8 @@
 2 DATE 1957
 1 DEAT Y
 2 DATE 2026
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F253@
 1 FAMC @F185@
 2 PEDI birth
@@ -4968,6 +5782,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1957
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F187@
 2 PEDI birth
 0 @I546@ INDI
@@ -4977,6 +5793,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1958
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F222@
 1 FAMS @F230@
 1 FAMC @F187@
@@ -4994,6 +5812,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1963
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F187@
 2 PEDI birth
 0 @I549@ INDI
@@ -5003,6 +5823,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1963
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F231@
 1 FAMC @F188@
 2 PEDI birth
@@ -5013,6 +5835,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1967
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F254@
 1 FAMC @F188@
 2 PEDI birth
@@ -5023,6 +5847,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1978
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F188@
 2 PEDI birth
 0 @I552@ INDI
@@ -5035,6 +5861,8 @@
 1 DEAT Y
 2 DATE 2009
 1 NOTE Bio notes: Liệt sĩ
+1 FACT 21
+2 TYPE Generation
 1 FAMC @F188@
 2 PEDI birth
 0 @I553@ INDI
@@ -5044,6 +5872,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1983
+1 FACT 21
+2 TYPE Generation
 1 FAMS @F223@
 1 FAMS @F232@
 1 FAMC @F188@
@@ -5063,6 +5893,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2007
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F192@
 2 PEDI birth
 0 @I556@ INDI
@@ -5072,6 +5904,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2010
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F192@
 2 PEDI birth
 0 @I557@ INDI
@@ -5081,6 +5915,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2017
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F192@
 2 PEDI birth
 0 @I558@ INDI
@@ -5090,6 +5926,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2010
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F195@
 2 PEDI birth
 0 @I559@ INDI
@@ -5099,6 +5937,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2011
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F195@
 2 PEDI birth
 0 @I560@ INDI
@@ -5108,6 +5948,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2008
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F196@
 2 PEDI birth
 0 @I561@ INDI
@@ -5117,6 +5959,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2006
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F197@
 2 PEDI birth
 0 @I562@ INDI
@@ -5126,6 +5970,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2008
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F197@
 2 PEDI birth
 0 @I563@ INDI
@@ -5135,6 +5981,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1990
+1 FACT 22
+2 TYPE Generation
 1 FAMS @F233@
 1 FAMC @F198@
 2 PEDI birth
@@ -5145,6 +5993,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1995
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F198@
 2 PEDI birth
 0 @I565@ INDI
@@ -5154,6 +6004,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1995
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F199@
 2 PEDI birth
 0 @I566@ INDI
@@ -5163,6 +6015,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1997
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F199@
 2 PEDI birth
 0 @I567@ INDI
@@ -5172,6 +6026,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1996
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F200@
 2 PEDI birth
 0 @I568@ INDI
@@ -5181,6 +6037,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2004
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F200@
 2 PEDI birth
 0 @I569@ INDI
@@ -5190,6 +6048,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1999
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F201@
 2 PEDI birth
 0 @I570@ INDI
@@ -5199,6 +6059,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2005
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F201@
 2 PEDI birth
 0 @I571@ INDI
@@ -5206,6 +6068,8 @@
 2 GIVN Phan Châu
 2 SURN Long
 1 SEX M
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F224@
 2 PEDI birth
 0 @I572@ INDI
@@ -5215,6 +6079,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2003
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F202@
 2 PEDI birth
 0 @I573@ INDI
@@ -5224,6 +6090,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2007
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F202@
 2 PEDI birth
 0 @I574@ INDI
@@ -5233,6 +6101,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2003
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F225@
 2 PEDI birth
 0 @I575@ INDI
@@ -5242,6 +6112,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1987
+1 FACT 22
+2 TYPE Generation
 1 FAMS @F226@
 1 FAMC @F203@
 2 PEDI birth
@@ -5260,6 +6132,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1989
+1 FACT 22
+2 TYPE Generation
 1 FAMS @F227@
 1 FAMC @F203@
 2 PEDI birth
@@ -5278,6 +6152,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1990
+1 FACT 22
+2 TYPE Generation
 1 FAMS @F246@
 1 FAMC @F204@
 2 PEDI birth
@@ -5289,6 +6165,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1999
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F204@
 2 PEDI birth
 0 @I581@ INDI
@@ -5298,6 +6176,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1993
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F205@
 2 PEDI birth
 0 @I582@ INDI
@@ -5307,6 +6187,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1995
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F205@
 2 PEDI birth
 0 @I583@ INDI
@@ -5316,6 +6198,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2020
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F206@
 2 PEDI birth
 0 @I584@ INDI
@@ -5325,6 +6209,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2024
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F206@
 2 PEDI birth
 0 @I585@ INDI
@@ -5334,6 +6220,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2008
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F207@
 2 PEDI birth
 0 @I586@ INDI
@@ -5343,6 +6231,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2003
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F208@
 2 PEDI birth
 0 @I587@ INDI
@@ -5352,6 +6242,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2011
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F208@
 2 PEDI birth
 0 @I588@ INDI
@@ -5361,6 +6253,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2014
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F208@
 2 PEDI birth
 0 @I589@ INDI
@@ -5370,6 +6264,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2008
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F209@
 2 PEDI birth
 0 @I590@ INDI
@@ -5379,6 +6275,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2010
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F209@
 2 PEDI birth
 0 @I591@ INDI
@@ -5388,6 +6286,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2010
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F214@
 2 PEDI birth
 0 @I592@ INDI
@@ -5397,6 +6297,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2012
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F214@
 2 PEDI birth
 0 @I593@ INDI
@@ -5406,6 +6308,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2016
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F215@
 2 PEDI birth
 0 @I594@ INDI
@@ -5415,6 +6319,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2022
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F215@
 2 PEDI birth
 0 @I595@ INDI
@@ -5424,6 +6330,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2010
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F216@
 2 PEDI birth
 0 @I596@ INDI
@@ -5433,6 +6341,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2016
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F216@
 2 PEDI birth
 0 @I597@ INDI
@@ -5442,6 +6352,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2022
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F217@
 2 PEDI birth
 0 @I598@ INDI
@@ -5451,6 +6363,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1981
+1 FACT 22
+2 TYPE Generation
 1 FAMS @F228@
 1 FAMC @F229@
 2 PEDI birth
@@ -5469,6 +6383,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1983
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F229@
 2 PEDI birth
 0 @I601@ INDI
@@ -5489,6 +6405,8 @@
 1 SEX M
 1 BIRT
 2 DATE 1991
+1 FACT 22
+2 TYPE Generation
 1 FAMS @F234@
 1 FAMC @F230@
 2 PEDI birth
@@ -5499,6 +6417,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1997
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F230@
 2 PEDI birth
 0 @I604@ INDI
@@ -5508,6 +6428,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1997
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F231@
 2 PEDI birth
 0 @I605@ INDI
@@ -5517,6 +6439,8 @@
 1 SEX F
 1 BIRT
 2 DATE 1989
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F231@
 2 PEDI birth
 0 @I606@ INDI
@@ -5526,6 +6450,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2013
+1 FACT 22
+2 TYPE Generation
 1 FAMC @F232@
 2 PEDI birth
 0 @I607@ INDI
@@ -5535,6 +6461,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2018
+1 FACT 23
+2 TYPE Generation
 1 FAMC @F233@
 2 PEDI birth
 0 @I608@ INDI
@@ -5544,6 +6472,8 @@
 1 SEX F
 1 BIRT
 2 DATE 2021
+1 FACT 23
+2 TYPE Generation
 1 FAMC @F233@
 2 PEDI birth
 0 @I609@ INDI
@@ -5553,6 +6483,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2008
+1 FACT 23
+2 TYPE Generation
 1 FAMC @F228@
 2 PEDI birth
 0 @I610@ INDI
@@ -5562,6 +6494,8 @@
 1 SEX M
 1 BIRT
 2 DATE 2019
+1 FACT 23
+2 TYPE Generation
 1 FAMC @F234@
 2 PEDI birth
 0 @I611@ INDI
