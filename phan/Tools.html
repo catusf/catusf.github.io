@@ -1,57 +1,131 @@
 <!doctype html>
-<html lang="vi" data-theme="dark">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Họ Phan — Công cụ Gia phả</title>
-  <link rel="stylesheet" href="theme.css">
+  <title>Phan Tools</title>
+  <link rel="icon" href="favicon.png" type="image/png">
   <style>
-    body{display:flex;flex-direction:column}
-    .page-wrap{flex:1;display:flex;justify-content:center;padding:40px 16px}
-    .page{width:min(100%,640px)}
-    .page h1{font-size:28px;font-weight:400;letter-spacing:-.5px;margin-bottom:4px}
-    .page .sub{font-size:14px;color:var(--md-on-surface-var);margin-bottom:32px;line-height:1.6}
-    .tools{list-style:none;display:grid;gap:12px}
-    .tool-card{background:var(--md-surface-1);border-radius:var(--r-md);padding:16px 20px;
-      cursor:pointer;transition:box-shadow .2s,background .15s;display:block;text-decoration:none;color:inherit}
-    .tool-card:hover{box-shadow:var(--md-elev-1);background:var(--md-surface-2)}
-    .tool-head{display:flex;align-items:center;gap:12px;margin-bottom:4px}
-    .tool-icon{width:40px;height:40px;border-radius:var(--r-full);
-      background:var(--md-primary-ctr);color:var(--md-on-primary-ctr);
-      display:flex;align-items:center;justify-content:center;flex-shrink:0}
-    .tool-icon .mi{font-size:20px}
-    .tool-name{font-size:16px;font-weight:500;letter-spacing:.15px}
-    .tool-desc{font-size:13px;color:var(--md-on-surface-var);line-height:1.5;padding-left:52px}
+    :root {
+      color-scheme: light;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f7f3ee;
+      color: #1f1b16;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 24px;
+      background: linear-gradient(180deg, #f8f5f0 0%, #e9e4db 100%);
+    }
+    .page {
+      width: min(100%, 760px);
+      padding: 32px 28px;
+      border-radius: 24px;
+      background: rgba(255,255,255,0.92);
+      box-shadow: 0 18px 48px rgba(38, 34, 28, 0.12);
+      border: 1px solid rgba(31, 25, 19, 0.1);
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: clamp(2rem, 2.25vw, 2.6rem);
+      line-height: 1.05;
+      letter-spacing: -0.03em;
+    }
+    p {
+      margin: 0 0 24px;
+      color: #5d5346;
+      font-size: 1rem;
+      line-height: 1.7;
+    }
+    .tools {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 14px;
+    }
+    .tools li {
+      background: #fff;
+      border: 1px solid #dfd7c9;
+      border-radius: 16px;
+      padding: 18px 20px;
+      transition: transform .16s ease, border-color .16s ease, box-shadow .16s ease;
+    }
+    .tools li:hover {
+      transform: translateY(-1px);
+      border-color: #c8b49f;
+      box-shadow: 0 12px 28px rgba(31, 25, 19, 0.08);
+    }
+    .tools a {
+      display: block;
+      text-decoration: none;
+      color: inherit;
+    }
+    .tools strong {
+      display: block;
+      font-size: 1.05rem;
+      margin-bottom: 6px;
+    }
+    .tools span {
+      color: #6e6255;
+      font-size: 0.96rem;
+      line-height: 1.5;
+    }
+    .footer {
+      margin-top: 28px;
+      color: #8a7f71;
+      font-size: 0.95rem;
+    }
   </style>
 </head>
 <body>
-<script src="phan-nav.js" data-active="tools"></script>
-<div class="page-wrap"><main class="page">
-  <h1>Công cụ Gia phả</h1>
-  <p class="sub">Xem cây phả hệ, biểu đồ quạt, kiểm tra và chỉnh sửa file GEDCOM — tất cả chạy trên trình duyệt.</p>
-  <ul class="tools">
-    <li><a class="tool-card" href="PedigreeChart.html">
-      <div class="tool-head"><div class="tool-icon"><span class="mi filled">account_tree</span></div><span class="tool-name">Pedigree Chart</span></div>
-      <div class="tool-desc">Sơ đồ phả hệ tương tác — phóng to, tìm kiếm, xuất poster. Tải GEDCOM từ máy hoặc URL.</div>
-    </a></li>
-    <li><a class="tool-card" href="Fanchart.html">
-      <div class="tool-head"><div class="tool-icon"><span class="mi filled">donut_large</span></div><span class="tool-name">Fan Chart</span></div>
-      <div class="tool-desc">Biểu đồ quạt 180°/270°/360° — 15 bảng màu, xuất SVG/PNG/PDF.</div>
-    </a></li>
-    <li><a class="tool-card" href="Validator.html">
-      <div class="tool-head"><div class="tool-icon"><span class="mi filled">verified</span></div><span class="tool-name">GEDCOM Validator</span></div>
-      <div class="tool-desc">Kiểm tra toàn diện — lỗi ngày tháng, cha mẹ, trùng tên, ghost family (11 tab).</div>
-    </a></li>
-    <li><a class="tool-card" href="Reverser.html">
-      <div class="tool-head"><div class="tool-icon"><span class="mi filled">swap_horiz</span></div><span class="tool-name">Name Reverser</span></div>
-      <div class="tool-desc">Đảo thứ tự NAME / GIVN / SURN trong file GEDCOM.</div>
-    </a></li>
-    <li><a class="tool-card" href="https://www.familyecho.com/" target="_blank" rel="noopener">
-      <div class="tool-head"><div class="tool-icon" style="background:var(--md-secondary-ctr);color:var(--md-on-secondary-ctr)"><span class="mi filled">edit_note</span></div><span class="tool-name">FamilyEcho.com</span><span class="mi" style="font-size:16px;color:var(--md-on-surface-var);margin-left:auto">open_in_new</span></div>
-      <div class="tool-desc">Chỉnh sửa cây gia phả trực tuyến — nhập/xuất file GEDCOM, kéo thả, chia sẻ. Công cụ bên ngoài miễn phí.</div>
-    </a></li>
-  </ul>
-  <footer class="phan-footer" style="margin-top:32px">Không dữ liệu nào được tải lên máy chủ.</footer>
-</main></div>
+  <main class="page">
+    <h1>Phan Tools</h1>
+    <p>Browse the Phan package utilities below. Each page opens one of the bundled genealogy tools for family tree viewing, chart generation, GEDCOM validation, and more.</p>
+    <ul class="tools">
+      <li>
+        <a href="phan/index.html#/view?gen=-9&handleCors=false&indi=I2&standalone=true&url=%2Fphan%2FPhan.ged">
+          <strong>Phan Family</strong>
+          <span>Tree Viewer</span>
+        </a>
+      </li>
+      <li>
+        <a href="phan/index.html#/view?gen=-9&handleCors=false&indi=I2&standalone=true&url=%2Fphan%2FPhan.ged">
+          <strong>FamilyEcho</strong>
+          <span>Edit Phan Family Tree</span>
+        </a>
+      </li>
+      <li>
+        <a href="Fanchart.html">
+          <strong>FanChart</strong>
+          <span>Creates fan charts</span>
+        </a>
+      </li>
+      <li>
+        <a href="PedigreeChart.html">
+          <strong>PedigreeChart</strong>
+          <span>Creates pedigree charts</span>
+        </a>
+      </li>
+      <li>
+        <a href="Reverser.html">
+          <strong>Reverser</strong>
+          <span>Reverse name order of GEDCOM files</span>
+        </a>
+      </li>
+      <li>
+        <a href="Validator">
+          <strong>Validator.html</strong>
+          <span>Validate GEDCOM</span>
+        </a>
+      </li>
+    </ul>
+    <div class="footer">Use this page as a gateway to all Phan package tools.</div>
+  </main>
 </body>
 </html>

@@ -1,210 +1,221 @@
 <!DOCTYPE html>
-<html lang="vi" data-theme="dark">
+<html lang="vi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>GEDCOM Validator — Họ Phan Tools</title>
-<link rel="stylesheet" href="theme.css">
+<title>GEDCOM Validator — Kiểm tra Gia phả Toàn diện</title>
 <style>
-/* Remap old var names to M3 theme */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@300;400;500;600;700&display=swap');
 :root{
-  --surf:var(--md-surface-1); --surf2:var(--md-surface-2); --surf3:var(--md-surface-3);
-  --bdr:var(--md-outline); --txt:var(--md-on-surface); --txt2:var(--md-on-surface-var); --txt3:var(--md-outline-var);
-  --red:var(--md-error); --ora:#fb923c; --yel:var(--md-warning); --blu:var(--md-info);
-  --grn:var(--md-success); --pur:var(--md-primary); --pur2:var(--md-on-primary-ctr);
-  --gold:var(--md-primary); --gold2:var(--md-on-primary-ctr); --gold-dim:var(--md-primary-ctr);
-  --surface:var(--md-surface-1); --surface2:var(--md-surface-2); --surface3:var(--md-surface-3);
-  --border:var(--md-outline); --text:var(--md-on-surface); --text2:var(--md-on-surface-var); --text3:var(--md-outline-var);
-  --error:var(--md-error); --error-bg:var(--md-error-ctr); --warning:var(--md-warning); --warn-bg:rgba(253,214,99,.12);
-  --success:var(--md-success); --succ-bg:rgba(129,201,149,.12); --info:var(--md-info); --info-bg:rgba(138,180,248,.12);
-  --glow:rgba(232,185,49,.15); --glow-lg:0 0 20px rgba(232,185,49,.1);
+  --bg:#0f0f13; --surf:#17171f; --surf2:#1e1e28; --surf3:#252533;
+  --bdr:#2e2e3e; --txt:#e2e8f0; --txt2:#94a3b8; --txt3:#64748b;
+  --red:#f87171; --ora:#fb923c; --yel:#fbbf24; --blu:#60a5fa;
+  --grn:#34d399; --pur:#c084fc; --pur2:#818cf8;
 }
-body{display:flex;flex-direction:column}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Outfit',sans-serif;background:var(--bg);color:var(--txt);min-height:100vh}
+body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:0;
+  background:radial-gradient(ellipse 80% 60% at 20% 10%,rgba(192,132,252,.06),transparent 60%),
+             radial-gradient(ellipse 60% 50% at 80% 90%,rgba(129,140,248,.05),transparent 60%)}
 
 /* ── HEADER ── */
-.tool-header{position:relative;z-index:10;padding:32px 48px 24px;border-bottom:1px solid var(--border);
+header{position:relative;z-index:10;padding:40px 48px 32px;border-bottom:1px solid var(--bdr);
   display:flex;align-items:flex-start;gap:18px}
-.hico{width:52px;height:52px;flex-shrink:0;border-radius:var(--r-lg);display:flex;align-items:center;
+.hico{width:52px;height:52px;flex-shrink:0;border-radius:14px;display:flex;align-items:center;
   justify-content:center;font-size:24px;
-  background:linear-gradient(135deg,var(--gold),var(--gold-dim));
-  box-shadow:var(--glow-lg)}
-.tool-header h1{font-family:var(--font-serif);font-size:var(--fs-3xl);font-weight:600;color:var(--gold2)}
-.tool-header p{font-size:var(--fs-sm);color:var(--text3);margin-top:var(--sp-xs)}
+  background:linear-gradient(135deg,var(--pur),var(--pur2));
+  box-shadow:0 0 28px rgba(192,132,252,.3)}
+header h1{font-family:'Crimson Pro',serif;font-size:28px;font-weight:600;
+  background:linear-gradient(135deg,#e2e8f0,#94a3b8);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent}
+header p{font-size:13px;color:var(--txt3);margin-top:4px}
 .meta{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
-.chip{padding:3px 11px;border-radius:var(--r-pill);font-size:11.5px;font-weight:500;
-  background:var(--surface3);color:var(--text2);border:1px solid var(--border);
-  font-family:var(--font-mono)}
+.chip{padding:3px 11px;border-radius:999px;font-size:11.5px;font-weight:500;
+  background:var(--surf3);color:var(--txt2);border:1px solid var(--bdr);
+  font-family:'JetBrains Mono',monospace}
 
 /* ── LAYOUT ── */
 main{position:relative;z-index:10;max-width:1280px;margin:0 auto;padding:36px 48px}
 
 /* ── DROP ZONE ── */
-#dropzone{border:2px dashed var(--border);border-radius:var(--r-xl);padding:64px 40px;
-  text-align:center;cursor:pointer;background:var(--surface);transition:all .25s;position:relative;overflow:hidden}
+#dropzone{border:2px dashed var(--bdr);border-radius:20px;padding:64px 40px;
+  text-align:center;cursor:pointer;background:var(--surf);transition:all .25s;position:relative;overflow:hidden}
 #dropzone::before{content:'';position:absolute;inset:0;
-  background:radial-gradient(ellipse at center,var(--glow),transparent 70%);
+  background:radial-gradient(ellipse at center,rgba(192,132,252,.05),transparent 70%);
   opacity:0;transition:opacity .3s}
-#dropzone:hover,#dropzone.over{border-color:var(--gold);background:var(--surface2)}
+#dropzone:hover,#dropzone.over{border-color:var(--pur);background:var(--surf2)}
 #dropzone:hover::before,#dropzone.over::before{opacity:1}
 #dropzone.over{border-style:solid}
 .di{font-size:48px;margin-bottom:14px;display:block}
-.dt{font-size:var(--fs-xl);font-weight:500;margin-bottom:8px}
-.ds{font-size:var(--fs-sm);color:var(--text3);margin-bottom:20px}
+.dt{font-size:19px;font-weight:500;margin-bottom:8px}
+.ds{font-size:13px;color:var(--txt3);margin-bottom:20px}
 #finput{display:none}
 
-/* ── BUTTONS (override for Validator-specific ones) ── */
-.btn-pri{background:linear-gradient(135deg,var(--gold),var(--gold-dim));color:#fff;
-  border:none;box-shadow:0 4px 18px var(--glow);padding:10px 22px;border-radius:var(--r-md);
-  font-size:var(--fs-base);font-weight:600;cursor:pointer;font-family:var(--font-sans);
-  letter-spacing:.3px;transition:all .2s}
-.btn-pri:hover{transform:translateY(-1px);box-shadow:0 6px 26px var(--glow)}
+/* ── BUTTONS ── */
+.btn{display:inline-flex;align-items:center;gap:8px;padding:10px 22px;border-radius:10px;
+  font-size:14px;font-weight:600;cursor:pointer;border:none;transition:all .2s;
+  font-family:'Outfit',sans-serif;letter-spacing:.3px}
+.btn-pri{background:linear-gradient(135deg,var(--pur),var(--pur2));color:#fff;
+  box-shadow:0 4px 18px rgba(192,132,252,.3)}
+.btn-pri:hover{transform:translateY(-1px);box-shadow:0 6px 26px rgba(192,132,252,.4)}
+.btn-ghost{background:var(--surf3);color:var(--txt2);border:1px solid var(--bdr)}
+.btn-ghost:hover{background:var(--surf2);color:var(--txt)}
 
 /* ── LOADING ── */
 #loading{display:none;text-align:center;padding:48px}
-.spin{width:44px;height:44px;border:3px solid var(--border);border-top-color:var(--gold);
+.spin{width:44px;height:44px;border:3px solid var(--bdr);border-top-color:var(--pur);
   border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 16px}
+@keyframes spin{to{transform:rotate(360deg)}}
 
 /* ── REPORT ── */
 #report{display:none;animation:fadeIn .4s ease}
 @keyframes fadeIn{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+
 .rpt-header{display:flex;justify-content:space-between;align-items:flex-start;
   margin-bottom:26px;flex-wrap:wrap;gap:14px}
-.rpt-title{font-family:var(--font-serif);font-size:26px;font-weight:600;color:var(--gold2)}
+.rpt-title{font-family:'Crimson Pro',serif;font-size:26px;font-weight:600}
 
 /* ── VERDICT ── */
-.verdict{display:flex;align-items:flex-start;gap:14px;padding:16px 22px;border-radius:var(--r-lg);
-  margin-bottom:24px;font-size:var(--fs-base);line-height:1.6}
-.v-err {background:var(--error-bg);border:1px solid var(--error);color:var(--error)}
-.v-warn{background:var(--warn-bg);border:1px solid var(--warning);color:var(--warning)}
-.v-ok  {background:var(--succ-bg);border:1px solid var(--success);color:var(--success)}
+.verdict{display:flex;align-items:flex-start;gap:14px;padding:16px 22px;border-radius:12px;
+  margin-bottom:24px;font-size:14px;line-height:1.6}
+.v-err {background:rgba(248,113,113,.08);border:1px solid rgba(248,113,113,.2);color:#fca5a5}
+.v-warn{background:rgba(251,146,60,.08); border:1px solid rgba(251,146,60,.2); color:#fdba74}
+.v-ok  {background:rgba(52,211,153,.08); border:1px solid rgba(52,211,153,.2); color:#6ee7b7}
 .vi{font-size:26px;flex-shrink:0}
 
 /* ── CARDS ── */
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:13px;margin-bottom:28px}
-.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);
-  padding:16px 18px;text-align:center;border-top:4px solid var(--border);transition:transform .15s}
+.card{background:var(--surf);border:1px solid var(--bdr);border-radius:14px;
+  padding:16px 18px;text-align:center;border-top:4px solid var(--bdr);transition:transform .15s}
 .card:hover{transform:translateY(-2px)}
-.card .n{font-size:32px;font-weight:800;font-family:var(--font-mono);line-height:1}
-.card .l{font-size:10.5px;color:var(--text3);margin-top:5px;text-transform:uppercase;letter-spacing:.5px;font-weight:500}
-.c-pur{border-top-color:var(--gold)}.c-pur .n{color:var(--gold)}
-.c-red{border-top-color:var(--error)}.c-red .n{color:var(--error)}
-.c-ora{border-top-color:#fb923c}.c-ora .n{color:#fb923c}
-.c-yel{border-top-color:var(--warning)}.c-yel .n{color:var(--warning)}
-.c-blu{border-top-color:var(--info)}.c-blu .n{color:var(--info)}
-.c-grn{border-top-color:var(--success)}.c-grn .n{color:var(--success)}
-.c-gry{border-top-color:var(--text3)}.c-gry .n{color:var(--text3)}
+.card .n{font-size:32px;font-weight:800;font-family:'JetBrains Mono',monospace;line-height:1}
+.card .l{font-size:10.5px;color:var(--txt3);margin-top:5px;text-transform:uppercase;letter-spacing:.5px;font-weight:500}
+.c-pur {border-top-color:var(--pur)}.c-pur  .n{color:var(--pur)}
+.c-red {border-top-color:var(--red)}.c-red  .n{color:var(--red)}
+.c-ora {border-top-color:var(--ora)}.c-ora  .n{color:var(--ora)}
+.c-yel {border-top-color:var(--yel)}.c-yel  .n{color:var(--yel)}
+.c-blu {border-top-color:var(--blu)}.c-blu  .n{color:var(--blu)}
+.c-grn {border-top-color:var(--grn)}.c-grn  .n{color:var(--grn)}
+.c-gry {border-top-color:var(--txt3)}.c-gry .n{color:var(--txt3)}
 
 /* ── SECTION ── */
-.sec{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-xl);
+.sec{background:var(--surf);border:1px solid var(--bdr);border-radius:16px;
   padding:24px 28px;margin-bottom:20px}
-.sec-t{font-size:var(--fs-lg);font-weight:700;margin-bottom:16px;display:flex;align-items:center;
-  gap:10px;padding-bottom:12px;border-bottom:1px solid var(--border)}
+.sec-t{font-size:15px;font-weight:700;margin-bottom:16px;display:flex;align-items:center;
+  gap:10px;padding-bottom:12px;border-bottom:1px solid var(--bdr)}
 
 /* ── COMPLETENESS ── */
 .prog{margin:9px 0}
-.prog-lbl{display:flex;justify-content:space-between;font-size:12.5px;color:var(--text2);margin-bottom:4px}
-.prog-trk{height:7px;background:var(--surface3);border-radius:4px;overflow:hidden}
+.prog-lbl{display:flex;justify-content:space-between;font-size:12.5px;color:var(--txt2);margin-bottom:4px}
+.prog-trk{height:7px;background:var(--surf3);border-radius:4px;overflow:hidden}
 .prog-fil{height:100%;border-radius:4px;transition:width 1.2s cubic-bezier(.4,0,.2,1)}
 
-/* ── TABS (use unified but override active color) ── */
-.tabs{display:flex;gap:5px;flex-wrap:wrap;border-bottom:1px solid var(--border);margin-bottom:0}
-.tab{padding:8px 15px;border-radius:var(--r-md) var(--r-md) 0 0;cursor:pointer;font-size:12.5px;font-weight:500;
-  border:1px solid transparent;background:var(--surface2);color:var(--text3);
+/* ── TABS ── */
+.tabs{display:flex;gap:5px;flex-wrap:wrap;border-bottom:1px solid var(--bdr);margin-bottom:0}
+.tab{padding:8px 15px;border-radius:8px 8px 0 0;cursor:pointer;font-size:12.5px;font-weight:500;
+  border:1px solid transparent;background:var(--surf2);color:var(--txt3);
   transition:all .15s;border-bottom:none;margin-bottom:-1px}
-.tab:hover:not(.active){background:var(--surface3);color:var(--text2)}
-.tab.active{background:var(--surface);color:var(--gold2);border-color:var(--border);
-  border-bottom-color:var(--surface);font-weight:700}
+.tab:hover:not(.active){background:var(--surf3);color:var(--txt2)}
+.tab.active{background:var(--surf);color:var(--pur);border-color:var(--bdr);
+  border-bottom-color:var(--surf);font-weight:700}
 .tpanel{display:none;padding-top:18px}.tpanel.active{display:block}
 
-/* ── TABLE (override from theme for compatibility) ── */
+/* ── TABLE ── */
 .tw{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th{text-align:left;padding:9px 11px;color:var(--txt3);font-weight:600;font-size:10.5px;
+  text-transform:uppercase;letter-spacing:.5px;border-bottom:1px solid var(--bdr);white-space:nowrap}
+td{padding:8px 11px;border-bottom:1px solid rgba(46,46,62,.5);vertical-align:top;color:var(--txt2)}
+tr:hover td{background:rgba(255,255,255,.02)}
+.mono{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--txt3)}
+.bold{color:var(--txt);font-weight:600}
+.sub{font-size:11px;color:var(--txt3);margin-top:2px}
 
 /* ── BADGES ── */
-.bge{display:inline-block;padding:2px 8px;border-radius:var(--r-pill);font-size:10.5px;font-weight:700;
+.bge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:10.5px;font-weight:700;
   text-transform:uppercase;letter-spacing:.3px}
 .be{background:rgba(248,113,113,.18);color:#fca5a5;border:1px solid rgba(248,113,113,.4)}
-.bw{background:rgba(251,146,60,.15);color:#fdba74;border:1px solid rgba(251,146,60,.4)}
-.bi{background:rgba(96,165,250,.12);color:#93c5fd;border:1px solid rgba(96,165,250,.3)}
-.bg{background:rgba(52,211,153,.12);color:#6ee7b7;border:1px solid rgba(52,211,153,.3)}
-.bp{background:rgba(201,151,42,.15);color:var(--gold2);border:1px solid rgba(201,151,42,.4)}
-.bo{background:rgba(251,146,60,.12);color:#fdba74;border:1px solid rgba(251,146,60,.3)}
+.bw{background:rgba(251,146,60,.15); color:#fdba74;border:1px solid rgba(251,146,60,.4)}
+.bi{background:rgba(96,165,250,.12); color:#93c5fd;border:1px solid rgba(96,165,250,.3)}
+.bg{background:rgba(52,211,153,.12); color:#6ee7b7;border:1px solid rgba(52,211,153,.3)}
+.bp{background:rgba(192,132,252,.12);color:#d8b4fe;border:1px solid rgba(192,132,252,.3)}
+.bo{background:rgba(251,146,60,.12); color:#fdba74;border:1px solid rgba(251,146,60,.3)}
 .bex{background:rgba(248,113,113,.22);color:#fca5a5;border:1px solid rgba(248,113,113,.5);font-weight:800}
 .bgy{background:rgba(107,114,128,.15);color:#9ca3af;border:1px solid rgba(107,114,128,.3)}
 
 /* ── CALLOUT ── */
-.cl{border-radius:var(--r-md);padding:13px 17px;margin:12px 0;font-size:var(--fs-sm);line-height:1.6;border-left:3px solid}
-.cl h4{margin-bottom:5px;font-size:var(--fs-sm);font-weight:700}
-.cl-r{background:var(--error-bg);border-color:var(--error);color:#fca5a5}
-.cl-o{background:rgba(251,146,60,.07);border-color:#fb923c;color:#fdba74}
-.cl-b{background:var(--info-bg);border-color:var(--info);color:#93c5fd}
-.cl-g{background:var(--succ-bg);border-color:var(--success);color:#6ee7b7}
+.cl{border-radius:10px;padding:13px 17px;margin:12px 0;font-size:13px;line-height:1.6;border-left:3px solid}
+.cl h4{margin-bottom:5px;font-size:13px;font-weight:700}
+.cl-r{background:rgba(248,113,113,.07);border-color:var(--red);  color:#fca5a5}
+.cl-o{background:rgba(251,146,60,.07); border-color:var(--ora);  color:#fdba74}
+.cl-b{background:rgba(96,165,250,.07); border-color:var(--blu);  color:#93c5fd}
+.cl-g{background:rgba(52,211,153,.07); border-color:var(--grn);  color:#6ee7b7}
 
 /* ── FILTER ── */
 .fbar{display:flex;gap:8px;margin-bottom:12px;align-items:center}
-.fbar input{flex:1;min-width:180px;padding:7px 13px;border-radius:var(--r-md);
-  border:1px solid var(--border);background:var(--surface2);color:var(--text);
-  font-size:12.5px;outline:none;font-family:var(--font-sans)}
-.fbar input:focus{border-color:var(--gold)}
-.fbar input::placeholder{color:var(--text3)}
-.fcnt{font-size:12.5px;color:var(--text3)}
+.fbar input{flex:1;min-width:180px;padding:7px 13px;border-radius:8px;
+  border:1px solid var(--bdr);background:var(--surf2);color:var(--txt);
+  font-size:12.5px;outline:none;font-family:'Outfit',sans-serif}
+.fbar input:focus{border-color:var(--pur)}
+.fbar input::placeholder{color:var(--txt3)}
+.fcnt{font-size:12.5px;color:var(--txt3)}
 
 /* ── STRUCTURE GRID ── */
 .sgrid{display:grid;grid-template-columns:1fr 1fr;gap:9px}
 @media(max-width:640px){.sgrid{grid-template-columns:1fr}}
 .srow{display:flex;justify-content:space-between;align-items:center;
-  padding:9px 13px;border-radius:var(--r-md);background:var(--surface2);
-  border:1px solid var(--border);font-size:12.5px}
-.srow-lbl{color:var(--text2)}
+  padding:9px 13px;border-radius:8px;background:var(--surf2);
+  border:1px solid var(--bdr);font-size:12.5px}
+.srow-lbl{color:var(--txt2)}
 
-.empty{text-align:center;padding:36px;color:var(--text3);font-size:var(--fs-sm)}
+.empty{text-align:center;padding:36px;color:var(--txt3);font-size:13px}
+
+::-webkit-scrollbar{width:5px;height:5px}
+::-webkit-scrollbar-track{background:var(--surf)}
+::-webkit-scrollbar-thumb{background:var(--bdr);border-radius:3px}
+::-webkit-scrollbar-thumb:hover{background:var(--txt3)}
 
 .pill{display:inline-flex;align-items:center;justify-content:center;
   min-width:20px;height:18px;padding:0 5px;border-radius:9px;
   font-size:10px;font-weight:700;margin-left:5px}
 .p-e{background:rgba(248,113,113,.25);color:#fca5a5}
-.p-w{background:rgba(251,146,60,.25);color:#fdba74}
-.p-i{background:rgba(96,165,250,.25);color:#93c5fd}
-.p-p{background:rgba(201,151,42,.25);color:var(--gold2)}
-.p-o{background:rgba(251,146,60,.25);color:#fdba74}
+.p-w{background:rgba(251,146,60,.25); color:#fdba74}
+.p-i{background:rgba(96,165,250,.25); color:#93c5fd}
+.p-p{background:rgba(192,132,252,.25);color:#d8b4fe}
+.p-o{background:rgba(251,146,60,.25); color:#fdba74}
 .p-x{background:rgba(248,113,113,.35);color:#fca5a5;font-weight:900}
-
-@media(max-width:700px){
-  .tool-header{padding:20px 16px 16px;gap:12px}
-  .tool-header h1{font-size:var(--fs-xl)}
-  main{padding:20px 16px}
-}
 </style>
 </head>
 <body>
-<script src="phan-nav.js" data-active="validator"></script>
-<script src="phan-shared.js"></script>
 
-<header class="tool-header">
-  <div class="hico">🔍</div>
+<header>
+  <div class="hico">🌳</div>
   <div>
-    <h1>GEDCOM Validator</h1>
-    <p>Kiểm tra sinh học · thời gian · giới tính · quan hệ · family trùng lặp · family trống</p>
+    <h1>GEDCOM Validator — Toàn diện</h1>
+    <p>Kiểm tra sinh học · thời gian · giới tính · quan hệ · family trùng lặp · cá nhân trong nhiều family · family trống</p>
     <div class="meta">
       <span class="chip">GEDCOM 5.5 / 5.5.1</span>
       <span class="chip">UTF-8</span>
+      <span class="chip">Gramps · MacFamilyTree · Legacy · RootsMagic</span>
     </div>
   </div>
 </header>
 
 <main>
-  <!-- Standardized action bar inserted by JS -->
-  <div id="fileArea">
-    <div id="dropzone" onclick="document.getElementById('finput').click()">
-      <span class="di">📂</span>
-      <div class="dt">Kéo thả file GEDCOM vào đây</div>
-      <div class="ds">or use the buttons above · chạy hoàn toàn trên trình duyệt</div>
-      <input type="file" id="finput" accept=".ged,.GED">
-    </div>
+
+  <div id="dropzone" onclick="document.getElementById('finput').click()">
+    <span class="di">📂</span>
+    <div class="dt">Kéo thả file GEDCOM vào đây</div>
+    <div class="ds">Hỗ trợ file .ged — chạy hoàn toàn trên trình duyệt, không gửi dữ liệu ra ngoài</div>
+    <button class="btn btn-pri" onclick="event.stopPropagation();document.getElementById('finput').click()">
+      📁 Chọn file .ged
+    </button>
+    <input type="file" id="finput" accept=".ged,.GED">
   </div>
 
   <div id="loading">
     <div class="spin"></div>
-    <div style="color:var(--txt2);font-size:15px" id="lmsg">Đang phân tích...</div>
+    <div style="color:var(--txt2);font-size:13.5px" id="lmsg">Đang phân tích...</div>
   </div>
 
   <div id="report">
@@ -213,28 +224,34 @@ main{position:relative;z-index:10;max-width:1280px;margin:0 auto;padding:36px 48
         <div class="rpt-title" id="rtitle">Báo cáo</div>
         <div class="meta" id="rmeta" style="margin-top:8px"></div>
       </div>
-      <button class="btn btn-outlined" onclick="reset()"><span class="mi">arrow_back</span>Tải file khác</button>
+      <button class="btn btn-ghost" onclick="reset()">← Tải file khác</button>
     </div>
+
     <div id="rverdict"></div>
     <div class="cards" id="rcards"></div>
+
     <div class="sec">
       <div class="sec-t">📊 Mức độ hoàn chỉnh dữ liệu</div>
       <div id="rbars"></div>
     </div>
+
     <div class="sec">
       <div class="sec-t">🔍 Kết quả Kiểm tra Chi tiết</div>
       <div class="tabs" id="rtabs"></div>
       <div id="rtabpanels"></div>
     </div>
+
     <div class="sec">
       <div class="sec-t">🏗 Kiểm tra Cấu trúc GEDCOM</div>
       <div class="sgrid" id="rstructure"></div>
     </div>
+
     <div class="sec">
       <div class="sec-t">✅ Tóm tắt & Khuyến nghị</div>
       <div id="rrecs"></div>
     </div>
   </div>
+
 </main>
 
 <script>
@@ -428,7 +445,7 @@ function validate({indis, fams, brokenRefs}){
 
     // Chronological errors
     if(b&&d&&d<b)                        flag(id,'ERR','chrono','Chết trước khi sinh',`Sinh ${b}, Mất ${d}`);
-    if(b&&d&&(d-b)>C.maxLifespan)        flag(id,'WARN','chrono',`Tuổi thọ > ${C.maxLifespan} năm`,`Sinh ${b}, Mất ${d}, ~${d-b} tuổi`);
+    if(b&&d&&(d-b)>C.maxLifespan)        flag(id,'ERR','chrono',`Tuổi thọ > ${C.maxLifespan} năm`,`Sinh ${b}, Mất ${d}, ~${d-b} tuổi`);
     if(b&&b>CY)                          flag(id,'ERR','chrono','Ngày sinh trong tương lai',`Sinh ${b}`);
     if(d&&d>CY)                          flag(id,'ERR','chrono','Ngày mất trong tương lai',`Mất ${d}`);
     if(bur&&d&&bur<d)                    flag(id,'ERR','chrono','Chôn cất trước khi mất',`Mất ${d}, Chôn ${bur}`);
@@ -565,7 +582,7 @@ function renderReport(filename,{indis,fams},v){
   document.getElementById('rstructure').innerHTML=[
     ['Cấu trúc HEAD/TRLR',true,''],
     ['Tham chiếu bị hỏng',brokenRefs.length===0,brokenRefs.length?`${brokenRefs.length} ref bị hỏng`:''],
-    ['Chỉ có 1 thủy tổ',badRoots.length<=1,badRoots.length>1?`${badRoots.length} cá nhân cô lập (không cha mẹ, không vợ/chồng)`:''],
+    ['Chỉ có 1 thủy tổ',roots.length<=1,roots.length>1?`${roots.length} cá nhân không cha mẹ`:''],
     ['Ghost family',ghostFams.length===0,ghostFams.length?`${ghostFams.length} ghost family`:''],
     ['Không có family trống liên kết',emptyFamLinks.length===0,emptyFamLinks.length?`${emptyFamLinks.length} liên kết`:''],
     ['Cá nhân trong nhiều family',mfamIssues.length===0,mfamIssues.length?`${mfamIssues.length} cá nhân`:''],
@@ -729,7 +746,7 @@ function buildRecs(errs,warns,gens,mfamDup,mfamWrong,badRoots,exactDups,ghostFam
   if(emptyFamLinks.length) add('⚠️ Trung','bw',`Xóa ${emptyFamLinks.length} liên kết FAMS thừa (family trống)`,`Cá nhân trong nhiều family, 1 family không có vợ/chồng và không có con`);
   if(mfamDup.length)   add('🔴 Cao','be',`Xóa ${mfamDup.length} người khỏi family nhân đôi`,`Giữ 1 family đúng, xóa bản sao`);
   if(mfamWrong.length) add('⚠️ Trung','bw',`Xác minh ${mfamWrong.length} người bị gán sai cha mẹ`,`Cần xác minh thủ công`);
-  if(badRoots.length>1)add('⚠️ Trung','bw',`Kiểm tra ${badRoots.length} cá nhân cô lập`,`Không cha mẹ và không vợ/chồng — cần gán vào gia đình`);
+  if(badRoots.length>1)add('🔴 Cao','be',`Hợp nhất ${badRoots.length} thủy tổ`,`Cây gia phả chỉ nên có 1 gốc`);
   if(exactDups.length) add('⚠️ Trung','bw',`Kiểm tra ${exactDups.length} nhóm trùng tên+năm`,`Có thể là nhập trùng dữ liệu`);
   if(gens.length)      add('⚠️ Trung','bp',`Xem xét ${gens.length} trường hợp giới tính nghi vấn`,`Tên đệm Thị/Văn/Sĩ là chỉ thị giới tính`);
   if(!rows.length) return `<div class="cl cl-g"><h4>🎉 Gia phả rất tốt!</h4>Không có khuyến nghị sửa đổi.</div>`;
@@ -777,49 +794,6 @@ dz.addEventListener('drop',e=>{
   if(f&&/\.ged$/i.test(f.name)) processFile(f); else alert('Vui lòng chọn file .ged');
 });
 
-
-// ── Standardized action bar ──────────────────
-PhanFile.createActionBar(document.getElementById('fileArea'), {
-  onFile: function(text, name) { processText(text, name); }
-});
-PhanFile.autoLoadFromParams(function(text, name) { processText(text, name); });
-
-function processText(text, filename) {
-  document.getElementById('dropzone').style.display = 'none';
-  document.getElementById('loading').style.display = 'block';
-  document.getElementById('lmsg').textContent = 'Đang phân tích cấu trúc GEDCOM...';
-  setTimeout(() => {
-    try {
-      const data = parseGEDCOM(text);
-      document.getElementById('lmsg').textContent = 'Đang chạy các quy tắc kiểm tra...';
-      setTimeout(() => { renderReport(filename, data, validate(data)); }, 0);
-    } catch(err) {
-      document.getElementById('loading').innerHTML = '<div style="color:var(--md-error);font-size:15px">❌ Lỗi: ' + esc(err.message) + '</div>';
-    }
-  }, 50);
-}
-
-// ── Legacy file input + drag/drop ────────────
-document.getElementById('finput').addEventListener('change', e => {
-  if (e.target.files[0]) {
-    const f = e.target.files[0];
-    const reader = new FileReader();
-    reader.onload = ev => processText(ev.target.result, f.name);
-    reader.readAsText(f, 'UTF-8');
-  }
-});
-const dz = document.getElementById('dropzone');
-dz.addEventListener('dragover', e => { e.preventDefault(); dz.classList.add('over'); });
-dz.addEventListener('dragleave', () => dz.classList.remove('over'));
-dz.addEventListener('drop', e => {
-  e.preventDefault(); dz.classList.remove('over');
-  const f = e.dataTransfer.files[0];
-  if (f && /\.ged$/i.test(f.name)) {
-    const reader = new FileReader();
-    reader.onload = ev => processText(ev.target.result, f.name);
-    reader.readAsText(f, 'UTF-8');
-  } else alert('Vui lòng chọn file .ged');
-});
 </script>
 </body>
 </html>

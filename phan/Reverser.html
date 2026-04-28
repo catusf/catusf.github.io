@@ -1,103 +1,595 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
-<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Name Reverser — Họ Phan Tools</title>
-<link rel="stylesheet" href="theme.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GEDCOM Name Reverser</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-  body{display:flex;flex-direction:column}
-  .content{flex:1;display:flex;justify-content:center;padding:32px 20px}
-  .wrapper{width:100%;max-width:780px;display:flex;flex-direction:column;gap:24px}
-  .tool-title{font-size:26px;font-weight:500;letter-spacing:-.3px}
-  .tool-sub{font-size:15px;color:var(--md-on-surface-var);margin-top:6px;line-height:1.7}
-  .tool-sub code{font-family:var(--font-mono);font-size:13px;background:var(--md-surface-3);padding:2px 8px;border-radius:4px}
-  .preview-section{display:none;flex-direction:column;gap:14px}.preview-section.visible{display:flex}
-  .sec-head{display:flex;justify-content:space-between;align-items:baseline}
-  .sec-label{font-size:13px;font-weight:500;letter-spacing:.5px;text-transform:uppercase;color:var(--md-on-surface-var)}
-  .arrow-col{color:var(--md-primary);text-align:center;width:36px;font-size:18px}
-  .name-before{color:var(--md-on-surface-var)}.name-after{color:var(--md-on-surface);font-weight:500}
-  .result-actions{display:none;gap:12px;flex-wrap:wrap}.result-actions.visible{display:flex}
-  .status-msg{display:none;font-size:15px;padding:14px 20px;border-radius:var(--r-sm)}
-  .status-msg.visible{display:block}
-  .status-msg.error{background:var(--md-error-ctr);color:var(--md-on-error-ctr)}
-  .status-msg.success{background:rgba(129,201,149,.12);color:var(--md-success)}
-  .filename-chip{display:none;align-items:center;gap:10px;font-size:14px;color:var(--md-on-surface-var);margin-top:8px}
-  .filename-chip.visible{display:flex}
-  .filename-chip .dot{width:10px;height:10px;border-radius:50%;background:var(--md-success)}
-  footer{font-size:13px;color:var(--md-on-surface-var);text-align:center;padding:32px 0}
+  :root {
+    --bg: #0f0e0c;
+    --surface: #1a1916;
+    --border: #2e2c28;
+    --gold: #c9a84c;
+    --gold-dim: #7a622a;
+    --cream: #e8e0cc;
+    --muted: #6b6456;
+    --green: #4caf7a;
+    --red: #c95c4c;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--cream);
+    font-family: 'IBM Plex Mono', monospace;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 48px 24px;
+  }
+
+  /* Subtle grid background */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(201,168,76,0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(201,168,76,0.04) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .wrapper {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 760px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  header {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 24px;
+  }
+
+  .eyebrow {
+    font-size: 10px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+
+  h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(28px, 5vw, 44px);
+    font-weight: 700;
+    color: var(--cream);
+    line-height: 1.1;
+  }
+
+  .subtitle {
+    font-size: 12px;
+    color: var(--muted);
+    margin-top: 4px;
+    line-height: 1.6;
+  }
+
+  /* Drop zone */
+  .drop-zone {
+    border: 1.5px dashed var(--gold-dim);
+    border-radius: 2px;
+    padding: 48px 32px;
+    text-align: center;
+    cursor: pointer;
+    transition: border-color 0.2s, background 0.2s;
+    background: rgba(201,168,76,0.02);
+    position: relative;
+  }
+
+  .drop-zone:hover, .drop-zone.drag-over {
+    border-color: var(--gold);
+    background: rgba(201,168,76,0.06);
+  }
+
+  .drop-zone input[type="file"] {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+  }
+
+  .drop-icon {
+    font-size: 36px;
+    margin-bottom: 12px;
+    display: block;
+    opacity: 0.6;
+  }
+
+  .drop-label {
+    font-size: 13px;
+    color: var(--cream);
+  }
+
+  .drop-label span {
+    color: var(--gold);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .drop-hint {
+    font-size: 10px;
+    color: var(--muted);
+    margin-top: 8px;
+    letter-spacing: 0.05em;
+  }
+
+  /* Stats bar */
+  .stats-bar {
+    display: none;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    padding: 14px 20px;
+    gap: 32px;
+    flex-wrap: wrap;
+  }
+
+  .stats-bar.visible { display: flex; }
+
+  .stat { display: flex; flex-direction: column; gap: 2px; }
+
+  .stat-num {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    color: var(--gold);
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-size: 10px;
+    color: var(--muted);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
+
+  /* Preview table */
+  .preview-section {
+    display: none;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .preview-section.visible { display: flex; }
+
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .section-title {
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+
+  .section-count {
+    font-size: 10px;
+    color: var(--muted);
+  }
+
+  .preview-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+
+  .preview-table th {
+    text-align: left;
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .preview-table td {
+    padding: 9px 12px;
+    border-bottom: 1px solid rgba(46,44,40,0.5);
+    vertical-align: middle;
+  }
+
+  .preview-table tr:last-child td { border-bottom: none; }
+
+  .preview-table tr:hover td { background: rgba(201,168,76,0.04); }
+
+  .arrow-col {
+    color: var(--gold-dim);
+    text-align: center;
+    width: 32px;
+  }
+
+  .name-before { color: var(--muted); }
+  .name-after  { color: var(--cream); }
+
+  /* Download button */
+  .action-row {
+    display: none;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .action-row.visible { display: flex; }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 24px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-decoration: none;
+  }
+
+  .btn-primary {
+    background: var(--gold);
+    color: var(--bg);
+  }
+
+  .btn-primary:hover { background: #d4b660; }
+
+  .btn-ghost {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--muted);
+  }
+
+  .btn-ghost:hover { border-color: var(--gold-dim); color: var(--cream); }
+
+  /* Error / status */
+  .status-msg {
+    font-size: 11px;
+    padding: 10px 16px;
+    border-radius: 2px;
+    display: none;
+  }
+
+  .status-msg.visible { display: block; }
+  .status-msg.error   { background: rgba(201,92,76,0.12); border: 1px solid var(--red); color: var(--red); }
+  .status-msg.success { background: rgba(76,175,122,0.1);  border: 1px solid var(--green); color: var(--green); }
+
+  /* Filename chip */
+  .filename-chip {
+    display: none;
+    align-items: center;
+    gap: 10px;
+    font-size: 11px;
+    color: var(--cream);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    padding: 8px 14px;
+    width: fit-content;
+  }
+
+  .filename-chip.visible { display: inline-flex; }
+  .filename-chip .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--green); }
+
+  footer {
+    font-size: 10px;
+    color: var(--muted);
+    text-align: center;
+    letter-spacing: 0.1em;
+    margin-top: 16px;
+  }
 </style>
 </head>
 <body>
-<script src="phan-nav.js" data-active="reverser"></script>
-<script src="phan-shared.js"></script>
-<div class="content"><div class="wrapper" id="mainWrap">
+<div class="wrapper">
 
   <header>
-    <h1 class="tool-title">Name Reverser</h1>
-    <p class="tool-sub">Reverses NAME field and swaps GIVN ↔ SURN sub-tag values.<br>
-      <code>Dũng /Phan Quốc/</code> → <code style="color:var(--md-primary)">Phan Quốc /Dũng/</code></p>
+    <span class="eyebrow">Genealogy Tools</span>
+    <h1>GEDCOM<br>Name Reverser</h1>
+    <p class="subtitle">
+      Reverses the NAME field and swaps GIVN ↔ SURN sub-tag values.<br>
+      <code style="font-size:11px;opacity:0.7">Dũng /Phan Quốc/</code> &nbsp;→&nbsp; <code style="font-size:11px;color:var(--gold)">Phan Quốc /Dũng/</code>
+    </p>
   </header>
 
-  <!-- Action bar + dropzone inserted here by JS -->
-  <div id="dropArea">
-    <div class="dropzone" id="dropZone">
-      <span class="dropzone__icon">📂</span>
-      <div class="dropzone__title">Drop .ged file here</div>
-      <div class="dropzone__hint">or use the buttons above · all processing runs locally</div>
+  <!-- Upload -->
+  <div>
+    <div class="drop-zone" id="dropZone">
+      <input type="file" id="fileInput" accept=".ged,.gedcom,.txt">
+      <span class="drop-icon">📂</span>
+      <div class="drop-label">Drop your <span>.ged file</span> here, or click to browse</div>
+      <div class="drop-hint">NAME values are reordered; GIVN and SURN values are swapped; all other fields untouched</div>
     </div>
-    <div class="filename-chip" id="filenameChip"><span class="dot"></span><span id="filenameText"></span></div>
+    <div class="filename-chip" id="filenameChip">
+      <span class="dot"></span>
+      <span id="filenameText"></span>
+    </div>
   </div>
 
+
+  <!-- Status -->
   <div class="status-msg" id="statusMsg"></div>
 
-  <div class="stats-bar" id="statsBar" style="display:none">
-    <div class="stat"><span class="stat__num" id="statTotal">0</span><span class="stat__label">Names</span></div>
-    <div class="stat"><span class="stat__num" id="statChanged">0</span><span class="stat__label">Modified</span></div>
-    <div class="stat"><span class="stat__num" id="statSkipped">0</span><span class="stat__label">Skipped</span></div>
-    <div class="stat"><span class="stat__num" id="statLines">0</span><span class="stat__label">Lines</span></div>
+  <!-- Stats -->
+  <div class="stats-bar" id="statsBar">
+    <div class="stat">
+      <span class="stat-num" id="statTotal">0</span>
+      <span class="stat-label">Names found</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="statChanged">0</span>
+      <span class="stat-label">Modified</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="statSkipped">0</span>
+      <span class="stat-label">Skipped (no change)</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="statLines">0</span>
+      <span class="stat-label">Total lines</span>
+    </div>
   </div>
 
-  <div class="result-actions" id="actionRow">
-    <button class="btn btn-filled" id="downloadBtn"><span class="mi">download</span>Download modified GEDCOM</button>
-    <button class="btn btn-outlined" id="resetBtn"><span class="mi">restart_alt</span>Reset</button>
+  <!-- Download -->
+  <div class="action-row" id="actionRow">
+    <button class="btn btn-primary" id="downloadBtn">⬇ Download modified GEDCOM</button>
+    <button class="btn btn-ghost"   id="resetBtn">✕ Reset</button>
   </div>
 
+  <!-- Preview -->
   <div class="preview-section" id="previewSection">
-    <div class="sec-head"><span class="sec-label">Preview — changed names</span><span class="sec-label" id="previewCount"></span></div>
-    <div class="table-wrap"><table><thead><tr><th>Original</th><th class="arrow-col"></th><th>Reversed</th></tr></thead><tbody id="previewBody"></tbody></table></div>
+    <div class="section-header">
+      <span class="section-title">Preview — changed names</span>
+      <span class="section-count" id="previewCount"></span>
+    </div>
+    <table class="preview-table">
+      <thead>
+        <tr>
+          <th>Original</th>
+          <th class="arrow-col"></th>
+          <th>Reversed</th>
+        </tr>
+      </thead>
+      <tbody id="previewBody"></tbody>
+    </table>
   </div>
 
-  <footer>All processing runs locally in your browser — no data uploaded.</footer>
-</div></div>
+  <footer>All processing is done locally in your browser — no data is uploaded anywhere.</footer>
+</div>
 
 <script>
-// ── Init shared action bar ───────────────────
-PhanFile.createActionBar(document.getElementById('dropArea'), {
-  onFile: function(text, name) { fileName = name; originalText = text; showChip(name); process(); }
+// ─── State ───────────────────────────────────────────────────────────────────
+let originalText = '';
+let processedText = '';
+let fileName = '';
+// ─── Drag & drop ─────────────────────────────────────────────────────────────
+const dropZone = document.getElementById('dropZone');
+dropZone.addEventListener('dragover',  e => { e.preventDefault(); dropZone.classList.add('drag-over'); });
+dropZone.addEventListener('dragleave', ()  => dropZone.classList.remove('drag-over'));
+dropZone.addEventListener('drop',      e  => {
+  e.preventDefault();
+  dropZone.classList.remove('drag-over');
+  const file = e.dataTransfer.files[0];
+  if (file) loadFile(file);
 });
-PhanFile.autoLoadFromParams(function(text, name) { fileName = name; originalText = text; showChip(name); process(); });
-
-// ── Drag & drop on the dropzone ──────────────
-let originalText='',processedText='',fileName='';
-const dropZone=document.getElementById('dropZone');
-dropZone.addEventListener('dragover',e=>{e.preventDefault();dropZone.classList.add('over')});
-dropZone.addEventListener('dragleave',()=>dropZone.classList.remove('over'));
-dropZone.addEventListener('drop',e=>{e.preventDefault();dropZone.classList.remove('over');
-  const f=e.dataTransfer.files[0]; if(f){fileName=f.name;const r=new FileReader();r.onload=ev=>{originalText=ev.target.result;showChip(f.name);process()};r.readAsText(f,'UTF-8')}
+document.getElementById('fileInput').addEventListener('change', e => {
+  if (e.target.files[0]) loadFile(e.target.files[0]);
 });
 
-// ── Core logic (unchanged) ───────────────────
-function reverseNameValue(raw){const v=raw.trim();if(!v)return{result:v,changed:false};const m=v.match(/^(.*?)\/([^/]*)\/(.*)$/);let g,s,x;if(m){g=m[1].trim();s=m[2].trim();x=m[3].trim()}else{const t=v.split(/\s+/).filter(Boolean);if(t.length<2)return{result:v,changed:false};s=t[t.length-1];g=t.slice(0,-1).join(' ');x=''}if(!g&&!s)return{result:v,changed:false};const p=[s||'',`/${g}/`];if(x)p.push(x);const r=p.filter(Boolean).join(' ');return{result:r,changed:r!==v}}
-function process(){const lines=originalText.split(/\r?\n/);let total=0,changed=0,skipped=0;const previews=[],outLines=[];let i=0;while(i<lines.length){const line=lines[i];const nm=line.match(/^(\d+) NAME (.*)$/);if(nm){total++;const nl=parseInt(nm[1],10),nv=nm[2];const block=[line];let j=i+1;while(j<lines.length){const m2=lines[j].match(/^(\d+)/);if(m2&&parseInt(m2[1],10)>nl){block.push(lines[j]);j++}else break}const{result:rn,changed:nc}=reverseNameValue(nv);block[0]=`${nm[1]} NAME ${rn}`;let gi=-1,si=-1,gv='',sv='',gp='',sp='';for(let k=1;k<block.length;k++){const gm=block[k].match(/^(\d+ GIVN )(.*)$/),sm=block[k].match(/^(\d+ SURN )(.*)$/);if(gm){gi=k;gp=gm[1];gv=gm[2]}if(sm){si=k;sp=sm[1];sv=sm[2]}}let gc=false;if(gi!==-1&&si!==-1&&gv!==sv){block[gi]=gp+sv;block[si]=sp+gv;gc=true}outLines.push(...block);if(nc||gc){changed++;if(previews.length<100){const bp=[`NAME: ${nv}`],ap=[`NAME: ${rn}`];if(gc){bp.push(`GIVN: ${gv}`,`SURN: ${sv}`);ap.push(`GIVN: ${sv}`,`SURN: ${gv}`)}previews.push({before:bp.join(' | '),after:ap.join(' | ')})}}else skipped++;i=j}else{outLines.push(line);i++}}
-processedText=outLines.join('\n');document.getElementById('statTotal').textContent=total;document.getElementById('statChanged').textContent=changed;document.getElementById('statSkipped').textContent=skipped;document.getElementById('statLines').textContent=lines.length;document.getElementById('statsBar').style.display='flex';
-const tb=document.getElementById('previewBody');tb.innerHTML='';previews.forEach(p=>{const tr=document.createElement('tr');tr.innerHTML=`<td class="name-before">${esc(p.before)}</td><td class="arrow-col">→</td><td class="name-after">${esc(p.after)}</td>`;tb.appendChild(tr)});
-document.getElementById('previewSection').classList.toggle('visible',previews.length>0);document.getElementById('previewCount').textContent=previews.length<changed?`${previews.length} of ${changed}`:changed+' total';document.getElementById('actionRow').classList.add('visible');showStatus(`Done — ${changed} name${changed!==1?'s':''} modified.`,'success')}
+// ─── File loading ─────────────────────────────────────────────────────────────
+function loadFile(file) {
+  fileName = file.name;
+  const reader = new FileReader();
+  reader.onload = e => {
+    originalText = e.target.result;
+    showChip(fileName);
+    process();
+  };
+  reader.onerror = () => showStatus('Could not read file.', 'error');
+  reader.readAsText(file, 'UTF-8');
+}
 
-document.getElementById('downloadBtn').addEventListener('click',()=>{if(!processedText)return;const b=new Blob([processedText],{type:'text/plain;charset=utf-8'});const u=URL.createObjectURL(b);const a=document.createElement('a');a.href=u;a.download=fileName.replace(/(\.[^.]+)?$/,'_reversed$1');a.click();URL.revokeObjectURL(u)});
-document.getElementById('resetBtn').addEventListener('click',()=>{originalText=processedText=fileName='';document.getElementById('statsBar').style.display='none';document.getElementById('previewSection').classList.remove('visible');document.getElementById('actionRow').classList.remove('visible');document.getElementById('filenameChip').classList.remove('visible');hideStatus()});
-function showChip(n){document.getElementById('filenameText').textContent=n;document.getElementById('filenameChip').classList.add('visible')}
-function showStatus(m,t){const el=document.getElementById('statusMsg');el.textContent=m;el.className='status-msg visible '+t}
-function hideStatus(){document.getElementById('statusMsg').className='status-msg'}
-function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
+// ─── Reverse a single NAME value ─────────────────────────────────────────────
+// "Dũng /Phan Quốc/"  →  "Phan Quốc /Dũng/"
+// Surname (in slashes) moves to front; given name goes into slashes.
+// Falls back to last-word-as-surname if no slashes present.
+function reverseNameValue(raw) {
+  const value = raw.trim();
+  if (!value) return { result: value, changed: false };
+
+  const slashMatch = value.match(/^(.*?)\/([^/]*)\/(.*)$/);
+  let given, surname, suffix;
+
+  if (slashMatch) {
+    given   = slashMatch[1].trim();
+    surname = slashMatch[2].trim();
+    suffix  = slashMatch[3].trim();
+  } else {
+    const tokens = value.split(/\s+/).filter(Boolean);
+    if (tokens.length < 2) return { result: value, changed: false };
+    surname = tokens[tokens.length - 1];
+    given   = tokens.slice(0, -1).join(' ');
+    suffix  = '';
+  }
+
+  if (!given && !surname) return { result: value, changed: false };
+
+  // Build: surname /given/ [suffix]
+  const parts = [surname ? surname : '', `/${given}/`];
+  if (suffix) parts.push(suffix);
+  const result = parts.filter(Boolean).join(' ');
+
+  return { result, changed: result !== value };
+}
+
+// ─── Process entire file ──────────────────────────────────────────────────────
+// For each NAME block:
+//   1. Reverse the NAME field value (given ↔ surname via slashes)
+//   2. Swap the values of GIVN and SURN sub-tags (tag labels stay, content swaps)
+function process() {
+  const lines = originalText.split(/\r?\n/);
+  let total = 0, changed = 0, skipped = 0;
+  const previews = [];
+  const outLines = [];
+  let i = 0;
+
+  while (i < lines.length) {
+    const line = lines[i];
+    const nameMatch = line.match(/^(\d+) NAME (.*)$/);
+
+    if (nameMatch) {
+      total++;
+      const nameLevel = parseInt(nameMatch[1], 10);
+      const nameValue = nameMatch[2];
+
+      // Collect NAME line + all sub-tags (lines at a deeper level)
+      const block = [line];
+      let j = i + 1;
+      while (j < lines.length) {
+        const m = lines[j].match(/^(\d+)/);
+        if (m && parseInt(m[1], 10) > nameLevel) { block.push(lines[j]); j++; }
+        else break;
+      }
+
+      // 1. Reverse NAME value
+      const { result: reversedName, changed: nameChanged } = reverseNameValue(nameValue);
+      block[0] = `${nameMatch[1]} NAME ${reversedName}`;
+
+      // 2. Swap GIVN / SURN values within the block
+      let givnIdx = -1, surnIdx = -1, givnVal = '', surnVal = '', givnPfx = '', surnPfx = '';
+      for (let k = 1; k < block.length; k++) {
+        const gm = block[k].match(/^(\d+ GIVN )(.*)$/);
+        const sm = block[k].match(/^(\d+ SURN )(.*)$/);
+        if (gm) { givnIdx = k; givnPfx = gm[1]; givnVal = gm[2]; }
+        if (sm) { surnIdx = k; surnPfx = sm[1]; surnVal = sm[2]; }
+      }
+      let givenSurnChanged = false;
+      if (givnIdx !== -1 && surnIdx !== -1 && givnVal !== surnVal) {
+        block[givnIdx] = givnPfx + surnVal;
+        block[surnIdx] = surnPfx + givnVal;
+        givenSurnChanged = true;
+      }
+
+      outLines.push(...block);
+
+      const blockChanged = nameChanged || givenSurnChanged;
+      if (blockChanged) {
+        changed++;
+        if (previews.length < 100) {
+          const beforeParts = [`NAME: ${nameValue}`];
+          const afterParts  = [`NAME: ${reversedName}`];
+          if (givenSurnChanged) {
+            beforeParts.push(`GIVN: ${givnVal}`, `SURN: ${surnVal}`);
+            afterParts.push(`GIVN: ${surnVal}`, `SURN: ${givnVal}`);
+          }
+          previews.push({ before: beforeParts.join(' | '), after: afterParts.join(' | ') });
+        }
+      } else {
+        skipped++;
+      }
+
+      i = j;
+    } else {
+      outLines.push(line);
+      i++;
+    }
+  }
+
+  processedText = outLines.join('\n');
+
+  // Stats
+  document.getElementById('statTotal').textContent   = total;
+  document.getElementById('statChanged').textContent  = changed;
+  document.getElementById('statSkipped').textContent  = skipped;
+  document.getElementById('statLines').textContent    = lines.length;
+  document.getElementById('statsBar').classList.add('visible');
+
+  // Preview
+  const tbody = document.getElementById('previewBody');
+  tbody.innerHTML = '';
+  previews.forEach(p => {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td class="name-before">${escHtml(p.before)}</td>
+      <td class="arrow-col">→</td>
+      <td class="name-after">${escHtml(p.after)}</td>`;
+    tbody.appendChild(tr);
+  });
+  const hasPreview = previews.length > 0;
+  document.getElementById('previewSection').classList.toggle('visible', hasPreview);
+  document.getElementById('previewCount').textContent =
+    previews.length < changed ? `showing ${previews.length} of ${changed}` : `${changed} total`;
+
+  document.getElementById('actionRow').classList.add('visible');
+  showStatus(`Done — ${changed} name${changed !== 1 ? 's' : ''} modified.`, 'success');
+}
+
+// ─── Download ─────────────────────────────────────────────────────────────────
+document.getElementById('downloadBtn').addEventListener('click', () => {
+  if (!processedText) return;
+  const blob = new Blob([processedText], { type: 'text/plain;charset=utf-8' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href     = url;
+  a.download = fileName.replace(/(\.[^.]+)?$/, '_reversed$1');
+  a.click();
+  URL.revokeObjectURL(url);
+});
+
+// ─── Reset ───────────────────────────────────────────────────────────────────
+document.getElementById('resetBtn').addEventListener('click', () => {
+  originalText = processedText = fileName = '';
+  document.getElementById('fileInput').value = '';
+  document.getElementById('statsBar').classList.remove('visible');
+  document.getElementById('previewSection').classList.remove('visible');
+  document.getElementById('actionRow').classList.remove('visible');
+  document.getElementById('filenameChip').classList.remove('visible');
+  hideStatus();
+});
+
+// ─── Helpers ──────────────────────────────────────────────────────────────────
+function showChip(name) {
+  document.getElementById('filenameText').textContent = name;
+  document.getElementById('filenameChip').classList.add('visible');
+}
+
+function showStatus(msg, type) {
+  const el = document.getElementById('statusMsg');
+  el.textContent = msg;
+  el.className = `status-msg visible ${type}`;
+}
+
+function hideStatus() {
+  document.getElementById('statusMsg').className = 'status-msg';
+}
+
+function escHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
 </script>
-</body></html>
+</body>
+</html>
