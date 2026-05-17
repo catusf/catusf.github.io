@@ -63,11 +63,11 @@ về kiểu dáng và độ đậm.
 
 ## Hình minh hoạ
 
-<!-- Nhớ copy hai file PNG này từ samples/output/ vào thư mục assets của blog -->
-
 ![Font NanGuo Heiti Pinyin](https://catusf.github.io/img/NanGuo_Demo_Heiti.png)
 
 ![Font NanGuo Songti Pinyin](https://catusf.github.io/img/NanGuo_Demo_Songti.png)
+
+![Bài thơ Đường - Tương tư ](https://catusf.github.io/img/NanGuo_Poem_XiangSi.png)
 
 ## Ghi chú
 
