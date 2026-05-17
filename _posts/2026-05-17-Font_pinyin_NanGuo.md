@@ -9,8 +9,7 @@ tags: [tiếng Trung, Chinese, fonts]
 
 Đây là bộ font chữ Hán giản thể đặc biệt: mỗi chữ Hán đã có sẵn phiên âm
 pinyin in nhỏ ở phía trên. Bạn chỉ cần gõ chữ
-Hán như bình thường — pinyin tự xuất hiện. Không cần viết thẻ HTML
-`<ruby>`, không cần phần mềm hỗ trợ.
+Hán như bình thường — pinyin tự xuất hiện. 
 
 Có hai bộ font:
 
