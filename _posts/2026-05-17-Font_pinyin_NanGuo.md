@@ -53,9 +53,12 @@ về kiểu dáng và độ đậm.
 ## Tải về
 
 - **NanGuo Heiti Pinyin (sans):**
-  [tải zip](https://github.com/catusf/NanGuo-Fonts/raw/main/release/NanGuoHeitiPinyin-GoogleFonts.zip)
+  [tải font](https://github.com/catusf/NanGuo-Fonts/releases/download/v1.0/NanGuoHeitiPinyin.ttc)
+
 - **NanGuo Songti Pinyin (serif):**
-  [tải zip](https://github.com/catusf/NanGuo-Fonts/raw/main/release/NanGuoSongtiPinyin-GoogleFonts.zip)
+  [tải font](https://github.com/catusf/NanGuo-Fonts/releases/download/v1.0/NanGuoSongtiPinyin.ttc)
+
+
 - **Mã nguồn:**
   [github.com/catusf/NanGuo-Fonts](https://github.com/catusf/NanGuo-Fonts)
 
