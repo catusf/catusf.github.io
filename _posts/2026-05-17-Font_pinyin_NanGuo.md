@@ -29,11 +29,11 @@ Cả hai đều dựa trên font Noto của Google nên hiển thị rõ trên m
 
 ## Hình minh hoạ
 
-![Font NanGuo Heiti Pinyin](https://catusf.github.io/img/NanGuo_Demo_Heiti.png)
+![Font NanGuo Heiti Pinyin](https://github.com/catusf/NanGuo-Fonts/raw/main/documentation/NanGuo_Demo_Heiti.png)
 
-![Font NanGuo Songti Pinyin](https://catusf.github.io/img/NanGuo_Demo_Songti.png)
+![Font NanGuo Songti Pinyin](https://github.com/catusf/NanGuo-Fonts/raw/main/documentation/NanGuo_Demo_Songti.png)
 
-![Bài thơ Đường - Tương tư ](https://catusf.github.io/img/NanGuo_Poem_XiangSi.png)
+![Bài thơ Đường - Tương tư ](https://github.com/catusf/NanGuo-Fonts/raw/main/documentation/NanGuo_Poem_XiangSi.png)
 
 ## Hỗ trợ chữ có nhiều cách đọc
 
