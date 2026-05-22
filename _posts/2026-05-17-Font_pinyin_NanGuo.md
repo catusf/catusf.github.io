@@ -47,6 +47,7 @@ Mỗi bộ font có **6 phiên bản × 2 độ đậm (thường + đậm) = 12
 
 - Phiên bản `-1`: ghi cách đọc phổ biến nhất.
 - Phiên bản `-2` đến `-6`: ghi các cách đọc khác.
+- Phiên bản `-6` sẽ chứa âm thanh nhẹ (轻声), nếu âm đó chưa có ở phiên bản `-1`
 
 ## Luôn luôn miễn phí
 
