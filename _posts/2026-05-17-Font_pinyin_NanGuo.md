@@ -8,10 +8,10 @@ tags: [tiếng Trung, Chinese, fonts]
 ## Tải về
 
 - **NanGuo Heiti Pinyin (sans):**
-  [tải font](https://github.com/catusf/NanGuo-Fonts/releases/download/v1.0/NanGuoHeitiPinyin.ttc)
+  [tải font](https://github.com/catusf/NanGuo-Fonts/releases/latest/download/NanGuoHeitiPinyin.ttc)
 
 - **NanGuo Songti Pinyin (serif):**
-  [tải font](https://github.com/catusf/NanGuo-Fonts/releases/download/v1.0/NanGuoSongtiPinyin.ttc)
+  [tải font](https://github.com/catusf/NanGuo-Fonts/releases/latest/download/NanGuoSongtiPinyin.ttc)
 
 - **Mã nguồn:**
   [github.com/catusf/NanGuo-Fonts](https://github.com/catusf/NanGuo-Fonts)
