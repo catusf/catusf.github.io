@@ -49,6 +49,18 @@ Mỗi bộ font có **6 phiên bản × 2 độ đậm (thường + đậm) = 12
 - Phiên bản `-2` đến `-6`: ghi các cách đọc khác.
 - Phiên bản `-6` sẽ chứa âm thanh nhẹ (轻声), nếu âm đó chưa có ở phiên bản `-1`
 
+## Pinyin cho các từ ghép
+
+Hanzi trong các từ ghép có thể có cách đọc khác với cách đọc phổ biến nhất.
+
+  - 了解: le → liǎo
+  - 觉得: jiào → jué
+  - 高兴: xīng → xìng
+  - 银行: xíng → háng
+  - 差别: chà → chā
+  - 认为: wèi → wéi
+  - 便宜: biàn → pián
+
 ## Luôn luôn miễn phí
 
 Bộ font này là mã nguồn mở, công bố toàn bộ nội dung trên GitHub. Các bạn luôn có thể download mà không phải đăng nhập hay trả phí. 
