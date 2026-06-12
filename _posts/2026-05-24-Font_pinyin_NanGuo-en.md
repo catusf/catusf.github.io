@@ -51,13 +51,11 @@ Each family includes **6 variants × 2 weights (regular + bold) = 12 font files*
 
 Hanzi inside compound words can have pronunciations different from their most common standalone reading. Examples:
 
-- 了解: le → liǎo
-- 觉得: jiào → jué
-- 高兴: xīng → xìng
-- 银行: xíng → háng
-- 差别: chà → chā
-- 认为: wèi → wéi
-- 便宜: biàn → pián
+  - 了解	le jiě → liǎo jiě
+  - 觉得	jiào dé → jué de
+  - 银行	yín xíng → yín háng
+
+See the list of optimized phrases/words here [list of 11.766 items)](https://github.com/catusf/NanGuo-Fonts/blob/main/sources/data/ligatures_list.md).
 
 ## Always free
 
