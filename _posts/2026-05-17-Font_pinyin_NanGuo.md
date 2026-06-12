@@ -57,7 +57,7 @@ Hanzi trong các từ ghép có thể có cách đọc khác với cách đọc 
   - 觉得	jiào dé → jué de
   - 银行	yín xíng → yín háng
 
-Xem danh sách đầy đủ các từ ghép được tối ưu hoá: [danh sách 11.766 từ ghép)](https://github.com/catusf/NanGuo-Fonts/blob/main/sources/data/ligatures_list.md).
+Xem danh sách đầy đủ các từ ghép được tối ưu hoá: [danh sách 11.766 từ ghép](https://github.com/catusf/NanGuo-Fonts/blob/main/sources/data/ligatures_list.md).
 
 
 ## Luôn luôn miễn phí
