@@ -51,15 +51,14 @@ Mỗi bộ font có **6 phiên bản × 2 độ đậm (thường + đậm) = 12
 
 ## Pinyin cho các từ ghép
 
-Hanzi trong các từ ghép có thể có cách đọc khác với cách đọc phổ biến nhất.
+Hanzi trong các từ ghép có thể có cách đọc khác với cách đọc phổ biến nhất. Ví dụ:
 
-  - 了解: le → liǎo
-  - 觉得: jiào → jué
-  - 高兴: xīng → xìng
-  - 银行: xíng → háng
-  - 差别: chà → chā
-  - 认为: wèi → wéi
-  - 便宜: biàn → pián
+  - 了解	le jiě → liǎo jiě
+  - 觉得	jiào dé → jué de
+  - 银行	yín xíng → yín háng
+
+Xem danh sách đầy đủ các từ ghép được tối ưu hoá: [danh sách 11.766 từ ghép)](https://github.com/catusf/NanGuo-Fonts/blob/main/sources/data/ligatures_list.md).
+
 
 ## Luôn luôn miễn phí
 
