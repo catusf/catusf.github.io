@@ -55,7 +55,7 @@ Hanzi inside compound words can have pronunciations different from their most co
   - 觉得	jiào dé → jué de
   - 银行	yín xíng → yín háng
 
-See the list of optimized phrases/words here [list of 11.766 items)](https://github.com/catusf/NanGuo-Fonts/blob/main/sources/data/ligatures_list.md).
+See the list of optimized phrases/words here [list of 11.766 items](https://github.com/catusf/NanGuo-Fonts/blob/main/sources/data/ligatures_list.md).
 
 ## Always free
 
